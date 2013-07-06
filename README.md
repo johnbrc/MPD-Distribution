@@ -1,8 +1,3 @@
-Working-drafts
-==============
-
-Working drafts of *Maize Plant Discipleship Resource* textbooks and associated publications
-
 # Maize Plant Discipleship
 
 *Maize Plant Discipleship* (hereafter, MPD) refers to a discipleship resource designed in collaboration with Africans, for use in African contexts (and other post-colonial contexts). 
