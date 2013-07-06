@@ -11,6 +11,7 @@ MPD textbooks are especially intended to facilitate group discussions, on the ba
 
 The intention is to publish *MPD Resources* as *Free Cultural Resources*, broadly along the lines of open-source software. Your collaboration is invited.
 
+
 ## Translation, Licensing, Publication
 
 It is particularly hoped that *MPD Resources* will be translated into a number of other languages besides English, starting with French, which is one of the national languages of Burkina Faso. Involvement with the people of Burkina Faso represents one of the principal inspirations responsible for the development of *MPD Resources*.  
