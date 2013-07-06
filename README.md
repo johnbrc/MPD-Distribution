@@ -2,46 +2,21 @@
 
 *Maize Plant Discipleship* (hereafter, MPD) refers to a discipleship resource designed in collaboration with Africans, for use in African contexts (and other post-colonial contexts). 
 
-The *MPD Syllabus* incorporates the following sixteen *Modules*, each of which will, in due course, have an associated textbook:
+The *MPD Syllabus* incorporates sixteen *Modules*, each of which will, in due course, have an associated textbook. See *Syllabus* and, or *Handbook* for further information.
 
-1. The Eternal Purpose of God
-2. The Dynamic of Vocation, Part A: The Nations
-3. The Dynamic of Vocation, Part B: The Jewish People
-4. The Dynamic of Commissioning
-5. The Dynamic of Body Membership
-6. The Dynamic of Revival
-7. The Dynamic of Truth
-8. The Dynamic of Intercession
-9. The Dynamic of Cultural Transformation
-10. The Disciplines of Spiritual Maturity
-11. The Disciplines of Running the Race Marked Out For Us
-12. The Disciplines of Pressing Towards Our Vocation
-13. The Disciplines of Financial Faithfulness
-14. The Disciplines of Leadership
-15. The Disciplines of Living By Faith
-16. The Disciplines of Overcoming In The Arena of Spiritual Conflict
-
-MPD textbooks are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the *Syllabus* provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
+MPD textbooks are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
 
-# Translation, Licensing, Publication 
+## Free Cultural Resource ##
 
-It is hoped that the documents will be translated into a number of languages and interested parties are invited to contact the author to discuss this. 
+The intention is to publish *MPD Resources* as *Free Cultural Resources*, broadly along the lines of open-source software. Your collaboration is invited.
 
-The resource is generally available under the terms of a Creative Commons license that allows reproduction, providing proper attribution is made. Each textbook or similar resource, will incorporate a CC licence.
+## Translation, Licensing, Publication
 
-A number of free digital tools and resources are available to help with publishing processes — please enquire.
+It is particularly hoped that *MPD Resources* will be translated into a number of other languages besides English, starting with French, which is one of the national languages of Burkina Faso. Involvement with the people of Burkina Faso represents one of the principal inspirations responsible for the development of *MPD Resources*.  
 
+*MPD Resources* are typically available under the terms of a *Creative Commons license*, which licences reproduction, including translation, providing proper attribution is made. Each textbook, or similar resource, incorporates a CC licence. See *Licence* for further information.
 
-## Versioning
+## Collaboration ##
 
-Each draft PDF is stamped / identified with a generated date, time and version number according to the convention: *N.n.nn*, where:
-
-- *N* is a **distributed version** number—upgraded each time an AUTHORised version of document is *distributed* to readers, editors, translators, publishers. 
-
-- *n* is an **author's version** number—upgraded each time a significant revision (i.e. series of textual changes) is made following input from readers, editors, translators, publishers or author.
-
-- *nn* is an **author's iteration** number—upgraded to distinguish a minor, *iterative* revision to an AUTHOR'S VERSION. *It is, to most intents and purposes, a classic example of overkill. Or obsessive-compulsive order (sic).*
- 
-
-
+Other forms of collaboration are welcome. If you are interested, please contact the author.
