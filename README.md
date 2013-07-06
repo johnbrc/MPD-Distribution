@@ -24,6 +24,28 @@ It is particularly hoped that *MPD Resources* will be translated into a number o
 
 Other forms of collaboration are welcome. If you are interested, please contact the author.
 
-## Downloads ##
+## Files ##
 
-If you have downloaded this folder and its files, there is further information about what is included in *Files.md*
+If you have downloaded this folder and its files, the following information about files and folders incorporated in this distribution may be useful.
+
+### Handbook ###
+
+Handbook providing guidance on facilitating study, discussion, or discipleship groups and incorporating background information about the philosophy and research underlying *MPD Resources*.
+
+### Modules ###
+
+See *Syllabus* for overview of all sixteen *MPD* modules. Modular resources are provided in various formats:
+
+	pdf: portable document format; requires PDF reader, such as Adobe Reader, or Chrome browser
+
+	mmd:	MultiMarkdown format; plain text markup language, which compiles to LaTex, html etc.
+
+	html:	hyper-text-markup-language—the language of web pages; incorporated within mmd folder
+
+### Readers' Notes ###
+
+Guidance for Reader's enlisted, or volunteering to provide feedback on *MPD Resources*.
+
+### Syllabus ###
+
+An overview of  *MPD Syllabus*.
