@@ -8,4 +8,4 @@ Each draft PDF is stamped / identified with a generated date, time and version n
 
 - *nn* is an **author's iteration** number—upgraded to distinguish a minor, *iterative* revision to an AUTHOR'S VERSION. *It is, to most intents and purposes, a classic example of overkill. Or obsessive-compulsive order (sic).*
 
-The same version numbering system is used on MPD Releases, issued via GitHub.
+The same version numbering system is used on **MPD Releases**, issued via GitHub.
