@@ -1,12 +1,25 @@
-### Dear Reader ###
+# The Commissioning of Messianic Community
 
-Thank you for agreeing to read the prototype module of the *Maize Plant Discipleship Resource*. The module that you are Reading is *Module 4*—of sixteen that make up the Syllabus—focussing upon *The Commissioning of Messianic Community*.
+_Version 1.0—Reader's Release_
 
-Here, I give you an idea of what I am expecting from *Readers*. 
+These files contain the Reader's release of textbook resource, *The Commissioning of the Messianic Community*, in various formats. This resource represents the fourth module of the *Maize Plant Discipleship Syllabus*, a teaching and training resource, designed in collaboration with Africans, for use in African contexts.
+
+In fact, it is a prototypical resource—modules 1-3 are presently unpublished.
+
+### Accessing the Draft
+
+Access the *Reader's Draft* by downloading one of the folders on this page. *Unzip* it, if necessary, and open the files you will use to review the module.
+
+## Guidelines for Readers
+
+Thank you for agreeing to read the prototype module of the *Maize Plant Discipleship Resource*. The module that you are Reading is *Module 4*—of sixteen that make up the Syllabus—focussing upon *The Commissioning of Messianic Community*. 
 
 ### I Would Like Your Personal Reflections ###
 
-*This is the most essential aspect of the task*. I am not asking for you to imagine how the text will be received by Burkinabé readers, in the future. I simply ask you to reflect upon your own experience of the text, as you read through it. Whatever occurs to you, please record it and use that record to reflect your experience back to me. 
+*This is the most essential aspect of the task*. I am not asking for you to imagine how the text will be received by Burkinabé readers, in the future. I simply ask you to reflect upon your own experience of the text, as you read through it. Whatever occurs to you, please record it and use that record to reflect your experience back to me, by:
+
+- Making notes of your reflections as you read through the resource.
+- Typing up your notes and send them to me in an attachment, referencing your comments to the relevant section header and paragraph (first, second etc.)
 
 ### I Would Like You to Read One Chapter at a Time ###
 
@@ -14,24 +27,10 @@ The module has been designed to be worked through by a study, discussion or disc
 
 ### I Would Like Your Feedback Within a Fortnight ###
 
-This will allow me to maintain deadlines set for the project. I am currently negotiating with associates in Burkina, about starting the translation, which would most likely take place in August, if agreement is reached. If you cannot complete your Reading and reflections, please send me whatever you have done by Monday 15th July .
+This will allow me to maintain deadlines set for the project. If you cannot complete your Reading and reflections, please send me whatever you have done by Monday 15th July.
 
-### Make Your Reflections in Whatever Way Suits You ###
-
-#### Annotate PDF File ####
-
--	**If you have an iPad**: the free version of *GoodNotes* is ideal: it's what I use constantly to annotate my working draft PDFs. It allows PDFs to be marked up with text boxes, or freehand script and highlights, using a finger, or stylus. You can export the annotated file, via email, within the app (*set Annotations to ON*); send it to: <john@johnclements.net>
-
--	**Adobe PDF Reader**: runs on Mac and PC and allows similar markup options; simply save the annotated file and email it to me.
-
-#### Make Manual Notes ####
-
--	Type up your notes and send them to me in an attachment, referencing your comments with the PDF document page numbers and section headers.
-
-### If You Have Any Questions, Please Ask Me ###
+*If you have any questions, at all, please ask them*.
 
 Thank you for your interest in and support for this project.
 
-**John**
-
-[MPD website](http://www.maizeplantdiscipleship.wordpress.com)
+**Dr J.B. Clements** (Author)
