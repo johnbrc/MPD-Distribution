@@ -1,18 +1,20 @@
 # Maize Plant Discipleship
 
-*Maize Plant Discipleship* (hereafter, *MPD*) refers to a discipleship resource designed in collaboration with Africans, for use in African contexts (and other post-colonial contexts). 
+*Maize Plant Discipleship* (hereafter, *MPD*) is a discipleship resource designed in collaboration with Africans, for use in African contexts.
 
-The *MPD Syllabus* incorporates sixteen *Modules* and a *Handbook*, each of which will, in due course, have an associated textbook. 
+-	The *MPD Syllabus* incorporates sixteen *Modules* and a *Handbook*, each of which will, in due course, have an associated textbook. 
 
-*MPD Resources* are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
+-	*MPD Resources* are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
 ## Publication ##
 
-The intention is to publish *MPD Resources* along the lines of a *Free Cultural Resources*, or those of *open-source software*. More details to follow. Meanwhile, your interest and collaboration is invited.
+The intention is to publish *MPD Resources* along the lines of a *Free Cultural Resources (FCR)*, or those of *Open-Source Software (OSS)*. More details to follow. Meanwhile, your interest and collaboration is invited.
 
 ### Licensing ##
 
-*MPD Resources* are typically available under the terms of a *Creative Commons license*, which licences reproduction, including translation, providing proper attribution is made. Each textbook, or similar resource, incorporates a CC licence. See *Licence* for further information.
+*MPD Resources* are typically available under the terms of a *Creative Commons license*, which licences reproduction, including translation, providing proper attribution is made. Each textbook, or similar resource, incorporates a CC licence. 
+
+-	See *Licence.md* for further information.
 
 ### Translation
 
@@ -24,7 +26,4 @@ Other forms of collaboration are welcome. If you are interested, please contact 
 
 ## Downloads ##
 
-If you have downloaded this folder and its files, the following information may be helpful.
-
-### Folders ###
-
+If you have downloaded this folder and its files, there is further information about what is included in *Files.md*
