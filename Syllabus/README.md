@@ -1,6 +1,8 @@
 # Maize Plant Discipleship
 
-*Maize Plant Discipleship* (hereafter, MPD) refers to a discipleship resource designed in collaboration with Africans, for use in African contexts (and other post-colonial contexts). 
+*Maize Plant Discipleship* is a teaching, training and educational resource designed in collaboration with Africans, for use in African contexts.
+
+MPD textbooks are especially intended to facilitate group discussions, on the back of scripture readings and topical studies, so that the *Syllabus* provided by the resource does not require the input of an *expert* teacher, only persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
 ## Syllabus
 
@@ -23,4 +25,4 @@ The *MPD Syllabus* incorporates the following sixteen *Modules*, each of which w
 15. The Disciplines of Living By Faith
 16. The Disciplines of Overcoming In The Arena of Spiritual Conflict
 
-MPD textbooks are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the *Syllabus* provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
+
