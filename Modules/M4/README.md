@@ -1,6 +1,6 @@
 # M4 - Module 4
 
-Principal files are listed with the filename: **MPD-M4**, followed by format abbreviation.
+Principal files are listed with the filename: **MPD-M4**, followed by file format abbreviation, e.g. MPD-M4.html. PDF filenames also incorporate page size, e.g. MPD-M4-A5.pdf
 
 ## The Commissioning of the Messianic Community
 
