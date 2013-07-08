@@ -29,13 +29,17 @@ If you have downloaded this folder and its files, the following information abou
 
 ## Publication ##
 
-The intention is to publish *MPD Resources* along the lines of a *Free Cultural Resources (FCR)*, or those of *Open-Source Software (OSS)*. More details to follow. Meanwhile, your interest and collaboration is invited.
+The intention is to publish *MPD Resources* along the lines of a *Free Cultural Resources (FCR)*, or those of *Open-Source Software (OSS)*. 
+
+-	More details to follow. 
 
 #### Licensing
 
-*MPD Resources* are typically available under the terms of a *Creative Commons license*, which licences reproduction, including translation, providing proper attribution is made. Each textbook, or similar resource, incorporates a CC licence. 
+*MPD Resources* will, in due course, typically be made available under the terms of a *Creative Commons license*, which licences reproduction, including translation, providing proper attribution is made. Each textbook, or similar resource, incorporates a CC licence. 
 
--	See *Licence.md* for further information.
+In the meantime, files available here are not intended for publication, beyond being made available to collaborators.
+
+-	See *LICENCE* for further information.
 
 #### Translation
 
