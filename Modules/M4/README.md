@@ -1,4 +1,6 @@
-# The Commissioning of the Messianic Community
+# M4 - Module 4
+
+## The Commissioning of the Messianic Community
 
 This resource represents the fourth module (M4) of the *Maize Plant Discipleship Syllabus*—a teaching and training resource, designed in collaboration with Africans, for use in African contexts.
 
