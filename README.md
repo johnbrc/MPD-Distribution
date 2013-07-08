@@ -36,11 +36,11 @@ Handbook providing guidance on facilitating study, discussion, or discipleship g
 
 See *Syllabus* for overview of all sixteen *MPD* modules. Modular resources are provided in various formats:
 
--	pdf:	portable document format; requires PDF reader, such as Adobe Reader, or Chrome browser
+	pdf: portable document format; requires PDF reader, such as Adobe Reader, or Chrome browser
 
--	mmd:	MultiMarkdown format; plain text markup language, which compiles to LaTex, html etc.
+	mmd:	MultiMarkdown format; plain text markup language, which compiles to LaTex, html etc.
 
--	html:	hyper-text-markup-language—the language of web pages; incorporated within mmd folder
+	html:	hyper-text-markup-language—the language of web pages; incorporated within mmd folder
 
 #### Readers' Notes ####
 
