@@ -2,7 +2,7 @@
 
 *Maize Plant Discipleship* (hereafter, *MPD*) is a discipleship resource designed in collaboration with Africans, for use in African contexts.
 
--	The *MPD Syllabus* incorporates sixteen *Modules* and a *Handbook*, each of which will, in due course, have an associated textbook. 
+-	The *MPD Syllabus* incorporates 16 *Modules* and a *Handbook*, each of which will, in due course, have an associated textbook. 
 
 -	*MPD Resources* are especially intended to facilitate group discussions, on the back of scripture readings and a series of topical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
@@ -34,13 +34,7 @@ Handbook providing guidance on facilitating study, discussion, or discipleship g
 
 #### Modules ####
 
-See *Syllabus* for overview of all sixteen *MPD* modules. Modular resources are provided in various formats:
-
-	pdf: portable document format; requires PDF reader, such as Adobe Reader, or Chrome browser
-
-	mmd:	MultiMarkdown format; plain text markup language, which compiles to LaTex, html etc.
-
-	html:	hyper-text-markup-language—the language of web pages; incorporated within mmd folder
+See *Syllabus* for overview of all sixteen *MPD* modules. Modular resources are provided in various formats.
 
 #### Readers' Notes ####
 
