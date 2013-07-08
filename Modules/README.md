@@ -4,7 +4,7 @@ These files contain a *Reader's release* of textbook resource, *Maize Plant Disc
 
 ## File Formats ##
 
-There are 5 file formats included in this *Readers' Release* of Module 4.
+There are 4 file formats included in this *Readers' Release* of Module 4.
 
 ### Non-Editable Files ###
 
@@ -16,10 +16,12 @@ These file are read-only; please record feedback and comments in a plain text fi
 
 ### Editable Files ###
 
-These files may be edited as described:
+These files may be edited directly; best results will be obtained by using a markdown editor—I recommend [MultiMarkdown Composer][Mmdc], not least because it facilitate [Critic Markup][cm]
 
--	mmd — plain text source files—may be edited directly;
--	rtf — rich text format; may be edited in MS Word. *Note*: please save and return as RTF format, **not** \*doc or \*docx .
+-	mmd — plain text source files.
+
+[Mmdc]:	http://multimarkdown.com
+[cm]:	http://criticmarkup.com
 
 ## Guidelines for Readers
 
