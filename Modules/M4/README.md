@@ -1,9 +1,9 @@
-# The Commissioning of Messianic Community #
+# M4 - Module 4
 
-These files contain the Reader's release of textbook resource, *The Commissioning of the Messianic Community*, in various formats. This resource represents the fourth module of the *Maize Plant Discipleship Syllabus*, a teaching and training resource, designed in collaboration with Africans, for use in African contexts.
+Principal files are listed with the filename: **MPD-M4**, followed by format abbreviation.
 
--	In fact, it is a prototypical resource—modules 1-3 are presently unpublished.
+## The Commissioning of the Messianic Community
 
-## Guidelines for Readers
+This resource represents the fourth module (M4) of the *Maize Plant Discipleship Syllabus*—a teaching and training resource, designed in collaboration with Africans, for use in African contexts.
 
-Please check *Readers' Notes* folder for guidance on providing feedback as a Reader.
+**Note**:	In fact, this is a prototypical resource—modules 1-3 are presently unpublished.
