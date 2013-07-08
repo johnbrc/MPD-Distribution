@@ -8,15 +8,19 @@
 
 ## Files and Folders ##
 
-If you have downloaded this folder and its files, the following information about files and folders incorporated in this distribution may be useful.
+If you have downloaded this folder and its files, the following information about files and folders incorporated in this distribution may be useful. 
 
 #### / Handbook ####
 
--	Providing guidance on facilitating study, discussion, or discipleship groups and incorporating background information about the philosophy and research underlying *MPD Resources*.
+-	Guidance on facilitating study, discussion, or discipleship groups;
+-	Information about philosophy and research underlying *MPD Resources*;
+
+		Note: presently includes only an extract
 
 #### / Modules ####
 
--	See *Syllabus* for overview of all sixteen *MPD* modules. Modular resources are provided in various formats.
+-	Modular resources are provided in various formats.
+-	See *Syllabus* for overview of modules. 
 
 #### / Readers' Notes ####
 
@@ -24,14 +28,14 @@ If you have downloaded this folder and its files, the following information abou
 
 #### / Syllabus ####
 
--	An overview of  *MPD Syllabus*.
+-	Overview of  *MPD Syllabus*.
 
 
 ## Publication ##
 
 The intention is to publish *MPD Resources* along the lines of a *Free Cultural Resources (FCR)*, or those of *Open-Source Software (OSS)*. 
 
--	More details to follow. 
+		More details to follow
 
 #### Licensing
 
@@ -39,7 +43,7 @@ The intention is to publish *MPD Resources* along the lines of a *Free Cultural 
 
 In the meantime, files available here are not intended for publication, beyond being made available to collaborators.
 
--	See *LICENCE* for further information.
+-	See LICENCE for further information.
 
 #### Translation
 
