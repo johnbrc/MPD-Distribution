@@ -14,7 +14,7 @@ Each module (textbook) is typically released in the following file formats.
 
 ### Editable Files ###
 
-These files may be edited directly; best results will be obtained by using a markdown editor—I recommend [MultiMarkdown Composer][Mmdc], not least because it facilitate [Critic Markup][cm]
+These files may be edited in any plain-text editor—I recommend [MultiMarkdown Composer][Mmdc], which facilitates use of [Critic Markup][cm].
 
 -	mmd — plain text source files.
 
