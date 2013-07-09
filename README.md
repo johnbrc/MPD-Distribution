@@ -16,20 +16,20 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 
 *Digital publishing content incorporating:*
 
--	[Handbook](content/handbook/handbook.md)
-- 	[Modules](content/modules/modules.md)
--	[Overview](content/overview/overview.md)
+-	[Handbook](Content/Handbook/Handbook.md)
+- 	[Modules](Content/Modules/Modules.md)
+-	[Overview](Content/Overview/Overview.md)
 
 ### 	Guidance ###
 
 *Guidance notes, for the following forms of collaboration:*
 
--	[Contributing](guidance/contributing/contributing.md)
--	[Publishing](guidance/publishing/publishing.md)
--	[Reading](guidance/reading/reading.md)
--	[Translating](guidance/translating/translating.md)
+-	[Contributing](Guidance/Contributing/Contributing.md)
+-	[Publishing](Guidance/Publishing/Publishing.md)
+-	[Reading](Guidance/Reading/Reading.md)
+-	[Translating](Guidance/Translating/Translating.md)
 
-For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](guidance/collaborating.md)
+For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](Guidance/Collaborating.md)
 
 ## Thank You ##
 
