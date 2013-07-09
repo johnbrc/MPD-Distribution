@@ -17,8 +17,8 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 *Digital publishing content incorporating:*
 
 -	[Handbook](content/handbook/README.md)
-- 	[Modules](content/modules/Modules.md)
--	[Overview](content/overview/Overview.md)
+- 	[Modules](content/modules/modules.md)
+-	[Overview](content/overview/overview.md)
 
 ### 	Guidance ###
 
@@ -29,7 +29,7 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 -	[Reading](guidance/reading/reading.md)
 -	[Translating](guidance/translating/translating.md)
 
-For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](Guidance/Collaborating.md)
+For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](guidance/collaborating.md)
 
 ## Thank You ##
 
