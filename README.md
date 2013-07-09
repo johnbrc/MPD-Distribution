@@ -8,27 +8,36 @@
 
 -	See *Background* for further information.
 
-## 	Files and Folders ##
+## 	Folders ##
 
-Files in this distribution are organised according to *Content* and *Guidance*
+Files in this distribution are organised according to *Content* and *Guidance*.
 
 ### 	Content ###
 
 *Digital publishing content incorporating:*
 
--	Handbook	— containing guidance for facilitators, convenors and community leaders;
-- 	Modules	— modular *MPD Resource*;
--	Syllabus	—  framework for *MPD Resource*.
+-	[Handbook](content/handbook/README.md)
+- 	[Modules](content/modules/Modules.md)
+-	[Overview](content/overview/Overview.md)
 
 ### 	Guidance ###
 
 *Guidance notes, for the following forms of collaboration:*
 
--	Contributing	— developing MPD resources, in collaboration with the author;
--	Publishing	— publishing MPD resources, under licence;
--	Reading	— reviewing MPD resources;
--	Translating	— translating MPD resources.
+-	[Contributing](guidance/contributing/contributing.md)
+-	[Publishing](guidance/publishing/publishing.md)
+-	[Reading](guidance/reading/reading.md)
+-	[Translating](guidance/translating/translating.md)
 
-## 	File Formats ##
+For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](Guidance/Collaborating.md)
 
-See *Collaboration/Collaborating.md* for information on file formats incorporated in this distribution.
+## Thank You ##
+
+*…for your interest in and support for this project.*
+
+**Dr J.B. Clements** (Author)
+
+-	[GitHub](https://github.com/johnbrc)
+-	[Vocational website](https://jbclements.wordpress.com)
+-	[MPD project website](http://maizeplantdiscipleship.wordpress.com)
+
