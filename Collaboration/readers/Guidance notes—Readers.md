@@ -1,6 +1,7 @@
 # Dear Reader
 
-Thank you for agreeing to read the prototype module of the *Maize Plant Discipleship Resource*. The module that you are Reading is *Module 4*—of sixteen that make up the Syllabus—focussing upon *The Commissioning of Messianic Community*. 
+Thank you for agreeing to read and provide feedback upon this release of the *Maize Plant Discipleship Resource*. 
+
 
 ### I Would Like Your Personal Reflections ###
 
@@ -24,3 +25,4 @@ Thank you for your interest in and support for this project.
 **Dr J.B. Clements** (Author)
 
 <https://github.com/johnbrc>
+
