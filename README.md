@@ -28,8 +28,7 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 -	[Publishing](Guidance/Publishing/Publishing.md)
 -	[Reading](Guidance/Reading/Reading.md)
 -	[Translating](Guidance/Translating/Translating.md)
-
-For information regarding file formats incorporated in this distribution, and other general information regarding, read: [Collaborating](Guidance/Collaborating.md)
+-	General information regarding [Collaborating](Guidance/Collaborating.md), including file formats incorporated in this distribution.
 
 ## Thank You ##
 
