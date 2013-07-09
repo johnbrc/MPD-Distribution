@@ -10,7 +10,7 @@
 
 ## 	Files & Folders ##
 
-Files and folders in this distribution are organised according to *Content* and *Guidance*.
+Files and folders are organised according to *Collaboration* and *Content* respectively.
 
 ### 	Content ###
 
