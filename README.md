@@ -16,7 +16,7 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 
 *Digital publishing content incorporating:*
 
--	[Handbook](content/handbook/README.md)
+-	[Handbook](content/handbook/handbook.md)
 - 	[Modules](content/modules/modules.md)
 -	[Overview](content/overview/overview.md)
 
