@@ -22,7 +22,7 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 
 ### 	Collaboration ###
 
-*Guidance notes, regarding the following forms of  [collaborating](Guidance/Collaborating.md):*
+*Guidance notes, regarding the following forms of  [collaborating](Collaboration/Collaborating.md):*
 
 -	[Contributing](Collaboration/Contributing/Contributing.md)
 -	[Publishing](Collaboration/Publishing/Publishing.md)
