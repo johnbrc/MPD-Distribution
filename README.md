@@ -8,9 +8,9 @@
 
 -	See *Background* for further information.
 
-## 	Folders ##
+## 	Files & Folders ##
 
-Files in this distribution are organised according to *Content* and *Guidance*.
+Files and folders in this distribution are organised according to *Content* and *Guidance*.
 
 ### 	Content ###
 
@@ -20,15 +20,14 @@ Files in this distribution are organised according to *Content* and *Guidance*.
 - 	[Modules](Content/Modules/Modules.md)
 -	[Overview](Content/Overview/Overview.md)
 
-### 	Guidance ###
+### 	Collaboration ###
 
-*Guidance notes, for the following forms of collaboration:*
+*Guidance notes, regarding the following forms of  [collaborating](Guidance/Collaborating.md):*
 
--	[Contributing](Guidance/Contributing/Contributing.md)
--	[Publishing](Guidance/Publishing/Publishing.md)
--	[Reading](Guidance/Reading/Reading.md)
--	[Translating](Guidance/Translating/Translating.md)
--	General information regarding [Collaborating](Guidance/Collaborating.md), including file formats incorporated in this distribution.
+-	[Contributing](Collaboration/Contributing/Contributing.md)
+-	[Publishing](Collaboration/Publishing/Publishing.md)
+-	[Reading](Collaboration/Reading/Reading.md)
+-	[Translating](Collaboration/Translating/Translating.md)
 
 ## Thank You ##
 
