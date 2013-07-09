@@ -1,4 +1,4 @@
-# Guidance Notes for Conributors #
+# Guidance Notes for Contributors #
 
 To be continued…
 
