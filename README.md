@@ -17,7 +17,7 @@ Files in this distribution are organised according to *Content* and *Guidance*
 *Digital publishing content incorporating:*
 
 -	Handbook	— containing guidance for facilitators, convenors and community leaders;
-- 	Modules	— modular *MPD Resources*;
+- 	Modules	— modular *MPD Resource*;
 -	Syllabus	—  framework for *MPD Resource*.
 
 ### 	Guidance ###
