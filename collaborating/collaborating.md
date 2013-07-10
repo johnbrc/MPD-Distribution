@@ -1,16 +1,16 @@
 # Collaborating #
 
-Collaboration of all kind is welcomed by the author. For further information consult the following files.
+Collaboration of all kind is welcomed by the author. In due course, further information will be provided concerning the following ways of collaborating:
 
--	[Contributing](collaboration/contributing/contributing.md)
--	[Publishing](collaboration/publishing/publishing.md)
+-	Contributing
+-	Publishing
 -	[Reading](collaboration/reading/reading.md)
--	[Translating](collaboration/translating/translating.md)
+-	Translating
 
-	
+
 ## 	File Formats ##
 
-*The following information may be useful to Collaborators of all kinds.*
+*The following information may be useful to collaborators.*
 
 ### 	MultiMarkdown ###
 
@@ -18,12 +18,13 @@ This README is composed in [MultiMarkdown][Md], as are many of the files in this
 
 MultiMarkdown files can be edited in any plain-text editor. [MultiMarkdown Composer][Mmdc] provides an ideal (OSX) editing environment.
 
+### 	LaTex (PDF) ###
+
+[LaTex][latex] is a typesetting language that formats and outputs high quality PDFs.
+
 
 [Md]: 	http://fletcherpenney.net/multimarkdown/
 [latex]: 	http://www.latex-project.org
 [html]:	http://www.w3schools.com/html/default.asp
 [Mmdc]:	http://multimarkdown.com
 
-### 	LaTex (PDF) ###
-
-[LaTex][latex] is a typesetting language that formats and outputs high quality PDFs.

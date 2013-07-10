@@ -1,4 +1,4 @@
-# Maize Plant Discipleship Resource 
+# Maize Plant Discipleship Resource #
 
 *Maize Plant Discipleship* (hereafter, MPD) refers to the identity of a resource designed, in collaboration with Africans, for use in African contexts.
 
@@ -8,27 +8,24 @@
 
 -	See [MPD Resource website](http://maizeplantdiscipleship.wordpress.com) for further information.
 
-## 	Files & Folders 
+## Files & Folders ##
 
 Files and folders are organised according to *Collaborating* and *Content* respectively.
 
-### 	Content 
+### Content ###
 
 *Digital publishing [content](content/overview.md) incorporating:*
 
 -	[Handbook](content/handbook/handbook.md)
 - 	[Modules](content/modules/modules.md)
 
-### 	Collaborating 
+### Collaborating ###
 
 *Guidance regarding [collaborating](collaborating/collaborating.md) in the following ways:*
 
--	[Contributing](collaborating/contributing/contributing.md)
--	[Publishing](collaborating/publishing/publishing.md)
 -	[Reading](collaborating/reading/reading.md)
--	[Translating](collaborating/translating/translating.md)
 
-## Thank You 
+## Thank You ##
 
 *…for your interest in and support for this project.*
 
