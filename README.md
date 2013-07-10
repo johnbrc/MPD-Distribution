@@ -16,9 +16,9 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 
 *Digital publishing content incorporating:*
 
--	[Handbook](Content/Handbook/Handbook.md)
-- 	[Modules](Content/Modules/Modules.md)
--	[Overview](Content/Overview/Overview.md)
+-	[Handbook](content/handbook/handbook.md)
+- 	[Modules](content/modules/modules.md)
+-	[Overview](content/overview/overview.md)
 
 ### 	Collaboration ###
 
