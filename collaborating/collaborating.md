@@ -1,10 +1,15 @@
 # Collaborating #
 
-Collaboration of all kind is welcomed by the author. In due course, further information will be provided concerning the following ways of collaborating:
+Collaboration of all kind is welcomed by the author. 
+
+Further information is available for those enlisted, or volunteering as *Readers*: 
+
+-	[Reading](reading/reading.md)
+
+In due course, further information will be provided concerning the following ways of collaborating:
 
 -	Contributing
 -	Publishing
--	[Reading](collaboration/reading/reading.md)
 -	Translating
 
 
