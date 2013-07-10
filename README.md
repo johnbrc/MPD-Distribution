@@ -1,4 +1,4 @@
-# Maize Plant Discipleship Resource #
+# Maize Plant Discipleship Resource 
 
 *Maize Plant Discipleship* (hereafter, MPD) refers to the identity of a resource designed, in collaboration with Africans, for use in African contexts.
 
@@ -6,20 +6,20 @@
 
 -	*MPD Resource* is especially intended to facilitate group discussions, on the back of scripture readings and a series of topical, biblical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
--	See *Background* for further information.
+-	See [MPD Resource website](http://maizeplantdiscipleship.wordpress.com) for further information.
 
-## 	Files & Folders ##
+## 	Files & Folders 
 
-Files and folders are organised according to *Collaboration* and *Content* respectively.
+Files and folders are organised according to *Collaborating* and *Content* respectively.
 
-### 	Content ###
+### 	Content 
 
 *Digital publishing [content](content/overview.md) incorporating:*
 
 -	[Handbook](content/handbook/handbook.md)
 - 	[Modules](content/modules/modules.md)
 
-### 	Collaboration ###
+### 	Collaborating 
 
 *Guidance regarding [collaborating](collaboration/collaborating.md) in the following ways:*
 
@@ -28,7 +28,7 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 -	[Reading](collaboration/reading/reading.md)
 -	[Translating](collaboration/translating/translating.md)
 
-## Thank You ##
+## Thank You 
 
 *…for your interest in and support for this project.*
 
@@ -36,5 +36,5 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 
 -	[GitHub](https://github.com/johnbrc)
 -	[Vocational website](https://jbclements.wordpress.com)
--	[MPD project website](http://maizeplantdiscipleship.wordpress.com)
+-	[MPD Resource website](http://maizeplantdiscipleship.wordpress.com)
 
