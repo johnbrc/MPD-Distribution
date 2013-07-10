@@ -1,6 +1,6 @@
 # 	Guidance Notes for Readers
 
-Thank you for agreeing to read and provide feedback upon *Maize Plant Discipleship Resources*.  The following notes provide guidance upon my expectations of Readers.
+Thank you for agreeing to read and provide feedback upon *Maize Plant Discipleship Resources*.  The following notes provide guidance regarding my expectations of Readers.
 
 ### 	I Would Like Your Personal Reflections ###
 
