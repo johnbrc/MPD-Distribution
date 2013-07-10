@@ -21,12 +21,12 @@ Files and folders are organised according to *Collaborating* and *Content* respe
 
 ### 	Collaborating 
 
-*Guidance regarding [collaborating](collaboration/collaborating.md) in the following ways:*
+*Guidance regarding [collaborating](collaborating/collaborating.md) in the following ways:*
 
--	[Contributing](collaboration/contributing/contributing.md)
--	[Publishing](collaboration/publishing/publishing.md)
--	[Reading](collaboration/reading/reading.md)
--	[Translating](collaboration/translating/translating.md)
+-	[Contributing](collaborating/contributing/contributing.md)
+-	[Publishing](collaborating/publishing/publishing.md)
+-	[Reading](collaborating/reading/reading.md)
+-	[Translating](collaborating/translating/translating.md)
 
 ## Thank You 
 
