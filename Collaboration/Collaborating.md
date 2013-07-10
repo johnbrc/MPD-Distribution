@@ -1,6 +1,12 @@
 # Collaborating #
 
-	Notes to be extended
+Collaboration of all kind is welcomed by the author. For further information consult the following files.
+
+-	[Contributing](collaboration/contributing/contributing.md)
+-	[Publishing](collaboration/publishing/publishing.md)
+-	[Reading](collaboration/reading/reading.md)
+-	[Translating](collaboration/translating/translating.md)
+
 	
 ## 	File Formats ##
 

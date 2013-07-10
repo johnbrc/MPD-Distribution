@@ -24,10 +24,10 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 
 *Guidance notes, regarding the following forms of  [collaborating](Collaboration/Collaborating.md):*
 
--	[Contributing](Collaboration/Contributing/Contributing.md)
--	[Publishing](Collaboration/Publishing/Publishing.md)
--	[Reading](Collaboration/Reading/Reading.md)
--	[Translating](Collaboration/Translating/Translating.md)
+-	[Contributing](collaboration/contributing/contributing.md)
+-	[Publishing](collaboration/publishing/publishing.md)
+-	[Reading](collaboration/reading/reading.md)
+-	[Translating](collaboration/translating/translating.md)
 
 ## Thank You ##
 
