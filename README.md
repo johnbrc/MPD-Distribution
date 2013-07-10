@@ -14,15 +14,14 @@ Files and folders are organised according to *Collaboration* and *Content* respe
 
 ### 	Content ###
 
-*Digital publishing content incorporating:*
+*Digital publishing [content](content/overview.md) incorporating:*
 
 -	[Handbook](content/handbook/handbook.md)
 - 	[Modules](content/modules/modules.md)
--	[Overview](content/overview/overview.md)
 
 ### 	Collaboration ###
 
-*Guidance notes, regarding the following forms of  [collaborating](Collaboration/Collaborating.md):*
+*Guidance regarding [collaborating](collaboration/collaborating.md) in the following ways:*
 
 -	[Contributing](collaboration/contributing/contributing.md)
 -	[Publishing](collaboration/publishing/publishing.md)
