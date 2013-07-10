@@ -28,8 +28,8 @@ MultiMarkdown files can be edited in any plain-text editor. [MultiMarkdown Compo
 [LaTex][latex] is a typesetting language that formats and outputs high quality PDFs.
 
 
-[Md]: 	http://fletcherpenney.net/multimarkdown/
-[latex]: 	http://www.latex-project.org
-[html]:	http://www.w3schools.com/html/default.asp
-[Mmdc]:	http://multimarkdown.com
+[Md]: http://fletcherpenney.net/multimarkdown/ "MultiMarkdown"
+[latex]: http://www.latex-project.org
+[html]: http://www.w3schools.com/html/default.asp
+[Mmdc]: http://multimarkdown.com
 
