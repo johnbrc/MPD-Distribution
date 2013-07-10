@@ -21,7 +21,7 @@ In due course, further information will be provided concerning the following way
 
 This README is composed in [MultiMarkdown][Md], as are many of the files in this distribution. Markdown is essentially a plain-text language that is both human-readable and computer-readable; it is particularly used to generate [LaTex PDFs][latex] and [HTML][html] files. 
 
-MultiMarkdown files can be edited in any plain-text editor. [MultiMarkdown Composer][Mmdc] provides an ideal (OSX) editing environment.
+- MultiMarkdown files can be edited in any plain-text editor. [MultiMarkdown Composer][Mmdc] provides an ideal (OSX) editing environment.
 
 ### 	LaTex (PDF) ###
 
