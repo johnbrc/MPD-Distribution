@@ -4,11 +4,15 @@
 
 ### Module 4 — The Commissioning of Messianic Community ###
 
-## Reader's Deadline ##
+## Submitting Feedback ##
 
-Readers are kindly requested to return reviews and feedback upon this version by 15th July, 2013. For information regarding Readers' input, see 
+Readers are kindly requested to return reviews and feedback upon this version by the following date:
 
-	../Guidance/Reading/Reading.md
+-	15th July, 2013. 
+
+## Readers' Input ##
+
+See [Reading](collaborating/reading/reading.md)
 
 
 ## Version control

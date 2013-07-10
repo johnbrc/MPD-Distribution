@@ -14,4 +14,4 @@ Thank you for agreeing to read and provide feedback upon *Maize Plant Disciplesh
 The module has been designed to be worked through by a study, discussion or discipleship group, over four weeks, a chapter at a time. Please read through in a way that mirrors this to some extent, allowing a certain amount of time between each chapter. 
 *If you have any questions, at all, please ask them*.
 
--	If you are responding to a particular timed *Release*, please see [VERSION][] for requested deadline for feedback.
+-	Please see [VERSION](../../VERSION.md) for requested deadline for feedback.
