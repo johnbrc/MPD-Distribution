@@ -1,9 +1,15 @@
-# M4 - Module 4
+# 	Maize Plant Discipleship Resource #
 
-Principal files are listed with the filename: **MPD-M4**, followed by file format abbreviation, e.g. MPD-M4.html. PDF filenames also incorporate page size, e.g. MPD-M4-A5.pdf
+## Module 4 ##
 
-## The Commissioning of the Messianic Community
+### The Commissioning of the Messianic Community ###
 
-This resource represents the fourth module (M4) of the *Maize Plant Discipleship Syllabus*—a teaching and training resource, designed in collaboration with Africans, for use in African contexts.
+These files represent the fourth module (M4) of the *Maize Plant Discipleship Syllabus*—a teaching and training resource, designed in collaboration with Africans, for use in African contexts. 
 
-**Note**:	In fact, this is a prototypical resource—modules 1-3 are presently unpublished.
+-	For further information see [Overview](../../overview.md)
+
+-	N.b. Presently, this is a *prototypical resource*: modules 1-3 are currently unpublished.
+
+### Incorporated Files ###
+
+For information on files incorporated in a distribution see [Modules](../modules.md)
