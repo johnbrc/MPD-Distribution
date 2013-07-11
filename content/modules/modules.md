@@ -8,7 +8,9 @@ Each module is typically released in the following file formats.
 
 ### Editable ###
 
--	.md — MultiMarkdown source files, used to generate [Read Only][] files (below)
+-	.md 
+
+	>MultiMarkdown source files, used to generate [Read Only][] files (below)
 
 	>This README is composed in [MultiMarkdown][Md], as are many of the files in this distribution. Markdown is essentially a plain-text language that is both human-readable and computer-readable; it is particularly used to generate [LaTex PDFs][latex] and [HTML][html] files. 
 
@@ -16,13 +18,16 @@ Each module is typically released in the following file formats.
 
 ### Read Only ###
 
--	.pdf — Portable Document Format
-	>Typically provided in A5 (textbook) format and A4 (full page) format; for review and printing; PDFs are generated using [LaTex][latex], a typesetting language that formats and outputs high quality PDFs.
+-	.pdf
 
--	.html — HTML files
->With accompanying images; for browsing in a web browser, such as Firefox, Chrome, Safari, Internet Explorer, or Opera; these files can be viewed *offline*, , on any device, without being connected to the Internet, so are highly distributable.
+	>Portable Document Format. Typically provided in A5 (textbook) format and A4 (full page) format; for review and printing; MPD Resource PDFs are generated using [LaTex][latex], a typesetting language that formats and outputs high quality PDFs.
 
--	.ePub — for use with E-readers
+-	.html
+
+	>HTML files, with accompanying images; for browsing in a web browser, such as Firefox, Chrome, Safari, Internet Explorer, or Opera; these files can be viewed *offline*, , on any device, without being connected to the Internet, so are highly distributable.
+
+-	.ePub 
+
 >ePub files are readable by a wide range of e-readers, however these files are included as a *bonus*, because they are not currently developed to a high degree of utility, nor have they been widely tested.
 
 ## File Name Convention ##
