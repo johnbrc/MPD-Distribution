@@ -10,7 +10,7 @@ Each module is typically released in the following file formats.
 
 -	.md 
 
-	>MultiMarkdown source files, used to generate [Read Only][] files (below)
+	>MultiMarkdown source files, used to generate *Read Only* files (below)
 
 	>This README is composed in [MultiMarkdown][Md], as are many of the files in this distribution. Markdown is essentially a plain-text language that is both human-readable and computer-readable; it is particularly used to generate [LaTex PDFs][latex] and [HTML][html] files. 
 
@@ -28,14 +28,15 @@ Each module is typically released in the following file formats.
 
 -	.ePub 
 
->ePub files are readable by a wide range of e-readers, however these files are included as a *bonus*, because they are not currently developed to a high degree of utility, nor have they been widely tested.
+	>ePub files are readable by a wide range of e-readers, however these files are included as a *bonus*, because they are not currently developed to a high degree of utility, nor have they been widely tested.
 
 ## File Name Convention ##
 
 -	MPD-Mn
->Principal files, e.g. MPD-M4.html
+	>Principal files, e.g. MPD-M4.html
+
 -	MPD-Mn-A5, or MPD-Mn-A4
-> PDF filenames also incorporate page-size, e.g. MPD-M4-A5.pdf
+	> PDF filenames also incorporate page-size, e.g. MPD-M4-A5.pdf
 
 
 
