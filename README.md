@@ -6,7 +6,11 @@
 
 -	*MPD Resource* is especially intended to facilitate group discussions, on the back of scripture readings and a series of topical, biblical studies, so that the syllabus provided by the resource does not require the input of an *expert* teacher, merely a person, or persons willing to *facilitate* the co-ordination of small study groups and discussions.
 
--	See [MPD Resource website](http://maizeplantdiscipleship.wordpress.com) for further information.
+-	See [MPD Resource website][], for further information.
+
+## Distribution ##
+
+This distribution of MPD Resource files and folders, hosted and provided via [GitHub][], is for the purpose of collaboration.
 
 ## Files & Folders ##
 
@@ -31,7 +35,12 @@ Files and folders are organised according to *Collaborating* and *Content* respe
 
 **Dr J.B. Clements** (Author)
 
--	[GitHub](https://github.com/johnbrc)
--	[Vocational website](https://jbclements.wordpress.com)
--	[MPD Resource website](http://maizeplantdiscipleship.wordpress.com)
+-	[GitHub][]
+-	[MPD Resource website][]
+-	[Missiological explorations][blog]
+
+
+[MPD Resource website]: http://maizeplantdiscipleship.wordpress.com
+[GitHub]: https://github.com/johnbrc
+[blog]: https://jbclements.wordpress.com
 
