@@ -1,18 +1,6 @@
-# Readers' Release #
+## Current Version ##
 
-## Version 1.0
-
-### Module 4 — The Commissioning of Messianic Community ###
-
-## Submitting Feedback ##
-
-Readers are kindly requested to return reviews and feedback upon this version by the following date:
-
--	15th July, 2013. 
-
-## Readers' Input ##
-
-See [Reading](collaborating/reading/reading.md)
+The current version of a resource can be identified from a time stamp, located on the first and, or second page of [MPD PDF files](content/modules/files.md)
 
 
 ## Version control

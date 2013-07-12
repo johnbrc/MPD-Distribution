@@ -20,22 +20,24 @@ Each module is made available as a range of [Read-Only Files][] files and a sing
 
 ### Read-Only Files ###
 
--	**Portable Document Format** (*.pdf)
+Read-only files are provided for review and printing.
 
-	Typically provided in A5 (textbook) format and A4 (full page) format; for review and printing; MPD Resource PDFs are generated using [LaTex][latex], a typesetting language that formats and outputs high quality PDFs.
+-	**PDF — Portable Document Format** (*.pdf)
 
--	**Hyper-Text Markup Language** (*.html) 
+	Typically provided in A5 (textbook) format and A4 (full page) format; MPD Resource PDFs are generated using [LaTex][latex], a typesetting language that formats and outputs high quality PDFs.
+
+-	**HTML — Hyper-Text Markup Language** (*.html) 
 
 	HTML files, with accompanying images; for browsing in a web browser, such as Firefox, Chrome, Safari, Internet Explorer, or Opera; these files can be viewed *offline*, , on any device, without being connected to the Internet, so are highly distributable.
 
--	**E-Publisher** (*.ePub)
+-	**EPUB — E-Publisher** (*.ePub)
 
 	Readable by a wide range of e-readers, these files are included as a *bonus*, because they are not currently developed to a high degree of utility, nor have they been widely tested.
 
 
 ### Editable Source File ###
 
-Source files are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files][]. They are mainly of interest to [translators]() and contributors.
+Source files are mainly of interest to [translators][] and [contributors][]. They are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files][]. 
 
 -	**MultiMarkdown** (*.md) 
 
@@ -45,10 +47,11 @@ Source files are written in *MultiMarkdown* and are used to generate a range of 
 
 
 
-[Md]: http://fletcherpenney.net/multimarkdown/ "MultiMarkdown"
-[latex]: http://www.latex-project.org
-[html]: http://www.w3schools.com/html/default.asp
+[Md]: 	http://fletcherpenney.net/multimarkdown/ "MultiMarkdown"
+[latex]: 	http://www.latex-project.org
+[html]: 	http://www.w3schools.com/html/default.asp
 [Mmdc]:	http://multimarkdown.com
 [cm]:	http://criticmarkup.com
-
+[translators]: 	../../collaboration/translation/translation.md
+[contributors]:	../../collaboration/contribution/contribution.md
 
