@@ -1,0 +1,54 @@
+# Files #
+
+Each module's files are located in a folder, Mn, where n is the module number (e.g. M4). 
+
+## Filenames ##
+
+Principal filenames have (up to) three parts, separated by hyphens, followed by the [filetype][Filetypes] abbreviation
+
+-	MPD — Maize Plant Discipleship principal resource file (c.f. image file)
+-	Mn — Module number *n*
+-	As — formatted page size (pdf only)
+
+Thus, for example:
+
+-	A5-sized PDF textbook of module 4 would be MPD-M4-A5.pdf
+
+## Filetypes ##
+
+Each module is made available as a range of [Read-Only Files][] files and a single [Editable Source File][].
+
+### Read-Only Files ###
+
+-	**Portable Document Format** (*.pdf)
+
+	Typically provided in A5 (textbook) format and A4 (full page) format; for review and printing; MPD Resource PDFs are generated using [LaTex][latex], a typesetting language that formats and outputs high quality PDFs.
+
+-	**Hyper-Text Markup Language** (*.html) 
+
+	HTML files, with accompanying images; for browsing in a web browser, such as Firefox, Chrome, Safari, Internet Explorer, or Opera; these files can be viewed *offline*, , on any device, without being connected to the Internet, so are highly distributable.
+
+-	**E-Publisher** (*.ePub)
+
+	Readable by a wide range of e-readers, these files are included as a *bonus*, because they are not currently developed to a high degree of utility, nor have they been widely tested.
+
+
+### Editable Source File ###
+
+Source files are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files][]. They are mainly of interest to [translators]() and contributors.
+
+-	**MultiMarkdown** (*.md) 
+
+	This README is composed in [MultiMarkdown][Md], as are many of the files in this distribution. Markdown is essentially a plain-text language that is both human-readable and computer-readable; it is particularly used to generate [LaTex PDFs][latex] and [HTML][html] files. 
+
+	MultiMarkdown files may be edited in any plain-text editor, such as *Notepad* (Windows) or *TextEdit* (OSX); I use and recommend [MultiMarkdown Composer][Mmdc] as an ideal (OSX) editing environment, not least because of its excellent integration with [Critic Markup][cm].
+
+
+
+[Md]: http://fletcherpenney.net/multimarkdown/ "MultiMarkdown"
+[latex]: http://www.latex-project.org
+[html]: http://www.w3schools.com/html/default.asp
+[Mmdc]:	http://multimarkdown.com
+[cm]:	http://criticmarkup.com
+
+
