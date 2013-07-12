@@ -1,4 +1,4 @@
-## Current Version ##
+# Current Version #
 
 The current version of a resource can be identified from a time stamp, located on the first and, or second page of [MPD PDF files](content/modules/files.md)
 

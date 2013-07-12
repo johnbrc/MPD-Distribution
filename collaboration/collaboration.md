@@ -12,11 +12,11 @@ Information for those enlisted, or volunteering, to review content:
 
 In due course, information will be provided regarding collaboration in terms of:
 
--	[Contributing](collaboration/contributing/contributing.md)
--	[Publishing](collaboration/publishing/publishing.md)
--	[Translating](collaboration/translating/translating.md)
+-	[Contributing](collaboration/contribution/contribution.md)
+-	[Publishing](collaboration/publication/publication.md)
+-	[Translating](collaboration/translation/translation.md)
 
 ## Further Information ##
 
--	Return to [README](../../README.md)
+-	Return to [README](../README.md)
 
