@@ -45,7 +45,7 @@ The structure of the *Maize Plant Discipleship Syllabus* is based upon the symbo
 
 ![Maize plant metaphor][mpm]
 
-[mpm]: Maizeplantmetaphor.png height=400px
+[mpm]: maizeplantmetaphor.png height=400px
 
 -	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
 
