@@ -1,3 +1,19 @@
+Version: 1.0.2
+Change: Removed redundant MMD brackets
+LaTex input: 	mpd-textbook-header
+Title: 	The Dynamic of Commissioning
+Subtitle:	Maize Plant Discipleship Module 4
+Author:	Dr John B Clements
+Email: 	clements.jb@gmail.com
+Web: 	http://maizeplantdiscipleship.wordpress.com
+Copyright:	John B Clements, 2013.  This work is licensed under a Creative Commons Licence:  
+		http://creativecommons.org/licenses/by-sa/3.0/
+Keywords:	discipleship, mission, messianic, community 
+Base Header Level:	2
+LaTeX Mode:	memoir
+LaTex input:	mpd-textbook-document
+LaTex footer:	mpd-textbook-footer
+
 # Introduction #
 
 ## Topical overview ##
@@ -11,17 +27,17 @@ Modules 2 and 3
 This Module, 4
 : explores *God's commissioning* of the Messianic Community, in these four, inter-related *Studies*:
 
-1.	[The Commissioning of Messianic Community][]
+1.	[The Commissioning of Messianic Community]
 
--	[The Strategies of Messianic Community][]
+-	[The Strategies of Messianic Community]
 
--	[The Structures of Messianic Community][]
+-	[The Structures of Messianic Community]
 
--	[The Expansion of Messianic Community][]
+-	[The Expansion of Messianic Community]
 
 ## Module Structure ##
 
-Each *textbook* presents one *module*---of sixteen that form the [*Maize Plant Discipleship Syllabus*][]. Each module incorporates four *studies* (chapters). Each study incorporates the following elements:
+Each *textbook* presents one *module*---of sixteen that form the [*Maize Plant Discipleship Syllabus*]. Each module incorporates four *studies* (chapters). Each study incorporates the following elements:
 
 -	**Topical overview**
 
@@ -37,15 +53,15 @@ Each *textbook* presents one *module*---of sixteen that form the [*Maize Plant D
 
 ## Facilitating discipleship ##
 
-Facilitators will find useful guidelines on facilitating discipleship study and discussion groups in the *Maize Plant Discipleship Handbook*---available from the same source as this booklet ([][Further information]).
+Facilitators will find useful guidelines on facilitating discipleship study and discussion groups in the *Maize Plant Discipleship Handbook*---available from the same source as this booklet — see [Further information].
 
 ## Maize Plant Concept ##
 
-The structure of the *Maize Plant Discipleship Syllabus* is based upon the symbolism of the maize plant ([](#mpm)):
+The structure of the *Maize Plant Discipleship Syllabus* is based upon the symbolism of the maize plant — see [](#mpm):
 
 ![Maize plant metaphor][mpm]
 
-[mpm]: Maizeplantmetaphor.png height=400px
+[mpm]: maize-plant-metaphor.png height=400px
 
 -	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
 
@@ -78,9 +94,9 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
 
 Further information about *Maize Plant Discipleship Resources* and the author is available online, via the world-wide web:
 
--	**Resource** <http://maizeplantdiscipleship.wordpress.com/>
+-	**Resource** http://maizeplantdiscipleship.wordpress.com/
 
--	**Author** <http://jbclements.wordpress.com/>
+-	**Author** http://jbclements.wordpress.com/
 
 # The Commissioning of Messianic Community #
 
@@ -101,7 +117,7 @@ Numbers 27:23
 :	For we are not, like so many, like hucksters making a trade of peddling God's Word, shortchanging and adulterating the divine message; but like men of sincerity and the purest motive, as *commissioned* and sent by God, we speak His message in Christ the Messiah, in the very sight and presence of God.
 
 Galatians 1:1
-:	Paul, an apostle---a special messenger appointed and *commissioned* and sent out not from any body of men nor by or through any man, but by and through Jesus the Messiah and God the Father, Who raised Him from among the dead.
+:	Paul, an apostle—a special messenger appointed and *commissioned* and sent out not from any body of men nor by or through any man, but by and through Jesus the Messiah and God the Father, Who raised Him from among the dead.
 
 Colossians 1:25
 :	For the sake of his body, which is the church... I have become its servant by the *commission* God gave me to present to you the word of God in its fulness.
@@ -122,11 +138,11 @@ Commission
 
 ### Sectional outline ###
 
-1. [Military commissioning][]
+1. [Military commissioning]
 
-2. [God's commissioning][]
+2. [God's commissioning]
 
-3. [Commissioned as disciples][]
+3. [Commissioned as disciples]
 
 ## Military commissioning ##
 
@@ -155,8 +171,8 @@ A soldier's commissioning
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Soldiering*][], or 
--	Continue to [*God's commissioning*][]
+-	Discuss [*Soldiering*], or 
+-	Continue to [*God's commissioning*]
 
 ## God's commissioning ##
 
@@ -203,7 +219,7 @@ Messianic commission
 ### --- Option --- ⌥ ###
 
 -	Discuss [*Commissioning*][commissioning-discussion], or 
--	Continue to [*Commissioned as disciples*][]
+-	Continue to [*Commissioned as disciples*]
 
 ## Commissioned as disciples ##
 
@@ -218,7 +234,7 @@ The apostle, Paul, uses the metaphor of a soldier to emphasise that disciples of
 
 ### Called to serve ###
 
-[*Military commissioning*][], explored how soldiering begins with discerning a calling to military service. Messianic discipleship similarly begins with a *calling*. This happens as we recognise that we are called to serve the mission of God, in some way: that We are being called to serve the eternal purpose of God---the *vocation* of the Messianic Community.[^cf9]
+[*Military commissioning*], explored how soldiering begins with discerning a calling to military service. Messianic discipleship similarly begins with a *calling*. This happens as we recognise that we are called to serve the mission of God, in some way: that We are being called to serve the eternal purpose of God---the *vocation* of the Messianic Community.[^cf9]
 
 ### Many are called, but few are chosen ###
 
@@ -236,7 +252,7 @@ Soldiers who hear and respond to a calling to military service progress to their
 
 ### --- Option --- ⌥ ###
 
--	Discuss *Selection* and [*Faithfulness*][], or 
+-	Discuss *Selection* and [*Faithfulness*], or 
 -	Continue to [*Summary*][summary-commissioning] and [*Discussions*][commissioning]
 
 ## Summary [summary-commissioning] ##
@@ -261,7 +277,7 @@ In summary, the study revealed how
 
 ### Soldiering ###
 
-Related to [*Military commissioning*][]
+Related to [*Military commissioning*]
 
 >	**Discuss how the rigorous discipline of military *soldiering* differs from the challenges of civilian life.**
 
@@ -269,7 +285,7 @@ Related to [*Military commissioning*][]
 
 ### Commissioning [commissioning-discussion] ###
 
-Related to [*God's commissioning*][]
+Related to [*God's commissioning*] 
 
 >	**Discuss one thing relating to the idea of *commissioning* that you have considered for the first time, during this study**.
 
@@ -277,7 +293,7 @@ Related to [*God's commissioning*][]
 
 ### Selection ###
 
-Related to [*Commissioned as disciples*][]
+Related to [*Commissioned as disciples*] 
 
 >	**Discuss messianic disciplines and hardships that are equivalent to a solider's basic training**.
 
@@ -285,7 +301,7 @@ Related to [*Commissioned as disciples*][]
 
 ### Faithfulness ###
 
-Related to [*Commissioned as disciples*][]
+Related to [*Commissioned as disciples*] 
 
 >	**Discuss the importance of obedience, duty and faithfulness to a commission**.
 
@@ -331,11 +347,11 @@ Strategy
 
 ### Sectional outline ###
 
-1. [The strategy of praying][]
-2. [The strategy of reaching][]
-3. [The strategy of discipling][]
-4. [The strategy of teaching][]
-5. [The strategy of sending][]
+1. [The strategy of praying] 
+2. [The strategy of reaching] 
+3. [The strategy of discipling] 
+4. [The strategy of teaching] 
+5. [The strategy of sending] 
 
 ## The strategy of praying ##
 
@@ -368,8 +384,8 @@ How does Jesus' teach his disciples to respond to this challenge? He points them
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Prayer*][], or 
--	Continue to [*The strategy of reaching*][]
+-	Discuss [*Prayer*], or 
+-	Continue to [*The strategy of reaching*] 
 
 ## The strategy of reaching ##
 
@@ -404,8 +420,8 @@ Reaching *others* with a message of reconciliation and repentance challenges our
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Reconciliation*][], or
--	Continue to [*The strategy of discipling*][]
+-	Discuss [*Reconciliation*], or
+-	Continue to [*The strategy of discipling*] 
 
 ## The strategy of discipling ##
 
@@ -420,7 +436,7 @@ The *third* strategy is the formation of *disciples* ([](#disciple)).
 Matthew 28:19-20
 : 	Go and *make people from all nations into disciples*, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I have commanded you
 
-The forming of disciples is the very heart and centre of messianic community and mission. We are called and commissioned to make people from all nations into disciples, by immersing---baptising---them into the reality of God's life, through the Messiah, by the Spirit.
+The forming of disciples is the very heart and centre of messianic community and mission. We are called and commissioned to make people from all nations into disciples, by immersing—baptising—them into the reality of God's life, through the Messiah, by the Spirit.
 
 ### Discipleship deals with our hearts ###
 
@@ -440,8 +456,8 @@ Because discipleship deals with the heart, it must be a strategic, practical pri
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Discipleship*][], or
--	Continue to [*The strategy of teaching*][]
+-	Discuss [*Discipleship*], or
+-	Continue to [*The strategy of teaching*] 
 
 ## The strategy of teaching ##
 
@@ -511,8 +527,8 @@ Historically, prophetic teaching, where it has arisen, has tended to be treated 
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Teaching*][], or
--	Continue to [*The strategy of sending*][]
+-	Discuss [*Teaching*], or
+-	Continue to [*The strategy of sending*] 
 
 ## The strategy of sending ##
 
@@ -542,7 +558,7 @@ Inter-cultural mission implies being sent to significantly different cultural, e
 
 -	Intercultural workers must particularly engage with challenges related to the significant linguistic and practical differences that exists between cultures, which profoundly effect how messianic community and vocation is translated into practice;
 
-- 	Being sent inter-culturally is the vocation of [*apostolic missionary teams*][].
+- 	Being sent inter-culturally is the vocation of [*apostolic missionary teams*] .
 
 ### Intra-cultural contexts ###
 
@@ -556,7 +572,7 @@ Intra-cultural mission implies being sent to and within our own cultural context
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Sending*][], or
+-	Discuss [*Sending*], or
 -	Continue to [*Summary*][summary-strategy] and [*Discussions*][strategy]
 
 ## Summary [summary-strategy] ##
@@ -581,7 +597,7 @@ As each generation of disciples follow these strategies, the cyclical process ([
 
 ### Prayer ###
 
-Related to [*The strategy of praying*][]
+Related to [*The strategy of praying*] 
 
 >	**Discuss ways of making prayer into a strategic, practical priority**.
 	
@@ -591,7 +607,7 @@ Related to [*The strategy of praying*][]
 
 ### Reconciliation ###
 
-Related to [*The strategy of reaching*][]
+Related to [*The strategy of reaching*] 
 
 >	**Discuss what it means to be fully reconciled to God and his kingdom purposes**.
 	
@@ -601,7 +617,7 @@ Related to [*The strategy of reaching*][]
 
 ### Discipleship ###
 
-Related to [*The strategy of discipling*][]
+Related to [*The strategy of discipling*] 
 
 >	**Discuss things to which you recognise your heart is devoted. Be honest**.
 
@@ -609,7 +625,7 @@ Related to [*The strategy of discipling*][]
 
 ### Teaching ###
 
-Related to [*The strategy of teaching*][]
+Related to [*The strategy of teaching*] 
 
 >	**Discuss your personal experiences of what is referred to as the *strong meat* of God's word**.
 
@@ -617,7 +633,7 @@ Related to [*The strategy of teaching*][]
 
 ### Sending ###
 
-Related to [*The strategy of sending*][]
+Related to [*The strategy of sending*] 
 
 >	**Discuss what it means to be sent---including whether it is something that happens once, regularly, or continuously**
 
@@ -673,12 +689,12 @@ Structure
 
 ### Sectional outline ###
 
-1.	[A combination of structures][]
--	[Pastoral, evangelistic community][]
--	[Teaching and training centres][]
--	[Apostolic missionary teams][]
--	[Prophetic mediatory role][]
--	[Structural dynamics][]
+1.	[A combination of structures] 
+-	[Pastoral, evangelistic community] 
+-	[Teaching and training centres] 
+-	[Apostolic missionary teams] 
+-	[Prophetic mediatory role] 
+-	[Structural dynamics] 
 
 ## A combination of structures ##
 
@@ -776,8 +792,8 @@ Our exploration of pastoral, evangelistic community offers a significant evaluat
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Discipling into allegiance*][], or
--	Continue to [*Teaching and training centres*][]
+-	Discuss [*Discipling into allegiance*], or
+-	Continue to [*Teaching and training centres*] 
 
 ## Teaching and training centres ##
 
@@ -785,7 +801,7 @@ Our exploration of pastoral, evangelistic community offers a significant evaluat
 
 [ttc]: teachingtrainingcentres.png "Teaching and training centres" height=125px
 
-Teaching and training centres ([](#ttc)) supplement the formation of disciples taking place within [pastoral, evangelistic community][]. Their function is to equip mature messianic disciples for vocational service[^cf28]---in two types of contexts: *intra-cultural* and *inter-cultural*.
+Teaching and training centres ([](#ttc)) supplement the formation of disciples taking place within [pastoral, evangelistic community] . Their function is to equip mature messianic disciples for vocational service[^cf28]---in two types of contexts: *intra-cultural* and *inter-cultural*.
 
 ### Intra cultural contexts ###
 
@@ -825,8 +841,8 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Equipping with truth*][], or
- -	Continue to [*Apostolic missionary teams*][]
+-	Discuss [*Equipping with truth*], or
+ -	Continue to [*Apostolic missionary teams*] 
 
 ## Apostolic missionary teams ##
 
@@ -851,7 +867,7 @@ International ambassadors are accredited diplomats, or emissaries, sent by a cou
 
 Paul also compares the apostolic missionary role to that of a *skilful architect and master builder, laying a Messianic foundation*[^cf32]. Architects and master-builders are responsible for both designing buildings and supervising their construction.
 
--	Apostolic missionary teams cross geographical and cultural boundaries in order to pioneer the formation and establishment of [pastoral, evangelistic communities][pastoral, evangelistic community] and messianic [teaching and training centres][]---particularly amongst people and places where there are no gospel communities. 
+-	Apostolic missionary teams cross geographical and cultural boundaries in order to pioneer the formation and establishment of [pastoral, evangelistic communities][pastoral, evangelistic community] and messianic [teaching and training centres] ---particularly amongst people and places where there are no gospel communities. 
 
 -	In these ways, apostolic missionaries lay a messianic foundation amongst an ethnic people group, or within a particular geographical region. Because they are laying a foundation upon which others will build, the quality of their work is crucial to the future of messianic community in those places.
 
@@ -877,8 +893,8 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Pioneering with power*][], or
- -	Continue to [*Prophetic, mediatory role*][]
+-	Discuss [*Pioneering with power*], or
+ -	Continue to [*Prophetic, mediatory role*] 
 
 ## Prophetic, mediatory role ##
 
@@ -943,8 +959,8 @@ The prophetic role is easily overlooked or misunderstood, because of its relativ
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Picking up God's heartbeat*][], or
- -	Continue to [*Structural dynamics*][]
+-	Discuss [*Picking up God's heartbeat*], or
+ -	Continue to [*Structural dynamics*]
 
 ## Structural dynamics ##
 
@@ -952,7 +968,7 @@ Having explored separately the foundational messianic structures, this final sec
 
 ### Structures and strategies ###
 
-[*The strategies of messianic community*][] illustrated and explored five foundational strategies (pray, reach, disciple, teach, send), which correspond closely with the foundational structures of messianic community, explored in this study. This correspondence is displayed in [](#table1).
+[*The strategies of messianic community*] illustrated and explored five foundational strategies (pray, reach, disciple, teach, send), which correspond closely with the foundational structures of messianic community, explored in this study. This correspondence is displayed in [](#table1).
 
 [Messianic structure, strategy and function][table1]
 |**Messianic structure**|**Strategy**|**Function**|
@@ -995,7 +1011,7 @@ An effective missional, discipleship movement is established on a biblical, mess
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Whole body working together*][], or 
+-	Discuss [*Whole body working together*], or 
 -	Continue to [*Summary*][summary-structures] and [*Discussions*][structures]
 
 ## Summary [summary-structures] ##
@@ -1016,7 +1032,7 @@ In summary, the study revealed that:
 
 ### Discipling into allegiance ###
 
-Related to [*Pastoral, evangelistic community*][]
+Related to [*Pastoral, evangelistic community*]
 
 >	**Discuss how people typically experience a relational allegiance to family, tribe and nation** 
 
@@ -1026,7 +1042,7 @@ Related to [*Pastoral, evangelistic community*][]
 
 ### Equipping with truth ###
 
-Related to [*Teaching and training centres*][]
+Related to [*Teaching and training centres*] 
 
 >	**Discuss how particular teaching or training courses have impacted your life**
 
@@ -1036,7 +1052,7 @@ Related to [*Teaching and training centres*][]
 
 ### Pioneering with power ###
 
-Related to [*Apostolic missionary teams*][]
+Related to [*Apostolic missionary teams*] 
 
 >	**Discuss your own or others stories about challenges faced and experienced by intercultural workers**
 
@@ -1046,7 +1062,7 @@ Related to [*Apostolic missionary teams*][]
 
 ### Picking up God's heartbeat ###
 
-Related to [*Prophetic, mediatory role*][]
+Related to [*Prophetic, mediatory role*] 
 
 >	**Discuss your ideas of why the prophetic gift is not associated with a particular messianic structure**
 
@@ -1056,7 +1072,7 @@ Related to [*Prophetic, mediatory role*][]
 
 ### Whole body working together ###
 
-*Questions associated with [Structural dynamics][]*. 
+*Questions associated with [Structural dynamics]*. 
 
 >	**Discuss your experiences of the different dynamic interactions illustrated in [](#di)**
 
@@ -1087,7 +1103,7 @@ Note
 ### Scripture memorisation ###
 
 Acts 1:8
-:	But you shall receive power---ability, efficiency and might---when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and all Judea and Samaria and to the ends---the very bounds---of the earth!
+:	But you shall receive power—ability, efficiency and might—when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and all Judea and Samaria and to the ends—the very bounds—of the earth!
 
 Acts 9.31
 : 	The Messianic community throughout Judea and Galilee and Samaria enjoyed peace and was built up. They lived in the fear of the Lord, with the counsel of the Holy Spirit; and their numbers kept multiplying
@@ -1101,10 +1117,10 @@ Expansion
 
 This Study compares and contrasts three forms of natural *reproduction* with the *expansion of disciple-forming movements*.
 
-1. [Honey bees][]
-2. [Maize plant][]
-3. [Commercial organisations][]
-4. [Missional movements][]
+1. [Honey bees] 
+2. [Maize plant] 
+3. [Commercial organisations] 
+4. [Missional movements] 
 
 ## Honey bees ##
 
@@ -1144,8 +1160,8 @@ In summary, we observe the following characteristics of honey bees:
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Bees*][], or
--	Continue to [*Maize plant*][]
+-	Discuss [*Bees*], or
+-	Continue to [*Maize plant*] 
 
 ## Maize plant ##
 
@@ -1177,8 +1193,8 @@ In summary, we observe the following characteristics of maize plants:
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Maize*][], or
--	Continue to [*Commercial organisations*][]
+-	Discuss [*Maize*], or
+-	Continue to [*Commercial organisations*] 
 
 ## Commercial organisations ##
 
@@ -1215,8 +1231,8 @@ In summary, we observe the following characteristics of commercial organisations
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Organisations*][], or
- -	Continue to [*Missional movements*][]
+-	Discuss [*Organisations*], or
+ -	Continue to [*Missional movements*] 
 
 ## Missional movements ##
 
@@ -1269,12 +1285,12 @@ In summary, we observe the following characteristics of *missional, discipleship
 
 ### --- Option --- ⌥ ###
 
--	Discuss [*Movements*][], or 
+-	Discuss [*Movements*], or 
 -	Continue to [*Summary*][summary-expansion] and [*Discussions*][expansion]
 
 ## Summary [summary-expansion] ##
 
-This concludes the study, [*The expansion of Messianic Community*][], which explored various kinds of reproduction, in order to compare and contrast them with the expansion of messianic, discipleship movements. 
+This concludes the study, [*The expansion of Messianic Community*], which explored various kinds of reproduction, in order to compare and contrast them with the expansion of messianic, discipleship movements. 
 
 The study highlighted characteristics associated with the growth, reproduction, relocation, harvest and risks of swarming bees, maize plants, commercial organisations and missional movements. In summary, the Study explored how:
 
@@ -1286,7 +1302,7 @@ The study highlighted characteristics associated with the growth, reproduction, 
 
 ### Bees ###
 
-Related to [*Honey bees*][]
+Related to [*Honey bees*] 
 
 >	**Discuss the collective nature of bee colonies, including the various types of bees, and the phenomena of swarming**.
 
