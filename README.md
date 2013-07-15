@@ -10,6 +10,11 @@ These files contain a draft of the textbook resource, *The Commissioning of the 
 
 Access the Reader's Draft by downloading one of the folders on this page. Unzip it and open a README file for further instructions on accessing the Readers Draft in a suitable format.
 
+Alternatively, you may read *Module 4* online, in the following formats (depending upon your browser):
+
+-	[HTML](M4/MPD-M4.html)
+-	[PDF](M4/MPD-M4-A5.pdf)
+
 ##	Submitting Feedback ##
 
 Readers are kindly requested to return reviews and feedback upon this version by the following date:
