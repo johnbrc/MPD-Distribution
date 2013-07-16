@@ -12,11 +12,11 @@ Access the Reader's Draft by downloading one of the folders on this page. Unzip 
 
 Alternatively, you may read *Module 4* online, in the following formats (depending upon your browser):
 
--	[HTML](M4/MPD-M4.html)
--	[PDF](M4/MPD-M4-A5.pdf)
+-	[HTML](https://github.com/johnbrc/MPD-Distribution/raw/master/content/modules/M4/MPD-M4.html)
+-	[PDF](https://github.com/johnbrc/MPD-Distribution/raw/master/content/modules/M4/MPD-M4-A5.pdf)
 
 ##	Submitting Feedback ##
 
 Readers are kindly requested to return reviews and feedback upon this version by the following date:
 
--	15th July, 2013.
+-	22 July, 2013.
