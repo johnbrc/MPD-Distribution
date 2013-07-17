@@ -12,9 +12,9 @@ Information for those enlisted, or volunteering, to review content:
 
 In due course, information will be provided regarding collaboration in terms of:
 
--	[Contributing](collaboration/contribution/contribution.md)
--	[Publishing](collaboration/publication/publication.md)
--	[Translating](collaboration/translation/translation.md)
+-	Contributing
+-	Publishing
+-	Translating
 
 ## Further Information ##
 
