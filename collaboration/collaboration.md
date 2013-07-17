@@ -10,11 +10,12 @@ Information for those enlisted, or volunteering, to review content:
 
 ## Other  ##
 
-In due course, information will be provided regarding collaboration in terms of:
+In due course, further information will be provided regarding collaboration in terms of:
 
--	Contributing
--	Publishing
--	Translating
+-	Contribution
+-	Publication
+-	Translation
+
 
 ## Further Information ##
 
