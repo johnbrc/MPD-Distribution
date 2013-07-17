@@ -5,9 +5,7 @@
 -	Facilitators' [Handbook](handbook/handbook.md)
 - 	Syllabus  [Modules](modules/modules.md)
 
-# Files #
-
-Each module's files are located in a folder, Mn, where n is the module number (e.g. M4). 
+ Module files are located in a folder, M*n*, where *n* is the module number (e.g. M4).
 
 ## Filenames ##
 
@@ -19,7 +17,7 @@ Principal filenames have (up to) three parts, separated by hyphens, followed by 
 
 Thus, for example:
 
--	A5-sized PDF textbook of module 4 would be MPD-M4-A5.pdf
+-	A5-sized PDF textbook of module 4 is named: MPD-M4-A5.pdf
 
 ## Filetypes ##
 
@@ -53,7 +51,7 @@ Source files are mainly of interest to [translators][] and [contributors][]. The
 	MultiMarkdown files may be edited in any plain-text editor, such as *Notepad* (Windows) or *TextEdit* (OSX); I use and recommend [MultiMarkdown Composer][Mmdc] as an ideal (OSX) editing environment, not least because of its excellent integration with [Critic Markup][cm].
 
 
-### Further Information ###
+## Further Information ##
 
 -	Return to [README](../README.md)
 
