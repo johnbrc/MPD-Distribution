@@ -23,7 +23,7 @@ This distribution of *MPD Resource* files and folders, hosted and provided via [
 -	[MPD Resource website]
 -	[Missiological explorations]
 
-[GitHub]: https://github.com/johnbrc
+[GitHub]: http://johnbrc.github.io
 [MPD Resource website]: http://maizeplantdiscipleship.wordpress.com
 [Missiological explorations]: https://jbclements.wordpress.com
 

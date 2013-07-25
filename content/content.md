@@ -9,7 +9,7 @@
 
 ## Filenames ##
 
-Principal filenames have (up to) three parts, separated by hyphens, followed by the [filetype][Filetypes] abbreviation
+Principal filenames have (up to) three parts, separated by hyphens, followed by a [Filetype] abbreviation
 
 -	MPD — Maize Plant Discipleship principal resource file (c.f. image file)
 -	Mn — Module number *n*
@@ -19,9 +19,9 @@ Thus, for example:
 
 -	A5-sized PDF textbook of module 4 is named: MPD-M4-A5.pdf
 
-## Filetypes ##
+## Filetype ##
 
-Each module is made available as a range of [Read-Only Files][] files and a single [Editable Source File][].
+Each module is made available as a range of [Read-Only Files] files and a single [Editable Source File].
 
 ### Read-Only Files ###
 
@@ -42,7 +42,7 @@ Read-only files are provided for review and printing.
 
 ### Editable Source File ###
 
-Source files are mainly of interest to [translators][] and [contributors][]. They are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files][]. 
+Source files are mainly of interest to translators and contributors. They are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files]. 
 
 -	**MultiMarkdown** (*.md) 
 
@@ -62,6 +62,6 @@ Source files are mainly of interest to [translators][] and [contributors][]. The
 [html]: 	http://www.w3schools.com/html/default.asp
 [Mmdc]:	http://multimarkdown.com
 [cm]:	http://criticmarkup.com
-[translators]: 	../../collaboration/translation/translation.md
-[contributors]:	../../collaboration/contribution/contribution.md
+
+
 

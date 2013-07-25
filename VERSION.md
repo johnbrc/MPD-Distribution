@@ -1,11 +1,12 @@
 # Current Version #
 
-The current version of a resource can be identified from a time stamp, located on the first and, or second page of [MPD PDF files](content/modules/files.md)
-
+The current version of MPD Resource [files](content/content.md) can be identified:
+-	From metadata at the top of editable source files written in MultiMarkdown.
+-	From a date-time stamp and version number located on the first and, or second page of PDFs.
 
 ## Version control
 
-PDFs are stamped / identified with a generated date, time and version number according to the convention: **N.n.nn**, where:
+Version numbers follow the convention: **N.n.nn**, where:
 
 -	**N = distributed version number**
 
