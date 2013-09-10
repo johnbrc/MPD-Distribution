@@ -23,3 +23,9 @@ Version numbers follow the convention: **N.n.nn**, where:
 	nn is thus, to most intents and purposes, a classic example of overkill. Or obsessive-compulsive order (sic), which may be safely be ignored, or overlooked by most collaborators.
 
 N.b. the same version numbering system is used on GitHub releases and pre-releases.
+
+
+## Further Information ##
+
+-	Return to [README](README.md)
+
