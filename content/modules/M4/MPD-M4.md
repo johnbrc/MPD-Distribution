@@ -1,5 +1,5 @@
-Version: 1.0.2
-Change: Removed redundant MMD brackets
+Version: 1.1.0 --- Feedback draft
+Change: Incorporating Reader's feedback
 LaTex input: 	mpd-textbook-header
 Title: 	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -16,16 +16,7 @@ LaTex footer:	mpd-textbook-footer
 
 # Introduction #
 
-## Topical overview ##
-
-Module 1
-: explored *God's eternal purpose*: to call into being a messianic covenant community of people, blessed by God, to be a blessing to all the families of the earth.
-
-Modules 2 and 3
-: explored *God's vocation calling* to the Messianic Community: to join him in gathering a *harvest of covenantal faithfulness* from amongst both Jewish and Gentile nations.
-
-This Module, 4
-: explores *God's commissioning* of the Messianic Community, in these four, inter-related *Studies*:
+This module explores *God's commissioning* of the Messianic Community, in four inter-related *Studies*:
 
 1.	[The Commissioning of Messianic Community]
 
@@ -35,114 +26,41 @@ This Module, 4
 
 -	[The Expansion of Messianic Community]
 
-## Module Structure ##
-
-Each *textbook* presents one *module*---of sixteen that form the [*Maize Plant Discipleship Syllabus*]. Each module incorporates four *studies* (chapters). Each study incorporates the following elements:
-
--	**Topical overview**
-
-	Including *scripture readings; scripture memorisation; significant terms* and *sectional outline*.
-
--	**Topical sections**
-
-	Between three and five *topics* and a *summary*.
-
--	**Topical discussions**
-
- 	With an option to discuss each topic (section) as completed, or as part of a series of discussions, after the whole study (chapter) is completed.
-
-## Facilitating discipleship ##
-
-Facilitators will find useful guidelines on facilitating discipleship study and discussion groups in the *Maize Plant Discipleship Handbook*---available from the same source as this booklet — see [Further information].
-
-## Maize Plant Concept ##
-
-The structure of the *Maize Plant Discipleship Syllabus* is based upon the symbolism of the maize plant — see [](#mpm):
-
-![Maize plant metaphor][mpm]
-
-[mpm]: maize-plant-metaphor.png height=400px
-
--	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
-
--	**Plant growth and multiplication** represent the *dynamic* spiritual growth and multiplication of messianic community;
-
--	**Sunlight and rainfall** represent essential spiritual *disciplines* fuelling the growth of messianic community.
-
-## Maize Plant Discipleship Syllabus ##
-
-The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
-
-1.	The Eternal Purpose of God
--	Dynamics of Vocation, The Nations
--	Dynamics of Vocation, The Jews
--	Dynamics of Commissioning
--	Dynamics of Body Membership
--	Dynamics of Revival
--	Dynamics of Truth
--	Dynamics of Intercession
--	Dynamics of Cultural Transformation
--	Disciplines of Spiritual Maturity
--	Disciplines of Running the Race
--	Disciplines of Pressing Towards our Vocation
--	Disciplines of Economic Faithfulness
--	Disciplines of Messianic Leadership
-- 	Disciplines of Living By Faith
-16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
-
-## Further information ##
-
-Further information about *Maize Plant Discipleship Resources* and the author is available online, via the world-wide web:
-
--	**Resource** http://maizeplantdiscipleship.wordpress.com/
-
--	**Author** http://jbclements.wordpress.com/
-
 # The Commissioning of Messianic Community #
 
  
 
-## Topical overview ##
+## In this study ##
 
-> **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
+> *Precis:* **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
 
-### Scripture reading [read-commission] ###
-
->	*These passages are quoted from *The Amplified Bible*---a translation that* amplifies *(enlarges, expands, explains) the meaning of underlying Hebrew, or Greek ideas*.
-
-Numbers 27:23
-:	Moses did as the Lord commanded him. He took Joshua and set him before Eleazar the priest and all the congregation and he laid his hands upon him and *commissioned* him, as the Lord commanded through Moses.
-
-2 Corinthians 2:17
-:	For we are not, like so many, like hucksters making a trade of peddling God's Word, shortchanging and adulterating the divine message; but like men of sincerity and the purest motive, as *commissioned* and sent by God, we speak His message in Christ the Messiah, in the very sight and presence of God.
-
-Galatians 1:1
-:	Paul, an apostle—a special messenger appointed and *commissioned* and sent out not from any body of men nor by or through any man, but by and through Jesus the Messiah and God the Father, Who raised Him from among the dead.
-
-Colossians 1:25
-:	For the sake of his body, which is the church... I have become its servant by the *commission* God gave me to present to you the word of God in its fulness.
-
-### Scripture memorisation ###
-
-Matthew 22:14
-:	For many are called (invited and summoned), but few are chosen
-
-1 Corinthians 9:17
-:	For if I do this work of my own free will, then I have my reward; but if it is not of my own will, but is done reluctantly and under compulsion, I am still entrusted with a sacred trusteeship and commission
-
-### Significant terms ###
-
-Commission
-:	To charge with responsibility for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*);
-:	To grant authority to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
-
-### Sectional outline ###
+### Topics ###
 
 1. [Military commissioning]
 
 2. [God's commissioning]
 
 3. [Commissioned as disciples]
+
+### Phrases ###
+
+Commission
+:	To charge with responsibility for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*);
+:	To grant authority to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
+
+### Scripture ###
+
+Read the following passage aloud together; look out for when and how processes of *commissioning* occur:
+
+- Numbers 27:23
+- 2 Corinthians 2:17
+- Galatians 1:1
+- Colossians 1:25
+
+Memorise the following passages, in preparation for your next meeting:
+
+- Matthew 22:14
+- 1 Corinthians 9:17
 
 ## Military commissioning ##
 
@@ -1336,11 +1254,73 @@ Related to [*Missional movements*]
 
 - 	What are you prepared to invest in helping to establish a discipleship movement?
 
-# Completion #
+# Back matter #
 
 You have completed *Module 4: The Dynamic of Commissioning*.
 
 >	**Well done!**
+
+## Maize Plant Concept ##
+
+The *Maize Plant Discipleship Syllabus* is symbolically structured to reflect the metaphor of maize plants — see [](#mpm). 
+
+Representing messianic community with maize reminds us that multiplying is not an end in itself: we are also called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
+
+![Maize plant metaphor][mpm]
+
+[mpm]: maize-plant-metaphor.png height=400px
+
+-	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
+
+-	**Plant growth and multiplication** represent the *dynamic* spiritual growth and multiplication of messianic community;
+
+-	**Sunlight and rainfall** represent essential spiritual *disciplines* fuelling the growth of messianic community.
+
+## Maize Plant Discipleship Syllabus ##
+
+The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
+
+1.	The Eternal Purpose of God
+-	Dynamics of Vocation, The Nations
+-	Dynamics of Vocation, The Jews
+-	Dynamics of Commissioning
+-	Dynamics of Body Membership
+-	Dynamics of Revival
+-	Dynamics of Truth
+-	Dynamics of Intercession
+-	Dynamics of Cultural Transformation
+-	Disciplines of Spiritual Maturity
+-	Disciplines of Running the Race
+-	Disciplines of Pressing Towards our Vocation
+-	Disciplines of Economic Faithfulness
+-	Disciplines of Messianic Leadership
+- 	Disciplines of Living By Faith
+16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
+
+## Using this textbook resource ##
+
+- Each *textbook* presents one of the 16 modules forming the [*Maize Plant Discipleship Syllabus*]. 
+
+- Each *module* incorporates four studies (chapters). 
+
+- Each *study* incorporates an introduction; scripture readings; between three and five topics (sections); a summary and topical questions to prompt group discussion.
+
+	The discussion questions may be used to facilitate a discussion either:
+
+	- on a topic-by-topic basis, as each topic (section) as completed, or 
+	- all together, after completing the whole study (chapter).
+
+## Facilitating discipleship ##
+
+Facilitators will find useful guidelines, as well as valuable background information, about how to appropriately facilitate discipleship study and discussion groups in the *Maize Plant Discipleship Handbook* — available from the same source as this booklet — see [Further information].
+
+## Further information ##
+
+Further information about *Maize Plant Discipleship Resources*, its origin and author is available via the following websites:
+
+-	*Resources* http://maizeplantdiscipleship.wordpress.com/
+
+-	*Author* http://jbclements.wordpress.com/
 
 [^cf1]: *Missio Dei*---an increasingly widespread theological concept; broadly equivalent with *God's eternal purpose* (Module 1).
 
