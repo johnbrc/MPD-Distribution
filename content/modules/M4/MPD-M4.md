@@ -1,5 +1,6 @@
-Version: 1.1.0 --- Feedback draft
+Version: 1.1.1 --- Feedback draft
 Change: Incorporating Reader's feedback
+Relocated introductory chapter to end of textbook
 LaTex input: 	mpd-textbook-header
 Title: 	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -13,18 +14,6 @@ Base Header Level:	2
 LaTeX Mode:	memoir
 LaTex input:	mpd-textbook-document
 LaTex footer:	mpd-textbook-footer
-
-# Introduction #
-
-This module explores *God's commissioning* of the Messianic Community, in four inter-related *Studies*:
-
-1.	[The Commissioning of Messianic Community]
-
--	[The Strategies of Messianic Community]
-
--	[The Structures of Messianic Community]
-
--	[The Expansion of Messianic Community]
 
 # The Commissioning of Messianic Community #
 
@@ -50,17 +39,20 @@ Commission
 
 ### Scripture ###
 
-Read the following passage aloud together; look out for when and how processes of *commissioning* occur:
+Read these passages aloud together:
 
 - Numbers 27:23
 - 2 Corinthians 2:17
 - Galatians 1:1
 - Colossians 1:25
 
-Memorise the following passages, in preparation for your next meeting:
+Read and memorise these passages, in time for your next meeting:
 
-- Matthew 22:14
-- 1 Corinthians 9:17
+Matthew 22:14
+:	For many are called (invited and summoned), but few are chosen
+
+1 Corinthians 9:17
+:	For if I do this work of my own free will, then I have my reward; but if it is not of my own will, but is done reluctantly and under compulsion, I am still entrusted with a sacred trusteeship and commission
 
 ## Military commissioning ##
 
@@ -183,7 +175,7 @@ This concludes the study, *The Commissioning of the Messianic Community*, which:
 
 -	Compared military service with messianic discipleship, highlighting similarities relating to obedience, faithfulness and reward.
 
-In summary, the study revealed how
+In summary, the study revealed that
 
 > 	**The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
 
@@ -197,9 +189,9 @@ In summary, the study revealed how
 
 Related to [*Military commissioning*]
 
->	**Discuss how the rigorous discipline of military *soldiering* differs from the challenges of civilian life.**
+>	**Discuss how the rigours of military *soldiering* and its disciplines differ from the challenges of civilian life.**
 
--	How helpful is the military metaphor of *soldiering* with respect to Christian discipleship in your context?
+-	How helpful is the military metaphor of *soldiering* with respect to Christian discipleship in the context of your culture and your personal life?
 
 ### Commissioning [commissioning-discussion] ###
 
@@ -207,7 +199,7 @@ Related to [*God's commissioning*]
 
 >	**Discuss one thing relating to the idea of *commissioning* that you have considered for the first time, during this study**.
 
-- 	How might this idea help the development of the Christian community in your local, or national context?
+- 	How might this idea help the development of the Christian community in your locale, or national context?
 
 ### Selection ###
 
@@ -229,11 +221,33 @@ Related to [*Commissioned as disciples*]
 
  
 
-## Topical overview ##
+## In this study ##
 
->	**Scripture reveals a series of strategic steps empowering the mission of the Messianic community**
+>	**Scripture reveals a series of five primary strategies empowering the mission of the Messianic community**
 
-### Scripture reading ###
+### Topics ###
+
+1. [The strategy of praying] 
+2. [The strategy of reaching] 
+3. [The strategy of discipling] 
+4. [The strategy of teaching] 
+5. [The strategy of sending] 
+
+### Phrases ###
+
+Commission
+:	*What* needs to be achieved; 
+
+	i.e. a task, a goal, a trust, a duty;
+
+Strategy
+:	*How* a commission may be conducted effectively; 
+
+	i.e. a method; a plan of action, directing choices and priorities.
+
+### Scripture ###
+
+Read these passages aloud together.
 
 -	Matthew 9:35-38
 -	Mark 16:15-18
@@ -243,37 +257,17 @@ Related to [*Commissioned as disciples*]
 -	Acts 26:17-18
 -	Hebrews 5:11-14
 
-### Scripture memorisation ###
+Read and memorise these passages, in time for your next meeting:
 
-John 20:21
+- John 20:21
 : Peace to you! (*Shalom, alecheim!*) Just as the Father has sent me forth, so I am sending you.
 
 Matthew 28:19-20
 : Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit... teaching them to obey everything that I have commanded you.
 
-### Significant terms ###
-
-Commission
-:	*What* needs to be achieved; 
-
-	i.e. a task, a goal, a trust, a duty;
-
-Strategy
-:	*How* a commission may be undertaken effectively; 
-
-	i.e. a method; a plan of action, directing choices and priorities.
-
-### Sectional outline ###
-
-1. [The strategy of praying] 
-2. [The strategy of reaching] 
-3. [The strategy of discipling] 
-4. [The strategy of teaching] 
-5. [The strategy of sending] 
-
 ## The strategy of praying ##
 
-The foundational strategic step is *prayer* ([](#pray)).
+The foundational strategy of mission is *prayer* ([](#pray)).
 
 ![Foundational strategy: prayer][pray]
 
@@ -294,9 +288,9 @@ In the gospels, as Jesus proclaims the Kingdom of God, throughout Israel, he enc
 
 ### A harvesting problem ###
 
-When Jesus likens bewildered people to a rich harvest, ready to be gathered, he is not describing a problem with the harvest. The problem he describes is a shortage of labourers ready and willing to gather the harvest. 
+When Jesus likens bewildered people to a rich harvest, ready to be gathered, he is not describing a problem with the harvest. The problem he describes is a shortage of labourers ready and willing to gather the harvest. In other words: a shortage of trained disciples, ready to be commissioned into service. 
 
-How does Jesus' teach his disciples to respond to this challenge? He points them directly towards the foundational strategy of all mission:
+How does Jesus' teach his disciples to respond to this challenge? He points them directly towards the foundational strategy of mission:
 
 > 	***Pray to the Lord of the harvest***.
 
@@ -360,7 +354,7 @@ The forming of disciples is the very heart and centre of messianic community and
 
 Discipleship deals with something deeper than the mind: our hearts, the centre of our being, the seat of our motivation, our willpower, our commitment. 
 
--	Authentic discipleship renews a person's heart, as new allegiances, loyalties and practical priorities are adopted and owned.
+-	Authentic discipleship renews a person's heart, as new allegiances, loyalties and practical priorities are adopted and applied.
 
 - 	Through discipleship we are challenged to become wholly aligned with God's eternal and vocational purposes and to serve a new Master.
 
@@ -517,11 +511,11 @@ As each generation of disciples follow these strategies, the cyclical process ([
 
 Related to [*The strategy of praying*] 
 
->	**Discuss ways of making prayer into a strategic, practical priority**.
+>	**Discuss practical habits that could help prayer be established as a strategic priority**.
 	
-- 	What difficulties have you previously encountered in making prayer a practical priority?
+- 	What difficulties have you encountered in making prayer a practical priority?
 	
-- 	Are you ready to commit to any of the strategic, practical actions that you have discussed?
+- 	What is your strategic response to the practical actions that you have discussed? 
 
 ### Reconciliation ###
 
@@ -539,11 +533,12 @@ Related to [*The strategy of discipling*]
 
 >	**Discuss things to which you recognise your heart is devoted. Be honest**.
 
-- 	Are you whole-heartedly committed to being available to serve God's kingdom purposes, in whatever way he calls you?
+- 	In what ways do you recognise you might be sidetracked from a whole-hearted commitment to serving God's purposes?
+
 
 ### Teaching ###
 
-Related to [*The strategy of teaching*] 
+Related to [*The strategy of teaching*]
 
 >	**Discuss your personal experiences of what is referred to as the *strong meat* of God's word**.
 
@@ -551,9 +546,9 @@ Related to [*The strategy of teaching*]
 
 ### Sending ###
 
-Related to [*The strategy of sending*] 
+Related to [*The strategy of sending*]
 
->	**Discuss what it means to be sent---including whether it is something that happens once, regularly, or continuously**
+>	**Discuss what it means to be sent—including whether it is something that happens once, regularly, or continuously.**
 
 - 	What is the role of the Holy Spirit in sending the whole Messianic Community? 
 
@@ -791,11 +786,11 @@ Paul also compares the apostolic missionary role to that of a *skilful architect
 
 ### First in the church  ###
 
-Through these *pioneering* roles, of ambassador and architect, apostles are rightly considered *first* amongst the Messianic Community.[^cf33] Yet Paul identifies his apostolic, missionary service with being *put on display at the end of the procession*.[^cf34] 
+Through these *pioneering* roles, of ambassador and architect, apostles are rightly considered *first* amongst the Messianic Community.[^cf33] Yet Paul, as one who experienced many trials and tribulations in his apostolic work[^cf34], identifies his apostolic, missionary service with being *put on display at the end of the procession*.[^cf35] 
 
--	Paul, as one who experienced many trials and tribulations in his apostolic work[^cf35], is referring to the need for apostolic missionaries to be ready to persevere in the face of all kinds of difficult challenges, even embracing humiliation where necessary, for the furtherance of the message of the Messiah.
+-	Paul is referring to the need for apostolic missionaries to be ready to persevere in the face of all kinds of difficult challenges, even embracing humiliation where necessary, for the furtherance of the message of the Messiah.
 
--	Thus, through their sacrificial dedication, endurance of suffering, embrace of humility and deep-seated reliance upon the power of the Holy Spirit, apostolic, missionary workers provide a profound example, to the whole Messianic Community, of our shared calling to faithful missional service[^cf36].
+-	Through such sacrificial dedication, endurance of suffering, embrace of humility and deep-seated reliance upon the power of the Holy Spirit, apostolic workers represent a profound example to the whole Messianic Community, of our *shared calling* to faithful missional service[^cf36].
 
 ### Summary: Pioneering in power ###
 
@@ -1254,7 +1249,7 @@ Related to [*Missional movements*]
 
 - 	What are you prepared to invest in helping to establish a discipleship movement?
 
-# Back matter #
+# Information #
 
 You have completed *Module 4: The Dynamic of Commissioning*.
 
@@ -1262,19 +1257,21 @@ You have completed *Module 4: The Dynamic of Commissioning*.
 
 ## Maize Plant Concept ##
 
-The *Maize Plant Discipleship Syllabus* is symbolically structured to reflect the metaphor of maize plants — see [](#mpm). 
-
-Representing messianic community with maize reminds us that multiplying is not an end in itself: we are also called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
+The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of maize plants — see [](#mpm). 
 
 ![Maize plant metaphor][mpm]
 
 [mpm]: maize-plant-metaphor.png height=400px
+
+In the metaphor: 
 
 -	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
 
 -	**Plant growth and multiplication** represent the *dynamic* spiritual growth and multiplication of messianic community;
 
 -	**Sunlight and rainfall** represent essential spiritual *disciplines* fuelling the growth of messianic community.
+
+Representing messianic community with maize reminds us that multiplying is not an end in itself: the Messianic Community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
 
 ## Maize Plant Discipleship Syllabus ##
 
@@ -1297,18 +1294,18 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
 - 	Disciplines of Living By Faith
 16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
 
-## Using this textbook resource ##
+## Using MPD textbook resources ##
 
-- Each *textbook* presents one of the 16 modules forming the [*Maize Plant Discipleship Syllabus*]. 
+Each MPD textbook presents one of 16 *modules* forming the [*Maize Plant Discipleship Syllabus*]. 
 
-- Each *module* incorporates four studies (chapters). 
+- Each module incorporates four *studies* (chapters). 
 
-- Each *study* incorporates an introduction; scripture readings; between three and five topics (sections); a summary and topical questions to prompt group discussion.
+- Each study incorporates: an introduction; scripture readings; three, four or five topics (sections); a summary and topical questions to prompt group discussion.
 
-	The discussion questions may be used to facilitate a discussion either:
+Topical questions may be used to facilitate a discussion either:
 
-	- on a topic-by-topic basis, as each topic (section) as completed, or 
-	- all together, after completing the whole study (chapter).
+- on a topic-by-topic basis, as each topic (section) as completed, or 
+- all together, after completing the whole study (chapter).
 
 ## Facilitating discipleship ##
 
@@ -1318,9 +1315,9 @@ Facilitators will find useful guidelines, as well as valuable background informa
 
 Further information about *Maize Plant Discipleship Resources*, its origin and author is available via the following websites:
 
--	*Resources* http://maizeplantdiscipleship.wordpress.com/
+-	**Resources** http://maizeplantdiscipleship.wordpress.com/
 
--	*Author* http://jbclements.wordpress.com/
+-	**Author** http://jbclements.wordpress.com/
 
 [^cf1]: *Missio Dei*---an increasingly widespread theological concept; broadly equivalent with *God's eternal purpose* (Module 1).
 
@@ -1360,7 +1357,7 @@ Further information about *Maize Plant Discipleship Resources*, its origin and a
 
 [^cf19]: Matthew 16:3; see also 1 Chronicles 12:32
 
-[^cf20]: We may think of culture as including the *activities, institutions, knowledge, traditions, values and motivations* of a particular nation or people group.
+[^cf20]: We may think of culture as including the *activities, institutions, knowledge, traditions, values and motivations and thought-processes* of a particular nation or people group.
 
 [^cf21]: Philippians 2:16
 
@@ -1388,9 +1385,9 @@ Further information about *Maize Plant Discipleship Resources*, its origin and a
 
 [^cf33]: 1 Corinthians 12:28
 
-[^cf34]: 1 Corinthians 4:9-13
+[^cf34]: Read 2 Corinthians 4:7-12 & 6:3-10
 
-[^cf35]: Read 2 Corinthians 4:7-12 & 6:3-10
+[^cf35]: 1 Corinthians 4:9-13
 
 [^cf36]: 1 Corinthians 6:3-10
 
