@@ -19,9 +19,9 @@ LaTex footer:	mpd-textbook-footer
 
  
 
-## In this study ##
+## Précis ##
 
-> *Precis:* **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
+> **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
 
 ### Topics ###
 
@@ -63,21 +63,21 @@ This section examines the experiences of a military solider, in order to enlarge
 A soldier's life starts
 :	when they perceive a *calling* to a life of military service. There may be many reasons why someone enlists in an army, but at some point they sense a calling towards it. 
 
-	A calling is an awareness that a particular occupation represents an attractive, or appropriate, vocation to pursue. 
+	A calling is an awareness that a particular occupation represents a desirable, compelling, or appropriate vocation to pursue. 
 
 ### Training ###
 
 A soldier's calling is tested
-:	with a period of intensive, *basic training*, which potentially equips them for a lifestyle of military service. Trainee soldiers experience all kinds of difficult trials and hardships that test discipline, teamwork, determination, competence and faithfulness to duty. During this time, the capability and characteristics of each individual are either enhanced or exposed as inadequate.
+:	with a period of intensive, *basic training*, which potentially equips them for a lifestyle of military service. Trainee soldiers experience all kinds of difficult trials and hardships that test factors including: discipline, teamwork, communication, competence, obedience, initiative, determination, loyalty. During this time, the capability and characteristics of each individual are either enhanced or exposed as inadequate.
 
-	At the end of this period, training officers decide whether each soldier has satisfactorily completed basic training. If they have failed they either undertake the training again, or leave military service.
+	At the end of this period, training officers assess whether each soldier has satisfactorily completed basic training. If they have failed they either undertake the training again, or leave military service.
 
 ### Commissioning [military] ###
 
 A soldier's commissioning
-:	represents the beginning of their *active service*, as a member of a regiment, or division of the army. They are equipped and authorised for military service, capable and ready to fulfil their duty---which includes general soldiering, as well as a personal vocation, such as *infantry, chef, driver, engineer, medic, officer*.
+:	represents the beginning of their *active service*, as a member of a regiment, or division of the army. They are equipped and authorised for military service: capable, ready and trusted to fulfil their duty—which includes general soldiering, as well as a personal vocation, such as *infantry, chef, driver, engineer, medic, officer* and so so.
 
-	In this new phase, soldiers continue to lead highly-disciplined lives and to experience difficult trials and tests. However, unlike the training phase, significant achievements are rewarded---generally, by receiving enhanced responsibility.
+	In this new phase, soldiers continue to lead highly-disciplined lives and to experience difficult trials and tests. However, unlike the training phase, significant achievements are rewarded—generally, by receiving additional tasks and responsibility.
 
 ### --- Option --- ⌥ ###
 
@@ -221,7 +221,7 @@ Related to [*Commissioned as disciples*]
 
  
 
-## In this study ##
+## Précis ##
 
 >	**Scripture reveals a series of five primary strategies empowering the mission of the Messianic community**
 
@@ -564,26 +564,20 @@ Related to [*The strategy of sending*]
 
  
 
-## Topical overview ##
+## Précis ##
 
 > 	**The messianic community has a God-ordained structure that uniquely equips it to fulfil the messianic commission**
 
-### Scripture reading ###
+### Topics ###
 
-- 	Exodus 26:30
--	2 Corinthians 5:20-21
--	Acts 13:1-4
--	Acts 19:8-11
+1.	[A combination of structures] 
+-	[Pastoral, evangelistic community] 
+-	[Teaching and training centres] 
+-	[Apostolic missionary teams] 
+-	[Prophetic mediatory role] 
+-	[Structural dynamics] 
 
-### Scripture memorisation ###
-
-Hebrews 8.5
-:	But what they are serving is only a copy and shadow of the heavenly original; for when Moses was about to erect the Tent, God warned him: *See to it that you make everything according to the pattern you were shown you on the mountain*
-
-Ephesians 4:11-16
-:	His gifts were varied; He Himself appointed and gave men to us: some to be apostles, some prophets, some evangelists, some pastors and teachers. Their task is to equip God's people for the work of service that builds the body of the Messiah, until we all arrive at the unity implied by trusting and knowing the Son of God, at full manhood, at the standard of maturity set by the Messiah's perfection[^cf23]
-
-### Significant terms ###
+### Phrases ###
 
 Pastoral
 :	From *pastor,* meaning *shepherd*---implying care, safety, protection, provision---like a good shepherd with his sheep.
@@ -600,16 +594,24 @@ Apostolic
 Structure
 :	Vocational communities organised (structured) according to purpose and function, e.g pastoral communities, teaching centres.
 
-### Sectional outline ###
+### Scripture ###
 
-1.	[A combination of structures] 
--	[Pastoral, evangelistic community] 
--	[Teaching and training centres] 
--	[Apostolic missionary teams] 
--	[Prophetic mediatory role] 
--	[Structural dynamics] 
+Read these passages aloud together:
 
-## A combination of structures ##
+- 	Exodus 26:30
+-	2 Corinthians 5:20-21
+-	Acts 13:1-4
+-	Acts 19:8-11
+
+Read and memorise these passages, in time for your next meeting:
+
+Hebrews 8.5
+:	But what they are serving is only a copy and shadow of the heavenly original; for when Moses was about to erect the Tent, God warned him: *See to it that you make everything according to the pattern you were shown you on the mountain*
+
+Ephesians 4:11-16
+:	His gifts were varied; He Himself appointed and gave men to us: some to be apostles, some prophets, some evangelists, some pastors and teachers. Their task is to equip God's people for the work of service that builds the body of the Messiah, until we all arrive at the unity implied by trusting and knowing the Son of God, at full manhood, at the standard of maturity set by the Messiah's perfection[^cf23]
+
+## Introducing the trialogue ##
 
 A *trialogue* comprises three overlapping circles. The model illustrates the dynamic interaction between the foundational structures of messianic community, which include:
 
@@ -811,19 +813,19 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 
 ## Prophetic, mediatory role ##
 
-In his letter to the Ephesians,[^cf37] Paul describes five special leadership gifts, given by the Messiah to prepare his body for works of services. The gifts of pastor, evangelist, teacher and apostle are clearly represented by one or other of the three principal structures ([](#structures)). The role of *prophet* is not. 
+In his letter to the Ephesians,[^cf37] Paul describes five special leadership gifts, given by the Messiah to prepare his body for works of services. The gifts of pastor, evangelist, teacher and apostle are clearly represented by one or other of the three principal structures that we have examined ([](#structures)). The role of *prophet* is not. 
 
-Interestingly, Paul describes the significance of the prophet as second only to that of the apostle[^cf38]. My observation is that the prophetic role is easily misunderstood and under-appreciated. This section examines how it fits with the *structural* perspective that we've been exploring.
+Interestingly, Paul describes the significance of the prophet as second only to that of the apostle.[^cf38] My observation is that the prophetic role is easily misunderstood and under-appreciated. This section examines how it fits with the *structural* perspective that we've been exploring.
 
 ### Heart of Messianic Community  ###
 
-At the centre of the trifold model is a space where the three principal structures overlap. I believe this central space can be understood and identified as representing the *prophetic heart* of messianic community, as illustrated in [](#pr).
+At the centre of the [trialogue][Introducing the trialogue] is a space where the three principal structures overlap. I believe this central space can be understood and identified as representing the *prophetic heart* of messianic community, as illustrated in [](#pr).
 
 ![Prophetic Role][pr]
 
 [pr]: propheticpriestlymediatoryrole.png height=220px
 
-The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central---even though it functions in a relatively hidden, non-structural manner[^cf39].
+The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central---even though it functions in a relatively hidden, non-structural manner.[^cf39]
 
 ### Dual mediatory role ###
 
@@ -831,7 +833,7 @@ The prophetic ministry fulfils a dual *mediatory* role of both priestly and prop
 
 #### Priestly mediation ####
 
-Priestly mediation involves speaking with God, *on behalf of human beings*, based upon a purity of heart and faithfulness of life that is able to offer effective intercession on behalf of others[^cf40].
+Priestly mediation involves *speaking with God, on behalf of human beings*, based upon a purity of heart and faithfulness of life that is able to offer effective intercession on behalf of others.[^cf40]
 
 -	Faithfully modelling, advocating and encouraging the vital mediatory work of *intercessory prayer*, sharing the intercession of the Holy Spirit.[^cf41]
 
@@ -839,7 +841,7 @@ Priestly mediation involves speaking with God, *on behalf of human beings*, base
 
 #### Prophetic mediation ####
 
-Prophetic mediation involves speaking *with human beings, on behalf of God*, based upon a particular capacity and responsibility for *hearing what the Spirit is saying to the Messianic Community*.
+Prophetic mediation involves *speaking with human beings, on behalf of God*, based upon a particular capacity and responsibility for *hearing what the Spirit is saying to the Messianic Community*.
 
 - 	Providing discernment, direction and insight---when messianic communities are embracing the challenges and responsibilities of particular contexts and historical events;
 
@@ -881,25 +883,27 @@ Having explored separately the foundational messianic structures, this final sec
 
 ### Structures and strategies ###
 
-[*The strategies of messianic community*] illustrated and explored five foundational strategies (pray, reach, disciple, teach, send), which correspond closely with the foundational structures of messianic community, explored in this study. This correspondence is displayed in [](#table1).
+[*The Strategies of Messianic Community*] illustrated and explored five foundational strategies (pray, reach, disciple, teach, send), which correspond closely with the foundational structures, explored in this study, as displayed in [](#table1).
 
 [Messianic structure, strategy and function][table1]
-|**Messianic structure**|**Strategy**|**Function**|
+|**Strategy**|**Messianic structure**|**Function**|
 |-------------------|--------|--------|
-|prophetic mediatory role|pray|picking up God's heartbeat|
+|pray|prophetic mediatory role|picking up God's heartbeat|
 
-|pastoral, evangelistic communities|reach, disciple|discipling into allegiance|
+|reach, disciple|pastoral, evangelistic communities|discipling into allegiance|
 
-|teaching and training centres|teach|equipping with truth|
+|teach|teaching and training centres|equipping with truth|
 
-|apostolic missionary teams|send|pioneering in power|
+|send|apostolic missionary teams|pioneering in power|
 
-### Structural interactions ###
+### Structural interaction ###
+
+An effective missional, discipleship movement becomes established on a biblical, messianic foundation as the divinely-ordained messianic structures function faithfully and interact dynamically with one another, in accordance with God's strategic design and purpose—as Paul wrote to the Ephesians:
 
 Ephesians 2:19b-22
-:	You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. In him the whole* structure *is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God.
+:	You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. In him the whole *structure* is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God.
 
-An effective missional, discipleship movement is established on a biblical, messianic foundation as the divinely-ordained structures of messianic community function faithfully and interact dynamically with one another, in accordance with God's strategic design and purpose. Some of the dynamic interactions suggested by such a movement are tabulated in [](#table2) and illustrated in [](#si).
+Some of the dynamic interactions suggested by such an integrated, holy movement are illustrated in [](#si) and tabulated in [](#table2).
 
 ![Structural interactions][si]
 
