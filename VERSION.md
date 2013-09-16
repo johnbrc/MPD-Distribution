@@ -1,6 +1,7 @@
 # Current Version #
 
 The current version of MPD Resource [files](content/content.md) can be identified:
+
 -	From metadata at the top of editable source files written in MultiMarkdown.
 -	From a date-time stamp and version number located on the first and, or second page of PDFs.
 
