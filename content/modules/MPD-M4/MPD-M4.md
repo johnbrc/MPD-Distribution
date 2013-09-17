@@ -1,4 +1,4 @@
-Version: 1.1.1 --- Feedback draft
+Version: 1.1.2 --- Feedback draft
 Change: Incorporating Reader's feedback
 Relocated introductory chapter to end of textbook
 LaTex input: 	mpd-textbook-header
@@ -98,7 +98,7 @@ The English word, *mission*, derives from a Latin word, *missio*, meaning *sendi
 
 -	**The New Testament reveals the Messiah, Jesus**
 
- 	As the Passover *Lamb of God*; as *apostle* and *high priest* and as *the sole expression of the glory (Shekinah) of God...the perfect imprint and very image of God's nature[^cf3]*---in every way, Jesus, the Messiah, reflects the reality that God the Father (YHVH) is a missional god.
+ 	As the Passover *Lamb of God*; as *apostle* and *high priest* and as *the sole expression of the glory (Shekinah) of God...the perfect imprint and very image of God's nature[^cf3]*---in every way, Jesus, the Messiah, reflects the reality that God the Father is a missional god.
 
 -	**The New Testament reveals the Holy Spirit**
 
@@ -152,9 +152,9 @@ Soldiers who hear and respond to a calling to military service progress to their
 
 -	Like soldiers, disciples of the Messiah need to learn the basic disciplines and specialised skills required for vocational service. 
 
-- 	Progressing from *calling* to *commissioning* requires yielding ourselves fully to the demands of vocational services: becoming disciplined and skilled in the responsibilities of our calling. 
+-	Progressing from *calling* to *commissioning* requires yielding ourselves fully to the demands of vocational service, becoming disciplined, skilled and faithful in response to our calling.
 
-- 	This is what it means to be *chosen* by the Messiah: anointed to work alongside him, bringing in a *harvest of faithfulness,[^cf11]* in the power of his Spirit.
+-	This is what it means to be *chosen* by the Messiah: anointed to work alongside him, bringing in a *harvest of faithfulness,[^cf11]* in the power of his Spirit.
 
 -	This is how we are prepared for useful service[^cf12] and enabled to become co-workers with the Messiah in his mission. 
 
@@ -197,7 +197,7 @@ Related to [*Military commissioning*]
 
 Related to [*God's commissioning*] 
 
->	**Discuss one thing relating to the idea of *commissioning* that you have considered for the first time, during this study**.
+>	**Discuss one thing relating to the idea of *commissioning* that stood out to you, during this study**.
 
 - 	How might this idea help the development of the Christian community in your locale, or national context?
 
@@ -580,7 +580,7 @@ Related to [*The strategy of sending*]
 ### Phrases ###
 
 Pastoral
-:	From *pastor,* meaning *shepherd*---implying care, safety, protection, provision---like a good shepherd with his sheep.
+:	From *pastor,* meaning shepherd---implying care, protection, provision, discipline and guidance---as a good shepherd with his sheep.
 
 Evangelistic
 :	From *evangel,* meaning *Good News*---the proclamation that the Messiah, Jesus, is Lord, especially of his covenant community.
@@ -638,7 +638,7 @@ Pastoral, evangelistic community ([](#pec)) has two functions:
 
 ### Pastoral, shepherding role ###
 
-In its pastoral, shepherding role the community reflects the protective, overseeing care that the *Good Shepherd*, Jesus, has for his people. It is demonstrated through being an *hospitable* and a *celebratory, worshipping community*.
+In its pastoral, shepherding role the community reflects the affirming, self-less, humble, protective, overseeing care that the *Good Shepherd*, Jesus, has for his people. This is demonstrated practically through being both an *hospitable* and a *celebratory, worshipping community*.
 
 #### An hospitable community ####
 
@@ -658,15 +658,15 @@ A celebratory, worshipping community demonstrates the goodness, kindness and pro
 
 ### Evangelistic, proclaiming role ###
 
-In its evangelistic, proclaiming role messianic communities reflect their confidence that the Messiah, Jesus, is Lord---over the community and spiritual and natural powers influencing human beings. This is demonstrated by being an *inviting* community and a *believing* community.
+In its evangelistic, proclaiming role messianic communities reflect their confidence that the Messiah, Jesus, is Lord---over the community and spiritual and natural powers influencing human beings. This is demonstrated by being an irresistible, *inviting* community and a compelling, *believing* community.
 
 #### An inviting community ####
 
 An inviting community reflects its evangelistic perspective by *inviting* those outside the community to join in giving *allegiance* (worship; service; faithfulness) to the Messiah.
 
--	Being inviting implies something more than offering invitations to specific events. It means living in a manner that *invites interest* from outsiders by expressing the mutuality of human community, which starts by caring for the interests of others.[^cf26]
+-	Being inviting implies something more than offering invitations to specific events. It means living in a manner that *invites interest* from outsiders through an expression of the mutuality of human community—which starts by caring for the interests of others.[^cf26]
 
--	When a community is living a devoted, obedient, *celebratory* lifestyle that is open to and welcoming towards outsiders, its lifestyle and existence becomes a practical embodiment and proclamation of the Good News.[^cf27]
+-	When a community is living a devoted, obedient, *celebratory* lifestyle that is open to and welcoming towards outsiders, its lifestyle and existence becomes a practical embodiment and proclamation of the Good News,[^cf27] which is practically irresistible to those who are seeking
 
 #### A believing community ####
 
@@ -687,9 +687,9 @@ Note
 
 Pastors and evangelists are responsible for equipping *the whole community* to express its pastoral and evangelistic nature. Thus,
 
--	Pastors are not, first and foremost, called to provide comprehensive pastoral support to community members. Nor are evangelists solely responsible for reaching people outside the community (though they may do these things).
+-	Pastors are not called to provide continuous, comprehensive pastoral support to each individual community member (an impossible task). Nor are evangelists solely responsible for reaching people outside the community—though both may do these things, at times.
 
--	They are, first and foremost, called to be encouragers, facilitators and equippers of community members, so that a *whole community* learns to mutually support one another---with hospitality and pastoral care---*and* to evangelise those outside the Messianic Community.
+-	What they are called to be is inspirers, facilitators, catalysts and equippers, whereby a *whole community* learns to mutually support one another---with hospitality and pastoral care---*and* to evangelise those outside the Messianic Community.
 
 ### Summary: Discipling into allegiance ###
 
@@ -765,9 +765,9 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 [amt]: apostolicmissionaryteams.png "Apostolic missionary teams" height=125px
 
-The function of apostolic, missionary teams is highlighted by two significant metaphors: *ambassador* and *master-builder*.
+The function of apostles and apostolic, missionary teams is highlighted by two significant metaphors: *ambassador* and *master-builder*.
 
-### Ambassadorial role ###
+### Ambassador ###
 
 International ambassadors are accredited diplomats, or emissaries, sent by a country as its official representative to a foreign country. Paul uses this concept to describe the apostolic missionary role.
 
@@ -778,11 +778,11 @@ International ambassadors are accredited diplomats, or emissaries, sent by a cou
 	- 	Political, economic and bureaucratic systems; 
 	- 	Customs, social expectations and religious sensibilities.
 
-### Master-builder role ###
+### Master-builder ###
 
-Paul also compares the apostolic missionary role to that of a *skilful architect and master builder, laying a Messianic foundation*[^cf32]. Architects and master-builders are responsible for both designing buildings and supervising their construction.
+Paul also compares the apostolic missionary role to that of a *skilful architect and master builder, laying a Messianic foundation*[^cf32]. Architects and master-builders are responsible for both designing buildings and supervising the completion of the construction—but *not* how the finished building gets utilised.
 
--	Apostolic missionary teams cross geographical and cultural boundaries in order to pioneer the formation and establishment of [pastoral, evangelistic communities][pastoral, evangelistic community] and messianic [teaching and training centres] ---particularly amongst people and places where there are no gospel communities. 
+-	Apostolic missionary teams cross geographical and cultural boundaries in order to pioneer the formation and establishment of [pastoral, evangelistic communities][pastoral, evangelistic community] and messianic [teaching and training centres]---particularly amongst people and places where there are no gospel communities. 
 
 -	In these ways, apostolic missionaries lay a messianic foundation amongst an ethnic people group, or within a particular geographical region. Because they are laying a foundation upon which others will build, the quality of their work is crucial to the future of messianic community in those places.
 
@@ -811,11 +811,11 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 -	Discuss [*Pioneering with power*], or
  -	Continue to [*Prophetic, mediatory role*] 
 
-## Prophetic, mediatory role ##
+## Prophets, priests, mediators ##
 
 In his letter to the Ephesians,[^cf37] Paul describes five special leadership gifts, given by the Messiah to prepare his body for works of services. The gifts of pastor, evangelist, teacher and apostle are clearly represented by one or other of the three principal structures that we have examined ([](#structures)). The role of *prophet* is not. 
 
-Interestingly, Paul describes the significance of the prophet as second only to that of the apostle.[^cf38] My observation is that the prophetic role is easily misunderstood and under-appreciated. This section examines how it fits with the *structural* perspective that we've been exploring.
+Interestingly, Paul describes the foundational significance of the prophet as second only to that of the apostle.[^cf38] My observation is that the prophetic role is easily misunderstood, reacted to, dismissed ad under-appreciated. This section examines how it fits with the *structural* perspective that we've been exploring.
 
 ### Heart of Messianic Community  ###
 
@@ -825,7 +825,7 @@ At the centre of the [trialogue][Introducing the trialogue] is a space where the
 
 [pr]: propheticpriestlymediatoryrole.png height=220px
 
-The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central---even though it functions in a relatively hidden, non-structural manner.[^cf39]
+The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central---even though it functions in a relatively hidden, non-structural manner.
 
 ### Dual mediatory role ###
 
@@ -833,11 +833,11 @@ The prophetic ministry fulfils a dual *mediatory* role of both priestly and prop
 
 #### Priestly mediation ####
 
-Priestly mediation involves *speaking with God, on behalf of human beings*, based upon a purity of heart and faithfulness of life that is able to offer effective intercession on behalf of others.[^cf40]
+Priestly mediation involves *speaking with God, on behalf of human beings*, based upon a purity of heart and faithfulness of life that is able to offer effective intercession on behalf of others.[^cf39]
 
--	Faithfully modelling, advocating and encouraging the vital mediatory work of *intercessory prayer*, sharing the intercession of the Holy Spirit.[^cf41]
+-	Faithfully modelling, advocating and encouraging the vital mediatory work of *intercessory prayer*, sharing the intercession of the Holy Spirit.[^cf40]
 
-- 	Facilitating, with others, a fulfilment of the Messianic Community's calling to be *a house of prayer for all nations*.[^cf42]
+- 	Facilitating, with others, a fulfilment of the Messianic Community's calling to be *a house of prayer for all nations*.[^cf41]
 
 #### Prophetic mediation ####
 
@@ -849,13 +849,13 @@ Prophetic mediation involves *speaking with human beings, on behalf of God*, bas
 
 ### God's heartbeat ###
 
-The prophetic role may also be referred to as *hearing God's heartbeat*[^cf43]. This idea communicates the spiritual intimacy that enables prophets to:
+The prophetic role may also be referred to as *hearing God's heartbeat*[^cf42]. This idea communicates the spiritual intimacy that enables prophets to:
 
 -	Walk sufficiently closely with God to discern the thoughts, feelings and intentions upon his heart;
 
 -	Share in the intercessory ministry of the Spirit;
 
--	Discern and share God's *kairos[^cf44]* word for a particular context.
+-	Discern and share God's *kairos[^cf43]* word for a particular context.
 
 Note
 : 	*Those gifted to walk prophetically with God are often sensitive personalities and may well be poets, artists, writers, visionaries or other kinds of  imaginative, inventive or creative individuals*.
@@ -939,7 +939,7 @@ This concludes the study, *The Structures of Messianic Community*, which examine
 
 -	The five foundational strategies (pray, reach, disciple, teach, send).
 
-In summary, the study revealed that:
+The study revealed that:
 
 > 	**The messianic community has a God-ordained structure that uniquely equips it to fulfil the messianic commission**
 
@@ -951,17 +951,17 @@ In summary, the study revealed that:
 
 Related to [*Pastoral, evangelistic community*]
 
->	**Discuss how people typically experience a relational allegiance to family, tribe and nation** 
+>	**Discuss how people typically experience a relational allegiance to the following groups: families; tribes; sports teams; nations.** 
 
 - 	How are alliances and allegiances formed and upheld amongst your communities?
 
-- 	What does it mean (to you) to be *allied* to the Messiah?
+- 	What does it mean (to you) to be *in alliance* with the Messiah?
 
 ### Equipping with truth ###
 
 Related to [*Teaching and training centres*] 
 
->	**Discuss how particular teaching or training courses have impacted your life**
+>	**Discuss how particular encounters with teaching or training have impacted your life**.
 
 - 	Why is it necessary to teach and train members of the Messianic Community?
 
@@ -971,7 +971,7 @@ Related to [*Teaching and training centres*]
 
 Related to [*Apostolic missionary teams*] 
 
->	**Discuss your own or others stories about challenges faced and experienced by intercultural workers**
+>	**Discuss your own or others' stories about challenges faced and experienced by intercultural workers**
 
 - 	Can an apostle pioneer new contexts alone? If possible, find examples in Scripture to support your views.
 
@@ -991,24 +991,40 @@ Related to [*Prophetic, mediatory role*]
 
 *Questions associated with [Structural dynamics]*. 
 
->	**Discuss your experiences of the different dynamic interactions illustrated in [](#di)**
+> **Discuss practical examples, either from scripture or personal experience, of the dynamic interactions illustrated in [](#dia)**
 
-- 	What examples can you give, from scripture or experience of the various interactions?
+- Which structural dynamic is most critical? Why?
 
-- 	Which of the illustrated structural dynamics is most critical?
+- Which is presently least evident amongst your own communities? Why might that be?
 
 # The Expansion of Messianic Community #
 
  
 
-## Topical overview ##
+## Précis ##
 
 > 	**The Messianic Community is intended to be a rapidly multiplying movement of disciples, constantly expanding into all the world**
 
-### Scripture reading ###
+### Topics ###
+
+This Study compares and contrasts three forms of natural *reproduction* with the *expansion of disciple-forming movements*.
+
+1. [Honey bees] 
+2. [Maize plant] 
+3. [Commercial organisations] 
+4. [Missional movements] 
+
+### Phrases ###
+
+Expansion
+:	growth, increase in size, enlargement, extension, development; spread, proliferation, multiplication
+
+### Scripture ###
+
+Read these passages aloud together:
 
 Note
-:	Observe how each passage summarises a significant period of activity, during which early Messianic communities established a missional movement of disciples*.
+:	Observe how each passage summarises a significant period of activity, during which early Messianic communities established a missional movement of disciples.
 
 -	Acts 2:42-47
 -	Acts 6:7
@@ -1017,27 +1033,13 @@ Note
 -	Acts 16.5
 -	Acts 19.20
 
-### Scripture memorisation ###
+Read and memorise these passages, in time for your next meeting:
 
 Acts 1:8
 :	But you shall receive power—ability, efficiency and might—when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and all Judea and Samaria and to the ends—the very bounds—of the earth!
 
 Acts 9.31
 : 	The Messianic community throughout Judea and Galilee and Samaria enjoyed peace and was built up. They lived in the fear of the Lord, with the counsel of the Holy Spirit; and their numbers kept multiplying
-
-### Significant terms ###
-
-Expansion
-:	growth, increase in size, enlargement, extension, development; spread, proliferation, multiplication
-
-### Sectional outline ###
-
-This Study compares and contrasts three forms of natural *reproduction* with the *expansion of disciple-forming movements*.
-
-1. [Honey bees] 
-2. [Maize plant] 
-3. [Commercial organisations] 
-4. [Missional movements] 
 
 ## Honey bees ##
 
@@ -1130,7 +1132,7 @@ Organisational growth typically happens by a process of *duplication*, which ess
 
 ### Reproduction ###
 
-Decisions to duplicate organisational structures---such as offices, factories and shops---is usually determined and closely controlled by a hierarchical structure of *command-and-control*. Buildings, budgets, payrolls and management competition often play a significant role in such decision-making processes.
+Decisions to duplicate organisational structures---such as offices, factories and shops---is usually determined and closely controlled by an hierarchical structure of *command-and-control*. Buildings, budgets, payrolls and management competition often play a significant role in such decision-making processes.
 
 ### Relocation ###
 
@@ -1157,11 +1159,11 @@ A *missional movement* represents an informally organised group of people who ar
 
 -	Whereas commercial organisations invariably exercise *hierarchical  control* over their assets---including management, brand identity, reputation and property, in particular---
 
--	A movement must focusses upon *equipping* and *sending* people that are able to operate autonomously[^cf45], mostly without significant assets, based upon agreed, shared values.
+-	A movement must focus upon *equipping* and *sending* people that are able to operate autonomously[^cf44], mostly without significant assets, based upon agreed, shared values.
 
 ### Growth ###
 
-Movements grow endlessly, organically, *wildly* as new members are discipled not only to *believe* in core values, but to *realign their lives* accordingly and *allowed opportunity* to effect their own contexts and futures. 
+Movements grow, organically, wildly, haphazardly, as new members are discipled not only to *believe* in core values, but to *realign their lives* accordingly and *allowed opportunity* to effect their own contexts and futures. 
 
 Thus, within a missional movement, member groups are essentially
 
@@ -1178,17 +1180,17 @@ John 3:8
 
 Within missional movements, as in nature, not all reproduction succeeds. Some groups will fail to mature. Others will reach maturity, but won't reproduce. Some will begin slowly, others rapidly. Some groups will evolve a new sense of identity, purpose or form as they outgrow dependence upon their original contexts---sometimes too hastily, sometimes with greater success. 
 
-Ultimately, the Holy Spirit is responsible for governing the wild growth of a missional movement:
+Ultimately, the Holy Spirit is responsible for governing the wild, haphazard growth of a missional movement:
 
 -	It is the Holy Spirit who takes hold of a *community*... that receives and takes hold of a *vision*... that launches a missional movement. 
 
--	It is the Holy Spirit who is able to direct how and where to establish our efforts and energy[^cf46]. 
+-	It is the Holy Spirit who is able to direct how and where to establish our efforts and energy[^cf45]. 
 
 -	 A Spirit-led, missional, disciple-forming movement is capable of transforming an entire nation, or region, such as the *10/40 window*, or like *East, West, North, Central*, or Southern Africa*!
 
 ### Relocation ###
 
-Throughout the world, within every people group, wherever willing hearts and available hands are found, the Holy Spirit is working to establish a community manifesting God's heart. The dynamics and disciplines that we are studying in this syllabus illustrate and demonstrate how he works amongst us, moving us onwards, towards this goal.
+Throughout the world, within every people group, wherever willing hearts and available hands are found, the Holy Spirit is working to establish a community that manifests God's heart. The dynamics and disciplines that we are studying in this syllabus illustrate and demonstrate how he works amongst us, moving us onwards, towards this goal.
 
 ### Characteristics ###
 
@@ -1251,7 +1253,7 @@ Related to [*Missional movements*]
 
 -	On balance, are discipleship movements a worthwhile investment?
 
-- 	What are you prepared to invest in helping to establish a discipleship movement?
+- 	What are you prepared to invest, what are you prepared to renounce, in order to help the establishment of a discipleship movement?
 
 # Information #
 
@@ -1399,18 +1401,16 @@ Further information about *Maize Plant Discipleship Resources*, its origin and a
 
 [^cf38]: 1 Corinthians 12:27-31
 
-[^cf39]: 1 Corinthians 12
+[^cf39]: James 5:13-19; Psalm 24:3-4; also *Module 8: The Dynamic of Intercession*.
 
-[^cf40]: James 5:13-19; Psalm 24:3-4; also *Module 8: The Dynamic of Intercession*.
+[^cf40]: Romans 8:26-27
 
-[^cf41]: Romans 8:26-27
+[^cf41]: Matthew 21:13, c.f. Isaiah 56:7
 
-[^cf42]: Matthew 21:13, c.f. Isaiah 56:7
+[^cf42]: See *Module 8: The Dynamic of Intercession*.
 
-[^cf43]: See *Module 8: The Dynamic of Intercession*.
+[^cf43]: ⌘ *Kairos* is a Greek word, referring to a particularly opportune, favourable, suitable or appropriate moment---e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:3; Acts 1:6-7; 1 Timothy 2:6; it contrasts with *chronos*, referring to fixed, measurable units of time.
 
-[^cf44]: ⌘ *Kairos* is a Greek word, referring to a particularly opportune, favourable, suitable or appropriate moment---e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:3; Acts 1:6-7; 1 Timothy 2:6; it contrasts with *chronos*, referring to fixed, measurable units of time.
+[^cf44]: In a self-governing fashion, making decisions based upon local, historical, contextual factors.
 
-[^cf45]: In a self-governing fashion, making decisions based upon local, historical, contextual factors.
-
-[^cf46]: Witness the role of the Holy Spirit, throughout *Acts*, e..g.
+[^cf45]: Witness the role of the Holy Spirit, throughout *Acts*, e..g.
