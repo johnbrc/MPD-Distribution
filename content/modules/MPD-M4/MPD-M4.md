@@ -1,5 +1,5 @@
-Version: 1.1.4 --- Feedback draft
-Change: Updated Expansion chapter
+Version: 1.1.5 --- Feedback draft
+Change: Completed
 LaTex input: 	mpd-textbook-header
 Title: 	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -456,7 +456,7 @@ The fifth strategy is *sending* disciples ([](#prdts)).
 John 20:21
 : *Shalom aleikhem!* (Peace be upon you!) Just as the Father sent me, I myself am sending you
 
-Sending represents the culmination of the strategies of messianic community: as people who have been reconciled with God, formed into disciples and taught are sent to fulfil a vocational calling, in two particular types of context:
+Sending represents the culmination of the strategies of messianic community: as people who have been reconciled with God, formed into disciples and taught are sent to fulfil a vocational calling, within:
 
 - 	Inter-cultural contexts;
 - 	Intra-cultural contexts.
@@ -465,21 +465,21 @@ In each case, God is the one who equips, empowers and sends workers, by his Spir
 
 ### Inter-cultural contexts ###
 
-Inter-cultural mission implies being sent to significantly different cultural, ethnic and geographical contexts.
+Inter-cultural mission implies being sent to significantly different cultural, ethnic and geographical contexts. 
 
-- 	It is typically highly-demanding, because of various risks and hardships related to living in and engaging with a different culture. It therefore requires specialist intercultural training, experience and understanding;
+-	Intercultural work requires specialist intercultural training, experience and understanding, because culture profoundly affects how messianic community and vocation is translated into practice.
 
--	Intercultural workers must particularly engage with challenges related to the significant linguistic and practical differences that exists between cultures, which profoundly effect how messianic community and vocation is translated into practice;
+-	Intercultural work is typically highly-demanding, because of various risks and hardships related to living in and engaging with a different culture.
 
-- 	Being sent inter-culturally is the vocation of [*apostolic missionary teams*] .
+-	Intercultural work is the vocation of [*apostolic missionary teams*].
 
 ### Intra-cultural contexts ###
 
-Intra-cultural mission implies being sent to and within our own cultural contexts, amongst our own people. 
+Because God sends the whole messianic community towards all the peoples and cultures of the world, mission is not limited to crossing geographic, ethnic or intercultural barriers. *Intra-cultural mission* recognises that the messianic community is *sent* towards the people within its own original context.
 
--	How so? By identifying with and participating in God's sending of the whole messianic community, towards the nations of the world. Intra-cultural sending implies co-operating with God's purposes and forming disciples *wherever* we are working: carrying vocational responsibility in ways that influence and transform homes, families, communities, workplaces and institutions. 
+-	Intra-cultural sending implies co-operating with God's purposes and forming disciples *wherever* we are working: carrying vocational responsibility in ways that influence and transform homes, families, communities, workplaces and institutions.
 
-- 	Whatever vocational role we occupy, each disciple should recognise how faithfulness to the Messiah's missional priorities creates opportunities to introduce messianic perspectives, biblical truths and spiritual power into our contexts.
+- 	Whatever vocational role we occupy, each disciple should recognise how faithfulness to the Messiah's missional priorities creates opportunities to introduce messianic perspectives, biblical truths and spiritual power into our personal and vocational contexts.
 
 - 	This includes participation in health-, wealth- and other worth-creating activities, such as arts, sports, media, civil service and government, which have historically been overlooked, or devalued, by some forms of Christian spirituality.
 
@@ -492,13 +492,13 @@ Intra-cultural mission implies being sent to and within our own cultural context
 
 This concludes the study, *The Strategies of Messianic Community*, which explored five foundational, missional strategies:
 
-- 	A foundation of strategic prayer;
-- 	Reconciling people with God;
-- 	Spiritual formation of disciples;
-- 	Biblical teaching of the mature;
-- 	Intra- and inter-cultural sending of missional disciples.
+- 	Foundational prayer;
+- 	Reconciliation with God;
+- 	Formation of disciples;
+- 	Teaching mature disciples;
+- 	Sending missional disciples.
 
-As each generation of disciples follow these strategies, the cyclical process ([](#cycle)) establishes an expanding missional, *movement*.
+As each generation of disciples follow these strategies, a cyclical process ([](#cycle)) begins to establish an expanding missional, *movement*.
 
 ![The strategic cycle][cycle]
 
@@ -1016,12 +1016,12 @@ This Study compares and contrasts three forms of natural *reproduction* with the
 ### Phrases ###
 
 Increase
-: refers to numerical growth, or proliferation
+: refers to numerical growth
 
 Expansion
 : refers to geographical enlargement, or extension.
 
-### Scripture ###
+### Scripture [scripture-expansion] ###
 
 Read these passages aloud together:
 
@@ -1045,39 +1045,39 @@ Acts 9.31
 
 ## Honey bees ##
 
-A bee colony is a kind of *collective organism*, because individual bees cannot survive very long outside of a colony. Each colony may contain between 2,000 and 60,000 bees, including: 
+A bee colony is a kind of *collective organism*, because individual bees cannot survive very long outside of a colony and, although there are clearly defined *roles*, there is no hierarchy or leadership. A bee colony may contain between 2,000 and 60,000 bees, including: 
 
 - a single fertile *queen bee*
 - a few thousand fertile male *drone bees*
 - several thousand non-fertile female *worker bees*
 
+![A swarm of bees][swarm]
+
+[swarm]: swarm.png "A swarm of bees" height=150px
+
 ### Increase ###
 
-A colony grows as *workers* raise thousands of new bees, born to the queen. Usually, around a queen's second springtime, a colony will prepare to *swarm* ([](#swarm)). In readiness for swarming, worker bees begin preparing new *virgin queen bees*, one of which will take over the existing hive, by killing all of the other virgin queens, after the old queen leaves with the swarm.
+A colony grows as workers raise thousands of new bees, born to the queen. Usually, around a queen's second springtime, a colony will prepare to *swarm* ([](#swarm)). In readiness for swarming, worker bees begin preparing new virgin queen bees, one of which will take over the existing hive, by killing all of the other virgin queens, after the old queen leaves with the swarm.
 
 ### Division ###
 
 When it is time for the swarm to leave the hive, *scout bees* will find a suitable place for the swarm to gather initially and report this location to the colony. Shortly afterwards, about 6 out of every 10 worker bees in the colony—usually the the most vigorous ones—swarm around the queen bee. The swarm then leaves the hive altogether, moving directly to the scouted location.
 
-![A swarm of bees][swarm]
-
-[swarm]: swarm.png "A swarm of bees" height=150px
-
 ### Expansion ###
 
-The next step is critical because swarming bees can survive on the honey in their stomachs for only 2-3 days. Scout bees must swiftly identify a suitable permanent hive location, so the swarm can form a new colony. 
+Scout bees must swiftly identify a suitable permanent hive location, so the swarm can form a new colony. This step is critical because swarming bees can survive on the honey in their stomachs for only 2-3 days. 
 
-Once a new hive is settled, the cycle of growth begins again. The old queen may not live long and must quickly start the process of repopulating the colony, including producing new *virgin queens*, ready to take over her role. 
+Once a new hive is settled, the cycle of growth begins again. The old queen may not live long and must quickly start the process of repopulating the colony, including producing new virgin queens, ready to take over her role. 
 
 ### Summary ###
 
 Thus, we observe the following characteristics of honey bees:
 
--	*Increase and expansion* —	organic, steady, cyclical; dependent on specialised roles (queen, drones, workers);
+-	**Increase and expansion** — organic, steady, cyclical; dependent on specialised roles (queen, drones, workers);
 
--	*Harvest* —	abundant honey, from plant pollen, used to feed the growing colony;
+-	**Harvest** — abundant honey, from plant pollen, used to feed the growing colony;
 
--	*Risks* —	swarming *divides* the colony, temporarily weakening both groups.
+-	**Risks** — swarming *divides* the colony, temporarily weakening both groups.
 
 ### — Option — ⌥ ###
 
@@ -1096,11 +1096,11 @@ The maize plant is a rapidly-reproducing cereal crop, with a leafy stalk, typica
 
 Maize plants grow from seeds sown into the ground. Growth begins when the seed's hard, outer shell breaks open, allowing the soft, inner kernel to access the moisture and nutrients within the soil. It immediately sprouts roots and a single stem that moves upwards, towards the surface of the soil. 
 
-Once through the surface, the plants leaves can begin photosynthesising sunlight, while its roots continue drawing on soil nutrients and moisture. In arid locations, typical of Africa, the most significant growth factor is the sufficiency of rainfall.
+Once through the surface, the plants leaves can begin photosynthesising sunlight, while its roots continue drawing on soil nutrients and moisture. In arid locations, typical of Africa, the most significant growth factor is a sufficiency of rainfall.
 
 ### Multiplication ###
 
-Each maize plant produces a number of ears, each of which typically contains 600-800 seeds.
+Each maize plant produces a number of ears, each of which typically contains 600-800 seeds. Thus, in one season, a single plant may produce thousands of seeds.
 
 ### Expansion ###
 
@@ -1110,11 +1110,11 @@ Maize plants expand into new areas through redistribution of their seeds. Becaus
 
 Thus, we observe the following characteristics of maize plants:
 
--	*Increase and expansion* — organic, rapid, fruitful; each plant potentially produces a hundred-fold multiplication of seeds, often twice a year, depending on climate and soil conditions.
+-	**Increase and expansion** — organic, rapid, fruitful; each plant potentially produces a thousand-fold multiplication of seeds, often twice a year, depending on climate and soil conditions.
 
--	*Harvest* — farmers harvest much of the seed for food, as well as for sowing.
+-	**Harvest** — farmers harvest much of the seed for food, as well as for resowing.
 
--	*Risks* — shallow roots make plants susceptible to poor soils, drought and severe winds.
+-	**Risks** — shallow roots make plants susceptible to poor soils, drought and severe winds.
 
 ### — Option — ⌥ ###
 
@@ -1148,11 +1148,11 @@ Location, format, speed and cost of expansion are generally determined by a mana
 
 Thus, we observe the following characteristics of commercial organisations:
 
--	*Expansion* —	inorganic, slow, expensive; closely managed, by hierarchically defined roles (management, workers, clients).
+-	**Expansion** — inorganic, slow, expensive; closely managed, by hierarchically defined roles (management, workers, clients).
 
--	*Harvest* —	successful duplication leads to increased profits and more managers. 
+-	**Harvest** — successful duplication leads to increased profits and more managers. 
 
--	*Risks* —	duplication typically ignores or suppresses local insight and initiative and the effect of contextual differences on the establishment of new structures.
+-	**Risks** — duplication typically ignores or suppresses local insight and initiative and the effect of contextual differences on the establishment of new structures.
 
 ### — Option — ⌥ ###
 
@@ -1161,24 +1161,17 @@ Thus, we observe the following characteristics of commercial organisations:
 
 ## Missional movements ##
 
-A *people movement* represents an informally-organised grouping of people and organisations who are dedicated to achieving shared political, social, or artistic ideas, ideals and goals. 
+A people movement
+: represents an informally-organised grouping of people and organisations, dedicated to achieving shared political, social, or artistic ideas, ideals and goals. 
 
-A *missional movement* represents an informally-organised grouping of people and organisations who are dedicated to serving God's eternal purpose.
-
-John 3:8
-:	The wind blows (breathes) where it wills; and though you hear its sound, yet you neither know where it comes from, nor where it is going. So it is with everyone born of the Spirit.
-
-Ultimately, the Holy Spirit is responsible for governing the wild, haphazard growth of a missional, discipling movement, which is capable of impacting and transforming an entire region.
-
--	It is the Holy Spirit who inspires a missional movement, by taking hold of a community, implanting in them a vision larger than any individual or single organisation.
-
--	It is the Holy Spirit who is able to direct how and where to establish our efforts and energy.[^cf43]
+A missional movement
+: represents an informally-organised grouping of people and organisations, dedicated to serving God's eternal purpose.
 
 ### Increase ###
 
-Whereas commercial organisations invariably exercise *hierarchical  control* over assets—including management, brand identity, reputation and property—a missional movement focusses upon *equipping* and *sending* people, usually without the benefit of significant assets, who operate autonomously, based upon agreed, shared values.[^cf44]
+Missional movements grow through the forming of disciples who make disciples, who make disciples (see [The Commissioning of Messianic Community] and [The Structures of Messianic Community].
 
-Missional movements thus grow as new members and groups are discipled not only to *believe* in core values, but also to *realign their lives* accordingly, in order to effect their own contexts and futures. 
+Disciples do more than simply *believe* in missional values: they *embody* core beliefs and values by realigning their lives, in order to affect their own contexts and futures — including making disciples...who make disciples...who make disciples and so on.
 
 ### Reproduction ###
 
@@ -1186,17 +1179,26 @@ Within missional movements, as in nature, not all reproduction succeeds. Some in
 
 ### Expansion ###
 
+John 3:8
+:	The wind blows (breathes) where it wills; and though you hear its sound, yet you neither know where it comes from, nor where it is going. So it is with everyone born of the Spirit.
+
+Ultimately, the Holy Spirit is responsible for governing the wild, haphazard growth of a missional, discipling movement capable of impacting and transforming whole communities, cities, regions and nations.
+
+-	It is the Holy Spirit who is able to direct how and where to establish our efforts and energies.[^cf43]
+
+-	It is the Holy Spirit who takes hold of a community, implanting a missional vision, larger than any individual or single organisation.
+
 Throughout the world, within every people group, wherever willing hearts and available hands are found, the Holy Spirit is working to establish a community that manifests God's heart. The dynamics and disciplines that we are studying in this syllabus illustrate and demonstrate how he works amongst us, moving us onwards, towards this goal.
 
 ### Summary ###
 
 Thus, we observe the following characteristics of *missional, discipling movements*:
 
--	*Increase and expansion* — produces disciples who produce disciples who produce disciples and so on; momentum increases sporadically as it ripples out from originating centres; property, budgets and payrolls, if not altogether redundant, are secondary.
+-	**Increase and expansion** — produces disciples who produce disciples who produce disciples and so on; momentum increases sporadically as it ripples out from originating centres; property, budgets and payrolls, if not altogether redundant, are secondary.
 
--	*Harvest* — transformation of individuals, households, communities, societies, cultures, nations; membership exhibits wide variety of charisma, talent and contextual influence.
+-	**Harvest** — transformation of individuals, households, communities, societies, cultures, nations; membership exhibits wide variety of charisma, talent and contextual influence.
 
--	*Risks* — unpredictable results; difficult to measure and assess accurately; groups that lose focus and faithfulness to foundational values, slow the pace of change and expansion—yet are difficult to identify and reform.
+-	**Risks** — unpredictable results; difficult to measure and assess accurately; groups that lose focus and faithfulness to foundational values, slow the pace of change and expansion—yet are difficult to identify and reform.
 
 ### — Option — ⌥ ###
 
@@ -1259,25 +1261,23 @@ You have completed *Module 4: The Dynamic of Commissioning*.
 
 ## Maize Plant Concept ##
 
-The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of maize plants — see [](#mpm). 
-
 ![Maize plant metaphor][mpm]
 
 [mpm]: maize-plant-metaphor.png height=400px
 
-In the metaphor: 
+The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of a maize plant (see [](#mpm)), whereby:
 
--	**Soil and roots** represent the biblical, covenantal community and vocation of Israel, out of which emerges the messianic, new-covenant community and vocation;
+-	**Soil and roots** represent the biblical, covenantal community, context and vocation of Israel, from which emerges the messianic, new-covenant community and vocation;
 
 -	**Plant growth and multiplication** represent the *dynamic* spiritual growth and multiplication of messianic community;
 
--	**Sunlight and rainfall** represent essential spiritual *disciplines* fuelling the growth of messianic community.
+-	**Sunlight and rainfall** represent essential spiritual *disciplines* that fuel the growth of messianic community.
 
-Representing messianic community with maize reminds us that multiplying is not an end in itself: the Messianic Community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+Representing messianic community with maize reminds us that the Messianic Community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
 
 ## Maize Plant Discipleship Syllabus ##
 
-The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
+The *Maize Plant Discipleship Syllabus* incorporates sixteen modules, with a corresponding handbook:
 
 1.	The Eternal Purpose of God
 -	Dynamics of Vocation, The Nations
@@ -1296,26 +1296,25 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules:
 - 	Disciplines of Living By Faith
 16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
 
-## Using MPD textbook resources ##
+## Maize Plant Discipleship handbook ##
 
-Each MPD textbook presents one of 16 *modules* forming the [*Maize Plant Discipleship Syllabus*]. 
+Maize Plant Discipleship handbooks are primarily intended to facilitate group learning and discussion, based upon a series of scripture readings and topical studies. 
 
-- Each module incorporates four *studies* (chapters). 
+- Each handbook, or module, incorporates four interrelated *Studies*.
 
-- Each study incorporates: an introduction; scripture readings; three, four or five topics (sections); a summary and topical questions to prompt group discussion.
+- Each study incorporates: a précis; scripture readings; three to five topical sections and a summary.
 
-Topical questions may be used to facilitate a discussion either:
+- Each study has a corresponding set of questions to facilitate group discussions, either topic-by-topic (section-by-section), or when the entire study (chapter) is completed.
 
-- on a topic-by-topic basis, as each topic (section) as completed, or 
-- all together, after completing the whole study (chapter).
+Accordingly, Maize Plant Discipleship resources don't rely upon the presence of a qualified leader, teacher, or theologian—but rather upon facilitators willing to co-ordinate study groups and discussions — see [][Facilitating discipleship].
 
 ## Facilitating discipleship ##
 
-Facilitators will find useful guidelines, as well as valuable background information, about how to appropriately facilitate discipleship study and discussion groups in the *Maize Plant Discipleship Handbook* — available from the same source as this booklet — see [Further information].
+The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on appropriately facilitating discipleship study and discussion groups, as well as valuable information about the origin and background of Maize Plant Discipleship. It is available from the same source as this booklet — see [][Further information].
 
 ## Further information ##
 
-Further information about *Maize Plant Discipleship Resources*, its origin and author is available via the following websites:
+Additional information about *Maize Plant Discipleship* is available via the following websites:
 
 -	**Resources** http://maizeplantdiscipleship.wordpress.com/
 
@@ -1405,6 +1404,4 @@ Further information about *Maize Plant Discipleship Resources*, its origin and a
 
 [^cf42]: ⌘ *Kairos* is a Greek word, referring to a particularly opportune, favourable, suitable or appropriate moment---e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:3; Acts 1:6-7; 1 Timothy 2:6; it contrasts with *chronos*, referring to fixed, measurable units of time.
 
-[^cf43]: Witness the role of the Holy Spirit, throughout *Acts*.
-
-[^cf44]: Autonomous implies a high degree of freedom to make decisions based upon local, historical, contextual factors, but does not imply a lack of accountability for those decisions.
+[^cf43]: Witness the role of the Holy Spirit, throughout *Acts* (see Scripture readings, [][Scripture-expansion])
