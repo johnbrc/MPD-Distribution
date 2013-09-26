@@ -1,5 +1,5 @@
-Version: 1.1.5 --- Feedback draft
-Change: Completed
+Version: 1.2 --- Copyediting draft
+Change: —— Completed (-->Editorially) ——
 LaTex input: 	mpd-textbook-header
 Title: 	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -576,7 +576,7 @@ Related to [*The strategy of sending*]
 -	[Teaching and training centres] 
 -	[Apostolic missionary teams] 
 -	[Prophets, priests, mediators] 
--	[Structural dynamics] 
+-	[Structures and strategies]
 
 ### Phrases ###
 
