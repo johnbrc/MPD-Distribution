@@ -6,7 +6,7 @@ Collaboration is welcomed and invited by the author.
 
 Information for those enlisted, or volunteering, to review content: 
 
--	[Reading](reading/reading.md)
+-	[Reviewing](reviewing/reviewing.md)
 
 ## Other  ##
 
