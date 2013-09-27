@@ -267,7 +267,9 @@ Matthew 28:19-20
 
 ## The strategy of praying ##
 
-The foundational strategy of mission is *prayer* ([](#pray)). ![Foundational strategy: prayer](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray.png "Prayer" height=35px) .
+The foundational strategy of mission is *prayer* ([](#pray)). 
+
+![Foundational strategy: prayer](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray.png "Prayer" height=35px)
 
 ### Strategic prayer ###
 
