@@ -5,7 +5,7 @@
 -	Facilitators' [Handbook](handbook/handbook.md)
 - 	Syllabus  [Modules](modules/syllabus.md)
 
- Module files are located in a folder, M*n*, where *n* is the module number (e.g. M4).
+ Module files are located in a folder, MPD-M*n*, where *n* is the module number (e.g. MPD-M4).
 
 ## Filenames ##
 
