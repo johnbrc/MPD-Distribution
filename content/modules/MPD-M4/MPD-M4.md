@@ -1,5 +1,5 @@
-Version: 1.2 --- Copyediting draft
-Change: —— Completed (-->Editorially) ——
+Version: 2 --- Copyediting draft
+Change: —— Authorised for Copyediting (@ATaplin)——
 LaTex input: 	mpd-textbook-header
 Title: 	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -276,7 +276,7 @@ The foundational strategy of mission is *prayer* ([](#pray)).
 
 ### Strategic prayer ###
 
-*Strategic prayer* is prayer that  is not an afterthought, or a response to crisis. It is a forward-thinking, planned priority. As communities and as individuals, before reaching out towards others, we need to first spend time in prayer, so that God may begin to deal with our faults and empower us with his Spirit.
+*Strategic prayer* is prayer that is not an afterthought, or a response to crisis. It is a forward-thinking, planned priority. As communities and as individuals, before reaching out towards others, we need to first spend time in prayer, so that God may begin to deal with our faults and empower us with his Spirit.
 
 ### A plentiful harvest ###
 
@@ -808,7 +808,7 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 ### — Option — ⌥ ###
 
 -	Discuss [*Pioneering with power*], or
- -	Continue to [*Prophetic, mediatory role*] 
+ -	Continue to [*Prophets, priests, mediators*] 
 
 ## Prophets, priests, mediators ##
 
@@ -872,7 +872,7 @@ The prophetic role is easily overlooked or misunderstood, because of its relativ
 ### — Option — ⌥ ###
 
 -	Discuss [*Picking up God's heartbeat*], or
- -	Continue to [*Structural dynamics*]
+ -	Continue to [*Structural interaction*]
 
 ## Structural interaction ##
 
@@ -893,7 +893,7 @@ Having explored separately the foundational messianic structures, this final sec
 
 |send|apostolic missionary teams|pioneering in power|
 
-### Structural interaction ###
+### Structural interactions ###
 
 An effective missional, discipleship movement becomes established as divinely-ordained messianic structures learn to function faithfully and interact dynamically with one another, in accordance with God's strategic design and purpose. 
 
