@@ -3,7 +3,7 @@
 *MPD Resource* is designed for publication as a series of low-cost textbooks. It is also being made available in a variety of other digital formats, to facilitate widespread accessibility. The principal resource incorporates the following:
 
 -	Facilitators' [Handbook](handbook/handbook.md)
-- 	Syllabus  [Modules](modules/modules.md)
+- 	Syllabus  [Modules](modules/syllabus.md)
 
  Module files are located in a folder, M*n*, where *n* is the module number (e.g. M4).
 
