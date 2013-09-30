@@ -23,5 +23,5 @@ MPD Syllabus incorporates sixteen modules, each of which will have associated re
 
 ### Further Information ###
 
--	Return to [README](../../README.md)
+-	Return to [README](../README.md)
 
