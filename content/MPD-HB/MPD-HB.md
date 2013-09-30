@@ -1,8 +1,8 @@
-Version: 0 --- Author's draft ---
-Change: —— Post-doctoral draft ——
+Version: 0.1 --- Author's draft ---
+Change: —— post-doctoral re-draft ——
 LaTex input: 	mpd-textbook-header
-Title: 	The Dynamic of Commissioning
-Subtitle:	Maize Plant Discipleship Module 4
+Title: 	Facilitators' Handbook
+Subtitle:	Maize Plant Discipleship Handbook
 Author:	Dr John B Clements
 Email: 	clements.jb@gmail.com
 Web: 	http://maizeplantdiscipleship.wordpress.com
