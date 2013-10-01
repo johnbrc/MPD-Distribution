@@ -10,29 +10,11 @@ Each module is made available as a range of [Read-Only Files] files and a single
 -	MPD 	— Maize Plant Discipleship resource file
 -	Mn 	— Module number *n*
 
-<<<<<<< HEAD
-Principal filenames have (up to) three parts, separated by hyphens, followed by a **Filetype** abbreviation
-=======
 Thus, for example, MPD-M4 refers to Module 4.  
->>>>>>> current
 
 ## Read-Only Files ###
 
-<<<<<<< HEAD
-Thus, for example:
-
--	A5-sized PDF textbook of module 4 is named: MPD-M4-A5.pdf
-
-## Filetype ##
-
-Each module is made available as a range of **Read-Only Files** and a single **Editable Source File**.
-
-### Read-Only Files ###
-
-Read-only files are provided for review and printing.
-=======
 Distributable read-only files are provided for review and printing.
->>>>>>> current
 
 -	**PDF — Portable Document Format** (*.pdf)
 
@@ -49,7 +31,7 @@ Distributable read-only files are provided for review and printing.
 
 ## Editable Source File ###
 
-Source files written in *MultiMarkdown* and are used to generate a range of **Read-Only Files**. They are are mainly of interest to translators and contributors. 
+Source files are mainly of interest to translators and contributors. They are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files]. 
 
 -	**MMD — MultiMarkdown** (*.md) 
 
