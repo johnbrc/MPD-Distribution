@@ -1,4 +1,4 @@
-# Content #
+# Content 
 
 *MPD Resource* is designed for publication as a series of low-cost handbooks. The intention is to also make content available in a variety of digital formats that facilitate widespread accessibility. The resource incorporates the following:
 
@@ -12,7 +12,7 @@ Each module is made available as a range of [Read-Only Files] files and a single
 
 Thus, for example, MPD-M4 refers to Module 4.  
 
-## Read-Only Files ###
+## Read-Only Files 
 
 Distributable read-only files are provided for review and printing.
 
@@ -29,7 +29,7 @@ Distributable read-only files are provided for review and printing.
 	Readable by a wide range of e-readers, these files are included as a *boon*, as the current format output is largely unreviewed.
 
 
-## Editable Source File ###
+## Editable Source File
 
 Source files are mainly of interest to translators and contributors. They are written in *MultiMarkdown* and are used to generate a range of [Read-Only Files]. 
 
@@ -42,7 +42,7 @@ Source files are mainly of interest to translators and contributors. They are wr
 	I am presently experimenting with [Editorially] online publishing workflow, which incorporates Markdown editing, along with collaborative editing and review tools.
 
 
-## Further Information ##
+## Further Information 
 
 -	Return to [README](../README.md)
 
