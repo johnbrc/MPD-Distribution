@@ -1,5 +1,6 @@
-Version: 0.1 --- Author's draft ---
-Change: —— post-doctoral re-draft ——
+Version: 0.1.2 --- Author's draft ---
+Change: —— Author's revisions ——
+—— Syllabus (Ch2) ——
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -14,8 +15,8 @@ LaTeX Mode:	memoir
 LaTex input:	mpd-textbook-document
 LaTex footer:	mpd-textbook-footer
 
-
-Handbook for Facilitating  a Process of 
+**
+**Handbook for Facilitating  a Process of 
 Maize Plant  Discipleship
 A Series of  Discipleship Manuals Designed for Use in African Contexts
 
@@ -31,60 +32,55 @@ Dedicated to: Absent Friends
 
 # Introduction #
 
-MAIZE PLANT DISCIPLESHIP represents a learning resource, which has been taught, researched, formulated, written, revised and published with African leaders and learners in heart and mind and prayer at each point of it's development.
+*MAIZE PLANT DISCIPLESHIP* represents a learning resource, which has been taught, researched, formulated, written, revised and published with African leaders and learners in heart and mind and prayer at each point of it's development.
+
+## In this Handbook ##
+
+This Handbook provides guidelines for people facilitating a group study, exploration and discussion of *Maize Plant Discipleship* (hereafter, MPD).
+
+-	[Discipleship][] explores biblical and missional perspectives of Christian discipleship;
+
+-	[Syllabus][] introduces the metaphor of the maize plant and an overview of the sixteen modules that constitute the MPD *Syllabus*;
+
+-	[Facilitating][] focusses upon practical insights and suggestions for facilitating contextually appropriate learning and group processes;
+
+-	[Publication] examines practical issues relating to publication, including: licensing, translation, printing, distribution and remuneration.
 
 ----
 
 ## Background ##
 
-The body of teaching represented by this syllabus originated as a mobile school of mission taught itinerantly within Kenya and Burkina Faso. My goal was to 
+The body of teaching represented by this syllabus originated as a *mobile school of mission* taught itinerantly within Kenya and Burkina Faso. The author's goal was to* 
 
-> ...take the teacher to the leaders, rather than bringing the leaders to the teacher, saving the resources of those least able to spare them.
+> ...take the teacher to the leaders, rather than bringing the leaders to the teacher, saving the resources of those least able to spare them*.
 
-Recently, the teaching has been developed as part of a doctoral research program, with the aim of publishing a set of short, modular textbooks appropriate[^cf1] to leaders and learners within Burkina Faso, West Africa.
+Recently, the teaching has been developed as part of a doctoral research program, with the aim of publishing a set of short, modular handbooks, appropriate[^cf1] to leaders and learners within Burkina Faso, West Africa.
 
-### A book famine ###
+----
 
-Compared to the rest of the world, there has been a relative famine of book publishing within Africa, for many years. Resources that will serve to edify, disciple and inspire Christian communities have been particularly sparse within francophone Africa. 
+### Rapid expansion of African Christianity ###
 
-Books that are published are typically protected by a copyright strictly prohibiting reproduction. This protects the commercial interests of authors, book publishers, distributers and retailers. And it results in books being sold at commercial prices that discourage, if not prohibit, the economically poor from purchasing them. 
+Over the past several decades, the African Christian community has multiplied and expanded significantly. So much so that the effective centre of gravity of the global Christian community can now be located in Africa. 
 
-This system also distances the entire process of publication from writers and teachers and so has little effect in encouraging new writers and teachers to seek publication of their own work.
+At the same time as this extraordinary growth, there has been a relative shortage of book publishing within Africa, over an extended period. Resources serving to edify, disciple and inspire Christian communities are especially sparse in Francophone Africa. 
 
-### A new philosophy ###
+With regard to books that are distributed, two issues are significant. Firstly, many are imports or translations of books written for Christians in different (generally Western) cultural contexts, where quite different questions and cultural values are considered significant.
 
-The Maize Plant Discipleship Curriculum is being published in a different way, with a different philosophy at its heart. 
+Secondly, copyright prohibits reproduction. This protects the commercial interests of authors, book publishers, distributers and retailers, but results in books being practically unattainable to the economically poor—including many pastors, who are hungry for resources to enrich their vocational work.
 
-It is not the product of a commercial publishing venture. Instead it is published with a philosophy that seeks to be consistent with the missional, vocational values espoused within the Curriculum. In other words, it's priority is to help in practically facilitating widespread Christian discipleship. 
+### A new publishing philosophy ###
 
->	Accordingly, these text books are being provided with a licence that freely allows anyone to reproduce the books without paying any licensing costs to authors or publishers. 
+The Maize Plant Discipleship Curriculum is intentionally being published in a different way, with a different philosophy at its heart. 
 
-The intention is to enable African leaders to take ownership of how the Curriculum is employed and, in this way, facilitate forms of discipleship training that are most appropriate to African contexts.
+- A philosophy consistent with the missional, vocational values espoused within the [MPD Syllabus], the intention is practically facilitate and foster a widespread adoption of Christian discipleship praxis.
 
->	The license is printed in full at the end of the book. 
+- It is not a commercial publishing venture. Instead, the content of MPD handbooks is made available to all via a free-at-source license, allowing books to be reproduced without breaching copyright. 
 
-It stipulates that in any reproduction, the original author, and translators, remain identified as such and that the licence remains part of the publication — this allows others to also take the decision to reproduce further texts. 
+- The goal is to enable African leaders to take ownership of how the Curriculum is employed and, in this way, facilitate forms of discipleship training that are most appropriate to African contexts.
 
-In this way, the license respects and maintains the personal copyright of the author, but releases the grip on the publication process. 
+> The [licence][Licensing] stipulates that in any reproduction, the original author, and translators, must remain identified as such and that the licence must remain part of the publication. 
 
-### A related hope ###
-
-A related hope is that, once this model is practically demonstrated and proven, it may inspire others to think and act according to a new perspective:
-1.	Burkinabé churches, organisations and agencies may take initiative to reproduce MPD text books according to their own vocational purposes, including translating them into other languages; 
--	Burkinabé teachers and writers will recognise a publishing model able to work for them;
--	Other cross-cultural teachers and writers may decide to release their own work under a similar, free licence.
-
-## In this Handbook ##
-
-This Handbook provides guidelines for persons organising and convening Maize Plant Discipleship (hereafter, MPD) processes, on behalf of a group. 
-
--	Chapter 1 explores the topic of discipleship, from a biblical and missional perspective;
-
--	Chapter 2 introduces the Maize Plant Discipleship Syllabus;
-
--	Chapter 3 focusses upon practical insights and suggestions for facilitating contextually appropriate groups and learning processes;
-
--	Chapter 4 incorporates 
+In this way, the license respects and maintains the personal copyright of the author, but releases the traditionally tight grip of copyright owners and publishers, upon reproduction and printing.
 
 ----
 
@@ -194,124 +190,155 @@ JOHN 12:24
 Paul, 2 Corinthians 9:10
 : May he who supplies seed to the sower and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness
 
-## Metaphor of the Maize Plant ##
+## Maize Plant Metaphor ##
 
 In the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. 
 
-Grown throughout sub-Saharan Africa, the maize plant provides a similar metaphor for the basic pattern of multiplication lying at the heart of Christian discipleship. 
+Grown throughout sub-Saharan Africa, the maize plant provides a similar highly recognisable metaphor. 
 
-The essentials of healthy plant growth—soil, roots, sunlight and rainfall—are also used to illustrate key elements of the Maize Plant Discipleship curriculum: 
+- Using maize to represent messianic community reminds us that we are called, like the Messiah, to live sacrificial, obedient lives in order to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
 
--	Soil and roots represent the biblical, covenantal history of Israel, out of which the Messianic Community (the Church) originally grew (Module 1).
--	The dynamic growth of the maize plant relates to the dynamic growth of the Messianic Community (Modules 2 - 9).
--	This growth is sustained by essential disciplines—in the same way that a plant is sustained by sunlight and rainfall (Modules 10-16). 
+- The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of a maize plant.
 
-### Figure 1 — The Maize Plant ###
+![Maize plant metaphor][mpm]
 
-![][PastedGraphic2.png]
+[mpm]: maize-plant-metaphor.png
 
-## Soil and Roots of Messianic Community ##
+As illustrated, in [](#mpm), there are three main components to the metaphor: 
 
-Only seed sown into good soil produces a good harvest. This reminds us that discipleship communities need to be rooted in the biblical, covenantal soil of Messianic faith, allowing them to draw on essential, spiritual nutrients and the living water of the Messiah's Spirit—anchoring them against the winds of false teaching and sustaining them amidst the heat of trials, temptations and vocational responsibility.
+1. [Soil and roots]
+2. [Plant growth];
+3. [Sunlight and rainfall].
 
-### Figure 2 — Roots ###
+### Soil and roots ###
 
-![][Maizeplantmetaphor—ROOTS.pdf]
+Only seed sown into good soil produces a good harvest. This reminds us that discipleship communities need to be rooted in the biblical, covenantal soil of Messianic faith, allowing them to draw on essential, spiritual *nutrients* and the living water of the Messiah's Spirit, anchoring them against winds of false teaching and sustaining amidst the heat of trials, temptations and vocational responsibility.
 
-### 1—Eternal Purpose ###
+![Roots][mp-roots]
 
-Module 1 provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, building up a panoramic overview of the whole story of scripture, in order to illustrate God's unchanging, eternal purpose. 
+[mp-roots]: mp-roots.png
 
-Within this foundational illustration, the Messiah is the Seed entering the soil—which represents the biblical, covenantal history of the people of Israel—in order to die and ultimately produce a rich harvest of people—a Messianic Community—from amongst all the peoples of the earth. 
+In the Maize Plant Discipleship metaphor, *soil and roots* represent the biblical, covenantal community, context and vocation of *Israel*. From these roots emerges the messianic, new-covenant community and vocation, which is metaphorically represented by the maize plant itself.
 
-## The Dynamics of Messianic Community ##
+- **MPD Module 1** (MPD-M1) relates to the metaphors of soil and roots
 
-Modules 2 to 9 explore seven characteristic dynamics of the Messianic Community, as illustrated and explained below. Dynamic comes from the Greek word for power, dunamis, referring to a force stimulating change or progress within a system or process. 
+> Note: MPD is shorthand for *Maize Plant Discipleship*, and MPD-M1 is shorthand for *Maize Plant Discipleship—Module 1*.
 
-The dynamics of a maize plant are the forces, structures and patterns that stimulate and direct the specific changes that produce the characteristic structure, shape and fruit of maize. 
+#### MPD-M1 — Eternal Purpose ####
 
-Similarly the dynamics of the Messianic Community are the forces, structures and patterns that stimulate and directs its development, producing its characteristic growth, structure, shaper and fruit.
+> Module 1 provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, building up a panoramic overview of the whole story of scripture, in order to illustrate God's unchanging, eternal purpose. 
 
-### Figure 4 — Dynamics ###
+	Within this foundational illustration, the Messiah is the Seed entering the soil—which represents the biblical, covenantal history of the people of Israel—in order to die and ultimately produce a rich harvest of people—a Messianic Community—from amongst all the peoples of the earth. 
 
-![][Maizeplantmetaphor—DYNAMICS.pdf]
+### Maize plant ###
 
-### Module 2—the Dynamic of Vocation: Part A: The Nations ###
+The maize plant represents the central component of the MPD metaphor, so that the growth and multiplication of the maize plant represents the growth and multiplication of messianic community.
 
-Examines the historical development of intercultural mission movements and of the Messianic Community's understanding of their vocational mission to the nations of the world.
+- The MPD Syllabus uses the word *dynamic* to refer to the processes that stimulate growth and multiplication. 
 
-### Module 3—the Dynamic of Vocation: Part B: The Jewish People ###
+- *Dynamic* comes from a Greek word, *dunamis*, meaning power. It refers to a force that stimulates change or progress within a system or process, thus:
 
-Looks at the history of biblical Israel in the light of the covenants and prophecies of the Tanakh (Hebrew Bible; Old Testament), demonstrating the responsibility of the Messianic Community towards the Jewish people 
+- The *dynamics* of a maize plant refer to the unique characteristics that stimulate its characteristic development, growth, structure, shape and fruit. 
 
-### Module 4—the Dynamic of Commissioning ###
+- Similarly, the *dynamics* of messianic community refer to the unique characteristics that stimulate its  characteristic development, growth, structure, shape and fruit.
 
-Explores the dynamic of messianic commissioning in terms of the five-fold strategy and biblical structure of the messianic community, relating them to the ministry-gifts of Christ, as taught by Paul.
+- Eight modules, MPD-M2 to MPD-M9, explore these unique characteristics:
 
-### Module 5—the Dynamic of Body Membership ###
+![Maize plant dynamics][mp-dynamics]
 
-Draws on parallels between the apostle Paul's teaching about patterns of growth, in his epistle to the Ephesians, and insights from the first epistle of John, in order to explore basic patterns of membership, commitment and spiritual maturity within the body of the Messiah.
+[mp-dynamics]: mp-dynamics.png
 
+#### MPD-M2 — Dynamics of Vocation — Nations ####
 
-### Module 6—the Dynamic of Revival ###
+> MPD-M2 examines the historical development of intercultural mission movements and of the Messianic Community's understanding of their vocational mission to the nations of the world.
 
-Reveals a cycle of core, spiritual activities representing a dynamic of revival, leading to a spiritual harvest. The dynamic is further explored in terms of three complementary encounters: starting with the allegiance encounter.
+#### MPD-M3 — Dynamics of Vocation — Jews ####
 
-### Module 7—the Dynamic of Truth ###
+> MPD-M3 looks at the history of biblical Israel in the light of the covenants and prophecies of the *Tanakh* (Hebrew Bible; Old Testament), in order to demonstrate the significant responsibilities of the Messianic Community in regard to the Jewish people.
 
-Explores the dynamic of encountering truth, in terms of practical, covenantal faithfulness towards God's revelation and wisdom—as contrasted with dogmatic, or creedal adherence and religious institutionalism.
+#### MPD-M4 — Dynamics of Commissioning ####
 
-### Module 8—the Dynamic of Intercession ###
+> MPD-M4 explores the dynamic of messianic commissioning in terms of the five-fold strategy and biblical structure of the messianic community, relating them to the ministry-gifts of Christ, as taught by Paul.
 
-Explores the power encounter of intercession examining: biblical roots and prophetic expressions of intercession; the eternal, mediatory ministry of the Messiah; the Holy Spirit's role and the priestly vocation of the Messianic Community as a house of prayer for all nations.
+#### MPD-M5 — Dynamics of Body Membership ####
 
-### Module 9—the Dynamic of Cultural Transformation ###
+> MPD-M5 draws on parallels between the apostle Paul's teaching about patterns of growth, in his epistle to the Ephesians, and insights from the first epistle of John, in order to explore basic patterns of membership, commitment and spiritual maturity within the body of the Messiah.
 
-Highlights the spiritual struggle against evil and idolatry that is to be fought by an intercessory Messianic Community living amongst—yet on behalf of—the peoples of the world, in order to sustain a kingdom-orientated dynamic of cultural transformation. 
+#### MPD-M6 — Dynamics of Revival ####
 
-----
+> MPD-M6 reveals a cycle of core, spiritual activities representing the dynamics of revival, leading to a spiritual harvest. These dynamics of revival are related to three significant spiritual encounters: allegiance, truth and power.
 
-## The Disciplines of Messianic Discipleship ##
+#### MPD-M7 — Dynamics of Truth ####
 
-Modules 10 to 16 examines seven characteristic disciplines of messianic community, as set out in [the diagram below].
- 
-Continuing the metaphor of the maize plant: sunlight and rainfall represent messianic disciplines capable of opening us to the revelatory light and living water of God's Spirit, by which the Messianic Community is sustained—and without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
+> MPD-M7 explores the dynamics of encountering truth: learning to walk in practical, covenantal faithfulness towards God's revelation and wisdom and not merely dogmatic, or creedal adherence to religious institutions.
 
-![][Maizeplantmetaphor—DISCIPLINES.pdf]
+#### MPD-M8 — Dynamics of Intercession ####
 
-### Module 10—the Disciplines of Spiritual Maturity ###
+> MPD-M8 explores the power encounter of intercession examining: biblical roots and prophetic expressions of intercession; the eternal, mediatory ministry of the Messiah; the Holy Spirit's role and the priestly vocation of the Messianic Community as *a house of prayer for all nations*.
 
-Explores three stages of encounter, discovery and growth in spiritual maturity and vocational equipping:
+#### MPD-M9 — Dynamics of Cultural Transformation ####
 
--	Pastoral / Devotional. Foundational stage of spiritual maturity: transitioning from the 'dominion of darkness,' into the kingdom of God; breaking the spiral of spiritual defeat and encountering the narrow pathway leading to life.
+> MPD-M9 highlights the powerful, spiritual struggle against evil and idolatry to which the Messianic Community is called. Whilst living amongst and on behalf of the peoples of the world, we are called to work towards cultural transformations that signal the presence of God's kingdom. 
 
--	Missional / Vocational. Secondary phase of maturity, marked by: a deepening dependency upon the Messiah's Spirit; discernment of spiritual evil and an availability and equipping for mission and ministry.
+### Sunlight and rainfall ###
 
--	Apostolic / Intercessory. Final stage of spiritual maturity, marked by: an apostolic and intercessory burden; spiritual vision and a commitment to mentoring and discipling others, as part of a multiplying movement of Messianic communities.
+Sunlight and rainfall represent essential spiritual *disciplines* that fuel the growth of messianic community.
 
-### Module 11—the Disciplines of Running the Race Marked Out for Us ###
+Continuing the metaphor of the maize plant: *sunlight* and *rainfall* represent *messianic disciplines* capable of opening us to the revelatory light and living water of God's Spirit, by which the Messianic Community is sustained—and without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
-Explores the apostle Paul's theme of athletes competing in a race; examining the qualifications, disciplines and inner motivations necessary for living an enduring life of service and completing  "the race marked out for us." 
+- MPD-M10 to MPD-M16 examines seven characteristic disciplines of messianic community, as illustrated in [](#mp-disciplines).
 
-### Module 12—the Disciplines of Pressing Toward Our Vocation ###
+![Sunlight and rainfall][mp-disciplines]
 
-Explores personal spiritual disciplines able to sustain us, as we sacrificially pursue personal vocations, including deepening our relationship with the Messiah, leading to a lifestyle of prayer without ceasing.
+[mp-disciplines]: mp-disciplines.png
 
-### Module 13—the Disciplines of Financial Faithfulness ###
+#### MPD-M10 — Disciplines of Spiritual Maturity ####
 
-Human beings are created to prosper, but biblical perspectives of wealth and poverty are radically different to those of the world: this study explores financial faithfulness, within the context of covenant relationship and messianic community. 
+>	MPD-M10 Explores three stages of encounter, discovery and growth in spiritual maturity and vocational equipping:
 
-### Module 14—the Disciplines of Messianic Leadership ###
+	- *Pastoral / Devotional*. Foundational stage of spiritual maturity: transitioning from the 'dominion of darkness,' into the kingdom of God; breaking the spiral of spiritual defeat and encountering the narrow pathway leading to life.
 
-Examines the qualifications, motivations and characteristics that are the true marks of faithful messianic leadership and explores a model of leadership that balances achieving missional tasks, building missional teams and developing missional individuals.
+	- *Missional / Vocational*. Secondary phase of maturity, marked by: a deepening dependency upon the Messiah's Spirit; discernment of spiritual evil and an availability and equipping for mission and ministry.
 
-### Module 15—the Disciplines of Living by Faith ###
+	- *Apostolic / Intercessory*. Final stage of spiritual maturity, marked by: an apostolic and intercessory burden; spiritual vision and a commitment to mentoring and discipling others, as part of a multiplying movement of Messianic communities.
 
-Explores how messianic faith is tested and purifies through trials, until we learn to see with eyes of faith and major challenges—rather than forming a threat from which to retreat—become opportunities to experience God's providence and covenant faithfulness.
+#### MPD-M11 — Disciplines of Running the Race ####
 
-### Module 16—the Disciplines of Overcoming in the Arena of Spiritual Conflict ###
+> MPD-M11 explores the apostle Paul's theme of athletes competing in a race; examining the qualifications, disciplines and inner motivations necessary for living an enduring life of service and completing  "the race marked out for us." 
 
-Employs the analogy of a sporting arena to represent spiritual confrontations and conflicts with cultural idols and strongholds, whereupon it becomes necessary to discern the fresh, strategic direction in order to make room for a transforming encounter with God's overcoming power!
+#### MPD-M12 — Disciplines of Pressing Toward Our Vocation ####
+
+> MPD-M12 explores personal spiritual disciplines able to sustain us, as we sacrificially pursue personal vocations, including deepening our relationship with the Messiah, leading to a lifestyle of *prayer without ceasing*.
+
+#### MPD-M13 — Disciplines of Financial Faithfulness ####
+
+> MPD-M13 study explores financial faithfulness, within the context of covenant relationship and messianic community, affirming that human beings are created to prosper, whilst highlighting biblical perspectives of wealth and poverty, which are radically different to those of the world. 
+
+#### MPD-M14 — Disciplines of Messianic Leadership ####
+
+> MPD-M14 examines the qualifications, motivations and characteristics that are the true marks of faithful messianic leadership and explores a model of leadership that balances achieving missional tasks, building missional teams and developing missional individuals.
+
+#### MPD-M15 — Disciplines of Living by Faith ####
+
+> MPD-M15 explores how messianic faith is tested and purifies through trials, until we learn to see with eyes of faith and major challenges—rather than forming a threat from which to retreat—become opportunities to experience God's providence and covenant faithfulness.
+
+#### MPD-M16 — Disciplines of Overcoming ####
+
+> MPD-M16 employs the analogy of a sporting arena to represent spiritual confrontations and conflicts with cultural idols and strongholds, whereupon it becomes necessary to discern the fresh, strategic direction in order to make room for a transforming encounter with God's overcoming power!
+
+## MPD Handbooks ##
+
+Maize Plant Discipleship handbooks are primarily intended to facilitate group learning and discussion, based upon a series of scripture readings and topical studies. 
+
+- Each handbook, or module, incorporates four interrelated *Studies*.
+
+- Each study incorporates: a précis; scripture readings; three to five topical sections and a summary.
+
+- Each study has a corresponding set of questions to facilitate group discussions, either topic-by-topic (section-by-section), or when the entire study (chapter) is completed.
+
+Accordingly, Maize Plant Discipleship resources don't rely upon the presence of a qualified leader, teacher, or theologian—but rather upon facilitators willing to co-ordinate study groups and discussions — see [][Facilitating discipleship].
+
+The following sections provide an overview of the content of each module.
 
 ----
 
@@ -329,8 +356,8 @@ This doesn't mean these studies can't be used for congregational teaching, or de
 
 ### Freedom to multiply ###
 
-Why focus upon discipleship groups, rather than, say, church growth strategies? Let's remind ourselves of the foundational principle of biblical discipleship: Keep safe the great treasure entrusted to us by sharing it with others who will be faithful to the teaching and in sharing it with others. 
-
+Why focus upon discipleship groups, rather than, say, church growth strategies? Let's remind ourselves of the foundational principle of biblical discipleship: *Keep safe the great treasure entrusted to us by sharing it with others who will be faithful to the teaching and in sharing it with others. 
+*
 For discipleship to reach its full potential, it is essential that disciples find effective ways to share their experience with others, so that everyone is involved in forming disciples. One of the most straightforward way is to encourage discipleship groups to multiply. 
 
 ### Outward movement ###
@@ -435,7 +462,7 @@ By encouraging this kind of debate, it is possible to produce an atmosphere that
 
 This can be especially challenging within cultures where where conformity is highly valued and traditionally authority comes from the top downwards. However, if you afford this liberty of open discussion, it will allow fresh spiritual growth. 
 
-Don't be afraid of it!
+**Don't be afraid of it!
 
 #### Facilitator responses ####
 
@@ -542,7 +569,7 @@ The MPD Syllabus currently comprises sixteen modules. Within each book, dependin
 
 Discipleship can take place in any appropriate location that can reasonably comfortably accommodate the group. A large room in someone's home, or a community hall, with access to some light refreshments, is ideal. 
 
-A church building may be unhelpful if it causes people to have a church-meeting mentality. However, if one is used, think about rearranging some of the seating and the way the space is used, so that people are facing one another. This will provide a practical forum for discussions and a more intimate space in general.
+A church building may be unhelpful if it causes people to have a *church-meeting mentality*. However, if one is used, think about rearranging some of the seating and the way the space is used, so that people are facing one another. This will provide a practical forum for discussions and a more intimate space in general.
 
 Think about changing the location occasionally. Sometimes outside environments may be helpful in producing a liberating interaction. Experiment to find out what works for your group.  
 
@@ -558,11 +585,11 @@ Here are some ideas to think about; you may have others:
 
 -	What other ways might it be appropriate to organise the time and the group in order to ensure the learning is culturally appropriate, relevant and practical? 
 
->	Think about these things as you progress throughout this discipleship experience.
+**>	Think about these things as you progress throughout this discipleship experience.
 
 ----
 
-# Licensing and Translation #
+# Publication #
 
 >	I THINK you are touching something that is not already existing... For example, if we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing!— Burkinabé theological educator, 2010
 
@@ -706,12 +733,33 @@ In no way are any of the following rights affected by the license:
 -	For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is to reproduce this license, including a link to this web page: 
 		http://creativecommons.org/licenses/by-nd/3.0/
 
-[PastedGraphic2.png]: PastedGraphic2.png width=100px height=133px
+# Further information #
 
-[Maizeplantmetaphor—ROOTS.pdf]: Maizeplantmetaphor—ROOTS.pdf
+ADDITIONAL INFORMATION about *Maize Plant Discipleship* is available via the following websites:
 
-[Maizeplantmetaphor—DYNAMICS.pdf]: Maizeplantmetaphor—DYNAMICS.pdf
+-	**Resources** http://maizeplantdiscipleship.wordpress.com/
 
-[Maizeplantmetaphor—DISCIPLINES.pdf]: Maizeplantmetaphor—DISCIPLINES.pdf
+-	**Author** http://jbclements.wordpress.com/
 
-[^cf1]: Implying both faithfulness towards Scripture and relevance towards Burkinabé culture.
+## MPD Syllabus ##
+
+The *Maize Plant Discipleship Syllabus* incorporates sixteen modules, with a corresponding handbook:
+
+1.	The Eternal Purpose of God
+-	Dynamics of Vocation, The Nations
+-	Dynamics of Vocation, The Jews
+-	Dynamics of Commissioning
+-	Dynamics of Body Membership
+-	Dynamics of Revival
+-	Dynamics of Truth
+-	Dynamics of Intercession
+-	Dynamics of Cultural Transformation
+-	Disciplines of Spiritual Maturity
+-	Disciplines of Running the Race
+-	Disciplines of Pressing Towards our Vocation
+-	Disciplines of Economic Faithfulness
+-	Disciplines of Messianic Leadership
+- 	Disciplines of Living By Faith
+16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
+
+[^cf1]: Where *appropriate* implies missiological faithfulness, with regard to Scripture, *and* practicality, relevance and accessibility, with regard to Burkinabé contexts.
