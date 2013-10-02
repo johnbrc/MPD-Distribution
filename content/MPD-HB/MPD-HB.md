@@ -15,42 +15,40 @@ LaTeX Mode:	memoir
 LaTex input:	mpd-textbook-document
 LaTex footer:	mpd-textbook-footer
 
-**
-**Handbook for Facilitating  a Process of 
-Maize Plant  Discipleship
-A Series of  Discipleship Manuals Designed for Use in African Contexts
+Maize Plant Discipleship Facilitators' Handbook
 
-I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest 
-John 12:24
+A Series of Discipleship Manuals 
+Designed for Use in African Contexts
 
-Authored by:  John B. Clements
-Translated by:  
-Published by the Eternal Purpose Network, 2011
-Dedicated to: Absent Friends
+I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — John 12:24
+
+Authored by: John B. Clements
+
+Published by: Write the Vision, 2014
 
 ----
 
 # Introduction #
 
-*MAIZE PLANT DISCIPLESHIP* represents a learning resource, which has been taught, researched, formulated, written, revised and published with African leaders and learners in heart and mind and prayer at each point of it's development.
+*MAIZE PLANT DISCIPLESHIP* is a learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development.
 
 ## In this Handbook ##
 
-This Handbook provides guidelines for people facilitating a group study, exploration and discussion of *Maize Plant Discipleship* (hereafter, MPD).
+This *Facilitators' Handbook* provides guidelines for people taking responsibility for facilitating group exploration, study  and discussion, using *Maize Plant Discipleship* resources.
 
--	[Discipleship][] explores biblical and missional perspectives of Christian discipleship;
+-	[**Discipleship**][] explores biblical and missional perspectives of Christian discipleship;
 
--	[Syllabus][] introduces the metaphor of the maize plant and an overview of the sixteen modules that constitute the MPD *Syllabus*;
+-	[**Syllabus**][] introduces the metaphor of the maize plant and the sixteen modules of the MPD *Syllabus*;
 
--	[Facilitating][] focusses upon practical insights and suggestions for facilitating contextually appropriate learning and group processes;
+-	[**Facilitating**][] provides practical insights and suggestions for facilitating group learning;
 
--	[Publication] examines practical issues relating to publication, including: licensing, translation, printing, distribution and remuneration.
+-	[**Publication**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and remuneration.
 
 ----
 
 ## Background ##
 
-The body of teaching represented by this syllabus originated as a *mobile school of mission* taught itinerantly within Kenya and Burkina Faso. The author's goal was to* 
+The body of teaching represented by this syllabus originated as a *mobile school of mission* taught itinerantly within Kenya and Burkina Faso. The author's goal was to:
 
 > ...take the teacher to the leaders, rather than bringing the leaders to the teacher, saving the resources of those least able to spare them*.
 
