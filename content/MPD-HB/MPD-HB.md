@@ -1,6 +1,6 @@
-Version: 0.1.5 --- Author's draft
+Version: 0.1.6 --- Author's draft
 Change: --- Author's revisions ---
---- chapters 1, 2 reversed
+--- chapter 2 revised
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -47,97 +47,93 @@ This *Facilitators' Handbook* provides guidelines for people taking responsibili
 
 ---
 
->	Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
+>	Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. 
+
+>	 However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
 
 ## What is discipleship? ##
 
-What is the primary principle of messianic discipleship? I believe it is set forth most clearly by the missionary apostle, *Paul*, when he writes these words in his second letter addressed to his own disciple, *Timothy*, words that contain clear echoes of Jesus' words, in Matthew 28:
+What is the primary principle of messianic discipleship? I believe it is set forth most clearly by the missionary apostle, Paul, when he writes these words in his second letter addressed to his own disciple, Timothy, words containing clear echoes of Jesus' words, in Matthew 28:
 
 >	Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
-Here we encounter two vital aspects of messianic discipleship. 
-
-- Firstly, Paul's exhortation that the knowledge of the Messiah is not simply human knowledge or philosophy. It is a spiritual treasure, to be entrusted to faithful followers. 
-
-- Secondly, this spiritual treasure must be kept safe with the help of the Holy Spirit. 
+Here we encounter two vital aspects of messianic discipleship. Firstly, Paul's exhortation that the knowledge of the Messiah is not simply human knowledge or philosophy. It is a spiritual treasure, to be entrusted to faithful followers. Secondly, this spiritual treasure must be kept safe with the help of the Holy Spirit. 
 
 ### Safe-keeping ###
 
-This safe-keeping does not mean hiding the treasure, hoping to preserve it. Rather, this treasure—this intimate knowledge of the Messiah—is to be kept safe by *carefully committing it to the stewardship and safekeeping of other faithful people*. Paradoxically, it is this committing of the treasure to others that keeps it safe. That keeps it from becoming unproductive. 
+This safe-keeping does not mean hoping to preserve our treasure by hiding it away. Rather, this treasure—this intimate knowledge of the Messiah—is to be kept safe by *carefully committing it to the stewardship and safekeeping of other faithful people*. Paradoxically, it is this committal of treasure to others that keeps it safe. Which keeps it from becoming unproductive. 
 
-*Let us seek to understand this more deeply*.
+Let us seek to understand this more deeply.
 
 ### Seed and harvest ###
 
-The metaphor of seed and the harvest that comes from seed that is sown is central to [Maize Plant Discipleship][Maize Plant Metaphor]. Here in Africa, you know that seeds are a form of wealth. A type of treasure. Seed is usually only stored for a short time before being used. Whatever is not used for food, for *daily bread*, is sown to produce another harvest. 
+The metaphor of seed, and the harvest that comes from seed sown into the ground, is central to [*Maize Plant Discipleship*][Maize Plant Metaphor]. In agricultural contexts, seeds are a form of wealth, a type of treasure. Yet seed is generally stored only for a short time before being used. Whatever is not used for food, for *daily bread*, must be sown to produce another harvest. 
 
-In the same way, we discover that God is able to supply spiritual life to us, sufficient for our daily living. Being alive to God, experiencing the grace of the Messiah and the reality of the Holy Spirit's help is the spiritual equivalent to having sufficient seed for *daily bread*. 
+In the same way, we discover that God is able to supply spiritual life to us—the *treasure* of knowing the Messiah—in our daily living. This experience of being alive to God, experiencing the grace of the Messiah and the love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control of the Holy Spirit, is the spiritual equivalent of *daily bread*. 
 
-Merely enjoying God's life for ourselves is, however, not the whole purpose of the relationship. In fact, as we will explore in this resource, we have been called to know God in order to become his *Servant Community*. This means that we are called to give ourselves, our lives *to serve his purposes*. This requires sacrifice and discipline: this is what it means to be a *disciple*.
+Merely enjoying God's life for ourselves is, however, not the whole purpose of our relationship with him. In fact, as we will explore in this resource, the Messianic, New Covenant Community (the whole body of the Messiah's people) has been called to know God in order to become his *Servant Community*. This means that we are called to give ourselves, our lives *to serve his purposes*. This requires discipline and sacrifice. That is what it means to be a *disciple*.
 
-And this sacrificial, disciplined giving of ourselves in service to God is the equivalent of taking precious seed that could be used for food and sowing it into the ground in order to produce another harvest. If we only store our seed, intending to use it all for food, we eventually run out, because there will not be another harvest.
+And this sacrificial, disciplined giving of ourselves in service to God is the equivalent of taking precious seed that could be used for food, for ourselves, and sowing it into the ground in order to produce another harvest.
 
 ### Sharing treasure ###
 
 This is one of the secrets to living a truly *Christian* life, alive to God, which many people never discover. It is not in hoarding the treasure of our knowledge, relationship and communion with God, but in sowing and sharing it with others, both within and beyond our own community.
 
-Even a farmer knows that some of his seed may fall onto rocky or difficult ground, it is never his intention to waste the seed. In the same way, spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be squandered upon those who do not appreciate its value and will not use it wisely.
+Yet while a farmer knows that some of his seed may fall onto rocky or difficult ground, it is never his intention to sow the seed wastefully. In the same way, spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be squandered upon those who do not appreciate its value and will not use it wisely.
 
-What is received must be shared with other people who recognise its value. People who will themselves live in a way that continues to keep this treasure safe, by sowing it into more good soil: sharing it with other faithful people, who in turn, share it with other faithful people and so on and so on.
-
-*In this simple way, a missional, discipleship movement begins to take place.*
+What is received must be shared with other people who discern its value. This is what the parable calls good soil. People who will themselves live in a way that continues to keep this treasure safe, by sowing it into more good soil: sharing it with other faithful people, who in turn, share it with other faithful people and so on and so on. *In this simple way, a missional, discipleship movement begins to take place.*
 
 ## Discipleship movements ##
 
-Discipleship was at the heart of the Messiah Jesus' life and work. Today's worldwide Christian movement began with one small, core group of disciples, formed around him. 
+The formation of faithful disciples was at the heart of the Messiah Jesus' life and work. The whole Christian movement, which today is spreading significantly throughout the whole world, began with one small, core group of disciples, formed around Jesus. 
 
-Discipleship movements have the potential to change the world. Leaders, money, books and power all have their places within radical movements. But, in a world in which people are continually effected by corporate experiences larger than any individual, it is people-movements that produce deep, wide, enduring change.
+Discipling movements have the potential to change the world. Leaders, money, books and power all have their places within radical, popular movements. But, in a world in which people are continually effected by corporate experiences that are larger than the individual, it is people-movements that are most capable of producing deep, wide, enduring change.
 
-Two things are essential to transformative people movements: (i) vision and (ii) discipleship. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and turning them into faithful, active disciples... 
+Two things are essential to transformative people movements: *vision* and *discipleship*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples.
 
-Disciples who are committed to producing a significant transformation. Disciples willing to work endlessly to turn vision into reality. Disciples who pursue their work as visionary co-workers, rather that selfishly-ambitious individuals. Disciples who reproduce other faithful, active disciples, by continually sharing the work, values and hopes of the vision.
+Disciples who are committed to producing a significant transformation. Disciples willing to work endlessly to turn vision into reality. Disciples who pursue their work as visionary *co-workers*, rather that as selfishly-ambitious individuals. Disciples who reproduce other faithful, active disciples, continually sharing the work, values and hopes of the vision.
 
 In this way a movement is developed. A movement of focussed, visionary, dynamic people. People deeply and profoundly allied to a vision, a cause and a purpose that is larger than themselves. 
 
-~
+---
 
-During the past two-thousand years, the messianic new-covenant community — the body of the Messiah, the Church — has grown and developed through precisely this sort of dynamism. From its origins as an obscure, tiny, Jewish sect it has grown into an international, intercultural, multi-ethnic community now existing, in some way or other, in practically every nation of the world. 
+During the past two-thousand years, the messianic, new-covenant community has grown and developed through precisely this sort of dynamism. From its origins as an obscure, tiny, Jewish sect it has grown into an international, intercultural, multi-ethnic community, now existing, in some way or another, in practically every nation of the world.
 
-As this community has spread out, it has significantly transformed the history of many of those nations and it will transform many more in the days and years that are ahead. This dynamism can be traced to the Christian community operating as a movement of disciples, continually spreading out across geographical, social, ethnic, linguistic and cultural boundaries.
+As this community has spread out, it has significantly transformed the history of many of those nations and will transform many more in the days and years that are ahead. This dynamism can be traced to the Christian community operating as a movement of disciples, continually spreading out across geographical, social, ethnic, linguistic and cultural boundaries. 
 
 ### Cessation of movement ###
 
-Nevertheless, in certain seasons, in certain places, this dynamic movement has ceased to exist. A church planted within a nation or culture, in a former season, is no longer growing and multiplying. 
+Nevertheless, in certain seasons, in certain places, this dynamism has ceased to exist. A church planted within a nation or culture, in a former season, is no longer growing and multiplying. 
 
-Inevitably, behind religious facades, such a church is marked by a lack of vision, a spirituality devoid of vitality and a character largely unfaithful to its holy roots and traditions. Although such churches typically remain dogmatic towards their creeds, the Christian community no longer exhibits authentic, biblical zeal for its true vocation amongst the nations of the world. 
+Inevitably, behind religious facades, such a church is marked by a lack of vision, a loss of communal vitality and a spirituality that has lost touch with its holy roots. Traditions that may not be bad in themselves have replaced the vitality of a living, reproducing body of people.  Even though its religious institutions may remain dogmatic towards their creeds, the Christian community itself no longer exhibits authentic, biblical zeal for its vocation: its call to serve God's purpose amongst the nations. 
 
-In practice, such a church or community has become un-critical in its engagement with the societies and cultures in which it lives. Its testimony compromised by idolatrous values. Its lifestyle accommodated to ungodly influences. It has ceased to be different, ceased to be transformative, ceased to make any discernible impact upon its social, material, political and cultural environments.
+In practice, such a church or community has become un-critical in its engagement with the societies and cultures in which it lives. Its testimony is compromised by idolatrous values. Its lifestyle is accommodated to ungodly influences. It has ceased to be different, ceased to be transformative, ceased making a significant, discernible impact upon its social, material, political and cultural environments.
 
-In this case, the church has ceased to be a movement. Invariably, it has ceased making disciples. It lacks the confidence required to persuade either itself or others to forsake human idols and to affirm wholehearted allegiance towards the Messiah.
+In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples. It lacks the confidence to persuade either itself or others to forsake human idols and to wholehearted ally itself to the Messiah.
 
 ### Renewal ###
 
-By contrast, whenever a national church, local congregation or Christian leader seeks for spiritual formation, renewal, reformation or revival, Christian discipleship must form the core of its activities. 
+By contrast, whenever a national or regional church, local congregation or Christian leader seeks for spiritual renewal, reformation or revival, Christian discipleship must be at the core of its activity and spirituality.
 
-Disciples must be invited, formed and sent forth as part of a world-facing movement. The goal is much greater than bolstering the church-as-an-organisation, greater even than serving the church-as-community. The goal is to be part of a movement of people serving God's purposes within the world and its societies. 
+Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than bolstering church-as-organisation, greater even than serving one another as part of a Christian community. The goal is to be part of a movement of people *serving God's purposes within the world* and its societies. 
 
-At its core, the messianic, new-covenant community is a movement of disciples called to serve God's eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled, idol-bound populations. 
+> At its core, the messianic, new-covenant community is a movement of disciples called to serve God's eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled, idol-bound populations. 
 
-Out there, beyond the congregational gatherings, among the corruption of society, among its filthy gutters, behind its social, political and religious walls, Christ is at work by his Spirit. And out there he is calling co-workers ready to be alongside him in his redemption and transformation: of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices. 
+Out there, beyond congregational gatherings, among the corruption of society, among its filthy gutters, behind its social, political and religious walls, Christ is at work by his Spirit. Out there he is calling co-workers to come alongside him in his work of redemption and transformation: of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices. 
 
-Out there is where Christian disciples need to bring the light of Christ. Out there, amongst the people of the world, Christ's disciples are the light of the world.
+*Out there* is where Christian disciples need to bring the light of Christ. Out there, amongst the people of the world, Christ's disciples are the light of the world.
 
 ### Anointed community  ###
 
-To make possible such an otherwise impossibly-high calling, Christian discipleship provides a unique ingredient that other philosophies, ideologies and faiths do not and cannot: the dynamic of the indwelling Spirit of Christ. 
+To make possible such an otherwise impossibly-high calling, Christian discipleship provides a unique ingredient that no other philosophy, ideology and faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
 
-With the Spirit, the new-covenant community becomes a charismatic community. A group of people endowed with spiritual gifts that are profoundly shaped to liberate human beings from idolatry and every other allegiance and falsehood that competes and sets itself against God and the knowledge of him. 
+*Through the Spirit*, the new-covenant community is transformed into a charismatic community. A group of people endowed with spiritual gifts that are profoundly shaped to liberate human beings from idolatry and every other allegiance and falsehood that competes and sets itself against God and the knowledge of him. 
 
-'Charismatic' derives from a Greek word, charism, meaning gift of the Spirit. Biblically speaking, the charisma of the Christian community derives from its anointing. Messiah—Christ—means Anointed One. The One Anointed with the Spirit.
+Charismatic derives from a Greek word, *charism*, meaning *gift of the Spirit*. Biblically speaking, the charisma of the Christian community comes from its anointing. Messiah, or Christ, essentially means *Anointed One*. The One Anointed with the Spirit.
 
-Thus, the Messianic Community is a body of people anointed with the fragrant 'oil' or presence of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. A body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.
+Thus, the Messianic Community is a body of people anointed with the fragrant oil, or presence, of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. Thus, it is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.
 
-This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit.
+> This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit!
 
 ### Life...through death ###
 
@@ -145,21 +141,17 @@ God's intention is that this covenant community co-works in partnership with him
 
 Too often though, that power, that anointed-life-of-Christ-within-us, seems to elude us. It seems out of our reach. Out of our grasp.
 
-Indeed, it is not something that can be grasped, as Jesus himself demonstrated (Philippians 2). Instead the pathway to life is through dying. Only to the extent that we die to ourselves, do we truly become alive to God. 
+Indeed, it is not something that can be *grasped*, as Jesus himself demonstrated. Instead, the pathway to life is through dying. That is the message of the cross. Only to the extent that we *die to ourselves*, do we truly become *alive to God*. 
 
-So we finish (this section) where we began: recognising the foundational principle of transformative discipleship is that of the seed that does not remain a seed alone, but which is sown into the ground, in order to produce a harvest.
+---
 
-I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
+And thus, we finish (this section) where we began: recognising the foundational principle of transformative discipleship is that of the seed that does not remain a seed alone, but which is sown into the ground, in order to produce a harvest.
 
-This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of this Discipleship Curriculum. As we embrace a practical form of discipleship incorporating a daily dying-to-self, we learn how to truly become alive-to-God.
+> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
 
-These are the dynamics that are explored in the Maize Plant Discipleship modules.
+This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship. As we embrace a practical form of discipleship incorporating a daily dying-to-self, we learn how to truly become alive-to-God.
 
-## Burkinabé concept of discipleship ##
-
-In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity.
-
-Discipleship also has significant potential to helpfully blur hard edges between formally-trained leadership and informally-trained workers.
+These are the dynamics that are explored in the Maize Plant Discipleship resource.
 
 # Africa #
 
@@ -215,7 +207,7 @@ My field research involved collecting data through a series of survey questionna
 
 The application of qualitative data analysis methods, to the collected data, revealed a number of significant findings or themes, relating to discipleship, in general, and my discipleship training resource, in particular.
 
-1. Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.
+1. Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.[^cf2]
 
 - Participants firmly and lucidly validated the theological content of my training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
 
@@ -872,3 +864,7 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules, with a cor
 16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
 
 [^cf1]: As well as being trialled in Texas, USA and Wales, UK.
+
+[^cf2]: In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity.
+	
+	Discipleship also has significant potential to helpfully blur hard edges between formally-trained leadership and informally-trained workers.
