@@ -1,6 +1,6 @@
-Version: 0.1.4 --- Author's draft
+Version: 0.1.5 --- Author's draft
 Change: --- Author's revisions ---
-- re-instated historical background
+--- chapters 1, 2 reversed
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -40,120 +40,6 @@ This *Facilitators' Handbook* provides guidelines for people taking responsibili
 -	[**Facilitating**][] provides practical insights and suggestions for facilitating group learning.
 
 -	[**Publication**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and remuneration.
-
-# Africa #
-
->	...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
-	
----
-
->	With this program (of Maize Plant Discipleship)...from what we see, people who offered their reaction, in my culture there is a saying that goes like this: 
-
->>	*When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
-
->	So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia, cited in: Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013*
-
-## Introduction ##
-
-*Maize Plant Discipleship* is a learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. 
-
-It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^cf1] As author and teacher, my goal was to emulate the apostolic model of mission by:
-
-> Taking the teacher to the leaders, rather than bringing the leaders to the teacher, saving the precious resources of those least able to spare them.
-
-Recently, the resource has been developed and reformulated, as the subject of doctoral missiological research, in conjunction with Fuller School of Intercultural Studies, in order to better serve the needs of missional leaders and learners within Burkina Faso, in West Africa.
-
-### Beginnings ###
-
-The origins of Maize Plant Discipleship are rooted in my own experiences of discipleship, which began amongst an international, Pentecostal missional community and network, in 1988. In that context, a personal calling to invest time seeking God in prayer led to involvement with a team of people who met regularly to intercede for God's purposes amongst the nations of the world. 
-
-What took place amongst us may be described an intense, spirit-led intercession that continued, in that way, for over a decade. Throughout, I exhaustively journaled the words of prayer, prophecy, inspiration, exhortation, encouragement, wisdom and of Scripture itself, which were shared by the group. Many of those words informed or inspired insights now incorporated within the Maize Plant Discipleship syllabus.
-
-### The Africa factor ###
-
-Over time, a steady stream of African leaders, training or studying in the UK, joined with our prayer fellowship, almost invariably reporting how spiritually *at home* they felt with us. Later, back in Africa, memories of our shared experiences in prayer prompted them to invite me to visit and teach in their contexts.
-
-The first opportunity to do so came in 2000, through a former prayer team member working in *Nakuru, Kenya*. There, I presented five days of seminars on prayer, intercession and mission, which were received with evident appreciation. Afterwards, participants remarked not only upon a uniqueness of insight, but also the spirit of love, with which it was delivered.
-
-### Burkina Faso ###
-
-The next stage of development came through a series of visits to Burkina Faso, between 2003 and 2008, during which I taught various conferences of leaders and learners:
-
-- In *Léo*, to bible school students, pastors, church-planters and trainees, many of whom were living in missionary contexts, within Muslim-dominant villages. 
-
-- In *Ouagadougou*, to associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
-
-Having established that a genuine spiritual dynamic was taking place, in 2008, I asked Burkinabé associates how I might make the resource more accessible and useful. They requested that I institute a regular training program *and* make my teaching notes available in textbooks.
-
-## Doctoral research ##
-
-Between 2009 and 2013, I undertook doctoral research, guided by *Fuller School of Intercultural Studies*, with a view to analysing the practicality, relevance and accessibility of my discipleship training resource from an intercultural and scriptural perspective.
-
-My field research involved collecting data through a series of survey questionnaires, group interviews (discussion forums) and individual, in-depth interviews.  In total, over seventy Burkinabé participants were consulted, a significant number of whom were national and, or denominational leaders, with significant experience of and responsibility for Burkinabé leadership training and development.
-
-### Findings ###
-
-The application of qualitative data analysis methods, to the collected data, revealed a number of significant findings or themes, relating to discipleship, in general, and my discipleship training resource, in particular.
-
-1. Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.
-
-- Participants firmly and lucidly validated the theological content of my training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
-
-- Participants identified a number of vital factors relating to teaching methodology, including: graphical and analogical illustration; time for reflection and for discussion-based learning.
-
-- Participants expressed a hunger for appropriate literature to enhance biblical, Christian understanding. Textbooks are viewed as a much-needed accompaniment to leadership training, ideally tailored to facilitate (literate) leaders who work in oral contexts.
-
-- Participants identified a potential for translating appropriate textbooks into minority African languages, but highlighted significant logistical issues (printing, promoting, distributing) involved in making text-books practical and accessible.
-
----
-
-For further details of my doctoral research, including access to the abstract and complete dissertation, please visit my website: 
-
-- http://jbclements.wordpress.com/missiology.
-
----
-
-In combination with contextual missiological research, my data analysis findings were used to define a set of characteristics that have now been applied to the Maize Plant Discipleship resource, with the intention of making it appropriate to leaders and learners in Burkinabé contexts. 
-
-1. Practical.
-- Relevant.
-- Accessible.
-
-### Practical ###
-
-Practicality implies a primary focus upon action, rather than theory. *Accordingly, an appropriate discipleship resource should*:
-
-1. Encourage Burkinabé ownership of their responsibility to serve God's eternal purpose, amongst their generation.
-
-- Promote missional commitment, discipline and action.
-
-- Facilitate personal, communal, cultural transformation.
-
-- Facilitate generational formation of disciples.
-
-### Relevant ###
-
-Relevance implies qualities and characteristics appropriate to Burkinabé culture. *Accordingly, an appropriate discipleship resource should*:
-
-1. Provide a biblically faithful, missional theology, integrated with Pentecostal spirituality.
-
-- Be published as a series of short, topical, highly-(graphically) illustrated and (analogously) illustrative textbooks.
-
-- Facilitate group discussion and reflective learning. 
-
-- Facilitate contextual adaption, especially for oral contexts.
-
-### Accessible ###
-
-Accessibility means removing or lowering barriers likely to hinder access to the curriculum. *Accordingly, an appropriate discipleship resource should*:
-
-1. Be linguistically and conceptually comprehensible.
-
-- Be readily-translatable into vernacular languages.
-
-- Be distributed with a free-at-source license.
-
-- Discriminate in favour of the economically poor.
 
 # Discipleship #
 
@@ -274,6 +160,120 @@ These are the dynamics that are explored in the Maize Plant Discipleship modules
 In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity.
 
 Discipleship also has significant potential to helpfully blur hard edges between formally-trained leadership and informally-trained workers.
+
+# Africa #
+
+>	...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
+	
+---
+
+>	With this program (of Maize Plant Discipleship)...from what we see, people who offered their reaction, in my culture there is a saying that goes like this: 
+
+>>	*When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
+
+>	So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia, cited in: Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013*
+
+## Introduction ##
+
+*Maize Plant Discipleship* is a learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. 
+
+It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^cf1] As author and teacher, my goal was to emulate the apostolic model of mission by:
+
+> Taking the teacher to the leaders, rather than bringing the leaders to the teacher, saving the precious resources of those least able to spare them.
+
+Recently, the resource has been developed and reformulated, as the subject of doctoral missiological research, in conjunction with Fuller School of Intercultural Studies, in order to better serve the needs of missional leaders and learners within Burkina Faso, in West Africa.
+
+### Beginnings ###
+
+The origins of Maize Plant Discipleship are rooted in my own experiences of discipleship, which began amongst an international, Pentecostal missional community and network, in 1988. In that context, a personal calling to invest time seeking God in prayer led to involvement with a team of people who met regularly to intercede for God's purposes amongst the nations of the world. 
+
+What took place amongst us may be described an intense, spirit-led intercession that continued, in that way, for over a decade. Throughout, I exhaustively journaled the words of prayer, prophecy, inspiration, exhortation, encouragement, wisdom and of Scripture itself, which were shared by the group. Many of those words informed or inspired insights now incorporated within the Maize Plant Discipleship syllabus.
+
+### The Africa factor ###
+
+Over time, a steady stream of African leaders, training or studying in the UK, joined with our prayer fellowship, almost invariably reporting how spiritually *at home* they felt with us. Later, back in Africa, memories of our shared experiences in prayer prompted them to invite me to visit and teach in their contexts.
+
+The first opportunity to do so came in 2000, through a former prayer team member working in *Nakuru, Kenya*. There, I presented five days of seminars on prayer, intercession and mission, which were received with evident appreciation. Afterwards, participants remarked not only upon a uniqueness of insight, but also the spirit of love, with which it was delivered.
+
+### Burkina Faso ###
+
+The next stage of development came through a series of visits to Burkina Faso, between 2003 and 2008, during which I taught various conferences of leaders and learners:
+
+- In *Léo*, to bible school students, pastors, church-planters and trainees, many of whom were living in missionary contexts, within Muslim-dominant villages. 
+
+- In *Ouagadougou*, to associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
+
+Having established that a genuine spiritual dynamic was taking place, in 2008, I asked Burkinabé associates how I might make the resource more accessible and useful. They requested that I institute a regular training program *and* make my teaching notes available in textbooks.
+
+## Doctoral research ##
+
+Between 2009 and 2013, I undertook doctoral research, guided by *Fuller School of Intercultural Studies*, with a view to analysing the practicality, relevance and accessibility of my discipleship training resource from an intercultural and scriptural perspective.
+
+My field research involved collecting data through a series of survey questionnaires, group interviews (discussion forums) and individual, in-depth interviews.  In total, over seventy Burkinabé participants were consulted, a significant number of whom were national and, or denominational leaders, with significant experience of and responsibility for Burkinabé leadership training and development.
+
+### Findings ###
+
+The application of qualitative data analysis methods, to the collected data, revealed a number of significant findings or themes, relating to discipleship, in general, and my discipleship training resource, in particular.
+
+1. Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.
+
+- Participants firmly and lucidly validated the theological content of my training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
+
+- Participants identified a number of vital factors relating to teaching methodology, including: graphical and analogical illustration; time for reflection and for discussion-based learning.
+
+- Participants expressed a hunger for appropriate literature to enhance biblical, Christian understanding. Textbooks are viewed as a much-needed accompaniment to leadership training, ideally tailored to facilitate (literate) leaders who work in oral contexts.
+
+- Participants identified a potential for translating appropriate textbooks into minority African languages, but highlighted significant logistical issues (printing, promoting, distributing) involved in making text-books practical and accessible.
+
+---
+
+For further details of my doctoral research, including access to the abstract and complete dissertation, please visit my website: 
+
+- http://jbclements.wordpress.com/missiology.
+
+---
+
+In combination with contextual missiological research, my data analysis findings were used to define a set of characteristics that have now been applied to the Maize Plant Discipleship resource, with the intention of making it appropriate to leaders and learners in Burkinabé contexts. 
+
+1. Practical.
+- Relevant.
+- Accessible.
+
+### Practical ###
+
+Practicality implies a primary focus upon action, rather than theory. *Accordingly, an appropriate discipleship resource should*:
+
+1. Encourage Burkinabé ownership of their responsibility to serve God's eternal purpose, amongst their generation.
+
+- Promote missional commitment, discipline and action.
+
+- Facilitate personal, communal, cultural transformation.
+
+- Facilitate generational formation of disciples.
+
+### Relevant ###
+
+Relevance implies qualities and characteristics appropriate to Burkinabé culture. *Accordingly, an appropriate discipleship resource should*:
+
+1. Provide a biblically faithful, missional theology, integrated with Pentecostal spirituality.
+
+- Be published as a series of short, topical, highly-(graphically) illustrated and (analogously) illustrative textbooks.
+
+- Facilitate group discussion and reflective learning. 
+
+- Facilitate contextual adaption, especially for oral contexts.
+
+### Accessible ###
+
+Accessibility means removing or lowering barriers likely to hinder access to the curriculum. *Accordingly, an appropriate discipleship resource should*:
+
+1. Be linguistically and conceptually comprehensible.
+
+- Be readily-translatable into vernacular languages.
+
+- Be distributed with a free-at-source license.
+
+- Discriminate in favour of the economically poor.
 
 # Syllabus #
 
