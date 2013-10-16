@@ -1,6 +1,6 @@
-Version: 0.1.6 --- Author's draft
+Version: 0.1.7 --- Author's draft
 Change: --- Author's revisions ---
---- miscellaneous ---
+--- chapter 2 completed ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -29,7 +29,7 @@ Published by: Write the Vision, 2014
 
 # In this Handbook #
 
-This *Facilitators' Handbook* provides guidelines for people taking responsibility for facilitating group exploration, study  and discussion, using *Maize Plant Discipleship* resources.
+This *Facilitators' Handbook* provides guidelines for people facilitating group exploration, study  and discussion, using *Maize Plant Discipleship* resources.
 
 -	[**Discipleship**][] explores biblical and missional perspectives of Christian discipleship.
 
@@ -39,7 +39,7 @@ This *Facilitators' Handbook* provides guidelines for people taking responsibili
 
 -	[**Facilitating MPD**][] provides practical insights and suggestions for facilitating group learning.
 
--	[**Publishing MPD**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and remuneration.
+-	[**Publishing MPD**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and economics.
 
 # Discipleship #
 
@@ -57,19 +57,19 @@ What is the primary principle of messianic discipleship? I believe it is set for
 
 >	Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
-Here we encounter two vital aspects of messianic discipleship. Firstly, Paul's exhortation that the knowledge of the Messiah is not simply human knowledge or philosophy. It is a spiritual treasure, to be entrusted to faithful followers. Secondly, this spiritual treasure must be kept safe with the help of the Holy Spirit. 
+Here we encounter two vital aspects of messianic discipleship. Firstly, the knowledge of the Messiah is not a matter of human knowledge or philosophy: it is a spiritual reality, a divine relationship, mediated by the Holy Spirit. Secondly, this spiritual treasure has been entrusted to us and must be kept safe with the help of the Holy Spirit—by entrusting it to other, faithful followers. 
 
 ### Safe-keeping ###
 
-This safe-keeping does not mean hoping to preserve our treasure by hiding it away. Rather, this treasure—this intimate knowledge of the Messiah—is to be kept safe by *carefully committing it to the stewardship and safekeeping of other faithful people*. Paradoxically, it is this committal of treasure to others that keeps it safe. Which keeps it from becoming unproductive. 
+This safekeeping does not imply trying to preserve our treasure by hiding it away. Rather, this treasure—of intimate, personal knowledge of and relationship with the Messiah—is to be kept safe by *carefully committing it to the stewardship and safekeeping of other faithful people*. Paradoxically, it is this committal of our treasure to others that keeps it safe, that keeps it from becoming unproductive. 
 
 Let us seek to understand this more deeply.
 
 ### Seed and harvest ###
 
-The metaphor of seed, and the harvest that comes from seed sown into the ground, is central to [*Maize Plant Discipleship*][Maize Plant Metaphor]. In agricultural contexts, seeds are a form of wealth, a type of treasure. Yet seed is generally stored only for a short time before being used. Whatever is not used for food, for *daily bread*, must be sown to produce another harvest. 
+The metaphor of seed, and the harvest that comes from seed sown into the ground, is central to [*Maize Plant Discipleship*][Maize Plant Metaphor]. In agricultural contexts, seeds are a form of wealth, a type of treasure. Yet seed is generally stored only for a short time before being used. Whatever is not used for food—for *daily bread*—must soon be sown to produce another harvest. 
 
-In the same way, we discover that God is able to supply spiritual life to us—the *treasure* of knowing the Messiah—in our daily living. This experience of being alive to God, experiencing the grace of the Messiah and the love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control of the Holy Spirit, is the spiritual equivalent of *daily bread*. 
+In the same way, we discover that God is able to supply spiritual life to us: the *treasure* of experientially knowing the Messiah, in our daily living. This experience of being alive to God, experiencing the grace of the Messiah and the love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control of the Holy Spirit, is the spiritual equivalent of *daily bread*. 
 
 Merely enjoying God's life for ourselves is, however, not the whole purpose of our relationship with him. In fact, as we will explore in this resource, the Messianic, New Covenant Community (the whole body of the Messiah's people) has been called to know God in order to become his *Servant Community*. This means that we are called to give ourselves, our lives *to serve his purposes*. This requires discipline and sacrifice. That is what it means to be a *disciple*.
 
@@ -77,11 +77,11 @@ And this sacrificial, disciplined giving of ourselves in service to God is the e
 
 ### Sharing treasure ###
 
-This is one of the secrets to living a truly *Christian* life, alive to God, which many people never discover. It is not in hoarding the treasure of our knowledge, relationship and communion with God, but in sowing and sharing it with others, both within and beyond our own community.
+This is one of the secrets to living a truly *Messianic* life, alive to God, which many people seem never to properly discover or experience. It is not in hoarding the treasure of our knowledge, relationship and communion with God, but in sowing and sharing it with others, both within and beyond our own communities, that we encounter our our vocation and authentic being.
 
-Yet while a farmer knows that some of his seed may fall onto rocky or difficult ground, it is never his intention to sow the seed wastefully. In the same way, spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be squandered upon those who do not appreciate its value and will not use it wisely.
+Yet, while a farmer recognises that some seed may fall onto rocky or difficult ground, it is never his intention to sow the seed wastefully. In the same way, our spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be squandered upon those who do not appreciate its value and will not use it wisely.
 
-What is received must be shared with other people who discern its value. This is what the parable calls good soil. People who will themselves live in a way that continues to keep this treasure safe, by sowing it into more good soil: sharing it with other faithful people, who in turn, share it with other faithful people and so on and so on. *In this simple way, a missional, discipleship movement begins to take place.*
+What is received must be shared with other people who are beginning to recognise its worth and value: its transformative power. This is what the parable calls good soil. People who will themselves be transformed through a personal knowledge and experience of the Messiah and who will continue to keep this treasure safe, by sowing it into more good soil: sharing it with other faithful people, who in turn, share it with other faithful people and so on and so on. *In this simple, straightforward way, a missional, discipleship movement begins to take place.*
 
 ## Discipleship movements ##
 
@@ -89,13 +89,16 @@ The formation of faithful disciples was at the heart of the Messiah Jesus' life 
 
 Discipling movements have the potential to change the world. Leaders, money, books and power all have their places within radical, popular movements. But, in a world in which people are continually effected by corporate experiences that are larger than the individual, it is people-movements that are most capable of producing deep, wide, enduring change.
 
-Two things are essential to transformative people movements: *vision* and *discipleship*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples.
+Two things are essential to transformative people movements: *vision* and *the formation of disciples*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples.
 
-Disciples committed to producing a significant transformation. Disciples willing to work endlessly to turn vision into reality. Disciples who pursue their work as visionary *co-workers*, rather that as selfishly-ambitious *individuals*. Disciples who reproduce other faithful, active disciples, continually sharing the work, values and hopes of the vision.
+- Disciples committed to significant transformation. 
+- Disciples willing to work endlessly to turn vision into reality. 
+- Disciples who pursue their work as *co-workers*, rather that selfishly-ambitious *individuals*. 
+- Disciples who reproduce other faithful, active disciples, continually sharing the work, values and hopes of the vision.
 
-In this way a movement is developed. A movement of focussed, visionary, dynamic people. People deeply and profoundly allied to a vision, a cause and a purpose that is larger than themselves. 
+In this way a visionary, discipling movement is developed. A movement of focussed, visionary, dynamic people. People deeply and profoundly allied to a vision, a cause and a purpose that is larger than themselves.
 
----
+### Transforming nations ###
 
 During the past two-thousand years, the messianic, new-covenant community has grown and developed through precisely this sort of dynamism. From its origins as an obscure, tiny, Jewish sect it has grown into an international, intercultural, multi-ethnic community, now existing, in some way or another, in practically every nation of the world.
 
@@ -105,51 +108,62 @@ As this community has spread out, it has significantly transformed the history o
 
 Nevertheless, in certain seasons, in certain places, this dynamism has ceased to exist. A church planted within a nation or culture, in a former season, is no longer growing and multiplying. 
 
-Inevitably, behind religious facades, such a church is marked by a lack of vision, a loss of communal vitality and a spirituality that has lost touch with its holy roots. Traditions that may not be bad in themselves have replaced the vitality of a living, reproducing body of people.  Even though its religious institutions may remain dogmatic towards their creeds, the Christian community itself no longer exhibits authentic, biblical zeal for its vocation: its call to serve God's purpose amongst the nations. 
+Inevitably, behind its religious facades, such a church is marked by a lack of vision, a loss of communal vitality and a spirituality that has lost touch with its holy roots. Traditions, which may not be bad in themselves, have replaced the vitality of a living, reproducing body of people.  Even though its religious institutions may remain dogmatic towards their creeds, the Christian community itself no longer exhibits authentic, biblical zeal for its vocation: its call to serve God's purpose amongst the nations. 
 
 In practice, such a church or community has become un-critical in its engagement with the societies and cultures in which it lives. Its testimony is compromised by idolatrous values. Its lifestyle is accommodated to ungodly influences. It has ceased to be different, ceased to be transformative, ceased making a significant, discernible impact upon its social, material, political and cultural environments.
 
-In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples. It lacks the confidence to persuade either itself or others to forsake human idols and to wholehearted ally itself to the Messiah.
+In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples. It lacks the confidence to persuade either itself or others to forsake human idols and to wholehearted ally itself and themselves to the Messiah.
 
 ### Renewal ###
 
-By contrast, whenever a national or regional church, local congregation or Christian leader seeks for spiritual renewal, reformation or revival, Christian discipleship must be at the core of its activity and spirituality.
+By contrast, whenever a messianic community—be it a national or regional church, local congregation—seeks for spiritual renewal, reformation or revival, messianic, visionary discipleship must be at the core of its activity and spirituality.
 
-Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than bolstering church-as-organisation, greater even than serving one another as part of a Christian community. The goal is to be part of a movement of people *serving God's purposes within the world* and its societies. 
+Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of the church-as-an-organisation, greater even than serving-one-another, as part of messianic community. The goal is to be part of a movement of people *serving God's purposes within the world* and its societies.
+
+---
 
 > At its core, the messianic, new-covenant community is a movement of disciples called to serve God's eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled, idol-bound populations. 
 
-Out there, beyond congregational gatherings, among the corruption of society, among its filthy gutters, behind its social, political and religious walls, the Messiah is at work by his Spirit. Out there he is calling co-workers to come alongside him in his work of redemption and transformation: of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices. 
+---
 
-*Out there* is where Christian disciples need to bring the light of Christ. Out there, amongst the people of the world, Christ's disciples are the light of the world.
+- *Out there*, beyond congregational gatherings, among the corruption of society, among its filthy gutters, behind its social, political and religious walls, the Messiah is at work by his Spirit. 
+
+- *Out there* he is calling co-workers to come alongside him in his work of redemption and transformation: of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices. 
+
+- *Out there* is where Christian disciples need to bring the light of Christ. Out there, amongst the people of the world, Christ's disciples are the light of the world.
 
 ### Anointed community  ###
 
-To make possible such an otherwise impossibly-high calling, Christian discipleship provides a unique ingredient that no other philosophy, ideology and faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
+To make possible such an otherwise impossibly-high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology and faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
 
 *Through the Spirit*, the new-covenant community is transformed into a charismatic community. A group of people endowed with spiritual gifts that are profoundly shaped to liberate human beings from idolatry and every other allegiance and falsehood that competes and sets itself against God and the knowledge of him. 
 
-*Charismatic* derives from a Greek word, *charism*, meaning *gift of the Spirit*. Biblically speaking, the *charisma* of the Christian community comes from its anointing. Messiah, or Christ, essentially means *Anointed One*. The One Anointed with the Spirit.
+---
+
+> *Charismatic* derives from a Greek word, *charism*, meaning *gift of the Spirit*. Biblically speaking, the *charisma* of the Christian community comes from its anointing. Messiah, or Christ, essentially means *Anointed One*. The One Anointed with the Spirit.
+
+---
 
 Thus, the Messianic Community is a body of people anointed with the fragrant oil, or presence, of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. It is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.
+
 
 > This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit!
 
 ### Life...through death ###
 
-God's intention is that this covenant community co-works in partnership with him, using the strength, the power, the spiritual life, the anointing that he provides. 
+God's intention is that this messianic, charismatic, covenant community co-works in partnership with him, using the strength, the power, the spiritual life, the anointing that he provides. 
 
-Too often though, that power, that anointed-life-of-Christ-within-us, seems to elude us. It seems out of our reach. Out of our grasp.
+Too often though, that power, that anointed-life-of-Christ-within-us, seems to elude us. It seems out of our reach. Beyond our grasp.
 
 Indeed, it is not something that can be *grasped*, as Jesus himself demonstrated. Instead, the pathway to life is through dying. That is the message of the cross. Only to the extent that we *die to ourselves*, do we truly become *alive to God*. 
 
 ---
 
-Thus we end (this section) where we began, with the *foundational principle of transformative discipleship*: the seed sown into the ground, in order to produce a harvest.
+Thus we end where we began, with the foundational principle of transformative discipleship: the seed sown into the ground, in order to produce a harvest.
 
 > I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
 
-This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship. As we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God.
+This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship: as we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God.
 
 *That is the heart of Maize Plant Discipleship*.
 
@@ -167,33 +181,33 @@ This life-giving spiritual reality is at the heart of Jesus' own life, mission, 
 
 ## Introduction ##
 
-*Maize Plant Discipleship* is a learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. 
+*Maize Plant Discipleship* is a training and learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. 
 
-It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^cf1] As author and teacher, my goal was to emulate the apostolic model of mission by:
+It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^cf1] As author and teacher, my goal was to emulate the apostolic model of mission by
 
 > Taking the teacher to the leaders, rather than bringing the leaders to the teacher, saving the precious resources of those least able to spare them.
 
-Recently, the resource has been developed and reformulated, as the subject of doctoral missiological research, in conjunction with Fuller School of Intercultural Studies, in order to better serve the needs of missional leaders and learners within Burkina Faso, in West Africa.
+Recently, the resource has been developed as the subject of doctoral missiological research, in conjunction with Fuller School of Intercultural Studies, following which it has been reformulated, in order to better serve the needs of missional leaders and learners within Burkina Faso, West Africa.
 
 ### Beginnings ###
 
-The origins of Maize Plant Discipleship are rooted in my own experiences of discipleship, which began amongst an international, Pentecostal missional community and network, in 1988. In that context, a personal calling to invest time seeking God in prayer led to involvement with a team of people who met regularly to intercede for God's purposes amongst the nations of the world. 
+The origins of Maize Plant Discipleship are rooted in my own, personal experiences, which began amongst an international, Pentecostal missional community and network, in 1988. In that context, a personal calling to invest time seeking God in prayer led to involvement with a team of people who met regularly to intercede for God's purposes amongst the nations of the world. 
 
-What took place amongst us may be described an intense, spirit-led intercession that continued, in that way, for over a decade. Throughout, I exhaustively journaled words, shared between the group, of scripture, prayer, prophecy, inspiration, exhortation, encouragement and wisdom, many of which informed or inspired insights now incorporated within the Maize Plant Discipleship syllabus.
+What took place amongst us may be described an intense, Spirit-led intercession that continued, in that way, for over a decade. Throughout, I exhaustively journaled words, shared between the group, of scripture, prayer, prophecy, inspiration, exhortation, encouragement and wisdom, many of which informed or inspired insights now incorporated within the Maize Plant Discipleship syllabus.
 
 ### The Africa factor ###
 
 Over time, a steady stream of African leaders, training or studying in the UK, joined with our prayer fellowship, almost invariably reporting how spiritually *at home* they felt with us. Later, back in Africa, memories of our shared experiences in prayer prompted them to invite me to visit and teach in their contexts.
 
-The first opportunity to do so came in 2000, through a former prayer team member working in *Nakuru, Kenya*. There, I presented five days of seminars on prayer, intercession and mission, which were received with evident appreciation. Afterwards, participants remarked not only upon a uniqueness of insight, but also the spirit of love, with which it was delivered.
+The first opportunity to do so came in 2000, through a former prayer team member working in Nakuru, Kenya. There, I presented five days of seminars on prayer, intercession and mission, which were received with considerable enthusiasm and appreciation. Afterwards, participants remarked not only upon a uniqueness of insight, but also the spirit of love, in which it was delivered.
 
 ### Burkina Faso ###
 
 The next stage of development came through a series of visits to Burkina Faso, between 2003 and 2008, during which I taught various conferences of leaders and learners:
 
-- In *Léo*: bible school students, pastors, church-planters and trainees, many of whom were living in missionary contexts, within Muslim-dominant villages. 
+- In Léo: bible school students, pastors, church-planters and trainees, many of whom were living in missionary contexts, within Muslim-dominant villages. 
 
-- In *Ouagadougou*: associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
+- In Ouagadougou: associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
 
 Having established that a genuine spiritual dynamic was taking place, in 2008, I asked Burkinabé associates how I might make the resource more accessible and useful. They requested that I institute a regular training program *and* make my teaching notes available in textbooks.
 
@@ -205,11 +219,11 @@ My field research involved collecting data through a series of survey questionna
 
 ### Findings ###
 
-The application of qualitative data analysis methods, to the collected data, revealed a number of significant findings or themes, relating to discipleship, in general, and my discipleship training resource, in particular.
+The application of qualitative data analysis methods, to my collected data, revealed a number of significant findings or themes.
 
 1. Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.[^cf2]
 
-- Participants firmly and lucidly validated the theological content of my training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
+- Participants consistently validated the theological content of my prototype training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
 
 - Participants identified that contextually-appropriate teaching needed to incorporate: consistent use of graphical and analogical illustration; adequate time for reflection; discussion-based learning modes.
 
@@ -217,48 +231,53 @@ The application of qualitative data analysis methods, to the collected data, rev
 
 - Participants identified a potential for translating appropriate textbooks into minority African languages, but highlighted significant logistical issues (printing, promoting, distributing) involved in making text-books practical and accessible.
 
-These data analysis findings, combined with contextual missiological study,[^cf3] were used to define a set of characteristics—*practical, relevant, accessible*—that could be (and have now been) applied to the Maize Plant Discipleship resource, in order to make it appropriate to leaders and learners in Burkinabé contexts.
+These data analysis findings were combined with contextual missiological study to define the attributes of a training resource appropriate to Burkinabé leaders and learners.[^cf3] These attributes were then used to form the Maize Plant Discipleship syllabus and resource handbooks, in order to ensure that it is *practical, relevant and accessible*.
 
 ### Practical ###
 
-Practicality implies a primary focus upon action, rather than theory. *Accordingly, an appropriate discipleship resource should*:
+Being practical means encouraging and facilitating a focus upon purposeful actions—rather than classroom theorising.
 
-1. Encourage Burkinabé ownership of their responsibility to serve God's eternal purpose, amongst their generation.
+1. Encouraging contextual insiders' ownership of the responsibility to serve God's eternal purpose, amongst their generation.
 
-- Promote missional commitment, discipline and action.
+- Promoting lifelong commitment to missional discipline and action.
 
-- Facilitate personal, communal, cultural transformation.
+- Envisioning personal, communal, cultural transformation.
 
-- Facilitate generational formation of disciples.
+- Emphasising the necessity of continuous, generational formation of disciples.
 
 ### Relevant ###
 
-Relevance implies qualities and characteristics appropriate to Burkinabé culture. *Accordingly, an appropriate discipleship resource should*:
+Being relevance requires an incorporation of qualities and characteristics appropriate to contextual culture.
 
-1. Provide a biblically faithful, missional theology, integrated with Pentecostal spirituality.
+1. Providing a biblically faithful, missional theology, integrated with Pentecostal spirituality.
 
-- Be published as a series of short, topical, highly-(graphically) illustrated and (analogously) illustrative textbooks.
+- Employing short, topical, illustrative, pictorial, *handbook* publishing format.
 
-- Facilitate group discussion and reflective learning. 
+- Facilitating group discussion and reflective learning. 
 
-- Facilitate contextual adaption, especially for oral contexts.
+- Facilitating contextual adaption, especially for oral contexts.
 
 ### Accessible ###
 
-Accessibility means removing or lowering barriers likely to hinder access to the curriculum. *Accordingly, an appropriate discipleship resource should*:
+Being accessible requires lowering or removing barriers that could hinder access to the curriculum.
 
-1. Be linguistically and conceptually comprehensible.
+1. Sensitive to the linguistic and conceptual comprehension of African readers', for whom French and English may not be their mother-tongue languages.
 
-- Be readily-translatable into vernacular languages.
+- Facilitating translation into vernacular languages.
 
-- Be distributed with a free-at-source license.
+- Distributing with a free-at-source license, which licences publication and reproduction of MPD handbooks.
 
-- Discriminate in favour of the economically poor.
+- Discriminating, where possible and appropriate, in favour of the economically poor.
+
+### Continuous improvement ###
+
+If, after you have examined and used MPD resources, you think we can improve upon these attributes, or our application of them, please contact us, via the MPD website: <http://maizeplantdiscipleship.wordpress.com/contact>
+
 
 # MPD Syllabus #
 
 John 12:24
-: I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — Jesus, 
+: I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — Jesus 
 
 Paul, 2 Corinthians 9:10
 : May he who supplies seed to the sower and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness
@@ -267,9 +286,13 @@ Paul, 2 Corinthians 9:10
 
 In the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. Grown throughout sub-Saharan Africa, the maize plant provides a similar highly recognisable metaphor. 
 
-- Using maize to represent messianic community reminds us that we are called, like the Messiah, to live sacrificial, obedient lives in order to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+---
 
-- The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of a maize plant.
+> Using maize to represent messianic community reminds us that we are called, like the Messiah, to live sacrificial, obedient lives in order to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+
+---
+
+The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant.
 
 ![Maize plant metaphor][mpm]
 
@@ -278,8 +301,8 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 As illustrated, in [](#mpm), there are three main components to the metaphor: 
 
 1. [Soil and roots]
-2. [Plant growth];
-3. [Sunlight and rainfall].
+- [Maize plant]
+- [Sunlight and rainfall].
 
 ### Soil and roots ###
 
