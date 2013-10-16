@@ -1,14 +1,14 @@
-# Collaboration #
+# Collaboration 
 
 Collaboration is welcomed and invited by the author.
 
-## Reading ##
+## Reviewing
 
 Information for those enlisted, or volunteering, to review content: 
 
--	[Reviewing](reviewing/reviewing.md)
+-	[Reviewing](reviewing.md)
 
-## Other  ##
+## Other  
 
 In due course, further information will be provided regarding collaboration in terms of:
 
@@ -17,7 +17,7 @@ In due course, further information will be provided regarding collaboration in t
 -	Translation
 
 
-## Further Information ##
+## Further Information 
 
 -	Return to [README](../README.md)
 
