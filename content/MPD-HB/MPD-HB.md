@@ -1,5 +1,5 @@
 Version: 0.1.9 --- Author's draft
-Change: --- chapter 4 completed ---
+Change: --- blockquote indents revised ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -41,19 +41,19 @@ This *Facilitators' Handbook* provides guidelines for people facilitating group 
 
 # Discipleship #
 
->	Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I commanded you---*Jesus, Matthew 28:19-20*
+> Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I commanded you---*Jesus, Matthew 28:19-20*
 
 ---
 
->	Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. 
+> Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. 
 
->	 However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
+>  However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
 
 ## What is discipleship? ##
 
 What is the primary principle of messianic discipleship? I believe it is set forth most clearly by the missionary apostle, Paul, when he writes these words in his second letter addressed to his own disciple, Timothy, words containing clear echoes of Jesus' words, in Matthew 28:
 
->	Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
+> Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
 Here we encounter two vital aspects of messianic discipleship. Firstly, the knowledge of the Messiah is not a matter of human knowledge or philosophy: it is a spiritual reality, a divine relationship, mediated by the Holy Spirit. Secondly, this spiritual treasure has been entrusted to us and must be kept safe with the help of the Holy Spirit—by entrusting it to other, faithful followers. 
 
@@ -138,14 +138,14 @@ To make possible such an otherwise impossibly-high calling, messianic disciplesh
 
 ---
 
->	*Charismatic* derives from a Greek word, *charism*, meaning *gift of the Spirit*. Biblically speaking, the *charisma* of the Christian community comes from its anointing. Messiah, or Christ, essentially means *Anointed One*. The One Anointed with the Spirit.
+> *Charismatic* derives from a Greek word, *charism*, meaning *gift of the Spirit*. Biblically speaking, the *charisma* of the Christian community comes from its anointing. Messiah, or Christ, essentially means *Anointed One*. The One Anointed with the Spirit.
 
 ---
 
 Thus, the Messianic Community is a body of people anointed with the fragrant oil, or presence, of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. It is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.
 
 
->	This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit!
+> This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit!
 
 ### Life...through death ###
 
@@ -159,7 +159,7 @@ Indeed, it is not something that can be *grasped*, as Jesus himself demonstrated
 
 Thus we end where we began, with the foundational principle of transformative discipleship: the seed sown into the ground, in order to produce a harvest.
 
->	I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
+> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
 
 This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship: as we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God.
 
@@ -167,15 +167,15 @@ This life-giving spiritual reality is at the heart of Jesus' own life, mission, 
 
 # Africa & MPD #
 
->	...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
+> ...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 	
 ---
 
->	With this program (of Maize Plant Discipleship)...from what we see, people who offered their reaction, in my culture there is a saying that goes like this: 
+> With this program (of Maize Plant Discipleship)...from what we see, people who offered their reaction, in my culture there is a saying that goes like this: 
 
->>	*When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
+>> *When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
 
->	So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia, cited in: Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013*
+> So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia, cited in: Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013*
 
 ## Introduction ##
 
@@ -271,7 +271,7 @@ Being accessible requires lowering or removing barriers that could hinder access
 
 ---
 
->	If, after you have examined and used MPD resources, you think we can improve upon these attributes, or our application of them, please contact us, via the MPD website: <http://maizeplantdiscipleship.wordpress.com/contact>
+> If, after you have examined and used MPD resources, you think we can improve upon these attributes, or our application of them, please contact us, via the MPD website: <http://maizeplantdiscipleship.wordpress.com/contact>
 
 ---
 
@@ -289,7 +289,7 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 
 ---
 
->	Representing messianic community with maize, which forms the daily diet of millions of African people, reminds us that we are called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+> Representing messianic community with maize, which forms the daily diet of millions of African people, reminds us that we are called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
 
 ---
 
@@ -325,9 +325,9 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 #### MPD-M1 — Eternal Purpose ####
 
->	Module 1 provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, building up a panoramic overview of the whole story of scripture, in order to illustrate God's unchanging, eternal purpose. 
+> Module 1 provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, building up a panoramic overview of the whole story of scripture, in order to illustrate God's unchanging, eternal purpose. 
 
->	In this foundational illustration, the Messiah is the Seed entering the soil—representing the biblical, covenantal history of the people of Israel—in order to die and produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
+> In this foundational illustration, the Messiah is the Seed entering the soil—representing the biblical, covenantal history of the people of Israel—in order to die and produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
 
 ### Maize plant ###
 
@@ -349,7 +349,7 @@ Accordingly, the *dynamics of messianic community* refer to the unique character
 
 ---
 
->	Note: MPD-Mn is shorthand for Maize Plant Discipleship—Module n, where n is the number of a particular module.
+> Note: MPD-Mn is shorthand for Maize Plant Discipleship—Module n, where n is the number of a particular module.
 
 ---
 
@@ -357,19 +357,19 @@ Accordingly, the *dynamics of messianic community* refer to the unique character
 
 #### MPD-M2 — Dynamics of Vocation — Nations ####
 
->	MPD-M2 examines the historical development the Messianic Community's vocational mission to bless the nations of the world.
+> MPD-M2 examines the historical development the Messianic Community's vocational mission to bless the nations of the world.
 
 #### MPD-M3 — Dynamics of Vocation — Jews ####
 
->	MPD-M3 examines biblical Israel, in order to demonstrate the significant responsibilities of the Messianic Community with regard to the Jewish people.
+> MPD-M3 examines biblical Israel, in order to demonstrate the significant responsibilities of the Messianic Community with regard to the Jewish people.
 
 #### MPD-M4 — Dynamics of Commissioning ####
 
->	MPD-M4 explores the dynamic of messianic commissioning, including a focus upon strategy, structures and modes of expansion.
+> MPD-M4 explores the dynamic of messianic commissioning, including a focus upon strategy, structures and modes of expansion.
 
 #### MPD-M5 — Dynamics of Body Membership ####
 
->	MPD-M5 explores basic patterns of membership, commitment and spiritual maturity within the body of the Messiah.
+> MPD-M5 explores basic patterns of membership, commitment and spiritual maturity within the body of the Messiah.
 
 #### MPD-M6 — Dynamics of Revival ####
 
@@ -377,15 +377,15 @@ Accordingly, the *dynamics of messianic community* refer to the unique character
 
 #### MPD-M7 — Dynamics of Truth ####
 
->	MPD-M7 explores our encounter with truth, as we learn to walk in practical, covenantal faithfulness towards God's revelation and wisdom.
+> MPD-M7 explores our encounter with truth, as we learn to walk in practical, covenantal faithfulness towards God's revelation and wisdom.
 
 #### MPD-M8 — Dynamics of Intercession ####
 
->	MPD-M8 explores the priestly vocation of the Messianic Community as *a house of prayer for all nations*.
+> MPD-M8 explores the priestly vocation of the Messianic Community as *a house of prayer for all nations*.
 
 #### MPD-M9 — Dynamics of Cultural Transformation ####
 
->	MPD-M9 examines our call to work towards cultural transformations that signal the presence of God's kingdom, as we live amongst and on behalf of the nations.
+> MPD-M9 examines our call to work towards cultural transformations that signal the presence of God's kingdom, as we live amongst and on behalf of the nations.
 
 ### Sunlight and rainfall ###
 
@@ -401,7 +401,7 @@ Continuing the metaphor of the maize plant: *sunlight* and *rainfall* represent 
 
 #### MPD-M10 — Disciplines of Spiritual Maturity ####
 
->	MPD-M10 explores three stages of encounter, discovery and growth in spiritual maturity and vocational equipping: the pastoral, devotional stage; the missional, vocational stage and the apostolic, intercessory stage. 
+> MPD-M10 explores three stages of encounter, discovery and growth in spiritual maturity and vocational equipping: the pastoral, devotional stage; the missional, vocational stage and the apostolic, intercessory stage. 
 
 #### MPD-M11 — Disciplines of Running the Race ####
 
@@ -441,9 +441,9 @@ Accordingly, the use of Maize Plant Discipleship resources do not rely upon the 
 
 # Facilitating MPD #
 
->	...the word of God increased; and the number of disciples multiplied greatly in Jerusalem, and a great many of the priests were obedient to the faith—Acts 1.6-7
+> ...the word of God increased; and the number of disciples multiplied greatly in Jerusalem, and a great many of the priests were obedient to the faith—Acts 1.6-7
 
->	I have received a valuable teaching which I would like to use to impact the life of people in my neighbourhood and in my church. I would like to see this teaching be the flame of the Spirit of God which will help the ministry to grow more—Pastor Benao, 2010
+> I have received a valuable teaching which I would like to use to impact the life of people in my neighbourhood and in my church. I would like to see this teaching be the flame of the Spirit of God which will help the ministry to grow more—Pastor Benao, 2010
 
 ## Discipleship groups ##
 
@@ -451,7 +451,7 @@ Accordingly, the use of Maize Plant Discipleship resources do not rely upon the 
 
 ---
 
->	This doesn't mean these studies can't be used for congregational teaching, or devotional study, or within theological and leadership training centres. If you're using the MPD textbooks in these contexts, why not think about how you could incorporate discipleship and discussion groups?
+> This doesn't mean these studies can't be used for congregational teaching, or devotional study, or within theological and leadership training centres. If you're using the MPD textbooks in these contexts, why not think about how you could incorporate discipleship and discussion groups?
 
 ---
 
@@ -459,7 +459,7 @@ Accordingly, the use of Maize Plant Discipleship resources do not rely upon the 
 
 Why focus upon discipleship groups, rather than church growth strategy? Let's remind ourselves of the foundational principle of biblical discipleship: 
 
->	Keep safe the great treasure entrusted to us by sharing it with others who will be faithful to the teaching and in sharing it with others.
+> Keep safe the great treasure entrusted to us by sharing it with others who will be faithful to the teaching and in sharing it with others.
 
 For discipleship to fulfil its potential, it is essential that disciples find effective ways to be involved in the formation of other disciples. One straightforward way is to encourage discipleship groups to multiply. 
 
@@ -490,7 +490,7 @@ We see from this pattern and the history that has flowed from this tiny beginnin
 
 The discipleship movement spreads out geographically and, more importantly, across ethnic and cultural boundaries. From its beginnings in Jerusalem, the movement expands throughout Palestine, Asia Minor, Greece and, finally, to Rome—the very centre and seat of worldly power, at that time.
 
->	Sh'aul remained two whole years in a place he rented for himself and continued receiving all who came to see him, openly and without hindrance proclaiming the Kingdom of God and teaching about the Lord Yeshua the Messiah—Acts 28.30-31
+> Sh'aul remained two whole years in a place he rented for himself and continued receiving all who came to see him, openly and without hindrance proclaiming the Kingdom of God and teaching about the Lord Yeshua the Messiah—Acts 28.30-31
 
 ### The power of multiplication ###
 
@@ -580,7 +580,7 @@ When meeting together for MPD the aim is to foster an environment of learning an
 
 ---
 
->	Particularly where a facilitator or presenter is an established leader, these practical expressions of humility and openness set an important example, providing a practical reminder that we are all equally disciples of the Messiah.
+> Particularly where a facilitator or presenter is an established leader, these practical expressions of humility and openness set an important example, providing a practical reminder that we are all equally disciples of the Messiah.
 
 ---
 
@@ -608,7 +608,7 @@ Facilitators need to be sensitive to expectations that may be raised by their ac
 
 ### Discipleship group format ###
 
->	They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—Acts 2.42
+> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—Acts 2.42
 
 The experience of the followers of Jesus, described in the book of Acts, chapter 2, verse 42 provides us with a simple pattern that I believe can be applied to MPD groups. A pattern of:
 
@@ -655,7 +655,7 @@ The celebratory breaking of bread, in order to remember the Lord Jesus and his s
 
 ---
 
->	*Breaking bread* was originally fashioned, by the early church, upon the weekly *Sh'bat* (Sabbath) meal of the Jews. This was a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt.
+> *Breaking bread* was originally fashioned, by the early church, upon the weekly *Sh'bat* (Sabbath) meal of the Jews. This was a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt.
 
 ---
 
@@ -723,13 +723,13 @@ Here are some ideas to think about; you may have others:
 
 -	What other ways might it be appropriate to organise the time and the group in order to ensure the learning is culturally appropriate, relevant and practical? 
 
->	Think about these things as you progress throughout this discipleship experience.
+> Think about these things as you progress throughout this discipleship experience.
 
 # Publishing MPD #
 
->	I think you are touching something that is not already existing... For example, if we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing!— Burkinabé theological educator, 2010
+> I think you are touching something that is not already existing... For example, if we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing!— Burkinabé theological educator, 2010
 
->	Freely you have received, therefore freely give— Jesus,  Matthew 10.8
+> Freely you have received, therefore freely give— Jesus,  Matthew 10.8
 
 ## Books for African contexts ##
 
@@ -854,7 +854,7 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 ## Licensing ##
 
->	Maize Plant Discipleship by John Clements is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License, as expressed on the following page. 
+> Maize Plant Discipleship by John Clements is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License, as expressed on the following page. 
 
 -	Note: This license is incorporated into all Maize Plant Discipleship text books.
 -	Permissions beyond the scope of the license may be available by contacting the author, at http://johnclements.net/contact.
