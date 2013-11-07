@@ -1,5 +1,5 @@
-Version: 0.1.8 --- Author's draft
-Change: --- chapter 4, section 1 completed ---
+Version: 0.1.9 --- Author's draft
+Change: --- chapter 4 completed ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -461,7 +461,7 @@ Why focus upon discipleship groups, rather than church growth strategy? Let's re
 
 >	Keep safe the great treasure entrusted to us by sharing it with others who will be faithful to the teaching and in sharing it with others.
 
-For discipleship to fulfil its potential, it is essential that disciples find effective ways to be involved in the forming of other disciples. One straightforward way is to encourage discipleship groups to multiply. 
+For discipleship to fulfil its potential, it is essential that disciples find effective ways to be involved in the formation of other disciples. One straightforward way is to encourage discipleship groups to multiply. 
 
 When authentic, biblical discipleship takes place in a particular context, the enthusiasm generated creates pressure to move outwards into other contexts, to share experiences, insights and invite others to become disciples. 
 
@@ -523,7 +523,7 @@ Thus discipleship must be lived and worked out practically: in our homes and our
 ## Facilitating Discipleship Groups ##
 
 1.	[Facilitating role]
--	[Learning format]
+-	[Discipleship group format]
 -	[Practical considerations]
 
 ### Facilitating role ###
@@ -610,22 +610,22 @@ Facilitators need to be sensitive to expectations that may be raised by their ac
 
 >	They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—Acts 2.42
 
-The experience of the followers of Jesus, described in the book of Acts, chapter 2, verse 42 provides us with a simple pattern that I believe can be applied to MPD groups: a pattern of 
+The experience of the followers of Jesus, described in the book of Acts, chapter 2, verse 42 provides us with a simple pattern that I believe can be applied to MPD groups. A pattern of:
 
 1.	[Teaching]
 -	[Fellowship] 
 -	[Breaking bread] and 
 -	[Prayer]. 
 
-The first two are incorporated within the MPD handbooks, by design. The second two aspects constitute important forms of empowerment for disciples and should be incorporated by facilitators as they experience the leading of the Holy Spirit.
+The first two are incorporated within MPD handbooks, by design. The second two aspects represent important forms of empowerment for disciples and should be incorporated by facilitators as they are lead by the Holy Spirit.
 
 #### Teaching ####
 
-As explained, [MPD Handbooks] are principally formulated to facilitate group learning and discussion, based upon a series of scripture readings and topical studies.
+As explained, [MPD Handbooks] are intentionally formulated to facilitate and stimulate group learning and discussion, based upon topical studies.
 
-In advance of gathering a discipleship group, facilitators responsible for presenting the topical study should go through it carefully: absorbing, familiarising and reflecting upon the teaching and its lessons.
+-	In advance of gathering a discipleship group, facilitators responsible for presenting the topical study should go through it carefully: absorbing, familiarising and reflecting upon the teaching and its lessons.
 
-As a facilitator: if there are areas of the study that are unfamiliar or unclear, it's important not to ignore them. Instead, be prepared to invite the group to discuss these areas. This will help to produce a lively discussion about that area of the study, encouraging others to bring forward their interpretation of the topic. Be humble; we are all always learning.
+-	As a facilitator: if there are areas of the study that are unfamiliar or unclear, it's important not to ignore them. Instead, be prepared to invite the group to discuss these areas. This will help to produce a lively discussion about that area of the study, encouraging others to bring forward their interpretation of the topic. *Be humble; we are all always learning*.
 
 #### Fellowship ####
 
@@ -659,71 +659,71 @@ The celebratory breaking of bread, in order to remember the Lord Jesus and his s
 
 ---
 
-Although breaking bread has typically become a ceremony in today's churches, it is possible to incorporate a simple meal into the routines of meeting together and to recognise this as a practical form of breaking, bread. Sharing food together is a vital part of human fellowship and a practical way of sharing God's daily provision to us. 
+-	Although breaking bread has typically become a ceremony in today's churches, it is sometimes possible to incorporate a simple meal into the routines of meeting together and to recognise this as a practical form of breaking bread. Sharing food together is a vital part of human fellowship and a practical way of sharing God's daily provision to us.
 
-Where sharing a whole meal is not practical or possible, consider breaking bread together in a symbolic act of shared hospitality and commitment to membership of the body of the Messiah.
+-	Where sharing a whole meal is not practical or possible, consider breaking a small amount of bread together, in a symbolic act of shared hospitality and commitment to membership of the body of the Messiah.
 
 #### Prayer ####
 
-Intercession directs our vision and our compassion beyond ourselves and our own needs. Discipleship groups should incorporate intercessory prayers on behalf of neighbours, networks and communities, as well as local and national rulers and governors. 
+Intercessory prayer directs our vision and our compassion beyond ourselves and our own needs. Discipleship groups should incorporate intercessory prayers on behalf of neighbours, networks and communities, as well as local and national rulers and governors. 
 
 -	Pray for the gospel to deeply impact and transform individuals, communities, cultures and societies throughout your nation, all of Africa, Europe, Asia and the Americas. If any member of the group has access to information about unreached peoples, incorporate it appropriately.
--	Please consider praying for this Maize Plant Discipleship Curriculum. Pray that it will be used by God to edify and strengthen and bless the Messianic Community, within Africa ... and beyond!
 
-##### Sending #####
+-	Please consider praying for this Maize Plant Discipleship Resource. Pray that it will be used by God to edify and strengthen and bless the Messianic Community, within Africa ... and beyond!
 
 Finally, those who have gathered for discipleship should send one another forth in prayer and the power of God's blessing. 
 
--	Encourage disciples to use that day's teaching to infuse prayer with fresh confidence concerning God's will. Include personal and vocational concerns and specific challenges faced by members of the discipleship. 
+-	Encourage disciples to use that day's teaching to infuse prayer with fresh confidence concerning God's will. Include personal and vocational concerns and specific challenges faced by members of the group. 
 
--	Bless one another by speaking a blessing, either from Scripture, or as led by the Holy Spirit, 'over' a person or a community or a specific problem, expecting that the power of God's word and the blessing of his life in us will overcome all opposition!
+-	Bless one another, by speaking a blessing, either from Scripture, or as led by the Holy Spirit, over a person or a community or a specific problem, expecting that the power of God's word and the blessing of his life in us will overcome all opposition!
 
 ### Practical considerations ###
 
-Facilitating a discipleship group will be most effective when practicalities are considered and appropriate planning takes place. This planning should be done in advance, in order to allow both discipleship students and facilitators to prepare themselves appropriately.
+Facilitating a discipleship group will be most effective when practicalities are considered and appropriate planning takes place. This should be done in advance, in order to grain the most from the group interaction.
 
 #### Getting started ####
 
-'Maize Plant Discipleship' is ideal for discipleship groups of between eight to twelve people. This group size is small enough to allow members to grow together with a degree of intimacy and large enough to allow members space to explore discipleship commitments at their own pace.
+Maize Plant Discipleship is ideal for discipleship groups of between eight to twelve people. This group size is small enough to allow members to grow together with a degree of intimacy and large enough to allow members space to explore discipleship commitments at their own pace.
 
-If you begin with a group of more than twelve people committed to participating in discipleship training, consider how you could facilitate more multiple groups. Begin the process of making disciples right away, delegating and sharing responsibility for the discipleship process.
+If you begin with a group of more than twelve people committed to participating in discipleship training, consider how you could facilitate more multiple groups. Begin the process of making disciples right away, delegating and sharing responsibility for the facilitating process.
 
 #### Involving others ####
 
-Whilst a Facilitator will usually be responsible for convening gatherings, wherever possible, others should be invited to host and, if appropriate, moderate gatherings. Likewise, different people should be made responsible for presenting the teaching and moderating group discussions.
+Whilst a Facilitator will usually be responsible for convening gatherings, wherever possible, other people should be invited to host and, where appropriate, to moderate gatherings. Likewise, different people can be made responsible for presenting the teaching and moderating group discussions.
 
-Sharing these responsibilities avoids one person dominating proceedings. If that happens, it tends to stifle creativity and freedom of thought. Ideally, as many group members as possible should be employed, over time, in sharing responsibilities. This is discipleship in practice.
+Sharing these responsibilities avoids one person dominating proceedings. If that happens, it can tend to stifle creativity and freedom of thought. Ideally, as many group members as possible should be employed, over time, in sharing responsibilities. This is a form of discipleship in practice.
 
 #### Timetable ####
 
-Facilitator need to plan a suitable timetable for undertaking the whole course of studies, taking into account the nature of the group and availability of time. 
+Facilitators need to plan a suitable timetable for undertaking the whole course of studies, taking into account the nature of the group and availability of time. 
 
 -	Is a group affected mainly by the farming cycle?
 -	Is it based around school terms? 
+-	What other factors needs to be considered?
 
-The MPD Syllabus currently comprises sixteen modules. Within each book, depending upon the topic, there are typically between two and five divisions, that can be used for separate sessions.
+The [MPD Syllabus] currently comprises sixteen modules. Within each book, depending upon the topic, there are typically four or five studies, each of which can be used for one session.
 
 #### Location ####
 
-Discipleship can take place in any appropriate location that can reasonably comfortably accommodate the group. A large room in someone's home, or a community hall, with access to some light refreshments, is ideal. 
+Meeting together can take place in any appropriate location that can reasonably comfortably accommodate the group. A large room in someone's home, or a community hall is ideal. 
 
-A church building may be unhelpful if it causes people to have a *church-meeting mentality*. However, if one is used, think about rearranging some of the seating and the way the space is used, so that people are facing one another. This will provide a practical forum for discussions and a more intimate space in general.
+A church building might be unhelpful if it causes people to have a *church-meeting mentality*. However, if one must be used, think about rearranging some of the seating, in order to change the way that the space is typically used. It is important that people are able to see one another, in order to provide a practical forum for discussions and a more intimate space in general.
 
-Think about changing the location occasionally. Sometimes outside environments may be helpful in producing a liberating interaction. Experiment to find out what works for your group.  
+Think about changing the location occasionally. Sometimes outside environments may be helpful in producing a liberating interaction. Experiment to find out what works well for your group.
 
 #### Adaption ####
 
-Be prepared to adapt both the teaching and the method of presentation, in order to properly facilitate a helpful and culturally-appropriate learning environment. Take into account the abilities and capacities of each particular discipleship group. 
+Facilitators: Be prepared to adapt both the teaching and the method of presentation, in order to properly facilitate a helpful and culturally-appropriate learning environment. Take into account the abilities and capacities of each particular discipleship group. 
 
 Here are some ideas to think about; you may have others:
 
-1. Consider oral learners — it is part of a teacher's responsibility to ensure literature is a tool, a servant and not a task-master.
+1. Consider oral learners — it is part of a teacher or facilitator's responsibility to ensure literature is a tool, a servant and not a task-master.
 
 -	Allow creative people to contribute by interpreting or celebrating the message of the teaching using drama, art or song.
 
 -	What other ways might it be appropriate to organise the time and the group in order to ensure the learning is culturally appropriate, relevant and practical? 
 
-**>	Think about these things as you progress throughout this discipleship experience.
+>	Think about these things as you progress throughout this discipleship experience.
 
 # Publishing MPD #
 
