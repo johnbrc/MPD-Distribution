@@ -1,6 +1,5 @@
-Version: 0.1.10 --- Author's draft
-Change: --- Chapter 5 Publishing MPD  ---
---- Chapter 6 Further Information ---
+Version: 0.1.11 --- Author's draft
+Change: --- Images updated ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -23,16 +22,13 @@ Designed for Use in African Contexts
 
 > I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — John 12:24
 
-Authored by: John B. Clements
-Published by: Write the Vision, 2014
-
 # In this Handbook #
 
 This *Facilitators' Handbook* provides guidelines for people facilitating group exploration, study  and discussion, using *Maize Plant Discipleship* resources.
 
 -	[**Discipleship**][] explores biblical and missional perspectives of Christian discipleship.
 
--	[**Africa & MPD**][] explains the background to the development of Maize Plant Discipleship as a resource for use in African contexts.
+-	[**Africa and MPD**][] explains the background to the development of Maize Plant Discipleship as a resource for use in African contexts.
 
 -	[**MPD Syllabus**][] introduces the metaphor of the maize plant and the sixteen modules of the MPD *Syllabus*.
 
@@ -46,13 +42,11 @@ This *Facilitators' Handbook* provides guidelines for people facilitating group 
 
 ---
 
-> Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. 
-
->  However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
+> Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
 
 ## What is discipleship? ##
 
-What is the primary principle of messianic discipleship? I believe it is set forth most clearly by the missionary apostle, Paul, when he writes these words in his second letter addressed to his own disciple, Timothy, words containing clear echoes of Jesus' words, in Matthew 28:
+What is the primary principle of messianic discipleship? I believe it is set forth most clearly by the missionary apostle, Paul, when he writes these words in his second letter addressed to his own disciple, Timothy. Words containing clear echoes of Jesus' words, in Matthew 28:
 
 > Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
@@ -272,9 +266,13 @@ Being accessible requires lowering or removing barriers that could hinder access
 
 ---
 
-> If, after you have examined and used MPD resources, you think we can improve upon these attributes, or our application of them, please contact us, via the MPD website: <http://maizeplantdiscipleship.wordpress.com/contact>
+> If, after you have examined and used MPD resources, you think we can improve upon these attributes, or our application of them, please contact us, via the MPD website: 
+
+-	<http://maizeplantdiscipleship.wordpress.com/contact>
 
 ---
+
+
 
 # MPD Syllabus #
 
@@ -290,15 +288,11 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 
 ---
 
-> Representing messianic community with maize, which forms the daily diet of millions of African people, reminds us that we are called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+> Maize represents the "daily bread" of millions of African people. The messianic community is called, like the Messiah, to become a kind of "life-giving bread" to the peoples of the world—see John 6 & 20:21.
 
 ---
 
-The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant.
-
-![Maize plant metaphor][mpm]
-
-As illustrated, in [Maize plant metaphor](#mpm), there are three main components to the metaphor.
+The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor.
 
 1.	[Soil and roots] 
 
@@ -312,23 +306,24 @@ As illustrated, in [Maize plant metaphor](#mpm), there are three main components
 
 	representing essential spiritual disciplines, which stimulate and sustain the growth of messianic community.
 
-[mpm]: https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-HB/maize-plant-metaphor.png
+![Maize Plant Metaphor][mp-metaphor.png]
+
+
 
 ### Soil and roots ###
 
 Only seed sown into good soil produces a good harvest. Discipleship communities also need to be rooted in good soil. This allows us to draw on essential, spiritual nutrients and the living water of the Messiah's Spirit, anchoring us against winds of false teaching and sustaining us amidst the heat of trials, temptations and vocational responsibility.
 
-- Module 1 of Maize Plant Discipleship (MPD-M1) relates to the biblical, covenantal roots and soil of Messianic faith.
+![Roots][mp-roots.png]
 
-![Roots][mp-roots]
-
-[mp-roots]: https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-HB/mp-roots.png 
 
 #### MPD-M1 — Eternal Purpose ####
 
-> Module 1 provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, building up a panoramic overview of the whole story of scripture, in order to illustrate God's unchanging, eternal purpose. 
+> Module 1 of Maize Plant Discipleship—MPD-M1[^cf4]—provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith. 
 
-> In this foundational illustration, the Messiah is the Seed entering the soil—representing the biblical, covenantal history of the people of Israel—in order to die and produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
+> It does this by gradually unfolding a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
+
+> Within this foundational illustration, the Messiah represent *the Seed* which enters the soil (of the biblical, covenantal history of the people of Israel) in order to die and to ultimately produce a rich harvest of people—a messianic covenant community, from amongst all the peoples of the earth. 
 
 ### Maize plant ###
 
@@ -338,23 +333,16 @@ The maize plant represents the central component of the MPD metaphor. The MPD Sy
 
 > The word *dynamic* comes from a Greek word, *dunamis*, meaning power. It refers to a force that stimulates change or progress within a system or process. 
 
-> The *dynamics* of a maize plant refer to the unique forces stimulating its characteristic development, growth, structure, shape and fruit. 
-
 ---
 
-Accordingly, the *dynamics of messianic community* refer to the unique characteristics that stimulate its  characteristic development, growth, structure, shape and fruit.
+The *dynamics* of a maize plant refer to the unique forces stimulating its characteristic development, growth, structure, shape and fruit. 
 
-![Maize plant dynamics][mp-dynamics]
+Thus, the *dynamics of messianic community* refer to the unique characteristics that stimulate its  characteristic development, growth, structure, shape and fruit. 
 
-- Eight modules, MPD-M2 to MPD-M9, explore eight characteristics of messianic, covenant community.
+MPD-M2 to MPD-M9 explore eight characteristic *dynamics* of messianic, covenant community.
 
----
+![Maize plant dynamics][mp-dynamics.png]
 
-> Note: MPD-Mn is shorthand for Maize Plant Discipleship—Module n, where n is the number of a particular module.
-
----
-
-[mp-dynamics]: https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-HB/mp-dynamics.png 
 
 #### MPD-M2 — Dynamics of Vocation — Nations ####
 
@@ -394,11 +382,10 @@ Sunlight and rainfall represent essential spiritual *disciplines* that fuel the 
 
 Continuing the metaphor of the maize plant: *sunlight* and *rainfall* represent *messianic disciplines* capable of opening us to the revelatory light and living water of God's Spirit, by which the Messianic Community is sustained—and without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
--	MPD-M10 to MPD-M16 examine seven characteristic disciplines of messianic community.
+-	MPD-M10 to MPD-M16 examine seven characteristic *disciplines* of messianic community.
 
-![Sunlight and rainfall][mp-disciplines]
+![Sunlight and rainfall][mp-disciplines.png]
 
-[mp-disciplines]: https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-HB/mp-disciplines.png 
 
 #### MPD-M10 — Disciplines of Spiritual Maturity ####
 
@@ -913,29 +900,18 @@ In no way are any of the following rights affected by the license:
 
 -	**Author**—http://jbclements.wordpress.com/
 
-## MPD Syllabus ##
+[mp-metaphor.png]: mp-metaphor.png width=150px height=245px
 
-The *Maize Plant Discipleship Syllabus* incorporates sixteen modules, with a corresponding handbook:
+[mp-roots.png]: mp-roots.png width=200px height=123px
 
-1.	The Eternal Purpose of God
--	Dynamics of Vocation, The Nations
--	Dynamics of Vocation, The Jews
--	Dynamics of Commissioning
--	Dynamics of Body Membership
--	Dynamics of Revival
--	Dynamics of Truth
--	Dynamics of Intercession
--	Dynamics of Cultural Transformation
--	Disciplines of Spiritual Maturity
--	Disciplines of Running the Race
--	Disciplines of Pressing Towards our Vocation
--	Disciplines of Economic Faithfulness
--	Disciplines of Messianic Leadership
-- 	Disciplines of Living By Faith
-16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
+[mp-dynamics.png]: mp-dynamics.png width=250px height=424px
+
+[mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
 [^cf1]: As well as being trialled in Texas, USA and Wales, UK.
 
 [^cf2]: In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity. Discipleship also helpfully blurs hard edges between formally-trained leadership and informally-trained workers.
 
 [^cf3]: Visit: http://**jbclements.wordpress.com/missiology** for further details of my doctoral research, including access to the entire dissertation.
+
+[^cf4]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
