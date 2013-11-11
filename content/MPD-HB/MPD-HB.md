@@ -1,5 +1,6 @@
-Version: 0.1.9 --- Author's draft
-Change: --- blockquote indents revised ---
+Version: 0.1.10 --- Author's draft
+Change: --- Chapter 5 Publishing MPD  ---
+--- Chapter 6 Further Information ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -165,7 +166,7 @@ This life-giving spiritual reality is at the heart of Jesus' own life, mission, 
 
 *That is the heart of Maize Plant Discipleship*.
 
-# Africa & MPD #
+# Africa and MPD #
 
 > ...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 	
@@ -733,65 +734,81 @@ Here are some ideas to think about; you may have others:
 
 ## Books for African contexts ##
 
-Over the past several decades, the African Christian community has multiplied and expanded significantly. So much so that the effective centre of gravity of the global Christian community can now be located in Africa. 
+Over the past several decades, the African Christian community has multiplied and expanded significantly. So much so that the global Christian community's statistical centre of gravity is now located in Africa. 
 
-At the same time as this extraordinary growth, there has been a relative shortage of book publishing within Africa, over an extended period. Resources serving to edify, disciple and inspire Christian communities have been especially sparse in Francophone Africa. 
+While this extraordinary numerical growth has taken place there has been a relative shortage of book publishing within Africa. Resources serving to edify, disciple and inspire Christian communities have been especially sparse in Francophone Africa. 
 
-With regard to books that are distributed, two issues are significant. Firstly, many are imports or translations of books written for Christians in different (generally Western) cultural contexts, where quite different questions and cultural values are considered significant.
+Furthermore, many books are imports or translations of books written for Christians in different—generally Western—cultural contexts, where quite different questions, cultural values and theological imperatives are considered significant. In short, many Christian textbooks used in leadership training are contextually inappropriate.
 
-Secondly, copyright prohibits reproduction. This protects the commercial interests of authors, book publishers, distributers and retailers, but results in books being practically unattainable to the economically poor—including many pastors, who are hungry for resources to enrich their vocational work.
+Added to this is the economic costs of books published and distributed in a way that is primarily designed to protect the commercial interests of authors, book publishers, distributers and retailers. This results in many books being practically unattainable to those who are economically poor—including many pastors who are hungry for resources to enrich their vocational work of forming disciples. 
+
+These pastors mediate between two cultural worlds: orality cultures and literacy cultures. They need textbooks that will facilitate, rather than hinder this mediation. Textbooks that can be readily translated, where appropriate, into ethnic, mother-tongue languages. Textbooks that can be reproduced and distributed using a low-cost licensing system that facilitate and energises, rather than enervates, missional activity.
 
 ## A new publishing philosophy ##
 
-The Maize Plant Discipleship Curriculum is published with a missional philosophy at its heart, with the intention of practically fostering and facilitating a widespread adoption of Christian discipleship praxis. Accordingly:
+*Maize Plant Discipleship* is published with a missional philosophy at its heart, intended to practical fostering and facilitate a widespread adoption of Christian discipleship praxis. Accordingly:
 
-- It is not a commercial publishing venture. Rather, the MPD content is made available with a free-at-source license, which allows books to be reproduced without breaching copyright...
+- **It does not represent a commercial publishing venture**. 
 
-- The [licence][Licensing] stipulates that in any reproduction, the original author, and translators, must remain identified as such and that the licence must remain part of the publication...
+	Rather, MPD content is made available with a free-at-source license, which allows books to be reproduced, published and distributed without breaching copyright.
 
-- In this way, the license respects and maintains the personal copyright of the author, yet releases the traditionally tight, commercial grip of copyright owners and publishers, upon reproduction and printing.
+- The *Creative Commons* [licence][Licensing] stipulates that any reproduction must identify the original author and translators and must retain the original licence as an integral part of the publication.
 
-The goal of this licensing arrangement is to enable African leaders to decide how the MPD resource is employed, facilitating forms of discipleship training that are most appropriate to African contexts. 
+- In this way the license respects and maintains the personal copyright of the author, yet it also releases the traditionally tight, commercial grip of copyright owners and publishers, upon reproduction and printing.
+
+---
+
+> **The goal of this licensing arrangement is to enable African leaders to decide how the MPD resource is employed, facilitating forms of discipleship training that are most appropriate to African contexts.**
+
+---
 
 ## Publishing and distribution examples ##
 
-Because the text books can be reproduced freely, principal costs will be related to printing. Each group is free to determine which and how many books to print and distribute, according to their own training purposes and budgetary constraints.
+Under this licensing arrangement, any missional group, denomination or agency wishing to publish MPD handbooks is permitted to, without any licensing cost, providing they keep to the terms of the licence.
 
-Because the licence allows commercial use of the text books, agencies that organise the printing and distribution of the text books may sell them for a profit, in order to raise funds for further text books. 
+Accordingly, the principal costs for publishing agencies will be related to translation, printing and distribution, with each group free to determine how many handbooks they want to print and distribute, according to their own training purposes and budgetary constraints.
+
+The licence allows textbooks printed under the licence to be sold commercially. Thus, agencies that organise translation, printing and distribution are permitted to sell the handbooks as they see fit, for example, in order to raise funds for further text books. 
 
 This allows for a variety of methods by which the text books could be distributed. Four examples are set out below. 
 
--	Based on text books of 25 A4 pages, printed double-sided, folded to A5, stapled and trimmed, with a single-colour printed cover. 
--	In the first examples, a cost price of 1000 CFA per text book is assumed (approximately $2, or £1.33).
--	In the last three examples, based on a larger volume of printing, a cost price of 800 CFA is assumed.
+-	[Example A : Training Seminars]
+-	[Example B : Denominational Bible School]
+-	[Example C : Interdenominational NGO]
+-	[Example D : Commercial Enterprise]
 
-### Module-by-module ###
+The examples are based on text books of approximately 25 number, A4-sized pages, printed double-sided, folded to A5-size, stapled and trimmed, with a single-colour printed cover. In the first examples, a cost price of 1000 CFA per text book is assumed (approximately $2, or £1.33). In the last three examples, based on a larger volume of printing, a cost price of 800 CFA has been used.
 
-In this example, a church, or denomination organises printing of: 
+| Example |No of modules| No of copies | Cost / book| Total cost | Sale price |  
+|  ------	| ------	| ------	| ------	| ------	| ------	|  
+| A 	| 2	| 50	| 1000	| 100,000	| Cost: 2000 per 2 books	|  
+| B	| 17	| 25	| 800	| 340,000	| Subsidised: 7000 / set |  
+| C	| 17	| 50	| 800	| 680,000	| Cost price to organisation |  
+| D	| 17	| 50	| 800	| 680,000	| Commercial prices |
 
--	50 copies, of two text books, at a cost of 100,000 CFA
--	These books would be distributed at cost-price, 1,000 CFA each, at discipleship seminars
--	Funds from these sales would be reinvested in printing a further 100 books, for distributing at future seminars. 
--	If seminars took place 4 times a year, the entire series of books would be distributed over the course of two years, at a cost per year per subscriber of 8000 CFA.
+
+
+### Example A : Training Seminars ###
+
+In this example, a church, or denomination organises printing of 50 copies, of two text books, at a total cost of 100,000 CFA. They are distributed at cost-price, 1,000 CFA each. 
+
+-	Income provides funds for another 2 x 50 books.
+-	If seminars took place 4 times a year, the entire MPD syllabus of 17 textbooks could be distributed over the course of two years, at a cost per trainee of 8000 CFA per year. (Alternatively, if seminars took place twice a year, four books would need to be printed each time, to complete cycle in two years.)
 
 #### Advantages ####
 
-1.	Comparatively low start up costs.
--	Comparatively low cost per person per year
+-	Comparatively low start up costs.
+-	Comparatively low cost per trainee per year
 -	Steady progress through curriculum
 
 #### Disadvantages ####
 
-1.	Relatively slow to publish whole curriculum
--	Requires frequent seminars or other method of distribution
+-	2 years to publish whole syllabus
+-	Requires frequent seminars, or other method of distribution
 
-### Whole curriculum ###
+### Example B : Denominational Bible School ###
 
-In this example, a denomination organises printing of: 
--	25 sets of whole curriculum (17 books per set), at total cost of 340,000 CFA
--	Sets distributed to bible school students and, or leadership seminars
--	Sold at subsidised price per set, of 7000 CFA
--	Funds raised from sales of 175,000 CFA, towards repayment of up-front costs or future printing
+In this example, a denomination organises printing of 25 sets of whole curriculum (17 books per set), at total cost of 340,000 CFA. These sets are distributed to bible school students at a *subsidised* price per set of 17 textbooks, of 7000 CFA. This raises funds from sales of 175,000 CFA (50% of cost), to be used towards repayment of up-front costs, or future printing
 
 #### Advantages ####
 
@@ -801,82 +818,82 @@ In this example, a denomination organises printing of:
 
 #### Disadvantages ####
 
-1.	Requires large up-front payment
--	Some groups may requires sponsorship
--	Considerable organisation of printing
+-	Requires large up-front payment
+-	Considerable logistical organisation of printing
 
-### Whole curriculum ###
+### Example C : Interdenominational NGO ###
 
-In this example, an NGO organises printing, on behalf of a number of churches and agencies: 
+In this example, an Interdenominational NGO organises printing, on behalf of a number of churches and agencies, distributing copies at cost price.
 
 -	50 sets of whole curriculum (17 books), at total cost of 680,000 CFA
 -	25 sets are distributed, at cost price, to organisation A, for 340,000 CFA
 -	15 sets are distributed, at cost price, to organisation B, for 204,000 CFA
--	10 sets are distributed, at cost price, to libraries, translation and other agencies and individuals, for 136,000 CFA
+-	10 sets are distributed, at cost price, to libraries, translation agencies and other groups and individuals, for a total income of 136,000 CFA
 
 #### Advantages ####
 
-1.	Whole curriculum available at one time
+-	Whole curriculum available at one time
 -	Costs spread across several groups
 
 #### Disadvantages ####
 
-3.	Requires up-front payments from groups
--	Some groups may requires sponsorship
+-	Requires up-front payments from groups
 -	Considerable organisation of printing
 -	No profit for future printing
 
-### Commercial ###
+### Example D : Commercial Enterprise ###
 
-In this example: 
--	A business entrepreneur or social agency prints a large stock of 50 sets of the whole curriculum, costing 680,000 CFA (13,600 CFA per set; 800 CFA per book)
--	25 sets are sold to organisation A at 20,000 CFA each, generates 500,000 CFA
--	250 books sold to individuals and agencies at 1500 CFA each, generates 375,000 CFA
+In this example a business entrepreneur or social agency prints a stock of 50 sets of the whole MPD curriculum, costing 680,000 CFA (13,600 CFA per set)
+
+-	25 sets are sold to a bible school at 20,000 CFA each, income: 500,000 CFA
+-	250 books (various modules) sold to individuals and agencies at 1500 CFA each, income: 375,000 CFA
 -	Total sales 875,000 CFA — Gross profit 195,000 CFA
--	Remaining Stock value 140,000 CFA (cost) / x,000 CFA (assuming 800 CFA per book)
+-	Remaining Stock 175 books, cost value 140,000 CFA
 
 #### Advantages ####
 
-1.	Commercially profitable
+-	Commercially profitable
 -	Helps churches and Christians
 
 #### Disadvantages ####
 
-3.	Large start-up costs
+-	Large start-up costs
 -	Relies upon good sales
 -	Needs commercial experience 
 
 ## Translation ##
 
-The text books of the Maize Plant Discipleship Curriculum have been intentionally designed to be readily translatable. 
+The text books of the Maize Plant Discipleship Curriculum have been intentionally formulated to be readily translatable. 
 
-If you would like to discuss translating MPD resources, for printing and distribution in another language, please get in touch: http://jbclements.wordpress.com/contact 
+If you would like to discuss translating MPD resources, for printing and distribution in another language, please get in touch: http://maizeplantdiscipleship.wordpress.com/contact.
 
 ## Licensing ##
 
 > Maize Plant Discipleship by John Clements is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License, as expressed on the following page. 
 
--	Note: This license is incorporated into all Maize Plant Discipleship text books.
+-	Note: This license is incorporated into and applies to ALL *Maize Plant Discipleship* books.
 -	Permissions beyond the scope of the license may be available by contacting the author, at http://johnclements.net/contact.
 
 ### Creative Commons Attribution-NoDerivs 3.0 Unported License ###
 
-### You are free:
+---
+
+**You are free**:
 
 -	to Share — to copy, distribute and transmit the work
 -	to make commercial use of the work
 
-### Under the following conditions:
+**Under the following conditions**:
 
 -	Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
 -	No Derivative Works — You may not alter, transform, or build upon this work.
 
-### With the understanding that:
+**With the understanding that**:
 
 -	Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
 -	Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
 
-### Other Rights 
+**Other Rights**
 
 In no way are any of the following rights affected by the license:
 
@@ -884,18 +901,17 @@ In no way are any of the following rights affected by the license:
 -	The author's moral rights;
 -	Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
-### Notice
+**Notice**
 
--	For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is to reproduce this license, including a link to this web page: 
-		http://creativecommons.org/licenses/by-nd/3.0/
+-	For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is to reproduce this license, including a link to this web page: http://creativecommons.org/licenses/by-nd/3.0/ 
 
 # Further information #
 
 Additional information about *Maize Plant Discipleship* is available via the following websites:
 
--	**Resources** http://maizeplantdiscipleship.wordpress.com/
+-	**Resources**—http://maizeplantdiscipleship.wordpress.com/
 
--	**Author** http://jbclements.wordpress.com/
+-	**Author**—http://jbclements.wordpress.com/
 
 ## MPD Syllabus ##
 
