@@ -904,7 +904,7 @@ In no way are any of the following rights affected by the license:
 
 [mp-roots.png]: mp-roots.png width=200px height=123px
 
-[mp-dynamics.png]: mp-dynamics.png width=250px height=424px
+[mp-dynamics.png]: mp-dynamics.png width=251px height=425px
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
