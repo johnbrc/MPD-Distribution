@@ -1,6 +1,4 @@
-## Modules ##
-
-### MPD Syllabus ###
+## MPD Syllabus
 
 MPD Syllabus incorporates sixteen modules, each of which will have associated resources available for distribution, in due course.
 
@@ -21,7 +19,7 @@ MPD Syllabus incorporates sixteen modules, each of which will have associated re
 15. The Disciplines of Living By Faith
 16. The Disciplines of Overcoming In The Arena of Spiritual Conflict
 
-### Further Information ###
+## Further Information
 
 -	Return to [README](../README.md)
 
