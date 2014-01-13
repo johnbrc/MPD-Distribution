@@ -1,4 +1,4 @@
-Version: Standalone, definitive version (requires reincorporating to Handbook, after changes)
+Version: Standalone, definitive version
 
 # MPD Syllabus #
 
@@ -127,4 +127,7 @@ Employs the analogy of a sporting arena to represent the reality of spiritual co
 [mp-roots]: mp-roots.png height=200px
 [mp-disciplines]: mp-disciplines.png height=625px
 
-<<[LICENSE.md]
+
+<<[../../license/LICENSE.md]
+
+
