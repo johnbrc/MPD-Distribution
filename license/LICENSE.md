@@ -2,9 +2,9 @@
 
 ![cc] ![by] ![sa]
 
-[cc]:http://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png height=75px
-[by]:http://mirrors.creativecommons.org/presskit/icons/by.large.png height=75px
-[sa]:http://mirrors.creativecommons.org/presskit/icons/sa.large.png height=75px
+[cc]:https://raw.github.com/johnbrc/MPD-Distribution/master/license/cc.logo.large.png height=75px
+[by]:https://raw.github.com/johnbrc/MPD-Distribution/master/license/by.large.png height=75px
+[sa]:https://raw.github.com/johnbrc/MPD-Distribution/master/license/sa.large.png height=75px
 
 Maize Plant Discipleship by [John Clements](http://jbclements.wordpress.com/) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Based on a work at <http://maizeplantdiscipleship.wordpress.com>. Permissions beyond the scope of this license [may be available](http://maizeplantdiscipleship.wordpress.com/contact). 
 
