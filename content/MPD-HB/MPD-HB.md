@@ -314,11 +314,7 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 **Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community.
 
-> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.
-
->> *Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.
-
-> Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
+> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^fn1] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
 
 ![Maize plant dynamics][mp-dynamics.png]
 
@@ -872,8 +868,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Under the following terms**:
 
--	Attribution — You must give appropriate credit,[^fn1] provide a link to the license, and indicate if changes were made.[^fn2] You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
--	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn3] as the original.
+-	Attribution — You must give appropriate credit,[^fn2] provide a link to the license, and indicate if changes were made.[^fn3] You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn4] as the original.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -915,8 +911,10 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 [^cf4]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
 
-[^fn1]: if supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
+[^fn1]: *Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.
 
-[^fn2]: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+[^fn2]: if supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
 
-[^fn3]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
+[^fn3]: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+
+[^fn4]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses

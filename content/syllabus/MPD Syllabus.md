@@ -46,11 +46,9 @@ Within this foundational illustration, the Messiah represent *the Seed* which en
 
 ## Maize Plant
 
-**The maize plant is the main component of the MPD metaphor.** 
+**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community.
 
-In the metaphor, the *dynamics* of the maize plant—the unique forces stimulating its characteristic development, growth, structure, shape and fruit—represent and the *dynamics of messianic community*—those unique characteristics that stimulate its  characteristic development, growth, structure, shape and fruit.
-
-Thus, modules MPD-M2 to MPD-M9 explore eight characteristic *dynamics* of messianic, covenant community.
+> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^*Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
 
 ![][mp-dynamics]
 
@@ -88,7 +86,7 @@ Examines our call to work, amongst and on behalf of the nations, towards cultura
 
 ## Sunlight and Rainfall
 
-Modules MPD-M10 to MPD-M16 examine seven characteristic *disciplines* of messianic community. 
+**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community. 
 
 > In the metaphor of the maize plant, sunlight and rainfall are representative of messianic *disciplines*, which open us to receive the revelatory Light and sustaining Living Water of God's Spirit, without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
