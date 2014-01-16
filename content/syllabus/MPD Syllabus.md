@@ -128,6 +128,7 @@ Employs the analogy of a sporting arena to represent the reality of spiritual co
 [mp-disciplines]: mp-disciplines.png height=625px
 
 
+
 <<[../../license/LICENSE.md]
 
 

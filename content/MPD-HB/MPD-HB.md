@@ -1,6 +1,5 @@
-Version: 0.1.13 --- Author's draft
+Version: 0.1.14 --- Author's draft
 Change: --- Author's revisions ---
-Updated MPD Syllabus, to match standalone, web versions
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -162,7 +161,7 @@ This life-giving spiritual reality is at the heart of Jesus' own life, mission, 
 
 >> *When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
 
-> So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia, cited in: Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013*
+> So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia (Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners, Clements, 2013)*
 
 ## Introduction ##
 
@@ -192,7 +191,7 @@ The next stage of development came through a series of visits to Burkina Faso, b
 
 - In Ouagadougou: associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
 
-Having established that a genuine spiritual dynamic was taking place, in 2008, I asked Burkinabé associates how I might make my discipleship resources more accessible and useful. They requested that I establish a regular training program *and* that I formed my teaching notes into textbooks that could be used to accompany the teaching, or studied and used in trainees own contexts. In order to maximise the effectiveness of the books, particularly from a cultural perspective, I incorporated my development of them into a program of doctoral research.
+Having established that a genuine spiritual dynamic was taking place, in 2008, I asked Burkinabé associates how I might make my discipleship resources more accessible and useful. They requested that I establish a regular training program *and* that I formed my teaching notes into textbooks that could be used to accompany the teaching, or studied and used in trainees own contexts. In order to maximise the effectiveness of the books, particularly from a cultural perspective, I incorporated their development into a program of doctoral research.
 
 ## Doctoral research ##
 
@@ -313,12 +312,13 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 ### Maize plant ###
 
-**The maize plant represents the main component of the MPD metaphor**.
+**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community.
 
-In the metaphor, the *dynamics* of the maize plant—the unique forces stimulating its characteristic development, growth, structure, shape and fruit—represent and the *dynamics of messianic community*—those unique characteristics that stimulate its characteristic development, growth, structure, shape and fruit.
+> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.
 
-Thus **MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic, covenant community.
+>> *Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.
 
+> Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
 
 ![Maize plant dynamics][mp-dynamics.png]
 
@@ -357,7 +357,7 @@ Thus **MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic, 
 
 ### Sunlight and rainfall ###
 
-Modules **MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community. 
+**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community. 
 
 >In the metaphor of the maize plant, sunlight and rainfall are representative of messianic *disciplines*, which open us to receive the revelatory Light and sustaining Living Water of God's Spirit—without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
@@ -394,6 +394,8 @@ Modules **MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of mes
 
 ## MPD Handbooks ##
 
+The Handbooks are designed to facilitate group learning and discussion, based upon scripture readings and topical studies, so that Maize Plant Discipleship resources do not rely upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate study groups and discussions — see [Facilitating MPD][].
+
 Each MPD module is contained in a 40-50 page Handbook.
 
 -	Each *Handbook* incorporates 4 interrelated Studies.
@@ -402,13 +404,13 @@ Each MPD module is contained in a 40-50 page Handbook.
 
 -	Corresponding *Questions* are provided for each Study, intended to facilitate group discussions, either topic-by-topic (section-by-section), or upon completion of the entire study (chapter).
 
-The Handbooks are designed to facilitate group learning and discussion, based upon scripture readings and topical studies, so that Maize Plant Discipleship resources do not rely upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate study groups and discussions — see [Facilitating MPD][].
+
 
 # Facilitating MPD #
 
-> ...the word of God increased; and the number of disciples multiplied greatly in Jerusalem, and a great many of the priests were obedient to the faith—Acts 1.6-7
+> ...the word of God increased; and the number of disciples multiplied greatly in Jerusalem, and a great many of the priests were obedient to the faith—*Acts 1.6-7*
 
-> I have received a valuable teaching which I would like to use to impact the life of people in my neighbourhood and in my church. I would like to see this teaching be the flame of the Spirit of God which will help the ministry to grow more—Pastor Benao, 2010
+> I have received a valuable teaching which I would like to use to impact the life of people in my neighbourhood and in my church. I would like to see this teaching be the flame of the Spirit of God which will help the ministry to grow more—*Pastor Benao, 2010*
 
 ## MPD groups ##
 
@@ -428,21 +430,23 @@ Why focus upon discipleship groups, rather than church growth? Let's remind ours
 
 For discipleship to fulfil its potential, it is essential that disciples find effective ways to be involved in the formation of other disciples. One straightforward way is to encourage discipleship groups to multiply. 
 
--	When authentic, biblical discipleship takes place in a particular context, the enthusiasm generated creates pressure to move outwards into other contexts, to share experience and insight and to invite others to become disciples. 
+-	When authentic, biblical discipleship takes place in a particular context, the enthusiasm generated creates enthusiasm to move outwards into other contexts, to share experience and insight and to invite others to become disciples. 
 
--	For some people, this pressure is released as they share the fruit of their discipleship among their friends, homes, families, communities and workplaces. Environments in which they can begin influencing others towards living as authentic disciples of the Messiah, through existing relationships, without forming a discipleship group.
+-	For some people, this enthusiasm is released as they share the fruit of their discipleship among friends, homes, families, communities and workplaces. Environments in which they begin influencing others towards living as authentic disciples of the Messiah, through existing relationships, without forming another discipleship group.
 
--	For others, the enthusiasm they feel will propel them towards stepping out and facilitating fresh discipleship groups themselves. It is vitally important to encourage and not inhibit those who feel called to this. This is how multiplication takes place.
+-	For others, the enthusiasm they feel will propel them towards stepping out and facilitating fresh discipleship groups themselves. It is important to encourage and not inhibit those who feel called to this. This is how multiplication takes place.
 
 ### Failure to multiply ###
 
-If multiplication isn't allowed to happen, two things happen. Firstly, the enthusiasm and fresh experiences of discipleship fails to be converted into fruitful, practical expressions of love and faithfulness. If freshly-discipled people are not encouraged and facilitated to move outwards and make disciples, what they have learned becomes theoretical and the generated momentum is easily lost. 
+If multiplication isn't allowed to happen, two things happen. 
 
-It also risks inflaming selfish ambition. This happens when disciples aspiring to positions of leadership and prominence begin to compete against each other to demonstrate whom is the more committed (see Mark 10:26-45). When people are encouraged to move outwards, into new contexts, this energy is dissipated more beneficially.
+-	Firstly, the enthusiasm and fresh experiences of discipleship fails to be converted into fruitful, practical expressions of love and faithfulness. If freshly-discipled people are not encouraged and facilitated to move outwards and make disciples, what they have learned becomes theoretical and the generated momentum is easily lost. 
+
+-	Secondly, it risks inflaming selfish ambition. This happens when disciples aspiring to positions of leadership and prominence begin to compete against each other, over whom is the more committed (Mark 10:26-45). When people are encouraged to move outwards, into new contexts, this kind of energy dissipates naturally.
 
 ### Multiplication within Acts ###
 
-The scripture citations below, from the book of Acts, illustrate a pattern. Examine the context of these verses in your own Bibles and try to discern how each statement represents a conclusion to a significant period of church expansion.
+The scripture citations below, from the book of Acts, illustrate a pattern. Examine the context of these verses in your own Bibles and reflect upon how each statement represents a conclusion to a significant period of church expansion.
 
 -	Acts 2:46-47
 -	Acts  6:7
@@ -455,10 +459,9 @@ We see from this pattern and the history that has flowed from this tiny beginnin
 
 The discipleship movement spreads out geographically and, more importantly, across ethnic and cultural boundaries. From its beginnings in Jerusalem, the movement expands throughout Palestine, Asia Minor, Greece and, finally, to Rome—the very centre and seat of worldly power, at that time.
 
-Acts 28.30-31
-: Sh'aul remained two whole years in a place he rented for himself and continued receiving all who came to see him, openly and without hindrance proclaiming the Kingdom of God and teaching about the Lord Yeshua the Messiah.
+> Sh'aul remained two whole years in a place he rented for himself and continued receiving all who came to see him, openly and without hindrance proclaiming the Kingdom of God and teaching about the Lord Yeshua the Messiah—*Acts 28.30-31*
 
-Since then, it has continued to grow and encircle the world...
+Since then, it has continued to grow and spread throughout the world...
 
 ### The power of multiplication ###
 
@@ -717,23 +720,23 @@ These leaders mediate between two cultural worlds: those of orality and literacy
 
 ---
 
-> **MPD is not a commercial publishing venture. 
+> **MPD is not a commercial publishing venture**. 
 
-> Instead, MPD resources are licenced for reproduction under the terms of a free-at-source [*Creative Commons* licence][Licensing].**
+> Instead, MPD resources are licenced for reproduction under the terms of a free-at-source [Creative Commons licence][Licensing MPD].
 
 ---
 
-This licence:
+This licence allows:
 
-- 	allows resources (textbooks) to be reproduced, published and distributed without breaching copyright.
+- 	MPD resources to be reproduced, re-published (e.g. translated) and re-distributed, without breaching copyright.
 
-Providing any reproduction 
+Providing any reproduction:
 
--	identifies the original author and translators;
+-	identifies the original author (and translators);
 
--	retains the licence as an integral element.
+-	retains the licence as an integral element of the republication.
 
-In this way, the license respects and maintains the personal copyright of the author and of translators—yet it also releases the traditionally tight, commercial grip of copyright owners and publishers upon reproduction.
+In this way, the license respects and maintains the personal copyright of the author and of translators—yet also releases the tight, commercial grip of copyright owners and publishers.
 
 
 ## Publishing and distribution examples ##
@@ -850,36 +853,35 @@ Entrepreneur or social agency prints 50 syllabus sets (17 books), costing 680,00
 
 ----
 
-## Creative Commons Attribution-NoDerivs 3.0 Unported License ##
+## Creative Commons Licence ##
+
+Creative Commons Attribution-ShareAlike 4.0 International License
+
+> Note: This is a human-readable summary of (and not a substitute for) the license, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ---
 
-**You are free**:
+**You are free to**:
 
--	to Share — to copy, distribute and transmit the work
--	to make commercial use of the work
+-	**Share** — copy and re-distribute the material in any medium or format
+-	**Adapt** — remix, transform and build upon the material 
 
-**Under the following conditions**:
+for any purpose, even commercially.
 
--	Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
--	No Derivative Works — You may not alter, transform, or build upon this work.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-**With the understanding that**:
+**Under the following terms**:
 
--	Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
--	Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+-	Attribution — You must give appropriate credit,[^fn1] provide a link to the license, and indicate if changes were made.[^fn2] You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn3] as the original.
 
-**Other Rights**
-
-In no way are any of the following rights affected by the license:
-
--	Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
--	The author's moral rights;
--	Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 **Notice**
 
--	For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is to reproduce this license, including a link to this web page: http://creativecommons.org/licenses/by-nd/3.0/ 
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 # Further information #
 
@@ -912,3 +914,9 @@ If you would like to discuss translating MPD resources, for printing and distrib
 [^cf3]: Visit: http://**jbclements.wordpress.com/missiology** for further details of my doctoral research, including access to the entire dissertation.
 
 [^cf4]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
+
+[^fn1]: if supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
+
+[^fn2]: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+
+[^fn3]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
