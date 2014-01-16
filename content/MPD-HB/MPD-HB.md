@@ -1,5 +1,5 @@
-Version: 0.1.14 --- Author's draft
-Change: --- Author's revisions ---
+Version: 0.2.0 --- Reviewer's draft
+Change: --- Review distribution ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
