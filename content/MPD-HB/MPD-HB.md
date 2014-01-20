@@ -1,6 +1,7 @@
-Version: 0.2.4 --- Reviewer's draft
+Version: 0.2.5 --- Reviewer's draft
 Change: --- Review distribution ---
-Figure cross-references
+Place learning cycle image
+Relocate cycle component images
 (null): 
 (null): 
 LaTex input: 	mpd-textbook-header
@@ -46,7 +47,7 @@ To fully illustrate what is involved in this process, I want to link together[^f
 
 > Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
-Here, we identify three vital components relating to messianic discipleship.
+Here, we see three vital components relating to messianic discipleship.
 
 1.	**The "great treasure" of the knowledge of the Messiah, Jesus Christ**;
 
@@ -105,13 +106,13 @@ As this community has spread out, it has significantly transformed the history o
 
 ### Cessation of movement ###
 
-Nevertheless, in certain seasons, in certain places, this dynamism fades. A church planted within a nation or culture, in a former season, ceases growing and multiplying. 
+Nevertheless, in certain seasons, in certain places, history tells us, dynamism ultimately fades. A church planted within a nation or culture, in a former season, ceases growing and multiplying. 
 
 Inevitably, behind its religious facades, such a church is marked by a lack of vision, a loss of communal vitality and a spirituality out of touch with its holy roots. Traditions, which may not be bad in themselves, have replaced the vitality of a living, reproducing body of people.  Even though its religious institutions may remain dogmatic towards their creeds, the Christian community itself no longer exhibits authentic, biblical zeal for its vocation: its call to serve God's purpose amongst the nations. 
 
 In practice, such a church or community has become un-critical in its engagement with the societies and cultures in which it lives. Its testimony is compromised by idolatrous values. Its lifestyle is accommodated to ungodly influences. It has ceased to be different, ceased to be transformative, ceased making a significant, discernible impact upon its social, material, political and cultural environments.
 
-In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples. It lacks the confidence to persuade either itself or others to forsake human idols and become wholehearted devoted to the Messiah.
+In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples, lacking the confidence to persuade either itself or others to forsake human idols and become wholehearted devoted to the Messiah.
 
 ### Renewal ###
 
@@ -170,7 +171,7 @@ This life-giving spiritual reality is at the heart of Jesus' own life, mission, 
 
 ## Introduction ##
 
-*Maize Plant Discipleship* is a training and learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^cf1] As author and teacher, my goal was to emulate the apostolic model of mission by
+*Maize Plant Discipleship* is a training and learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^fn2] As author and teacher, my goal was to emulate the apostolic model of mission by
 
 > *Taking the teacher to the leaders, rather than bringing the leaders to the teacher, saving the precious resources of those least able to spare them.*
 
@@ -208,7 +209,7 @@ My field research involved collecting data through survey questionnaires, group 
 
 Applying qualitative data analysis methods to my collected data revealed a number of significant findings or themes.
 
-- Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.[^cf2]
+- Participants identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.[^fn3]
 
 - Participants consistently validated the [theological content] of my prototype training resource as *appropriate to Burkinabé contexts*, highlighting its biblical content, practical focus and cultural sensitivity.
 
@@ -218,7 +219,7 @@ Applying qualitative data analysis methods to my collected data revealed a numbe
 
 - Participants identified the value of translating appropriate textbooks into minority African languages, but highlighted significant logistical challenges to making textbooks practical and accessible (e.g. with respect to licensing, printing, promoting and distributing).
 
-These data analysis findings were combined with contextual missiological study to define *practical, relevant and accessible* attributes of a training resource appropriate to Burkinabé leaders and learners.[^cf3] 
+These data analysis findings were combined with contextual missiological study to define *practical, relevant and accessible* attributes of a training resource appropriate to Burkinabé leaders and learners.[^fn4] 
 
 *It is these attributes that have defined the formulation of the Maize Plant Discipleship Syllabus and Textbooks*.
 
@@ -328,7 +329,7 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 #### MPD-M1-Eternal Purpose ####
 
-> Module 1 of Maize Plant Discipleship—MPD-M1[^cf4]—provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith. 
+> Module MPD-M1[^fn5]—provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith. 
 
 > It does this by gradually unfolding a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
 
@@ -338,7 +339,7 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 **Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community (see [](#mp-dynamics.png)).
 
-> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^fn2] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
+> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^fn6] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
 
 ![Maize plant][mp-dynamics.png]
 
@@ -475,24 +476,17 @@ These issues will not cause us to stumble if we humbly embrace the reality that 
 
 When meeting together for MPD the aim is to foster an environment of learning and discovery, where debate and discussion is lively, yet relaxed and uncompetitive. An environment in which all members, even the youngest and least experienced, are comfortable to openly contribute their views, burdens and questions. 
 
--	Openness can be particularly challenging to foster in cultures where where conformity is highly valued and where traditional authority flows downwards from the top. However, by encouraging open debate, it is possible for members to learn how express strong and diverse views, without creating conflict or forcing conformity. 
+Openness, frankness and diversity will not stifle the true unity of the Spirit, which is based on love and mutual respect. By contrast, forced conformity will typically erupt, sooner or later, because people need to feel that they have been heard and listened to, particularly when they have a different perspective. 
 
--	Openness, frankness and diversity will not stifle the true unity of the Spirit, which is based on love and mutual respect. By contrast, a forced conformity will typically erupt, sooner or later, into divisiveness. This is simply because people need to feel that they have been heard and listened to—particularly when they have a different perspective. 
+By encouraging open debate, it is possible for members to learn how express strong and diverse views, without creating conflict or forcing conformity. However, openness can be particularly challenging to foster in cultures where where conformity is highly valued and where traditional authority flows downwards from the top. 
 
-These are some practical suggestions that may help establish openness and diversity of opinion.
+Here are some practical suggestions that may help establish openness and diversity of opinion:
 
 -	Facilitators should contribute to discussions as a regular group members; they should never abuse their position by dominating a discussion or belittling other views. 
 
--	A facilitator should normally resist the temptation to rehearse teaching, affirm particular views or  summarise discussions—doing these things can undermine the discovery and learning taking place.
+-	A facilitator should normally resist the temptation to rehearse teaching, affirm particular views or  summarise discussions. Doing these things can undermine the discovery and learning taking place.
 
--	If discussion becomes harsh or factious, facilitators should resist furthering the confrontation; instead quieten the group for a moment and then consider inviting members known to have harmonious or gentle personalities to summarise (rather than resolve) the tension.
-
----
-
-> Particularly where a facilitator or presenter is an established leader, practical expressions of humility and openness set an important example, providing a signficant reminder that we are all equally disciples of the Messiah.
-
----
-
+-	If discussion becomes harsh or factious, facilitators should resist furthering the confrontation. Instead, quieten the group and then consider inviting a member with a harmonious or gentle personality to summarise (rather than resolve) the tension.
 
 #### Facilitating learning ####
 
@@ -500,7 +494,7 @@ Discipleship represents a form of learning that is *called out* of students or d
 
 Regular discipleship groups are a good way to begin fermenting interpersonal interaction, however they usually need to be supplemented by informal exchanges that allow mutual exchange, encounter, openness and listening. Time for companionship and friendship, during which we can share both painful realities stretching or testing our faith and hopes and dreams sustaining us. 
 
-Without this, learning groups can risk feeling too impersonal, theoretical or disjointed from daily life. Unlike formal, classroom learning, this sort of practical, interpersonal, *open-to-the-other* kind of learning is rarely neat and tidy and may even seem chaotic at times. However, it is potentially highly effective.
+Without this, learning groups risk feeling too impersonal, theoretical or disjointed from daily life. However, unlike formal, classroom learning, this sort of practical, interpersonal, *open-to-the-other* kind of learning is rarely neat and tidy and may even seem chaotic at times. It is, though, potentially highly effective.
 
 #### Facilitating unity ####
 
@@ -508,30 +502,27 @@ Facilitators need to be sensitive to expectations that may be raised by their ac
 
 -	Honour the unity of the Spirit and the body of Christ.
 
--	If you are a committed member of an existing movement, be respectful of its traditions and work to maintain good working relationships with members of the leadership. 
+-	If you are committed to an existing movement, be respectful of its traditions and work to maintain good working relationships with its leaders. 
 
--	Maize Plant Discipleship should not form a threat to surrounding congregations and church groups; it should seek to complement and where appropriate serve them, in the spirit of the Messiah.
+-	Maize Plant Discipleship should not form a threat to existing congregations and church groups, but complement and serve them, where appropriate, in the spirit of the Messiah.
 
 
 ### Discipleship group format ###
 
-In order to learn something new, we *gather* to hear new ideas. As we listen to these ideas, we *reflect* upon them: filtering them through our current understanding, with old and new thoughts sometimes challenging, sometimes harmonising with each other. 
+In order to learn something new, we *gather* to hear new ideas. As we listen to these ideas, we *reflect* upon them: filtering them through our current understanding, with old and new thoughts sometimes challenging, sometimes harmonising with each other. In *discussion* with others, we broaden and deepen our understanding and sharpen our convictions about the best, or most appropriate way to *act*, when we disperse and return to our contexts of work and vocation.
 
-In *discussion* with others, we broaden and deepen our understanding and sharpen our convictions about the best, or most appropriate way to *act*, when we disperse and return to our contexts of work and vocation.
-
-This learning process may be represented as a cycle (see [](#learning-cycle.png)).
+This learning process may be represented as a cycle —a "reflective learning cycle" (see [](#learning-cycle.png)), intended to facilitate learning that is applied and not simply theoretical. 
 
 ![Reflective Learning Cycle][learning-cycle.png]
 
-In the sphere of education and training, this may be described as a reflective learning cycle, representing a form of best practice intended to facilitate learning that is applied and not simply theoretical. 
-
-Below, I want to suggest how this learning cycle may be adapted and applied to Maize Plant Discipleship groups.
 
 #### Acts 2:42 ####
 
+I want to suggest how this reflective learning cycle may be adapted and applied to Maize Plant Discipleship groups.
+
 > They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—*Acts 2.42*
 
-The experience of the followers of Jesus, described in the book of Acts, chapter 2, verse 42 provides us with a simple pattern of:
+The experience of the early followers of the Messiah, described in Acts 2:42 provides us with a simple pattern of:
 
 1.	Teaching
 -	Fellowship
@@ -544,36 +535,34 @@ I think this can be quite easily combined with the learning cycle above and appl
 
 When we gather as disciples of the Lord, to hear teaching from the bible, we do not gather simply to hear human ideas. Paul explains this to the Corinthians, in his second letter to them:
 
-><span class="annotation" style="color:#7E7642"> spiritual words—2 Cor</span> 
+> 
 
-Our goal, therefore, is not only to listen with our minds, but also with our spirit, our heart. Not to become "puffed up" with knowledge, but to "hear what the Spirit is saying to his people" (<span class="annotation" style="color:#FF0000">Revelation 3</span>). And we hear, in order to live more faithfully. This kind of listening is called *heeding*: listening to learn and to follow, or obey.
+Our goal, therefore, is not only to listen with our minds, but also with our spirit, our heart. Not to become "puffed up" with knowledge, but to "hear what the Spirit is saying to his people" (). And we hear, in order to live more faithfully. This kind of listening is called *heeding*: listening to learn and to follow, or obey.
 
 ![Gather][gather.png]
 
-In advance of gathering a discipleship group, facilitators responsible for presenting the topical study should ideally read through the study carefully: absorbing, familiarising and reflecting upon the teaching and its lessons.
 
 #### Receive ####
 
+Hearing God's message to us, either as a body of people, or as individuals, or families, is the beginning; it is not enough only to *hear*...
+
+> 
+
+The key to obedience is in receiving God's word inwardly. Sometimes the biblical writers use metaphors to describe this process. It is not always easy. , for example, says that God's word can be like honey on the lips, but bitter in the stomach! This is a way of saying that it may seem easy to receive God's word when we first hear and 'taste' it, but faithful obedience can be a testing and difficult path.
 
 ![Receive][receive.png]
 
-Hearing God's message to us, either as a body of people, or as individuals, or families, is the beginning; it is not enough only to *hear*...
-
-><span class="annotation" style="color:#7E7642"> Hebrews 3/4... heard, did not obey</span> 
-
-The key to obedience is in receiving God's word inwardly. Sometimes the biblical writers use metaphors to describe this process. It is not always easy<span class="annotation" style="color:#7E7642"> Jeremiah (Ezekiel?)</span>. , for example, says that God's word can be like honey on the lips, but bitter in the stomach! This is a way of saying that it may seem easy to receive God's word when we first hear and 'taste' it, but faithful obedience can be a testing and difficult path.
-
-We receive God's word inwardly through meditation and reflection. This means giving time to allow the word to "dwell richly within us<span class="annotation" style="color:#7E7642"> Collossians</span>" ()—in a similar way to digesting food: taking time to chew it over and enjoy the taste, after which it is digested, in our stomach, enabling us to receive the vitality and goodness that is in the food.
+We receive God's word inwardly through meditation and reflection. This means giving time to allow the word to "dwell richly within us" ()—in a similar way to digesting food: taking time to chew it over and enjoy the taste, after which it is digested, in our stomach, enabling us to receive the vitality and goodness that is in the food.
 
 *It's the same with God's word*. We must chew it over, meditating and reflecting upon its meaning and application to our lives. Then we must allow it to begin to settle in our spirit, letting it form and shape our convictions, sometimes holding it in our hearts, even before we fully understand all that it may mean to us. 
 
 #### Open ####
 
-![Open][open.png]
-
 In true fellowship with others, we must open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves. 
 
-Within meetings, group discussion represents an important form of fellowship. The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.[^fn3]
+![Open][open.png]
+
+Within meetings, group discussion represents an important form of fellowship. The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.[^fn7]
 
 1.	**Invite and allow free-moving debate relating to the study topic**. 
 
@@ -593,9 +582,9 @@ Within meetings, group discussion represents an important form of fellowship. Th
 
 #### Pray ####
 
-![Pray][pray.png]
-
 After discussion has taken place, invite the group to pray together, including intercession on behalf of neighbours, networks and communities and local and national rulers and governors.
+
+![Pray][pray.png]
 
 -	**Pray for the gospel** to deeply impact and transform individuals, communities, cultures and societies throughout your nation, all of Africa, Europe, Asia and the Americas. 
 
@@ -613,11 +602,11 @@ Finally, those who have gathered for discipleship should send one another forth 
 
 #### Act ####
 
-![Act][act.png]
-
 The purpose of our gathering to hear God's message is not simply to hear it, but to act upon it! 
 
-><span class="annotation" style="color:#7E7642"> Jesus: not those who hear, but those who obey, who inherit the kingdom</span> 
+> 
+
+![Act][act.png]
 
 The goal of discipleship is to be transformed ourselves and to become a transforming influence in our homes and workplaces and communities—"a messianic community blessed...to be a blessing!"
 
@@ -666,6 +655,8 @@ Although a facilitator is responsible for convening gatherings, they may delegat
 
 -	Sharing these responsibilities avoids one person dominating proceedings or carrying the whole responsibility. If that happens, it can tend to stifle creativity and freedom of thought. Ideally, as many group members as possible should be employed, over time, in sharing responsibilities. *This is a form of discipleship in practice*.
 
+-	Whomever is responsible for presenting the topical study should carefully read through the study in advance: absorbing, familiarising and reflecting upon the teaching and its lessons.
+
 -	If areas of the study are unfamiliar or unclear, it's important not to ignore these issues. Instead, at the appropriate point, allow the group to discuss them. This will help to produce a lively discussion about that area of the study, encouraging others to bring forward their interpretation of the topic.
 
 #### Timetable ####
@@ -690,7 +681,7 @@ Meeting together can take place in any appropriate location that can comfortably
 
 Be prepared to adapt both the teaching and the method of presentation, in order to properly facilitate a helpful and culturally-appropriate learning environment. Take into account the abilities and capacities of each particular discipleship group. Here are some suggestions to consider.
 
-1.	Oral learners—ensure literature is a helpful servant, not "a hard task-master," to oral learners in particular. 
+1.	Ensure literature is a helpful servant, not "a hard task-master," to oral learners in particular. 
 
 -	Invite creative people to contribute by interpreting or celebrating the message of the teaching using drama, art or song.
 
@@ -953,8 +944,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Under the following terms**:
 
--	Attribution — You must give appropriate credit,[^fn4] provide a link to the license, and indicate if changes were made.[^fn5] You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
--	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn6] as the original.
+-	Attribution — You must give appropriate credit,[^fn8] provide a link to the license, and indicate if changes were made.[^fn9] You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn10] as the original.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -990,7 +981,7 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
-[learning-cycle.png]: learning-cycle.png width=262px height=249px
+[learning-cycle.png]: learning-cycle.png width=200px height=191px
 
 [gather.png]: gather.png width=99px height=99px
 
@@ -1008,20 +999,20 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 [^fn1]: There is good reason to link these two statements that are seperated only by Paul's emotional description of two disciples who failed to keep the treasure safe, by not standing by Paul at a critical time.
 
-[^cf1]: As well as being trialled in Texas, USA and Wales, UK.
+[^fn2]: As well as being trialled in Texas, USA and Wales, UK.
 
-[^cf2]: In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity. Discipleship also helpfully blurs hard edges between formally-trained leadership and informally-trained workers.
+[^fn3]: In the Burkinabé context, discipleship seems to be appreciated as a concept imbued with dynamism. A dynamism driven by a sense of inward, personal responsibility, combined with a sense of outward, shared, communal responsibility. A responsibility to pass on the spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity. Discipleship also helpfully blurs hard edges between formally-trained leadership and informally-trained workers.
 
-[^cf3]: Visit: http://**jbclements.wordpress.com/missiology** for further details of my doctoral research—including access to dissertation: *Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*.
+[^fn4]: Visit: http://**jbclements.wordpress.com/missiology** for further details of my doctoral research—including access to dissertation: *Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*.
 
-[^cf4]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
+[^fn5]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
 
-[^fn2]: *Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.
+[^fn6]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change or progress within a system or process.
 
-[^fn3]: Facilitators are invited to incorporate and develop their own ideas.
+[^fn7]: Facilitators are invited to incorporate and develop their own ideas.
 
-[^fn4]: if supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
+[^fn8]: if supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
 
-[^fn5]: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
+[^fn9]: In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.
 
-[^fn6]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
+[^fn10]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
