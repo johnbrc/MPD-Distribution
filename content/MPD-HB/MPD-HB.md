@@ -1,6 +1,8 @@
-Version: 0.2.3 --- Reviewer's draft
+Version: 0.2.4 --- Reviewer's draft
 Change: --- Review distribution ---
-Inc theological content et al
+Figure cross-references
+(null): 
+(null): 
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -56,7 +58,7 @@ Here, we identify three vital components relating to messianic discipleship.
 
 -	**The neccessity of generational formation**.
 
-	Timothy has received an impartation of the reality of the Messiah through Paul—something of great worth that he must now safeguard by *committing it to the stewardship and safekeeping of other faithful people*. This is an example of generational discipleship at its simplest. 
+	Timothy has received an impartation of the reality of the Messiah through Paul—something of great worth that he must now safeguard by *committing it to the stewardship and safekeeping of other faithful people*. This is an example of generational discipleship at its simplest (see [](#timothy.png)). 
 
 ![Generational discipleship][timothy.png]
 
@@ -74,15 +76,11 @@ And this sacrificial, disciplined giving of ourselves in service to God is the e
 
 ### Sharing treasure ###
 
-This is one of the secrets to living a truly *Messianic* life, which many people seem never to properly discover or experience: 
+This is one of the secrets to living a truly *Messianic* life, which many people seem never to properly discover or experience: it is not in hoarding the treasure of our knowledge, relationship and communion with God, but in sowing and sharing it with others, both within and beyond our own communities, that we discover and realise our vocation.
 
--	It is not in hoarding the treasure of our knowledge, relationship and communion with God, but in sowing and sharing it with others, both within and beyond our own communities, that we discover and realise our vocation.
+A farmer, however, never intentionally wastes seed—even if some seed does inevitably fall onto rocky or difficult ground. In the same way, our spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be deliberately squandered on those who spurn its value and do not use it wisely. It must be shared with other people who recognise its worth and who make room for its transformative power to change them. 
 
-Yet even if some seed does fall onto rocky or difficult ground, a farmer never intentionally wastes seed. In the same way, our spiritual treasure is not to be wasted or cast away carelessly. It is too precious to be deliberately squandered on those who spurn its value and do not use it wisely. It must be shared with other people who recognise its worth and who make room for its transformative power to change them. 
-
-This is what the parable calls *good soil*. People willing to be transformed through a personal knowledge and experience of the Messiah, who will share it with other faithful people... who share it with other faithful people... who share it with other faithful people... and so on and so on. 
-
-*In this simple, straightforward way, a missional, discipleship movement takes place.*
+This is what the parable calls *good soil*. People willing to be transformed through a personal knowledge and experience of the Messiah, who will share it with other faithful people... who share it with other faithful people... who share it with other faithful people... and so on and so on. *In this simple, straightforward way, a missional, discipleship movement takes place.*
 
 ## Discipleship movements ##
 
@@ -263,8 +261,19 @@ Lowering or removing barriers that could hinder access to the curriculum.
 ### Theological content ###
 
 My research led to a conclusion that a biblically faithful, missional theology, integrated with Pentecostal spirituality and appropriate to African contexts, should encompass not less than the following theological content or characteristics:
-1. An holistic worldview;2. A communal orientation;3. An historical, missionary theology, based upon a missional hermeneutic;4. An Hebraic, covenantal hermeneutic;5. A theology of biblical discipleship;6. A theology of suffering and overcoming;7. A theology of spiritual revival;8. A theology of intercessory prayer and spiritual power;
-9. A theology of poverty and prosperity;10. A theology of vocation;11. A theology of Christ-centred servant-leadership;12. A theology of cultural transformation.
+
+1. An holistic worldview;
+2. A communal orientation;
+3. An historical, missionary theology, based upon a missional hermeneutic;
+4. An Hebraic, covenantal hermeneutic;
+5. A theology of biblical discipleship;
+6. A theology of suffering and overcoming;
+7. A theology of spiritual revival;
+8. A theology of intercessory prayer and spiritual power;
+9. A theology of poverty and prosperity;
+10. A theology of vocation;
+11. A theology of Christ-centred servant-leadership;
+12. A theology of cultural transformation.
 
 ### Continuous improvement ###
 
@@ -292,17 +301,17 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 
 ---
 
-The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor.
+The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor (see [](#mp-metaphor.png)).
 
-1.	**[Soil and roots]**
+1.	**Soil and roots**
 
 	Representing the biblical, covenantal community, context and vocation of Israel.
 
--	**[Maize plant]**
+-	**Maize plant**
 
 	Representing the dynamic spiritual growth and multiplication of messianic community.
 
--	**[Sunlight and rainfall]**
+-	**Sunlight and rainfall**
 
 	Representing essential spiritual disciplines that stimulate and sustain the growth of messianic community.
 
@@ -325,13 +334,13 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 > Within this foundational illustration, the Messiah represent *the Seed* which enters the soil (of the biblical, covenantal history of the people of Israel) in order to die and to ultimately produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
 
-### Maize plant dynamics ###
+### Maize plant ###
 
-**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community.
+**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community (see [](#mp-dynamics.png)).
 
 > In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^fn2] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
 
-![Maize plant dynamics][mp-dynamics.png]
+![Maize plant][mp-dynamics.png]
 
 
 #### MPD-M2-Dynamics of Vocation-The Nations ####
@@ -368,7 +377,7 @@ Only seed sown into good soil produces a good harvest. Discipleship communities 
 
 ### Sunlight and rainfall ###
 
-**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community. 
+**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community (see [](#mp-disciplines.png)). 
 
 >In the metaphor of the maize plant, sunlight and rainfall are representative of messianic *disciplines*, which open us to receive the revelatory Light and sustaining Living Water of God's Spirit—without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
@@ -510,9 +519,9 @@ In order to learn something new, we *gather* to hear new ideas. As we listen to 
 
 In *discussion* with others, we broaden and deepen our understanding and sharpen our convictions about the best, or most appropriate way to *act*, when we disperse and return to our contexts of work and vocation.
 
-This learning process may be represented as a [cycle][Reflective Learning Cycle].
+This learning process may be represented as a cycle (see [](#learning-cycle.png)).
 
-![Reflective Learning Cycle][pedagogical-cycle.png]
+![Reflective Learning Cycle][learning-cycle.png]
 
 In the sphere of education and training, this may be described as a reflective learning cycle, representing a form of best practice intended to facilitate learning that is applied and not simply theoretical. 
 
@@ -635,7 +644,7 @@ Although breaking and sharing bread has typically become ceremonial in modern Ch
 
 #### MPD Learning Cycle ####
 
-If we place all these elements together it produces the [MPD Learning Cycle]
+If we place all these elements together it produces the MPD Learning Cycle ([](#mpd-cycle-2.png))
 
 ![MPD Learning Cycle][mpd-cycle-2.png]
 
@@ -834,10 +843,10 @@ The examples are based on
 
 | Example |No of modules| No of copies | Cost / book| Total cost | Selling price |  
 |  ------	| ------	| ------	| ------	| ------	| ------	|  
-| A 	| 3	| 50	| 1000	| 150,000	| 1000 per book	|  
-| B	| 17	| 25	| 800	| 340,000	| 7000 per set |  
-| C	| 17	| 50	| 800	| 680,000	| 800 per book |  
-| D	| 17	| 50	| 800	| 680,000	| 1500 per book |
+| A 	| 3	| 50	| 1000	| 150,000	| 1000/book	|  
+| B	| 17	| 25	| 800	| 340,000	| 7000/set |  
+| C	| 17	| 50	| 800	| 680,000	| 800/book |  
+| D	| 17	| 50	| 800	| 680,000	| 1500/book |
 
 The following sets out the advantages annd disadvantages of these examples.
 
@@ -981,7 +990,7 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
-[pedagogical-cycle.png]: pedagogical-cycle.png width=210px height=200px
+[learning-cycle.png]: learning-cycle.png width=262px height=249px
 
 [gather.png]: gather.png width=99px height=99px
 

@@ -267,9 +267,9 @@ Matthew 28:19-20
 
 ## The strategy of praying ##
 
-The foundational strategy of mission is *prayer* ([](#pray)). 
+The foundational strategy of mission is *prayer* ([](#pray.png)). 
 
-![Foundational strategy: prayer](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray.png "Prayer" height=35px)
+![Foundational strategy: prayer][https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray.png] "Prayer" height=35px
 
 ### Strategic prayer ###
 
@@ -297,7 +297,7 @@ How does Jesus' teach his disciples to respond to this challenge? He points them
 
 ## The strategy of reaching ##
 
-The second strategic step is *reaching* people, reconciling them with God, through the Messiah ([](#reach)).
+The second strategic step is *reaching* people, reconciling them with God, through the Messiah ([](#pray-reach.png)).
 
 ![Second strategy: reconciliation](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach.png "Pray-Reach" height=35px)
 
@@ -331,9 +331,9 @@ Reaching *others* with a message of reconciliation and repentance challenges our
 
 ## The strategy of discipling ##
 
-The *third* strategy is the formation of *disciples* ([](#disciple)).
+The *third* strategy is the formation of *disciples* ([](#pray-reach-disciple.png)).
 
-![Third strategy: forming disciples](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach-disciple.png "Pray-Reach-Disciple" height=35px)
+![Third strategy: forming disciples][https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach-disciple.png "Pray-Reach-Disciple" height=35px]
 
 ### Discipleship is at the heart of messianic community ###
 
