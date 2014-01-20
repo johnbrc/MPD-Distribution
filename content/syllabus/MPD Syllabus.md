@@ -48,7 +48,7 @@ Within this foundational illustration, the Messiah represent *the Seed* which en
 
 **Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community.
 
-> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^*Dynamic* derives from a Greek word, *dunamis*, meaning power; it refers to forces stimulating change or progress within a system or process.] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
+> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics* (forces stimulating change or progress within a system or process). Hence, the *dynamics of messianic community* refer to the unique, spiritual forces stimulating its characteristic development, growth, structure, shape and fruit.
 
 ![][mp-dynamics]
 
@@ -120,6 +120,21 @@ Explores how messianic faith is tested and purified through trials, until we lea
 
 Employs the analogy of a sporting arena to represent the reality of spiritual confrontation and conflict with cultural idols and strongholds. In these contexts, we need to discern strategies that make room for a transformative encounter with God's overcoming power.
 
+## Format
+
+Each MPD module contains four interrelated *Studies*, each of which incorporates:
+
+-	A Précis
+-	Scripture Readings
+-	Topical Sections
+-	A Summary
+-	Questions for Group Discussion.
+
+The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate learning groups and discussions.
+
+
+
+
 [mp-metaphor]: mp-metaphor.png) height=825px
 [mp-dynamics]: mp-dynamics.png height=800px
 [mp-roots]: mp-roots.png height=200px
@@ -128,5 +143,7 @@ Employs the analogy of a sporting arena to represent the reality of spiritual co
 
 
 <<[../../license/LICENSE.md]
+
+
 
 
