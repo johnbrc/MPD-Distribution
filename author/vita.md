@@ -6,7 +6,7 @@
 
 [leo]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/leo-2008.jpg height=200px align=right hspace=10px vspace=10px 
 
-[john]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/john-rhossilli.jpg height=200px align=left hspace=10px vspace=10px 
+[john]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/john-rhossilli.jpg height=200px align=right hspace=10px vspace=10px 
 
 > "A practical, relevant and accessible discipleship resource, designed in consultation with Africans, for use in African contexts, being published as a series of low-cost, short, modular textbooks, incorporating oral and literary components and therefore suitable for formal and informal study, so that biblical education that starts inside classrooms does not end there, but moves constantly outwards, drawing whole communities into a pattern of scripturally-based discipleship and a living dialogue with contextual culture."
 
