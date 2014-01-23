@@ -1,8 +1,8 @@
 # Dr John B Clements, Vita
 
-![*Discipleship Training, with "Leaders and Learners", Léo, Burkina Faso, 2008*][image]
+![*Discipleship Training, with Leaders and Learners, Léo, Burkina Faso, 2008*][image]
 
-[image]: https://raw.github.com/johnbrc/MPD-Distribution/master/author/L%C3%A9o-2008.JPG
+[image]: https://github.com/johnbrc/MPD-Distribution/raw/current/author/leo-2008.JPG
 
 John is a missiological educator, having received his doctorate from *Fuller School of Intercultural Studies*, in 2012. Having been a regular visitor to Burkina Faso, in West Africa, over the past decade, he is currently engaged in developing *Maize Plant Discipleship*:
 
