@@ -1,12 +1,12 @@
 # Dr John B Clements—Vita
 
-![*Discipleship Training, with Leaders and Learners, Léo, Burkina Faso, 2008*][leo][john]John is a missiological educator, having received a doctorate from *Fuller School of Intercultural Studies*, in 2012. 
+![][john]John is a missiological educator, having received a doctorate from *Fuller School of Intercultural Studies*, in 2012. 
 
-Having been a regular visitor to Burkina Faso, in West Africa, over the past decade, he is currently engaged in developing *Maize Plant Discipleship*:
+![][leo]Having been a regular visitor to Burkina Faso, in West Africa, over the past decade, he is currently engaged in developing *Maize Plant Discipleship*:
 
-[leo]: https://github.com/johnbrc/MPD-Distribution/raw/current/author/leo-2008.JPG width=150px align=right hspace=25px vspace=25px 
+[leo]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/leo-2008.jpg height=200px align=right hspace=10px vspace=10px 
 
-[john]: https://github.com/johnbrc/MPD-Distribution/raw/current/author/john-rhossilli.JPG width=150px align=right hspace=25px vspace=25px 
+[john]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/john-rhossilli.jpg height=200px align=left hspace=10px vspace=10px 
 
 > "A practical, relevant and accessible discipleship resource, designed in consultation with Africans, for use in African contexts, being published as a series of low-cost, short, modular textbooks, incorporating oral and literary components and therefore suitable for formal and informal study, so that biblical education that starts inside classrooms does not end there, but moves constantly outwards, drawing whole communities into a pattern of scripturally-based discipleship and a living dialogue with contextual culture."
 
