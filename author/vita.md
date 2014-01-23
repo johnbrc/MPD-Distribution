@@ -2,7 +2,7 @@
 
 ![*Discipleship Training, with "Leaders and Learners", Léo, Burkina Faso, 2008*][image]
 
-[image]: Léo-2008.jpg
+[image]: https://raw.github.com/johnbrc/MPD-Distribution/master/author/L%C3%A9o-2008.JPG
 
 John is a missiological educator, having received his doctorate from *Fuller School of Intercultural Studies*, in 2012. Having been a regular visitor to Burkina Faso, in West Africa, over the past decade, he is currently engaged in developing *Maize Plant Discipleship*:
 
