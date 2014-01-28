@@ -1,4 +1,4 @@
-Version: 0.3.0 --- Reviewer's draft
+Version: 0.3.1 --- Reviewer's draft
 Change: --- Review distribution ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
@@ -87,7 +87,7 @@ The formation of faithful disciples was at the heart of the Messiah Jesus' life 
 
 Discipling movements have the potential to change the world. Leaders, money, books and power all have their places within radical, popular movements. But, in a world in which people are continually effected by corporate experiences that are larger than the individual, it is people-movements that are most capable of producing deep, wide, enduring change.
 
-Two things are essential to transformative people movements: *vision* and *the formation of disciples*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples, who are:
+Two things are essential to transformative people movements: *vision* and *the formation of disciples*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples:
 
 -	committed to significant transformation; 
 -	persistent and determined to turn vision into reality;
@@ -541,6 +541,8 @@ The purpose of our gathering to hear God's message is not simply to hear it, but
 
 The goal of discipleship is to be transformed ourselves and to become a transforming influence in our homes and workplaces and communities — *a messianic community blessed...to be a blessing!*
 
+----
+
 ### MPD learning cycle ###
 
 Placing these six learning elements together produces the MPD learning cycle ([](#mpd-learning-cycle.png))
@@ -576,7 +578,7 @@ When meeting together for MPD the aim is to foster an environment of learning an
 
 -	Forced conformity, however, will typically erupt, sooner or later, because people need to feel that they have been heard and listened to—especially those presenting a different perspective. 
 
-By encouraging open debate, it is possible for members to learn how express strong and diverse views, without creating conflict or forcing conformity. However, openness can be particularly challenging to foster in cultures where where conformity is highly valued and where traditional authority flows downwards from the top. 
+By encouraging open debate, it is possible for members to learn how to express strong and diverse views, without creating conflict or forcing conformity. However, openness can be particularly challenging to foster in cultures where where conformity is highly valued and where traditional authority flows downwards from the top. 
 
 Here are some practical suggestions that may help establish openness and diversity of opinion:
 
@@ -684,56 +686,65 @@ This respects and maintains the personal copyright of the author and translators
 
 Under this licensing arrangement, any missional group, denomination or agency wishing to reproduce MPD handbooks is permitted to—without any licensing cost—*providing they keep to the terms of the licence*.
 
-The licence permits textbooks reproduced under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. This allows for a variety of methods by which MPD text books could be distributed, as illustrated in these example scenarios:
+The licence permits textbooks reproduced under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. This allows for a variety of methods by which MPD text books could be distributed, as illustrated in these example scenarios:[^fn25] 
 
 -	Example A : Training Seminars
 -	Example B : Denominational Bible School
 -	Example C : Interdenominational NGO
 -	Example D : Commercial Enterprise
 
-All four examples are based on textbooks of approximately 25 A4-sized pages, of double-sided printing, folded to produce 50pp, A5-sized booklets, stapled and trimmed, with a single-colour printed cover.[^fn25] Entire MPD syllabus = 17 textbooks.
-
-| Example |No of modules| No of copies | Cost / book| Total cost | Selling price |  
+| Example |No of MPD books| No of copies | Total cost 1,000 CFA |Production cost / set| Sale cost / syllabus set |  
 |  ------	| ------	| ------	| ------	| ------	| ------	|  
-| A 	| 3	| 50	| 1000	| 150,000	| 1000 per book	|  
-| B	| 17	| 25	| 800	| 340,000	| 7000 per set |  
-| C	| 17	| 50	| 800	| 680,000	| 800 per book |  
-| D	| 17	| 50	| 800	| 680,000	| 1500 per book |
+| A 	| 3	| 50	| 150	| 3000	| 17000	|  
+| B	| 17	| 25	| 340	| 13,600	| 7000 |  
+| C	| 17	| 50	| 680 	| 13,600 | 15000 |  
+| D	| 17	| 100	| 1,360	| 13,600 | 17000 |
 
 
 ### Example A : Training Seminars ###
 
 Church or denomination reproduces 50 copies of 3 MPD textbooks; total cost 150,000 CFA; distributed to trainees at *cost-price*, providing funds for another 3 x 50 books; repeated 3 times a year, for two years.
 
-> Cost per trainee: 3000 CFA / seminars (9000 / year)
+- 	Each trainee pays 1000 CFA per book
+-	3 seminars, 3 books per training session, 3 times a year
+-	9 books @ 9000 CFA first year
+-	8 books @ 8000 CFA following year
 
 ### Example B : Denominational Bible School ###
 
-Denominational bible school reproduces 25 sets MPD syllabus (17 books); total cost 340,000 CFA; distributed at 50% *subsidised* price.
+Denominational bible school reproduces 25 syllabus sets (17 books); total cost 340,000 CFA; distributed at 50% *subsidised* price.
 
-> Cost per student 7000 CFA.
+-	Bible School subsidises 7000 CFA per student
+- 	Each student pays 7000 CFA per syllabus set.
+
 
 ### Example C : Interdenominational NGO ###
 
-Interdenominational NGO reproduces 50 MPD syllabus sets, on behalf of a group of churches and agencies; cost 680,000 CFA; distributed at cost price + 10% (~15,000 CFA per set):
+Interdenominational NGO reproduces 50 syllabus sets, on behalf of a group of churches and agencies; cost 680,000 CFA; distributed at cost price + ~10%:
 	
--	25 sets to organisation A @ 374,000 CFA 
--	15 sets to organisation B @ 224,400 CFA
--	10 sets to libraries, translation agencies, other groups and individuals @ 149,600 CFA.
+- 	Syllabus sets sold @ 15000 CFA each
+
+	-	e.g. 25 sets @ 375,000 CFA, 10 sets @ 150,000 CFA
+	-	to denominations, churches, libraries, translation agencies, groups and individuals.
 
 ### Example D : Commercial Enterprise ###
 
-Entrepreneur, or NGO, prints 50 syllabus sets; cost 680,000 CFA (13,600 CFA per set); distributing at cost price + 25%:
+Entrepreneur, or NGO, prints 100 syllabus sets; cost 1,360,000 CFA (13,600 CFA per set); distributing at cost price + 25% for sets, + 50% for individual book sales:
 
--	25 *sets* to Bible school @ 425,000 CFA (17,000 ea.)
--	250 *books* to individuals, agencies @ 375,000 CFA (1500 ea.)
--	Total income: 800,000 CFA
--	Gross profit: 120,000 CFA 
--	Plus stock: 175 books @ ~140,000 CFA (880 ea.)
+- Syllabus sets sold at 17000 CFA
+- Books sold @ 1200 CFA
+
+	-	e.g. 60 *sets* to Bible schools, churches etc @ 1,020,000 CFA
+	-	500 *books* to individuals, libraries etc @ 600,000 CFA
+	-	Sales income @ 1,620,000 CFA
+	-	Gross profit @ 260,000 CFA 
+	-	Remaining stock value, 180 books @ ~ 100,000 CFA
+
+----
 
 ## License ##
 
-> Maize Plant Discipleship by John Clements is licensed for distribution within Burkina Faso, as follows:[^fn26]
+> Maize Plant Discipleship Facilitator's Handbook (this textbook) by John Clements is licensed for distribution within Burkina Faso, as follows:
 
 ---
 
@@ -751,8 +762,8 @@ Entrepreneur, or NGO, prints 50 syllabus sets; cost 680,000 CFA (13,600 CFA per 
 
 **Under the following terms**:
 
--	**Attribution** — You must give appropriate credit,[^fn27] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
--	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn28] as the original.
+-	**Attribution** — You must give appropriate credit,[^fn26] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn27] as the original.
 
 -	**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -760,9 +771,11 @@ Entrepreneur, or NGO, prints 50 syllabus sets; cost 680,000 CFA (13,600 CFA per 
 
 ### Notice ###
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. 
+-	You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. 
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+-	No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+-	Permissions beyond the scope of the license may be available at http://maizeplantdiscipleship.wordpress.com/contact.
 
 # Further information #
 
@@ -803,15 +816,15 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [mp-metaphor.png]: mp-metaphor.png width=150px height=245px
 
-[mp-roots.png]: mp-roots.png width=248px height=153px
+[mp-roots.png]: mp-roots.png width=200px height=123px
 
 [mp-dynamics.png]: mp-dynamics.png width=251px height=425px
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
-[learning-cycle.png]: learning-cycle.png width=199px height=190px
+[learning-cycle.png]: learning-cycle.png width=275px height=262px
 
-[hear.png]: hear.png width=125px height=126px
+[hear.png]: hear.png width=124px height=125px
 
 [receive.png]: receive.png width=125px height=126px
 
@@ -823,7 +836,7 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [act.png]: act.png width=125px height=126px
 
-[mpd-learning-cycle.png]: mpd-learning-cycle.png width=306px height=340px
+[mpd-learning-cycle.png]: mpd-learning-cycle.png width=307px height=340px
 
 [^fn1]: There is good reason to link these two statements that are seperated only by Paul's emotional description of two disciples who failed to keep the treasure safe, by not standing by Paul at a critical time.
 
@@ -873,10 +886,10 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [^fn24]: Luke 6:47-49
 
-[^fn25]: Example A assumes a cost price of 1000 CFA per text book (~$2, or £1.33). The other examples, based on a larger volume of printing, assume a cost price of 800 CFA. The commercial selling price is an estimate.
+[^fn25]: All four examples are based on textbooks of approximately 25 A4-sized pages, of double-sided printing, folded to produce 50pp, A5-sized booklets, stapled and trimmed, with a single-colour printed cover. Syllabus set = 17 textbooks.
+	
+	Example A assumes a cost price of 1000 CFA per text book (~$2, or £1.33). The other examples, based on a larger volume of printing, assume a cost price of 800 CFA. The commercial selling price is an estimate.
 
-[^fn26]: Permissions beyond the scope of the license may be available at http://maizeplantdiscipleship.wordpress.com/contact.
+[^fn26]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
 
-[^fn27]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
-
-[^fn28]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
+[^fn27]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
