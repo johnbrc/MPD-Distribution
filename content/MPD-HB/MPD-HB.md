@@ -1,4 +1,4 @@
-Version: 0.3.1 --- Reviewer's draft
+Version: 0.3.3 --- Reviewer's draft
 Change: --- Review distribution ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
@@ -131,7 +131,7 @@ By contrast, any messianic community—whether national denomination, regional g
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of the church-as-an-organisation, greater even than serving-one-another, as part of messianic community. The goal is to be part of a movement of disciples called to serve God's eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled, idol-bound populations.
 
-Amongst the corruption of society, besides its filthy gutters, behind its social, political and religious walls, the Messiah is at work by his Spirit. That is where he calls co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+Amongst the corruption of society, besides its filthy gutters, behind its social, political, economic and religious walls, the Messiah is at work by his Spirit. That is where he calls co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
 
 ### Anointed community  ###
 
@@ -160,7 +160,7 @@ Too often though, that power, that anointed-life-of-Christ-within-us, seems to e
 
 Thus we end where we began, with the foundational principle of transformative discipleship: the seed sown into the ground, in order to produce a harvest.
 
-> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
+> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—*John 12.24*
 
 This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship: 
 
@@ -246,7 +246,7 @@ Encouraging and facilitating a focus upon purposeful actions—rather than class
 
 An incorporation of qualities and characteristics appropriate to contextual culture.
 
-- Providing a biblically faithful, missional theology, integrated with Pentecostal spirituality.
+- Providing a biblically faithful missiology, integrated with Pentecostal spirituality.
 
 - Publishing short, topical, illustrative handbooks.
 
@@ -305,7 +305,7 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 
 ---
 
-> Maize represents the *daily bread* of millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
+> Maize produce effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
 
 ---
 
@@ -329,7 +329,7 @@ The Maize Plant Discipleship Syllabus is structured to symbolically reflect the 
 
 ### Soil and roots ###
 
-**Module MPD-M1**[^fn17]—provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, gradually unfolding a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
+**Module MPD-M1**[^fn17] provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, in order to unfold a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
 
 Only seed sown into good soil produces a good harvest. Discipleship communities also need to be rooted in good soil, allowing us to draw on essential, spiritual nutrients and the living water of the Messiah's Spirit, anchoring us against winds of false teaching and sustaining us amidst the heat of trials, temptations and vocational responsibility.
 
@@ -425,7 +425,7 @@ Each MPD module *Handbook* contains four interrelated *Studies*, each of which i
 -	Topical Sections and Summary
 -	Questions for Group Discussion
 
-The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate study groups and discussions— see [Facilitating MPD][].
+The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate study groups and discussions — see [Facilitating MPD][].
 
 # Facilitating MPD #
 
@@ -457,48 +457,54 @@ The combined *MPD learning process* that I am proposing incorporates six element
 
 When we gather together as disciples of the Messiah, to hear biblical teaching, we are not opening ourselves only to human ideas or wisdom, as Paul explains to the Corinthians:
 
-> We have not received the spirit of this world but the Spirit of God, so that we might understand the things that God has so freely given us. These are the things we are talking about when we avoid the manner of speaking that human wisdom would dictate and instead use a manner of speaking taught by the Spirit, by which we explain the things of the Spirit to people who have the Spirit.[^fn19]
+> We have not received the spirit of this world but the Spirit of God, so that we might understand the things that God has so freely given us. 
+
+> These are the things we are talking about when we avoid the manner of speaking that human wisdom would dictate and instead use a manner of speaking taught by the Spirit, by which we explain the things of the Spirit to people who have the Spirit — *1 Corinthians 2:12-13*
 
 ![Hear][hear.png]
 
-Our goal, therefore, is not only to listen with our minds, but also with our spirit—our heart. Not to become "puffed up" with knowledge, but to *hear what the Spirit is saying to his people*.[^fn20] And we listen in order to live more faithfully. This kind of listening is called *heeding*: listening with the intention to learn and follow, or obey.
+Our goal, therefore, is not only to listen with our minds, but also with our spirit—our heart; not to become "puffed up" with knowledge, but to *hear what the Spirit is saying to his people*.[^fn19] And we listen in order to live more faithfully. This kind of listening is called *heeding*: listening with the intention to learn and follow, or obey.
 
+
+----
 
 ### Receive...God's message inwardly ###
 
-Hearing God's message to us, either as a body of people, or as individuals, or families, is the beginning; it is not enough only to *hear*...
+Hearing God's message to us, either as a body of people, or as individuals and families, is a beginning. However, it is not enough only to *hear*, we must learn to *receive* God's message.
 
-> Don't deceive yourselves by only hearing what the Word says, but do it! For whoever hears the Word but doesn't do what it says is like someone who looks at his face in a mirror, who looks as himself, goes away and immediately forgets what he looks like. But if a person looks closely into the perfect Torah, which gives freedom, and continues, becoming not a forgetful hearer but a doer of the work it requires, then he will be blessed in what he does.[^fn21]
-
-The key to obedience is in receiving God's word inwardly, through meditation and reflection. This allows the word to begin to "*dwell richly within us*"[^fn22]. Think about how we receive food: chewing, enjoying the taste, swallowing and digesting, enabling the body to receive the foood's vitality and goodness. *It's the same with God's word*. We must chew it over, meditating and reflecting upon its meaning and application to our lives. Then we must allow it to settle in our spirit, forming and shaping our convictions, or holding it in our hearts, even before we fully understand all that it means to us. 
+> The one who received the seed that fell on rocky places is the man who hears the word and at once receives it with joy. But since he has no root, he lasts only a short time... 
+> The one who received the seed that fell among the thorns is the man who hears the word, but the worries of this life and the deceitfulness of wealth choke it, making it unfruitful. 
+> The seed on good soil stands for those with a noble and good heart, who hear the word and retain it, and by persevering produce a crop... yielding a hundred, sixty or thirty times what was sown — *Matthew 13:18-23; Luke 8:15*
 
 ![Receive][receive.png]
 
-*It is not always easy*. God's word can be like honey on the lips, but bitter in the stomach![^fn23] This is a way of saying that it may be pleasant and joyful to receive God's word when we first hear and taste it, but faithful obedience always forms a testing and difficult path.
+The key is to receive God's word inwardly, through meditation and reflection. This allows the word to begin to "*dwell richly within us*" (Collossians 3:16). Think about how we receive food: chewing, enjoying the taste, swallowing and digesting, enabling the body to receive the foood's vitality and goodness. *It's the same with God's word*. We must chew it over, meditating and reflecting upon its meaning and application to our lives. Then we must allow it to settle in our spirit, forming and shaping our convictions, or holding it in our hearts, even before we fully understand all that it means to us. 
+
+
+----
 
 ### Open...heart to other's perspectives ###
 
-In fellowship with others, we must learn to open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves. 
+In fellowship with others, we learn to open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves. 
 
 ![Open][open.png]
 
-Within meetings, group discussion represents an important form of fellowship. The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.
+The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.
 
-1.	**Invite and allow free-moving debate relating to the study topic**. 
+**Invite free-moving debate relating to the study topic**. 
 
-	It may take a few sessions for the group to get used to the freedom of this format; make sure younger people and women are included. (See also: [Facilitating openness]).
+> Ensure women and both young and old people are included. Allow discussions to ebb and flow, as people to consider their responses and return to earlier parts of the debate *(see also: [Facilitating openness])*. 
 
--	**Discuss traditional proverbs that relate to study topics**. 
+**Discuss traditional proverbs that relate to study topics**. 
 
-	Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide opportunities to discuss aspects of the teaching with elders and others, outside of the gathered group, including non-believers.
+> Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide opportunities to discuss aspects of the teaching with elders and others, outside of the gathered group, including non-believers.
 
--	**Discuss practical, vocational applications of the topical study**. 
+**Discuss practical, vocational applications of the topical study**. 
 
-	Vocation is more than simply our job, or employment: it incorporates all the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
+> Vocation is more than simply our job, or employment: it incorporates all the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
 
--	**Allow discussions to ebb and flow**. 
 
-	Give time for people to consider their responses and return to earlier parts of the debate, where appropriate.
+----
 
 ### Share...break bread together ###
 
@@ -506,12 +512,18 @@ The celebratory breaking of bread, in order to remember the Lord Jesus and his s
 
 ![Share][share.png]
 
-> Breaking bread was originally fashioned, by the early church, upon the weekly *Sh'bat* (Sabbath) meal of the Jews—a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt.
-
 Although breaking and sharing bread has typically become ceremonial in modern Christianity, it is possible to incorporate a simple meal into times of meeting together and to identify this prayerfully as a form of breaking bread together. 
+
+---
+
+> *Breaking bread was originally fashioned, by the early church, upon the weekly Sh'bat (Sabbath) meal of the Jews -- a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt*.
+
+---
 
 Sharing food together is a vital part of human fellowship and a practical way of celebrating and proclaiming God's daily provision and blessing. Where a meal is not practical or possible, consider sharing a small amount of bread together, in a symbolic act of shared hospitality and commitment to membership of the body of the Messiah.
 
+
+----
 
 ### Pray...let God's kingdom come ###
 
@@ -519,23 +531,25 @@ After discussion has taken place, invite the group to pray together, including i
 
 ![Pray][pray.png]
 
+Use MPD teaching to infuse prayer with fresh confidence concerning God's will and purpose, including personal and vocational concerns and challenges faced by group members. 
+
 -	**Pray for the gospel** to deeply impact and transform individuals, communities, cultures and societies throughout your nation, all of Africa, Europe, Asia and the Americas; pray for unreached people groups.
 
 -	**Pray for the Maize Plant Discipleship Project**: that it will be used by God to edify and strengthen and bless the Messianic Community, within Africa ... and beyond!
-
--	**Use MPD teaching** to infuse prayer with fresh confidence concerning God's will and purpose, including personal and vocational concerns and challenges faced by group members. 
 
 -	**Bless one another** with a blessing from Scripture, or as led by the Holy Spirit; speak a blessing over your community or nation, or with regards to a specific problem.
 
 -	**Expect the power of God** and the blessing of his life in us will overcome all opposition!
 
+----
+
 ### Act...in light of God's message ###
 
 The purpose of our gathering to hear God's message is not simply to hear it, but to act upon it! 
 
-> Everyone who comes to me, hears my words and *acts* of them... he is like someone building a house who dug deep and laid the foundation on bedrock. When a flood came, the torrent beat against that house but couldn't shake it, because it was constructed well... 
+> Don't deceive yourselves by only hearing what the Word says, but do it! For whoever hears the Word but doesn't do what it says is like someone who looks at his face in a mirror, who looks as himself, goes away and immediately forgets what he looks like.
 
-> Whoever hears my words but doesn't *act* on them is like someone who built his house on the ground without any foundation. As soon as the river struck, it collapsed and that house became a horredous wreck.[^fn24]
+> But if a person looks closely into the perfect *Torah*, which gives freedom, and continues, becoming not a forgetful hearer but a doer of the work it requires, then he will be blessed in what he does — *James 1:22-25*
 
 ![Act][act.png]
 
@@ -656,7 +670,7 @@ Be prepared to adapt both the teaching and the method of presentation, to create
 
 > I THINK you are touching something that is not already existing... For example, if we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing!—*Burkinabé theological educator, 2010*
 
-> Freely you have received, therefore freely give—*Jesus,  Matthew 10.8*
+> Freely you have received, therefore freely give—*Matthew 10.8*
 
 ## Books for African contexts ##
 
@@ -676,7 +690,7 @@ These leaders typically mediate between the two cultural worlds of orality and l
 
 ## A new publishing philosophy ##
 
-*Maize Plant Discipleship* has been formulated and published to meet these kind of contextual needs, with a missional—rather than commercial—philosophy: to practically foster and facilitate a widespread adoption of Christian discipleship praxis, led by African leaders and learners.
+*Maize Plant Discipleship* has been formulated and published to meet these kind of contextual needs, with a missional — rather than commercial — philosophy: to practically foster and facilitate a widespread adoption of Christian discipleship praxis, led by African leaders and learners.
 
 Accordingly, MPD resources are being licenced for reproduction under the terms of a *Creative Commons* licence. This allow MPD resources to be reproduced, re-published (e.g. translated) and re-distributed within a particular context, without breaching copyright—providing any reproduction identifies the original author (and translators) *and* retains the licence as an integral element of the republication.
 
@@ -686,14 +700,14 @@ This respects and maintains the personal copyright of the author and translators
 
 Under this licensing arrangement, any missional group, denomination or agency wishing to reproduce MPD handbooks is permitted to—without any licensing cost—*providing they keep to the terms of the licence*.
 
-The licence permits textbooks reproduced under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. This allows for a variety of methods by which MPD text books could be distributed, as illustrated in these example scenarios:[^fn25] 
+The licence permits textbooks reproduced under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. This allows for a variety of methods by which MPD text books could be distributed, as illustrated in these example scenarios:[^fn20] 
 
 -	Example A : Training Seminars
 -	Example B : Denominational Bible School
 -	Example C : Interdenominational NGO
 -	Example D : Commercial Enterprise
 
-| Example |No of MPD books| No of copies | Total cost 1,000 CFA |Production cost / set| Sale cost / syllabus set |  
+| Example |No of MPD books| No of copies | Total cost (,000 CFA) |Production cost / set| Sale cost / syllabus set |  
 |  ------	| ------	| ------	| ------	| ------	| ------	|  
 | A 	| 3	| 50	| 150	| 3000	| 17000	|  
 | B	| 17	| 25	| 340	| 13,600	| 7000 |  
@@ -744,13 +758,13 @@ Entrepreneur, or NGO, prints 100 syllabus sets; cost 1,360,000 CFA (13,600 CFA p
 
 ## License ##
 
-> Maize Plant Discipleship Facilitator's Handbook (this textbook) by John Clements is licensed for distribution within Burkina Faso, as follows:
+Maize Plant Discipleship Facilitator's Handbook (this textbook) by John Clements is licensed for distribution within Burkina Faso, as follows:
+
+Note: This is a human-readable summary of (and not a substitute for) the license, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ---
 
 **Creative Commons Attribution-ShareAlike 4.0 REGIONAL License**. 
-
-> Note: This is a human-readable summary of (and not a substitute for) the license, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 **You are free to**:
 
@@ -762,8 +776,8 @@ Entrepreneur, or NGO, prints 100 syllabus sets; cost 1,360,000 CFA (13,600 CFA p
 
 **Under the following terms**:
 
--	**Attribution** — You must give appropriate credit,[^fn26] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
--	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn27] as the original.
+-	**Attribution** — You must give appropriate credit,[^fn21] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn22] as the original.
 
 -	**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -816,25 +830,25 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [mp-metaphor.png]: mp-metaphor.png width=150px height=245px
 
-[mp-roots.png]: mp-roots.png width=200px height=123px
+[mp-roots.png]: mp-roots.png width=250px height=154px
 
 [mp-dynamics.png]: mp-dynamics.png width=251px height=425px
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
-[learning-cycle.png]: learning-cycle.png width=275px height=262px
+[learning-cycle.png]: learning-cycle.png width=250px height=238px
 
-[hear.png]: hear.png width=124px height=125px
+[hear.png]: hear.png width=119px height=120px
 
-[receive.png]: receive.png width=125px height=126px
+[receive.png]: receive.png width=120px height=123px
 
-[open.png]: open.png width=125px height=126px
+[open.png]: open.png width=119px height=122px
 
-[share.png]: share.png width=124px height=125px
+[share.png]: share.png width=119px height=120px
 
-[pray.png]: pray.png width=125px height=126px
+[pray.png]: pray.png width=119px height=121px
 
-[act.png]: act.png width=125px height=126px
+[act.png]: act.png width=119px height=120px
 
 [mpd-learning-cycle.png]: mpd-learning-cycle.png width=307px height=340px
 
@@ -874,22 +888,12 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [^fn18]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change or progress within a system or process.
 
-[^fn19]: 1 Corinthians 2:12-13
+[^fn19]: Revelation 2:29, 3:6,13,23; Matthew 11:15, Mark 4:9 etc.
 
-[^fn20]: Revelation 2:29, 3:6,13,23; Matthew 11:15, Mark 4:9 etc.
-
-[^fn21]: James 1:22-25; see also Hebrews 3:7-19
-
-[^fn22]: Collossians 3:16
-
-[^fn23]: Revelation 10:9-10; also Ezekiel 3:1-14
-
-[^fn24]: Luke 6:47-49
-
-[^fn25]: All four examples are based on textbooks of approximately 25 A4-sized pages, of double-sided printing, folded to produce 50pp, A5-sized booklets, stapled and trimmed, with a single-colour printed cover. Syllabus set = 17 textbooks.
+[^fn20]: All four examples are based on textbooks of approximately 25 A4-sized pages, of double-sided printing, folded to produce 50pp, A5-sized booklets, stapled and trimmed, with a single-colour printed cover. Syllabus set = 17 textbooks.
 	
 	Example A assumes a cost price of 1000 CFA per text book (~$2, or £1.33). The other examples, based on a larger volume of printing, assume a cost price of 800 CFA. The commercial selling price is an estimate.
 
-[^fn26]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
+[^fn21]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
 
-[^fn27]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
+[^fn22]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
