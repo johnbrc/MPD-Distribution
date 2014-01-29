@@ -21,7 +21,7 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 John may be contacted for further information, at any of the internet addresses above, or via 
 
--	Email <jbclements@icloud.com>
+-	Email <clements.jb@gmail.com>
 
 [leo]: https://raw.github.com/johnbrc/MPD-Distribution/current/author/john-leo-2008.jpg width=220px align=right hspace=25px vspace=10px 
 
