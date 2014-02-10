@@ -1,5 +1,5 @@
-Version: 2 --- Copyediting draft
-Change: —— Authorised for Copyediting (@ATaplin) ——
+Version: 2.1 --- Copyediting draft
+Change: — Authorised for Copyediting (@ATaplin) —
 LaTex input:	mpd-textbook-header
 Title:	The Dynamic of Commissioning
 Subtitle:	Maize Plant Discipleship Module 4
@@ -19,7 +19,7 @@ LaTex footer:	mpd-textbook-footer
 
 ## Précis ##
 
-> **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission**
+> **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission**
 
 ### Topics ###
 
@@ -29,11 +29,11 @@ LaTex footer:	mpd-textbook-footer
 
 3. [Commissioned as disciples]
 
-### Phrases ###
+### Terms ###
 
 Commission
-:	To charge with responsibility for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*);
-:	To grant authority to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
+:	*To charge with responsibility* for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*);
+:	*To grant authority* to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
 
 ### Scripture ###
 
@@ -54,7 +54,7 @@ Matthew 22:14
 
 ## Military commissioning ##
 
-This section examines the experiences of a military solider, in order to enlarge our understanding of what it means to be *commissioned*. It highlights three principal stages of becoming a soldier: calling, training and commissioning.
+This section examines the experiences of a military soldier, in order to enlarge our understanding of what it means to be *commissioned*. It highlights three principal stages of becoming a soldier: calling, training and commissioning.
 
 ### Calling ###
 
@@ -68,18 +68,18 @@ A calling is an awareness that a particular occupation represents a desirable, c
 A soldier's calling is tested
 :	with a period of intensive, *basic training*, which potentially equips them for a lifestyle of military service. 
 
-Trainee soldiers experience all kinds of difficult trials and hardships that test factors including: discipline, teamwork, communication, competence, obedience, initiative, determination, loyalty. During this time, the capability and characteristics of each individual are either enhanced or exposed as inadequate.
+Trainee soldiers experience all kinds of difficult trials and hardships that test their discipline, teamwork, communication, competence, obedience, initiative, determination, loyalty and resolve. During this time, each individual’s capabilities and characteristics are either affirmed, enhanced or exposed as inadequate.
 
-At the end of this period, training officers assess whether each soldier has satisfactorily completed basic training. If they have failed they either undertake the training again, or leave military service.
+At the end of this period, training officers assess whether each soldier has satisfactorily completed basic training. If so, they may begin active service. If not, they must either repeat basic training, until they pass satisfactorily, or leave military service altogether.
 
 ### Commissioning [military] ###
 
 A soldier's commissioning
-:	represents the beginning of their *active service*, as a member of a regiment, or division of the army. 
+:	represents the beginning of their *active service*, as a member of a regiment or division of the army. 
 
-They are equipped and authorised for military service: capable, ready and trusted to fulfil their duty—which includes general soldiering, as well as a personal vocation, such as *infantry, chef, driver, engineer, medic, officer* and so so.
+They are equipped and authorised for military service: capable, ready and trusted to fulfil their duties—which include general soldiering, as well as a personal vocation such as infantry, chef, driver, engineer, medic, officer and so on.
 
-In this new phase, soldiers continue to lead highly-disciplined lives and to experience difficult trials and tests. However, unlike the training phase, significant achievements are rewarded—generally, by receiving additional tasks and responsibility.
+In this new phase, soldiers continue to lead highly-disciplined lives and to experience difficult trials and tests. However, unlike the training phase, significant achievements are rewarded—generally by receiving enhanced or additional responsibility.
 
 ### — Option — ⌥ ###
 
@@ -88,19 +88,19 @@ In this new phase, soldiers continue to lead highly-disciplined lives and to exp
 
 ## God's commissioning ##
 
-This section explores the origins of the word *mission* and its connection with *commissioning*, in order to understand how the messianic, new covenant community is united with God's mission.
+This section explores the origins of the word *mission* and its connection with *commissioning*, in order to understand how the messianic, new-covenant community is united with God's mission.
 
 ### The sending of God ###
 
-The English word, *mission*, derives from a Latin word, *missio*, meaning *sending*. It was originally used exclusively to refer to *God's sending of himself*,[^cf1] into the world, to restore it from the effects of human rebellion, idolatry and forces of chaos, darkness and evil. 
+The English word, *mission*, derives from a Latin word, *missio*, meaning *sending*. It was originally used exclusively to refer to *God's sending of himself* [^cf1] into the world, to restore it from the effects of human wickedness, idolatry, chaos, spiritual darkness, oppression, injustice and evil. We see this in three particular ways.
 
--	**The Old Testament[^cf2] reveals God's covenantal presence**
+-	**The Old Testament[^cf2] reveals God's covenant presence**
 
-	In particular, the *Shekinah* (glorious presence of God), dwelling within the pillar of cloud and fire, during the exodus from Egypt, and within the *Ark of the Covenant*, visited by Moses and the Levitical high priests, during the annual *Passover*.
+	In particular, the *Sh’kinah*, (Hebrew: glorious Presence of God; see Luke 2:9, Hebrews 1:3; 1 John 1:14, 2 Peter 1:17; Matthew 17:6 etc), which manifested as a pillar of cloud and fire during the exodus from Egypt (Exodus 13:17-14:29) and within the *Ark of the Covenant*, visited by Moses and Aaron (Exodus 40) and following Solomon’s dedication of the temple (2 Chronicles 7).
 
 -	**The New Testament reveals the Messiah, Jesus**
 
-	As the Passover *Lamb of God*; as *apostle* and *high priest* and as *the sole expression of the glory (Shekinah) of God...the perfect imprint and very image of God's nature[^cf3]*—in every way, Jesus, the Messiah, reflects the reality that God the Father is a missional god.
+	As “Lamb of God,” apostle and high priest and “the sole expression of the glory (*Sh’kinah*) of God—the perfect imprint and very image of God's nature[^cf3]”—in every way Jesus the Messiah reflects the reality that God the Father is a missional god.
 
 -	**The New Testament reveals the Holy Spirit**
 
@@ -110,15 +110,13 @@ The English word, *mission*, derives from a Latin word, *missio*, meaning *sendi
 
 Mission, having begun with God's *sending* of himself, is enlarged through the biblical covenants, as the people of God are united with God and his mission—his sending of himself—within the world.
 
--	This is what *commissioning* means means: *to join, or unite with a particular mission* (*co* means joining, uniting or sharing, thus, *co-mission*).
+-	This is what commissioning means: *to join, or unite with a particular mission* (*co* means joining, uniting or sharing, thus, *co-mission*).
 
 -	The messianic covenant community is *commissioned* by God: united with his mission to reconcile and restore creation to himself, through the Messiah.
 
--	We have been called to be with him, to be prepared and set apart; blessed, anointed and sent towards the world, for the sake of the world; to bless the peoples of the world, in God's name.[^cf6]
-
 ### Joining the Messiah's mission ###
 
-The *mission* of Jesus is the purpose for which the Messiah was sent into the world: to represent the Father and to do the works of God, forming and sending disciples, in his name[^cf7].
+The *mission* of Jesus is the purpose for which he was sent into the world: to represent the Father and to do the works of God, forming and sending disciples, in his name[^cf7].
 
 John 20:21
 : As the Father sent me, so I now send you.
@@ -127,6 +125,8 @@ The *commission* of the messianic community means being united with and sharing 
 
 Messianic commission
 :	Joining, uniting with the Messiah, in his mission.
+
+We are called to be with him; to be prepared, set apart, blessed, anointed and sent towards the world, for the sake of the world; to bless the peoples of the world, in God's name.[^cf6]
 
 ### — Option — ⌥ ###
 
@@ -146,40 +146,39 @@ The apostle, Paul, uses the metaphor of a soldier to emphasise that disciples of
 
 ### Called to serve ###
 
-[*Military commissioning*], explored how soldiering begins with discerning a calling to military service. Messianic discipleship similarly begins with a *calling*. This happens as we recognise that we are called to serve the mission of God, in some way: that we are being called to serve the eternal purpose of God—the *vocation* of the Messianic Community.[^cf9]
+[*Military commissioning*] explored how soldiering begins with discerning a calling to military service. Messianic discipleship similarly begins with a *calling*. This happens as we personally or corporately discern a calling to serve God’s mission, in some way—to serve God’s eternal purpose, the *vocation* of messianic community.[^cf9]
 
 ### Many are called, but few are chosen ###
 
-Soldiers who hear and respond to a calling to military service progress to their commissioning only after satisfactorily completing basic training. Jesus' words, *Many are called, but few are chosen*[^cf10] confirms that hearing the call to serve God's mission is only a start.
+Those who hear and respond to a calling to military service are only commissioned after satisfactorily completing basic training. Jesus' words, *Many are called, but few are chosen*[^cf10] confirms that hearing the call to serve God's mission is only a start. 
 
--	Like soldiers, disciples of the Messiah need to learn the basic disciplines and specialised skills required for vocational service. 
+Like soldiers, disciples of the Messiah need to learn the basic disciplines and specialised skills required for vocational service. Like soldiers, progressing from *calling* to *commissioning*—which is what it means to be *chosen* by the Messiah—requires yielding ourselves fully to the demands of vocational service: becoming disciplined, skilled and faithful in response to our calling.
 
--	Progressing from *calling* to *commissioning* requires yielding ourselves fully to the demands of vocational service, becoming disciplined, skilled and faithful in response to our calling.
+-	The process of calling, training and commissioning is how we are prepared for useful service[^cf12]. 
 
--	This is what it means to be *chosen* by the Messiah: appointed and anointed to work alongside him, bringing in a *harvest of faithfulness,[^cf11]* in the power of his Spirit.
+-	It is how we are enabled to become co-workers with the Messiah in his mission. 
 
--	This is how we are prepared for useful service[^cf12] and enabled to become co-workers with the Messiah in his mission. 
+-	It is how we become appointed and anointed to work alongside him, gathering a *harvest of faithfulness*,[^cf11] in the power of his Spirit.
 
--	This is how we are *commissioned*.
 
 ### — Option — ⌥ ###
 
--	Discuss *Selection* and [*Faithfulness*], or 
+-	Discuss *Training* and [*Faithfulness*], or 
 -	Continue to [*Summary*][summary-commissioning] and [*Discussions*][commissioning]
 
 ## Summary [summary-commissioning] ##
 
-This concludes the study, *The Commissioning of the Messianic Community*, which:
+This concludes the study, *The Commissioning of Messianic Community*, which:
 
--	Explored the metaphor of soldiering, including calling, training and commissioning;
+-	explored the metaphor of soldiering, including calling, training and commissioning;
 
--	Explained that commission means joining together in mission, illustrating how the new covenant community joins with the Messiah's mission;
+-	explained that *commissioning* essentially means joining together in mission, illustrating how the new-covenant community joins with the Messiah's mission;
 
--	Compared military service with messianic discipleship, highlighting similarities relating to obedience, faithfulness and reward.
+-	compared military service with messianic discipleship, highlighting similarities relating to obedience, faithfulness and reward.
 
 In summary, the study revealed that
 
-> **The Messianic Covenant Community has been commissioned to co-work alongside the Messiah in his mission as a community of disciples, called, equipped and chosen to serve God's eternal purpose**
+> **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission as a community of disciples, called, equipped and chosen to serve God's eternal purpose.**
 
 ## Discussions [commissioning] ##
 
@@ -189,23 +188,23 @@ In summary, the study revealed that
 
 Related to [*Military commissioning*]
 
-> **Discuss how the rigours of military *soldiering* and its disciplines differ from the challenges of civilian life.**
+> **Discuss how the rigours of military soldiering and its disciplines differ from the challenges of civilian life.**
 
--	How helpful is the military metaphor of *soldiering* with respect to Christian discipleship in the context of your culture and your personal life?
+-	How helpful is the military metaphor of soldiering with respect to Christian discipleship in the context of your culture and your personal life?
 
 ### Commissioning [commissioning-discussion] ###
 
 Related to [*God's commissioning*] 
 
-> **Discuss one thing relating to the idea of *commissioning* that stood out to you, during this study**.
+> **Discuss one thing relating to the idea of commissioning that stood out to you, during this study**.
 
--	How might this idea help the development of the Christian community in your locale, or national context?
+-	How might this idea help the development of the Christian community in your local or national context?
 
-### Selection ###
+### Training ###
 
 Related to [*Commissioned as disciples*] 
 
-> **Discuss messianic disciplines and hardships that are equivalent to a solider's basic training**.
+> **Discuss messianic disciplines and hardships that are equivalent to a soldier's basic training**.
 
 -	How might a Christian disciple fail the equivalent of basic training?
 
@@ -233,7 +232,7 @@ Related to [*Commissioned as disciples*]
 4. [The strategy of teaching] 
 5. [The strategy of sending] 
 
-### Phrases ###
+### Terms ###
 
 Commission
 :	*What* needs to be achieved; 
@@ -253,8 +252,8 @@ Read these passages aloud together.
 -	Mark 16:15-18
 -	Luke 24:44-49 
 -	John 20:21-23
--	Matthew 28:19-20
--	Acts 26:17-18
+-	Matthew 28:18-20
+-	Acts 26:15-18
 -	Hebrews 5:11-14
 
 Read and memorise these two passages, in time for your next meeting:
@@ -263,13 +262,13 @@ John 20:21
 : Peace to you! (*Shalom, alecheim!*) Just as the Father has sent me forth, so I am sending you.
 
 Matthew 28:19-20
-: Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit... teaching them to obey everything that I have commanded you.
+: Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I have commanded you.
 
 ## The strategy of praying ##
 
-The foundational strategy of mission is *prayer* ([](#pray.png)). 
+The foundational strategy of mission is *prayer* ([](#pray)).
 
-![Foundational strategy: prayer][https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray.png] "Prayer" height=35px
+![Foundational strategy: prayer](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pray.png)
 
 ### Strategic prayer ###
 
@@ -280,13 +279,13 @@ The foundational strategy of mission is *prayer* ([](#pray.png)).
 Matthew 9:35-38
 :	When he (Jesus) saw the throngs, he was moved with pity and sympathy for them, because they were bewildered (harassed and distressed and dejected and helpless), like sheep without a shepherd. Then he said to his disciples, *The harvest is indeed plentiful, but the labourers are few. So pray to the Lord of the harvest to force and thrust out labourers into his harvest*.
 
-In the gospels, as Jesus proclaims the Kingdom of God, throughout Israel, he encounters  crowds of bewildered people. Teaching his disciples, he uses a ripe, abundant harvest of crops, in nearby fields, as a metaphor for the people.
+As Jesus proclaims the Kingdom of God throughout Israel, he encounters  crowds of bewildered people. Teaching his disciples, he uses a ripe, abundant harvest of crops, in nearby fields, as a metaphor for the people.
 
 ### A harvesting problem ###
 
 When Jesus likens bewildered people to a rich harvest, ready to be gathered, he is not describing a problem with the harvest. The problem he describes is a shortage of labourers ready and willing to gather the harvest. In other words: a shortage of trained disciples, ready to be commissioned into service. 
 
-How does Jesus' teach his disciples to respond to this challenge? He points them directly towards the foundational strategy of mission:
+How does Jesus teach his disciples to respond to this challenge? He points them directly towards the foundational strategy of mission:
 
 > ***Pray to the Lord of the harvest***.
 
@@ -297,14 +296,14 @@ How does Jesus' teach his disciples to respond to this challenge? He points them
 
 ## The strategy of reaching ##
 
-The second strategic step is *reaching* people, reconciling them with God, through the Messiah ([](#pray-reach.png)).
+The second strategic step is *reaching* people, reconciling them with God, through the Messiah ([](#reach)).
 
-![Second strategy: reconciliation](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach.png "Pray-Reach" height=35px)
+![Second strategy: reconciliation](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pray-reach.png)
 
 ### Reconciliation with God ###
 
-Mark 16:15-18
-:	As you go throughout the world, proclaim the Good News to all creation, whoever trusts and is immersed will be saved; whoever does not trust will be condemned.
+Mark 16:15-16
+:	As you go throughout the world, proclaim the Good News to all creation. Whoever trusts and is immersed will be saved; whoever does not trust will be condemned.
 
 Acts 26:17-18
 :	I am sending you to them to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.
@@ -314,11 +313,11 @@ Acts 26:17-18
 -	God's forgiveness and cleansing of our wrongdoings;
 -	Forgiving others for wrongdoings inflicted upon us;
 -	Deliverance from dominant sinful behaviour;
--	Spiritually and practical cleansing from impurity;
+-	Cleansing from impurity, both spiritually and practically;
 -	Deep renunciation of idols and idolatry;
 -	Establishing wholehearted allegiance to the Messiah and his rule in our lives.
 
-Anything other than a complete change of direction, spiritually and practically, will cause people to stumble, sooner or later, and potentially fail to experience God's kingdom.
+Anything other than a complete change of direction, spiritually and practically, will  cause people to stumble, sooner or later— and potentially fail to enter God's kingdom at all.
 
 ### Being reconciled ###
 
@@ -331,20 +330,20 @@ Reaching *others* with a message of reconciliation and repentance challenges our
 
 ## The strategy of discipling ##
 
-The *third* strategy is the formation of *disciples* ([](#pray-reach-disciple.png)).
+The third strategy is the *formation of disciples* ([](#disciple)).
 
-![Third strategy: forming disciples][https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach-disciple.png "Pray-Reach-Disciple" height=35px]
+![Third strategy: forming disciples](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pray-reach-disciple.png)
 
 ### Discipleship is at the heart of messianic community ###
 
 Matthew 28:19-20
 :	Go and *make people from all nations into disciples*, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I have commanded you
 
-The forming of disciples is the very heart and centre of messianic community and mission. We are called and commissioned to make people from all nations into disciples, by immersing—baptising—them into the reality of God's life, through the Messiah, by the Spirit.
+The forming of disciples is the very heart and centre of messianic community and mission. We are called and commissioned to make people from all nations into disciples, by immersing (baptising) them into the reality of God's life, through the Messiah, by the Spirit.
 
 ### Discipleship deals with our hearts ###
 
-Discipleship deals with something deeper than the mind: our hearts, the centre of our being, the seat of our motivation, our willpower, our commitment. 
+Discipleship deals with something deeper than the mind: our *hearts*—the centre of our being, the seat of our motivation, our willpower, our commitment. 
 
 -	Authentic discipleship renews a person's heart, as new allegiances, loyalties and practical priorities are adopted and applied.
 
@@ -352,11 +351,11 @@ Discipleship deals with something deeper than the mind: our hearts, the centre o
 
 Unless our hearts are challenged and renewed in this way, we remain merely *religious converts*—engaging in devotional, religious activity, whilst our will, character, allegiances, loyalties and lifestyle remain practically unchanged.
 
-As we experience a process of formation into disciples of Jesus, we face the challenge of whether to make our whole heart available to God—or to shrink back from the challenge of Messianic mission. Only as we allow our hearts to be transformed by the Holy Spirit have we begun the life of a disciplined co-worker of the Messiah[^cf13]: one who has been authentically *co-missioned* with him.
+As we experience a process of formation into disciples of Jesus, we face the challenge of whether to make our whole heart available to God—or to shrink back from the demands of Messianic mission. Only as we allow our hearts to be transformed by the Holy Spirit do we begin the life of a disciplined co-worker of the Messiah[^cf13]: one who has been authentically *co-missioned* with him.
 
 ### The priority of discipleship ###
 
-Because discipleship deals with the heart, it must be a strategic, practical priority that *precedes* concentrated biblical [teaching][The strategy of teaching], which is for the spiritually mature. Teaching deals with our minds—our understanding, conviction and belief—and excessive teaching of immature, undisciplined people risks *puffing them up with knowledge*—instead of *building them up with God's love*.[^cf14]
+Because discipleship deals with the heart, it must be a strategic, practical priority that *precedes* concentrated biblical [teaching][The strategy of teaching], which is for the spiritually mature. Teaching deals with our minds—our understanding, conviction and belief—and excessive teaching of immature, undisciplined people risks *puffing them up with knowledge*, instead of *building them up with God's love*.[^cf14]
 
 ### — Option — ⌥ ###
 
@@ -365,9 +364,9 @@ Because discipleship deals with the heart, it must be a strategic, practical pri
 
 ## The strategy of teaching ##
 
-The *fourth* strategy is *teaching* ([](#teach))
+The fourth strategy is *teaching* ([](#teach))
 
-![Fourth strategy: teaching the mature](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach-disciple-teach.png "Pray-Reach-Disciple-Teach" height=35px)
+![Fourth strategy: teaching the mature](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pray-reach-disciple-teach.png)
 
 ### Solid food ###
 
@@ -376,56 +375,60 @@ Hebrews 5:12-14
 
 The *solid food*, or *strong meat[^cf15]* of God's word is reserved for those who have become committed disciples, for whom biblical teaching:
 
--	Provides a fruitful source of insight, conviction, trust, knowledge, wisdom and understanding;
+-	provides a fruitful source of insight, conviction, trust, knowledge, wisdom and understanding;
 
--	Develops and deepens their knowledge and appreciation of messianic life, spirituality and vocational service.
+-	develops and deepens their knowledge and appreciation of messianic life, spirituality and vocational service.
 
 ### Spiritual revelation ###
 
-The spirit and power of *revelation* plays a vital role with respect to the messianic teaching ministry—as the disciples experienced when they met the risen Messiah.
+The spirit of *revelation* plays a vital role in messianic teaching ministry—as the disciples experienced when they met the risen Messiah.
 
-Luke 24:44-49
+Luke 24:45-47
 :	He opened their minds, so that they could understand the Scriptures, telling them *Here is what it says: The Messiah is to suffer and to rise from the dead on the third day; in his name repentance, leading to forgiveness of sins, is to be proclaimed to people from all nations.*
 
-Revelation is a gift of the Spirit that opens our understanding to spiritual truths and realities. The Spirit of God expands our human understanding to incorporate spiritual truths that are not obtained by, or received within our natural, rational minds, but are revealed to our heart, or spirit.[^cf16]
+Revelation is a gift of the Spirit that opens our understanding to spiritual truths and realities. The Spirit of God expands our human understanding to incorporate spiritual truths that are not obtained by, nor received within, our natural, rational minds, but are revealed to our heart, or spirit.[^cf16]
+
+Consider the following three concepts, which are related linguistically:
 
 Rational
-:	The natural mind of human beings is limited to *rational* knowledge, which is based upon human logic and reasoning;
+:	The natural mind of human beings is limited to *rational* knowledge—which is based upon human logic and reasoning;
 
 Relational
-:	The Spirit bring us into a personal, *relational* knowledge of God, which is based upon knowing and being known by the Messiah;
+:	The Spirit brings us into a personal, *relational* knowledge of God—which is based upon knowing and being known by the Messiah;
 
 Revelational
-:	Personal knowledge of the Messiah is rooted in *revelational* knowledge, imparted to the prophets and apostles, which is based upon historical, covenantal relationship with God.
+:	The Spirit brings us into deeper, *revelational* knowledge of God's will and purpose—which is based upon renewed, inspired spiritual insight and comprehension of the historical, covenantal faith, revealed originally to the prophets and apostles.
 
-This is why Jesus challenged his disciples to recognise that covenantal, relational life is vital to understanding his teaching; many do not understand God's ways, because they have no experience of, or desire to do God's will:
+This is why Jesus challenged his disciples to recognise that covenantal, relational life is vital to understanding his teaching: many do not understand God's ways because they have no experience of, or desire to do, God's will.
 
 John 7:17
-:	If any man desires to do God's pleasure, he will know, have the needed illumination to recognise and can tell for himself, whether the teaching is from God or whether I am speaking from myself and of my own accord and on my own authority.
+:	If any man desires to do His will (God's pleasure), he will know (have the needed illumination to recognise and can tell for himself) whether the teaching is from God or whether I am speaking from myself and of my own accord and on my own authority.
 
 ### The Word of God in its fullness ###
 
-*The word of God in its fullness[^cf17]* incorporates two interrelated aspects that balance and complement each other: pastoral and prophetic.
+*The word of God in its fullness[^cf17]* incorporates two interrelated aspects that balance and complement each other: *pastoral* and *prophetic*. Having said that, in practice, the distinction is not always obvious.
 
 #### Pastoral teaching ####
 
-Pastoral teaching is effectively directed towards preserving and applying the accumulated wisdom, knowledge, understanding and traditions of messianic community,[^cf18] including:
+Pastoral teaching is generally directed towards preserving, communicating and applying the accumulated wisdom, knowledge, understanding and traditions of messianic community,[^cf18] including:
+
+-	Edifying disciples into *the Way* of following the Messiah;
 
 -	Studying and interpreting scripture (theology);
 
 -	Understanding the historical narratives and identity of messianic communities and denominations.
 
-Pastoral teaching and theology can tend to become inwardly protective of tradition, as well as unhelpfully shackled to modern academic standards. This leads to spiritual sterility, generational inertia and a growing lack of effective engagement with those outside the Messianic Community.
+Pastoral teaching and theology can tend to become inwardly protective of tradition, as well as unhelpfully shackled to modern academic standards. This leads to spiritual sterility, generational inertia and a growing lack of effective engagement with those outside of messianic community.
 
 #### Prophetic teaching ####
 
 Prophetic teaching is directed towards interpreting the historical, contextual *signs of the times[^cf19]* that call for an appropriate response from messianic communities, including:
 
--	Weighing and critiquing the culture[^cf20] of messianic communities and their response to God's historical, contextual, *missional purposes*, amongst the nations.
+-	Weighing and critiquing the culture[^cf20] of messianic communities and their response to God's historical, contextual, missional purposes amongst the nations.
 
 -	Offering and relating *the word of life[^cf21]* to those outside of messianic community, including appropriately weighing and critiquing human culture, in the light of God's words.
 
-Historically, prophetic teaching has tended to be treated as a threat to mainstream expressions of Christianity, leading to a marginalisation of new movements and a deepening of mainstream inertia.
+Prophetic teaching has historically tended to represent a threat to mainstream expressions of Christianity, leading to a marginalisation of new movements and a deepening of mainstream inertia.
 
 ### — Option — ⌥ ###
 
@@ -436,19 +439,19 @@ Historically, prophetic teaching has tended to be treated as a threat to mainstr
 
 The fifth strategy is *sending* disciples ([](#prdts)).
 
-![Fifth strategy: sending disciples](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pray-reach-disciple-teach-send.png "Pray-Reach-Disciple-Teach-Send" height=35px)
+![Fifth strategy: sending disciples](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pray-reach-disciple-teach-send.png)
 
-### Culmination of strategy ###
+### Culmination of strategies ###
 
 John 20:21
-: *Shalom aleikhem!* (Peace be upon you!) Just as the Father sent me, I myself am sending you
+: *Shalom aleikhem!* (Peace be upon you!) Just as the Father sent me, I myself am sending you.
 
-Sending represents the culmination of the strategies of messianic community: as people who have been reconciled with God, formed into disciples and taught are sent to fulfil a vocational calling, within:
+Sending represents a culmination of the four strategies that have preceded it: prayer, reconciliation with God, formation of disciples and teaching about the kingdom. It refers to being sent to fulfil a missional, vocational calling, within:
 
 -	Inter-cultural contexts;
 -	Intra-cultural contexts.
 
-In each case, God is the one who equips, empowers and sends workers, by his Spirit. When a particular community sends workers into new contexts, it should be acting in step with the Spirit, enacting and upholding God's sending of those people.[^cf22]
+In each case, God is the one who equips, empowers and sends workers, by his Spirit. When a particular community sends workers into new contexts, it should be in step with the Spirit, enacting and upholding God's sending of those people.[^cf22]
 
 ### Inter-cultural contexts ###
 
@@ -462,13 +465,13 @@ Inter-cultural mission implies being sent to significantly different cultural, e
 
 ### Intra-cultural contexts ###
 
-Because God sends the whole messianic community towards all the peoples and cultures of the world, mission is not limited to crossing geographic, ethnic or intercultural barriers. *Intra-cultural mission* recognises that the messianic community is *sent* towards the people within its own original context.
+Because God sends the whole messianic community towards all the peoples and cultures of the world, mission is not limited to crossing geographic, ethnic or intercultural barriers. *Intra-cultural mission* identifies that the messianic community is called and *sent* towards the people within its own original context.
 
--	Intra-cultural sending implies co-operating with God's purposes and forming disciples *wherever* we are working: carrying vocational responsibility in ways that influence and transform homes, families, communities, workplaces and institutions.
+-	Intra-cultural sending implies co-operating with God's purposes and forming disciples *wherever* we are working: living out our vocational responsibility in ways that influence and transform homes, families, communities, workplaces and institutions.
 
 -	Whatever vocational role we occupy, each disciple should recognise how faithfulness to the Messiah's missional priorities creates opportunities to introduce messianic perspectives, biblical truths and spiritual power into our personal and vocational contexts.
 
--	This includes participation in health-, wealth- and other worth-creating activities, such as arts, sports, media, civil service and government, which have historically been overlooked, or devalued, by some forms of Christian spirituality.
+-	This includes participation in health-, wealth- and other worth-creating activities, such as arts, sports, media, civil service and government, which have historically been overlooked or devalued by some forms of Christian spirituality.
 
 ### — Option — ⌥ ###
 
@@ -485,9 +488,9 @@ This concludes the study, *The Strategies of Messianic Community*, which explore
 -	Teaching mature disciples;
 -	Sending missional disciples.
 
-As each generation of disciples follow these strategies, a cyclical process ([](#cycle)) begins to establish an expanding missional, *movement*.
+As each generation of disciples follow these strategies, a cyclical process ([](#cycle)) begins to establish an expanding, missional *movement*.
 
-![The strategic cycle](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/commissioncycle.png height=175px)
+![The strategic cycle](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/commissioncycle.png)
 
 ## Discussions [strategy] ##
 
@@ -555,13 +558,13 @@ Related to [*The strategy of sending*]
 ### Topics ###
 
 1.	[Introducing the trialogue] 
--	[Pastoral, evangelistic community] 
+-	[Pastoral, evangelistic communities] 
 -	[Teaching and training centres] 
 -	[Apostolic missionary teams] 
 -	[Prophets, priests, mediators] 
 -	[Structures and strategies]
 
-### Phrases ###
+### Terms ###
 
 Pastoral
 :	From *pastor,* meaning shepherd—implying care, protection, provision, discipline and guidance—as a good shepherd with his sheep.
@@ -576,7 +579,7 @@ Apostolic
 :	From *apostle,* meaning *sent one*; referring to those sent as intercultural, missionary pioneers.
 
 Structure
-:	Vocational communities organised (structured) according to purpose and function, e.g pastoral communities, teaching centres.
+:	Vocational communities organised (structured) according to purpose and function, e.g. pastoral communities, teaching centres.
 
 ### Scripture ###
 
@@ -589,29 +592,29 @@ Read these passages aloud together:
 
 Read and memorise these two passages, in time for your next meeting:
 
-Hebrews 8.5
-:	But what they are serving is only a copy and shadow of the heavenly original; for when Moses was about to erect the Tent, God warned him: *See to it that you make everything according to the pattern you were shown you on the mountain*
+Hebrews 8:5
+:	But what they are serving is only a copy and shadow of the heavenly original; for when Moses was about to erect the Tent, God warned him: *See to it that you make everything according to the pattern you were shown on the mountain*
 
-Ephesians 4:11-16
+Ephesians 4:11-13
 :	His gifts were varied; He Himself appointed and gave men to us: some to be apostles, some prophets, some evangelists, some pastors and teachers. Their task is to equip God's people for the work of service that builds the body of the Messiah, until we all arrive at the unity implied by trusting and knowing the Son of God, at full manhood, at the standard of maturity set by the Messiah's perfection[^cf23]
 
 ## Introducing the trialogue ##
 
-A *trialogue* comprises three overlapping circles. It is used to illustrate a dynamic interaction between three different, but related things. 
+A *trialogue* comprises three overlapping circles. It is used to illustrate a dynamic interaction between three different, but interrelated things. 
 
-![Foundational messianic structures](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/foundationalstructures.png height=200px)
+![Foundational messianic structures](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/foundationalstructures.png)
 
 [](#foundational-structures) represents a trialogue of the three foundational structures of messianic community:
 
--	Pastoral, evangelistic community;
+-	Pastoral, evangelistic communities;
 -	Teaching and training centres;
 -	Apostolic, missionary teams.
 
-These structures are designed to work together, in combination, as part of regional, or national missional movements, serving God's eternal purpose. In the following sections, each structure is explored separately, before considering some of the important outcomes that occur when these structures interact together, in obedience to the Spirit.
+These structures are designed to work together, in combination, as part of regional or national missional movements, serving God's eternal purpose. In the following sections, each structure is explored separately, before considering some of the important outcomes that occur when these structures interact together, in obedience to the Spirit.
 
 ## Pastoral, evangelistic community ##
 
-![Pastoral, evangelistic community](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pastoral-evangelistic-community.png height=125px)
+![Pastoral, evangelistic community](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pastoral-evangelistic-community.png)
 
 Pastoral, evangelistic community ([](#pec)) has two functions:
 
@@ -620,13 +623,13 @@ Pastoral, evangelistic community ([](#pec)) has two functions:
 
 ### Pastoral, shepherding role ###
 
-In its pastoral, shepherding role the community reflects the affirming, self-less, humble, protective, overseeing care that the *Good Shepherd*, Jesus, has for his people. This is demonstrated practically through being both an *hospitable* and a *celebratory, worshipping community*.
+In its pastoral, shepherding role the community reflects the affirming, selfless, humble, protective, overseeing care that the *Good Shepherd*, Jesus, has for his people. This is demonstrated practically through being both an *hospitable* and a *celebratory, worshipping* community.
 
 #### An hospitable community ####
 
 An hospitable community expresses hospitality—friendliness, kindness, warmth, welcoming, care, openness, acceptance and concern for the *alien and stranger* encountered by the community.
 
--	A hospital is a place of healing and restoration, suggesting that practical *hospitality*, reflected in opening our hearts and homes to one another, represents a vital aspect of generating *healing* and *health*.[^cf24]
+-	A hospital is a place of healing and restoration, suggesting that practical *hospitality*, reflected in opening our hearts and homes to one another, represents a vital aspect of generating *healing* and *health*.
 
 #### A celebratory, worshipping community ####
 
@@ -636,27 +639,27 @@ A celebratory, worshipping community demonstrates the goodness, kindness and pro
 
 -	The new covenant, inaugurated by Jesus, provides a profound fulfilment of the Passover. The symbolic sharing of bread and wine, representing the body and blood of the Messiah, speaks of the Passover *Lamb of God*, who sacrificed his life to serve God's eternal purpose.	
 
--	Celebrating the Messiah's sacrifice reminds us of the devoted, sacrificial service to which we are called and commissioned, as members of the new covenant community.
+-	Celebrating the Messiah's sacrifice reminds us of the devoted, sacrificial service to which we are called and commissioned, as members of the new-covenant community.
 
 ### Evangelistic, proclaiming role ###
 
-In its evangelistic, proclaiming role messianic communities reflect their confidence that the Messiah, Jesus, is Lord—over the community and spiritual and natural powers influencing human beings. This is demonstrated by being an irresistible, *inviting* community and a compelling, *believing* community.
+In its evangelistic, proclaiming role messianic communities reflect their confidence that the Messiah, Jesus, is Lord—over both the community and the spiritual and natural powers influencing human beings. This is demonstrated by being an irresistible, *inviting* community and a compelling, *believing* community.
 
 #### An inviting community ####
 
-An inviting community reflects its evangelistic perspective by *inviting* those outside the community to join in giving *allegiance* (worship; service; faithfulness) to the Messiah.
+An inviting community reflects its evangelistic perspective by *inviting* those outside the community to join in giving *allegiance* (worship, service, faithfulness) to the Messiah.
 
 -	Being inviting implies something more than offering invitations to specific events. It means living in a manner that *invites interest* from outsiders through an expression of the mutuality of human community—which starts by caring for the interests of others.[^cf26]
 
--	When a community is living a devoted, obedient, *celebratory* lifestyle that is open to and welcoming towards outsiders, its lifestyle and existence becomes a practical embodiment and proclamation of the Good News,[^cf27] which is practically irresistible to those who are seeking
+-	When a community is living a devoted, obedient, *celebratory* lifestyle that is open to and welcoming towards outsiders, its lifestyle and indeed its existence become both a practical embodiment and a proclamation of the Good News,[^cf27] which is practically irresistible to those who are seeking.
 
 #### A believing community ####
 
-A believing community reflects its evangelistic function through being a believing community *and* a community of believers.
+A messianic community reflects its evangelistic function through being both a *believing community*and a *community of believers*:
 
--	Messianic Communities are bound together by a shared trusting faithfulness towards the Messiah: expressing confidence in what God has done through him and faithfully responding to our corporate, messianic vocation.
+-	Messianic communities are bound together by a shared trusting faithfulness towards the Messiah: expressing confidence in what God has done through him and faithfully responding to our corporate, messianic vocation.
 
--	Sharing our *daily bread* with others represents a form of *proclaiming the Messiah*, as our hospitality proclaims (announces; demonstrates) his victory over self-centred living.
+-	Sharing our daily bread with others represents a form of *proclaiming the Messiah*, as our hospitality proclaims (announces, demonstrates) his victory over self-centred living.
 
 ### One community, two roles ###
 
@@ -669,11 +672,11 @@ Note
 
 It is the responsibility of those commissioned as pastors and evangelists to equip *the whole community* to express its pastoral and evangelistic nature. This is a leadership role, not a management role.
 
--	Pastors are not *called* for the purpose of continuous, comprehensive upholding every family and community member, through pastoral support (an impossible task!). 
+-	Pastors are not *called* to the  continuous and comprehensive upholding of each and every every family and community member, through pastoral support (an impossible task!). 
 
-- Nor are evangelists solely responsible for reaching people outside the community (though both may do these things, at times).
+-	Nor are evangelists solely responsible for reaching people outside the community.
 
--	What they are called to be is inspirers, facilitators, catalysts and equippers, whereby a *whole community* learns to mutually support one another—with hospitality and pastoral care—*and* to evangelise those outside the Messianic Community.
+-	What both pastors and evangelists are called to be is inspirers, facilitators, catalysts and equippers, whereby a *whole community* learns to mutually support one another—with hospitality and pastoral care—*and* to evangelise those outside the messianic community.
 
 ### Summary: Discipling into allegiance ###
 
@@ -681,7 +684,7 @@ It is the responsibility of those commissioned as pastors and evangelists to equ
 
 > **Discipling people into faithful allegiance to God's Messiah, by facilitating and encouraging deep, lasting spiritual and practical expressions of faithfulness and loyalty, in homes, workplaces and communal arenas** ([](#dia)).
 
-![Discipling into allegiance](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/disciplingallegiance.png "Discipling into allegiance" height=125px)
+![Discipling into allegiance](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/disciplingallegiance.png "Discipling into allegiance")
 
 ### — Option — ⌥ ###
 
@@ -690,21 +693,25 @@ It is the responsibility of those commissioned as pastors and evangelists to equ
 
 ## Teaching and training centres ##
 
-![Teaching and training centres](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/teachingtrainingcentres.png "Teaching and training centres" height=125px)
+![Teaching and training centres](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/teachingtrainingcentres.png "Teaching and training centres")
 
 Teaching and training centres ([](#ttc)) supplement the formation of disciples taking place within [pastoral, evangelistic community] . Their function is to equip mature messianic disciples for vocational service[^cf28]—in two types of contexts: *intra-cultural* and *inter-cultural*.
 
-### Intra cultural contexts ###
+### Intra-cultural contexts ###
 
-Intra-cultural teaching and training equips messianic disciples and communities to live faithfully *within their own culture*, amongst their own people. Typical examples include: bible schools, conferences, seminars, workshops, the purpose of which incorporates:
+Intra-cultural teaching and training equips messianic disciples and communities to live faithfully within their own culture, amongst their own people. 
+
+-	Typical examples include: Bible schools, conferences, seminars, workshops.
 
 -	Researching, understanding, presenting and explaining the content of God's Word, in order to equip disciples with a *messianic worldview*—a way of understanding and relating to the world with a biblical, messianic perspective.
 
 -	Edifying—encouraging, strengthening and correcting—the practices and self-understanding of messianic communities, enabling them to become *pillars and foundations of truth*,[^cf29] in the context of cultures shaped by different spiritual and moral values.
 
-### Intercultural contexts ###
+### Inter-cultural contexts ###
 
-Inter-cultural teaching and training equips disciples to live faithfully amongst people of a different culture. Typical examples include: Scripture translation; language learning; cross-cultural training; missionary trips, the purpose of which incorporates:
+Inter-cultural teaching and training equips disciples to live faithfully amongst people of a different culture. 
+
+-	Typical examples include: Scripture translation, language learning, cross-cultural training, missionary trips. 
 
 -	Preparing and equipping disciples with spiritual confidence and practical resources to undertake *apostolic missionary work* in non-native contexts.
 
@@ -720,11 +727,11 @@ Messianic teachers and trainers are called to prepare mature disciples with an u
 
 ### Summary: Equipping with truth ###
 
-The characteristic role of messianic teaching and training centres is to supplement the formation of disciples, taking place within pastoral, evangelistic communities, by:
+The characteristic role of messianic teaching and training centres is to supplement the formation of disciples taking place within pastoral, evangelistic communities, by:
 
 > **Equipping mature disciples with biblical truth, enabling them to fulfil personal, vocational callings, in a manner that expresses faithful allegiance to the Messiah, in a range of cultural contexts** ([](#ewt)).
 
-![Equipping with truth](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/equippingtruth.png "Equipping with truth" height=125px)
+![Equipping with truth](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/equippingtruth.png "Equipping with truth")
 
 ### — Option — ⌥ ###
 
@@ -733,25 +740,25 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 ## Apostolic missionary teams ##
 
-![Apostolic Missionary Teams](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/apostolicmissionaryteams.png "Apostolic missionary teams" height=125px)
+![Apostolic missionary teams](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/apostolicmissionaryteams.png "Apostolic missionary teams")
 
 The function of apostles and apostolic, missionary teams ([](#amt)) is highlighted by two significant metaphors: *ambassador* and *master-builder*.
 
 ### Ambassador ###
 
-International ambassadors are accredited diplomats, or emissaries, sent by a country as its official representative to a foreign country. Paul uses this concept to describe the apostolic missionary role.
+International ambassadors are accredited diplomats, or emissaries, sent by a country as its official representatives to a foreign country. Paul uses this concept to describe the apostolic missionary role.
 
 -	Apostolic missionaries are sent by God, to represent him and his message, amongst people of other nations or cultures. Paul refers to this responsibility as being *ambassadors of the Messiah*.[^cf31]
 
 -	Living and working inter-culturally, in non-native contexts, places significant additional demands upon workers, because of differences encountered in a whole range of experiences, including:
 
-	-	Language, climate and food;
-	-	Political, economic and bureaucratic systems; 
-	-	Customs, social expectations and religious sensibilities.
+	-	language, climate and food;
+	-	political, economic and bureaucratic systems; 
+	-	customs, social expectations and religious sensibilities.
 
 ### Master-builder ###
 
-Paul also compares the apostolic missionary role to that of a *skilful architect and master builder, laying a Messianic foundation*.[^cf32] Architects and master-builders are responsible for both designing buildings and supervising the completion of the construction, following which they hand over responsibility for the building to others.
+Paul also compares the apostolic missionary role to that of a *skilful architect and master-builder, laying a Messianic foundation*.[^cf32] Architects and master-builders are responsible for both designing buildings and supervising the completion of the construction, following which they hand over responsibility for the building to others.
 
 -	Apostolic missionary teams cross geographical and cultural boundaries in order to pioneer the formation and establishment of [pastoral, evangelistic communities][pastoral, evangelistic community] and messianic [teaching and training centres]—particularly amongst people and places where there are no gospel communities. 
 
@@ -763,17 +770,17 @@ Through these *pioneering* roles, of ambassador and architect, apostles lay a fo
 
 Yet Paul, as one who experienced many trials and tribulations in his apostolic work,[^cf34] identifies his apostolic, missionary service with being *put on display at the end of the procession*.[^cf35] 
 
--	Paul is referring to the apostolic missionaries need to face and persevere in the presence of all kinds of difficult challenges—including embracing humiliation where necessary, for the furtherance of the message of the Messiah.
+-	Paul is referring to the apostolic missionaries’ need to face and to persevere in the presence of all kinds of difficult challenges—including embracing humiliation where necessary, for the furtherance of the message of the Messiah.
 
 -	Through such sacrificial dedication, endurance of suffering, embrace of humility and deep-seated reliance upon the power of the Holy Spirit, apostolic workers represent a profound example to the whole Messianic Community, of our *shared calling* to faithful missional service.
 
-### Summary: Pioneering in power ###
+### Summary: Pioneering with power ###
 
 The characteristic role of *apostolic missionary teams* is to lay a messianic foundation, by: 
 
-> **Skilfully, resolutely, purposefully, sacrificially pioneering in the power of the Spirit, planting and establishing pastoral, evangelistic communities and teaching and training centres, in new geographical and cultural contexts** ([](#pwp)).
+> **Skilfully, resolutely, purposefully, sacrificially pioneering in the power of the Spirit: planting and establishing both pastoral, evangelistic communities and teaching and training centres, in new geographical and cultural contexts** ([](#pwp)).
 
-![Pioneering With Power](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/pioneeringpower.png "Pioneering With Power" height=125px)
+![Pioneering with power](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/pioneeringpower.png "Pioneering with power")
 
 ### — Option — ⌥ ###
 
@@ -788,7 +795,7 @@ In his letter to the Ephesians,[^cf36] Paul describes five special leadership gi
 
 At the centre of the [trialogue][Introducing the trialogue] is a space where the three principal structures overlap. I believe this central space can be understood and identified as representing the *prophetic heart* of messianic community—as illustrated in [](#pr).
 
-![Prophetic Role](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/propheticpriestlymediatoryrole.png height=220px)
+![Prophetic Role](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/propheticpriestlymediatoryrole.png)
 
 The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central—even though it functions in a relatively hidden, non-structural manner.
 
@@ -810,7 +817,7 @@ Priestly mediation involves *speaking with God, on behalf of human beings*, base
 
 Prophetic mediation involves *speaking with human beings, on behalf of God*, based upon a particular capacity and responsibility for *hearing what the Spirit is saying to the Messianic Community*.
 
--	Providing discernment, direction and insight—when messianic communities are embracing the challenges and responsibilities of particular contexts and historical events;
+-	Providing discernment, direction and insight—when messianic communities are embracing the challenges and responsibilities of particular contexts and historical events.
 
 -	Providing exhortation, clarification and even rebuke—when messianic communities are failing in their vocational calling to serve God's purposes. 
 
@@ -818,22 +825,22 @@ Prophetic mediation involves *speaking with human beings, on behalf of God*, bas
 
 The prophetic role may also be referred to as *hearing God's heartbeat*.[^cf41] This idea communicates the spiritual intimacy that enables prophets to:
 
--	Walk sufficiently closely with God to discern the thoughts, feelings and intentions upon his heart;
+-	walk sufficiently closely with God to discern the thoughts, feelings and intentions upon his heart;
 
--	Share in the intercessory ministry of the Spirit;
+-	share in the intercessory ministry of the Spirit;
 
--	Discern and share God's *kairos[^cf42]* word for a particular context.
+-	discern and share God's *kairos[^cf42]* word for a particular context.
 
 Note
 : 	*Those gifted to walk prophetically with God are often sensitive personalities and may well be poets, artists, writers, visionaries or other kinds of  imaginative, inventive or creative individuals*.
 
 ### Summary: Picking up God's heartbeat ###
 
-The prophetic role is easily overlooked or misunderstood, because of its relatively obscure, non-structural mode of functioning. It is essentially a mediatory role, requiring a sensitive, intimate, faithful walk with God that enables prophets to
+The prophetic role is easily overlooked or misunderstood, because of its relatively obscure, non-structural mode of functioning. It is essentially a mediatory role, requiring a sensitive, intimate, faithful walk with God that enables prophets to:
 
 > **Pick up God's heartbeat for the peoples of the world, interceding with the Spirit for the purposes of God and hearing and conveying what he is saying to the messianic community—especially during times of historical crisis and vocational opportunity** ([](#pgh)).
 
-![Picking up God's heartbeat](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/prayerrole.png height=220px)
+![Picking up God's heartbeat](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/prayerrole.png)
 
 ### — Option — ⌥ ###
 
@@ -846,7 +853,7 @@ Having explored separately the foundational messianic structures, this final sec
 
 ### Structures and strategies ###
 
-[*The Strategies of Messianic Community*] illustrated and explored five foundational strategies—pray, reach, disciple, teach, send—that correspond closely with the foundational structures, explored in this study, as displayed in [](#table1).
+[*The Strategies of Messianic Community*] illustrated and explored five foundational strategies—pray, reach, disciple, teach, send—that correspond closely with the foundational structures explored in this study, as displayed in [](#table1).
 
 [Messianic structure, strategy and function][table1]
 |**Strategy**|**Messianic structure**|**Function**|
@@ -870,7 +877,7 @@ Ephesians 2:19b-22
 
 Some of the dynamic interactions suggested by such an integrated, holy movement are illustrated in [](#si) and tabulated in [](#table2).
 
-![Structural interactions](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/structuralinteractions.png height=175px)
+![Structural interactions](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/structuralinteractions.png)
 
 [Structural interactions][table2]
 |**Structure**|**Dynamic**|**Structure**|
@@ -896,15 +903,15 @@ Some of the dynamic interactions suggested by such an integrated, holy movement 
 
 ## Summary [summary-structures] ##
 
-This concludes the study, *The Structures of Messianic Community*, which examined the foundational structures of messianic community, including their relation to
+This concludes the study, *The Structures of Messianic Community*, which examined the foundational structures of messianic community, including their relation to:
 
--	The five foundational gifts (pastor, evangelist, teacher, apostle and prophet);
+-	the five foundational gifts (pastor, evangelist, teacher, apostle and prophet);
 
--	The five foundational strategies (pray, reach, disciple, teach, send).
+-	the five foundational strategies (pray, reach, disciple, teach, send).
 
 The study revealed that:
 
-> **The messianic community has a God-ordained structure that uniquely equips it to fulfil the messianic commission**
+> **The messianic community has a God-ordained structure that uniquely equips it to fulfil the messianic commission.**
 
 ## Discussions [structures] ##
 
@@ -926,7 +933,7 @@ Related to [*Teaching and training centres*]
 
 > **Discuss how particular encounters with teaching or training have impacted your life**.
 
--	Why is it necessary to teach and train members of the Messianic Community?
+-	Why is it necessary to teach and train members of the messianic community?
 
 -	How are you passing on your experience and knowledge to others?
 
@@ -952,9 +959,9 @@ Related to [*Prophets, priests, mediators*]
 
 ### Whole body working together ###
 
-*Questions associated with [Structures and strategies]*. 
+Related to [*Structural interaction*]. 
 
-> **Discuss practical examples, either from scripture or personal experience, of the dynamic interactions illustrated in [](#dia)**
+> **Discuss practical examples, either from Scripture or personal experience, of the dynamic interactions illustrated in [](#dia)**
 
 - Which structural dynamic is most critical? Why?
 
@@ -970,14 +977,14 @@ Related to [*Prophets, priests, mediators*]
 
 ### Topics ###
 
-This Study compares and contrasts three forms of natural *reproduction* with the *expansion of disciple-forming movements*.
+This study compares and contrasts three examples of organic and organisational *reproduction* with the organised *expansion of disciple-forming movements*.
 
 1. [Honey bees] 
 2. [Maize plant] 
 3. [Commercial organisations] 
 4. [Missional movements] 
 
-### Phrases ###
+### Terms ###
 
 Increase
 : refers to numerical growth
@@ -990,7 +997,7 @@ Expansion
 Read these passages aloud together:
 
 Note
-:	Observe how each passage summarises a significant period of activity, during which early Messianic communities established a missional movement of disciples.
+:	Observe how each passage summarises a significant period of activity, during which early messianic communities established a missional movement of disciples.
 
 -	Acts 2:42-47
 -	Acts 6:7
@@ -1005,7 +1012,7 @@ Acts 1:8
 :	But you shall receive power—ability, efficiency and might—when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and all Judea and Samaria and to the ends—the very bounds—of the earth!
 
 Acts 9.31
-: 	The Messianic community throughout Judea and Galilee and Samaria enjoyed peace and was built up. They lived in the fear of the Lord, with the counsel of the Holy Spirit; and their numbers kept multiplying
+: 	The Messianic community throughout Judea and Galilee and Samaria enjoyed peace and was built up. They lived in the fear of the Lord, with the counsel of the Holy Spirit; and their numbers kept multiplying.
 
 ## Honey bees ##
 
@@ -1015,7 +1022,7 @@ A bee colony is a kind of *collective organism*, because individual bees cannot 
 - a few thousand fertile male *drone bees*
 - several thousand non-fertile female *worker bees*
 
-![A swarm of bees](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/swarm.png "A swarm of bees" height=150px)
+![A swarm of bees](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/swarm.png)
 
 ### Increase ###
 
@@ -1050,7 +1057,7 @@ Thus, we observe the following characteristics of honey bees:
 
 The maize plant is a rapidly-reproducing cereal crop, with a leafy stalk, typically growing two or more metres high ([](#mp-fig)).
 
-![Maize plant](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/mp-diagram.png "Maize plant" height=200px)
+![Maize plant](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/mp-diagram.png)
 
 ### Increase ###
 
@@ -1083,13 +1090,13 @@ Thus, we observe the following characteristics of maize plants:
 
 ## Commercial organisations ##
 
-Commercial, business organisations (including most charitable enterprises) seek to achieve *economic growth*, using profit and loss accounts as the primary indicator of success and failure, respectively. 
+Commercial, business organisations (including most charitable enterprises) seek to achieve *economic growth*, using profit and loss accounts as the primary indicator of success and failure. 
 
 A large corporation, such as a mineral company, can often grow to employ hundreds of thousands of people, in multiple offices, in many different countries, with a budget larger than some nations.
 
 ### Increase ###
 
-![Organisational growth](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/organisation.png "Organisational growth, by duplication" height=150px)
+![Organisational growth](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/organisation.png)
 
 Organisational growth typically happens by a process of *duplication*, which essentially reproduces, in a new location, a *copy* of an existing, successful model. The aim is to build upon the proven characteristics of the original concept, in order to increase production and to establish a recognisable brand.
 
@@ -1126,13 +1133,13 @@ A missional movement
 
 ### Increase ###
 
-Missional movements grow through the forming of disciples who make disciples, who make disciples (see [The Commissioning of Messianic Community] and [The Structures of Messianic Community].
+Missional movements grow through the forming of disciples who make disciples, who make disciples (see [*The Commissioning of Messianic Community*] and [*The Structures of Messianic Community*].
 
 Disciples do more than simply *believe* in missional values: they *embody* core beliefs and values by realigning their lives, in order to affect their own contexts and futures — including making disciples...who make disciples...who make disciples and so on.
 
 ### Reproduction ###
 
-Within missional movements, as in nature, not all reproduction succeeds. Some individuals and groups fail to mature. Others reach maturity, but don't reproduce. Some start slowly, others rapidly. Some groups evolve a different sense of identity, purpose or form to their originating contexts. 
+Within missional movements, as in nature, not all reproduction succeeds. Some individuals and groups fail to mature. Others reach maturity, but don't reproduce. Some start slowly, others rapidly. Some groups evolve a different sense of identity, purpose or form to that of their originating contexts. 
 
 ### Expansion ###
 
@@ -1143,9 +1150,9 @@ Ultimately, the Holy Spirit is responsible for governing the wild, haphazard gro
 
 -	It is the Holy Spirit who is able to direct how and where to establish our efforts and energies.[^cf43]
 
--	It is the Holy Spirit who takes hold of a community, implanting a missional vision, larger than any individual or single organisation.
+-	It is the Holy Spirit who takes hold of a community, implanting a missional vision larger than that of any individual or single organisation.
 
-Throughout the world, within every people group, wherever willing hearts and available hands are found, the Holy Spirit is working to establish a community that manifests God's heart. The dynamics and disciplines that we are studying in this syllabus illustrate and demonstrate how he works amongst us, moving us onwards, towards this goal.
+Throughout the world, within every people group, wherever willing hearts and available hands are found, the Holy Spirit is working to establish a community that manifests God's heart. The dynamics and disciplines that we are studying in this syllabus illustrate and demonstrate how he works amongst us, moving us onwards towards this goal.
 
 ### Summary ###
 
@@ -1164,11 +1171,11 @@ Thus, we observe the following characteristics of *missional, discipling movemen
 
 ## Summary [summary-expansion] ##
 
-This concludes the study, [*The expansion of Messianic Community*], which explored various kinds of reproduction, in order to compare and contrast them with the expansion of messianic, discipleship movements. 
+This concludes the study, [*The Expansion of Messianic Community*], which explored three examples of either organic or organisational reproduction, in order to compare and contrast them with the organised expansion of messianic, discipleship movements. 
 
-The study highlighted characteristics associated with the growth, reproduction, relocation, harvest and risks of swarming bees, maize plants, commercial organisations and missional movements. In summary, the Study explored how:
+The study highlighted characteristics associated with the growth, reproduction, relocation, harvest and risks of swarming bees, maize plants, commercial organisations and missional movements. In summary, the study explored how:
 
-> **The messianic community is intended to be a rapidly multiplying movement of disciples, constantly expanding into all the world, in order to bless the peoples of the world**
+> **The Messianic Community is intended to be a rapidly multiplying movement of disciples, constantly expanding into all the world, in order to bless the peoples of the world.**
 
 ## Discussions [expansion] ##
 
@@ -1211,13 +1218,13 @@ Related to [*Missional movements*]
 
 # Information #
 
-You have completed *Module 4: The Dynamic of Commissioning*.
+You have completed *Module 4: Dynamics of Commissioning*.
 
 > **Well done!**
 
 ## Maize Plant Concept ##
 
-![Maize plant metaphor](https://raw.github.com/johnbrc/MPD-Distribution/master/content/modules/M4/maize-plant-metaphor.png height=400px)
+![Maize plant metaphor](https://raw.github.com/johnbrc/MPD-Distribution/master/content/MPD-M4/maize-plant-metaphor.png)
 
 The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect the metaphor of a maize plant (see [](#mpm)), whereby:
 
@@ -1227,7 +1234,7 @@ The *Maize Plant Discipleship Syllabus* is structured to symbolically reflect th
 
 -	**Sunlight and rainfall** represent essential spiritual *disciplines* that fuel the growth of messianic community.
 
-Representing messianic community with maize reminds us that the Messianic Community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
+Using maize to represent the messianic community reminds us that we are called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (read John 6 & 20:21).
 
 ## Maize Plant Discipleship Syllabus ##
 
@@ -1254,25 +1261,25 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules, with a cor
 
 Maize Plant Discipleship handbooks are primarily intended to facilitate group learning and discussion, based upon a series of scripture readings and topical studies. 
 
--	Each handbook, or module, incorporates four interrelated *Studies*.
+-	Each handbook, or module, incorporates four interrelated studies.
 
 -	Each study incorporates: a précis; scripture readings; three to five topical sections and a summary.
 
--	Each study has a corresponding set of questions to facilitate group discussions, either topic-by-topic (section-by-section), or when the entire study (chapter) is completed.
+-	Each study has a corresponding set of questions to facilitate group discussions, either topic-by-topic (section-by-section), or when the entire study is completed.
 
-Accordingly, Maize Plant Discipleship resources don't rely upon the presence of a qualified leader, teacher, or theologian—but rather upon facilitators willing to co-ordinate study groups and discussions — see [][Facilitating discipleship].
+Accordingly, Maize Plant Discipleship resources don't rely upon the presence of a qualified leader, teacher, or theologian—only upon facilitators willing to co-ordinate study groups and discussions.
 
 ## Facilitating discipleship ##
 
-The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on appropriately facilitating discipleship study and discussion groups, as well as valuable information about the origin and background of Maize Plant Discipleship. It is available from the same source as this booklet — see [][Further information].
+The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on appropriately facilitating discipleship study and discussion groups, as well as valuable information about the origin and background of Maize Plant Discipleship. It is available from the same source as this booklet.
 
 ## Further information ##
 
 Additional information about *Maize Plant Discipleship* is available via the following websites:
 
--	**Resources** <http://maizeplantdiscipleship.wordpress.com/>
+-	**Resources** 
 
--	**Author** <http://jbclements.wordpress.com/>
+-	**Author** 
 
 [^cf1]: ⌘ *Missio Dei*---an increasingly widespread theological concept; broadly equivalent with *God's eternal purpose* (Module 1).
 
@@ -1290,7 +1297,7 @@ The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on app
 
 [^cf8]: ⌘ Modules 10-16 explore the disciplines, hardships and suffering required, as disciples of the Messiah progress in their calling to serve God's eternal purpose.
 
-[^cf9]: ⌘ See modules 1-3, incorporating *The Eternal Purpose of God* and *Dynamics of Vocation*.
+[^cf9]: ⌘ See Modules 1-3, incorporating *The Eternal Purpose of God* and *Dynamics of Vocation*.
 
 [^cf10]: Matthew 22:1-14
 
@@ -1312,19 +1319,17 @@ The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on app
 
 [^cf19]: Matthew 16:3; see also 1 Chronicles 12:32
 
-[^cf20]: ⌘ We may think of culture as including the *activities, institutions, knowledge, traditions, values and motivations and thought-processes* of a particular nation or people group.
+[^cf20]: ⌘ We may think of culture as including the *activities, institutions, knowledge, traditions, values, motivations and thought-processes* of a particular nation or people group.
 
 [^cf21]: Philippians 2:16
 
 [^cf22]: See Acts 13:1-4, for an example of the Messianic Community and the Holy Spirit acting in harmony together, in sending Paul and Barnabas on a missionary journey.
 
-[^cf23]: From NIV and CJB combined.
-
-[^cf24]: ⌘ In English, *hospital, health* and *healing* share the same root meaning, which is related to wholeness and well-being.
+[^cf23]: From AMP and CJB combined.
 
 [^cf25]: ⌘ The first five books of the Bible, accredited to Moses and forming the covenantal foundation of the nation of Israel.
 
-[^cf26]: Colossians 4:6
+[^cf26]: Colossians 4:6; Philippians 2:4
 
 [^cf27]: 1 Peter 2:12
 
@@ -1348,7 +1353,7 @@ The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on app
 
 [^cf37]: 1 Corinthians 12:27-31
 
-[^cf38]: James 5:13-19; Psalm 24:3-4; also *Module 8: The Dynamic of Intercession*.
+[^cf38]: James 5:13-20; Psalm 24:3-4; also *Module 8: The Dynamic of Intercession*.
 
 [^cf39]: Romans 8:26-27
 
@@ -1356,6 +1361,6 @@ The *Maize Plant Discipleship Facilitators' Handbook* includes guidelines on app
 
 [^cf41]: See *Module 8: The Dynamic of Intercession*.
 
-[^cf42]: ⌘ *Kairos* is a Greek word, referring to a particularly opportune, favourable, suitable or appropriate moment---e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:3; Acts 1:6-7; 1 Timothy 2:6; it contrasts with *chronos*, referring to fixed, measurable units of time.
+[^cf42]: ⌘ *Kairos* is a Greek word, referring to a particularly opportune, favourable, suitable or appropriate moment---e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:3-4; Acts 1:6-7; 1 Timothy 2:6; it contrasts with *chronos*, referring to fixed, measurable units of time.
 
 [^cf43]: ⌘ Witness the role of the Holy Spirit, throughout *Acts* (see Scripture readings, [][Scripture-expansion])
