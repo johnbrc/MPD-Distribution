@@ -3,7 +3,7 @@
 *MPD Resource* is designed for publication as a series of low-cost handbooks. The intention is to also make content available in a variety of digital formats that facilitate widespread accessibility. The resource incorporates the following:
 
 -	[Facilitators' Handbook](MPD-HB/MPD-HB.md)
-- 	Sixteen [Module Handbooks](syllabus.md)
+- 	Sixteen [Module Handbooks](MPD_syllabus.md)
 
 Each module is made available as a range of [Read-Only Files] files and a single [Editable Source File], named as per this convention:
 

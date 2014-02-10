@@ -13,7 +13,7 @@ LaTeX Mode:	memoir
 LaTex input:	mpd-textbook-document
 LaTex footer:	mpd-textbook-footer
 
-# In this Handbook #
+# In this Handbook
 
 This *Facilitators' Handbook* provides guidelines for people facilitating *Maize Plant Discipleship*:
 
@@ -29,7 +29,7 @@ This *Facilitators' Handbook* provides guidelines for people facilitating *Maize
 
 -	[**Publishing MPD**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and economics.
 
-# Discipleship and MPD #
+# Discipleship and MPD
 
 > Go and make people from all nations into disciples, immersing them into the reality of the Father, the Son and the Holy Spirit and teaching them to obey everything that I commanded you---*Jesus, Matthew 28:19-20*
 
@@ -37,7 +37,7 @@ This *Facilitators' Handbook* provides guidelines for people facilitating *Maize
 
 > Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
 
-## What is discipleship? ##
+## What is discipleship?
 
 **Messianic discipleship is a dynamic, generational process, empowered by the Holy Spirit**. 
 
@@ -491,17 +491,17 @@ In fellowship with others, we learn to open our hearts to the perspectives and e
 
 The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.
 
-**Invite free-moving debate relating to the study topic**. 
+-	**Invite free-moving debate relating to the study topic**. 
 
-> Ensure women and both young and old people are included. Allow discussions to ebb and flow, as people to consider their responses and return to earlier parts of the debate *(see also: [Facilitating openness])*. 
+	Ensure women and both young and old people are included. Allow discussions to ebb and flow, as people to consider their responses and return to earlier parts of the debate *(see also: [Facilitating openness])*. 
 
-**Discuss traditional proverbs that relate to study topics**. 
+-	**Discuss traditional proverbs that relate to study topics**. 
 
-> Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide opportunities to discuss aspects of the teaching with elders and others, outside of the gathered group, including non-believers.
+	Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide opportunities to discuss aspects of the teaching with elders and others, outside of the gathered group, including non-believers.
 
-**Discuss practical, vocational applications of the topical study**. 
+-	**Discuss practical, vocational applications of the topical study**. 
 
-> Vocation is more than simply our job, or employment: it incorporates all the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
+	Vocation is more than simply our job, or employment: it incorporates all the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
 
 
 ----
@@ -842,7 +842,7 @@ John is married to Sarah; they have three boys and one girl and presently live i
 
 [receive.png]: receive.png width=120px height=123px
 
-[open.png]: open.png width=119px height=122px
+[open.png]: open.png width=119px height=121px
 
 [share.png]: share.png width=119px height=120px
 
