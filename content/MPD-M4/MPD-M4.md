@@ -1,4 +1,4 @@
-Version: 	3.0 --- Pre-Design Draft
+Version: 	0.3.1 --- Pre-Design Draft
 Change:	— Pre-processing (Post-Editorially, pre-In-Design) —
 LaTex input:	mpd-textbook-header
 Title:	MPD-M4
@@ -31,9 +31,9 @@ LaTex footer:	mpd-textbook-footer
 
 ### Terms
 
-**Commission** :
--	*To charge with responsibility* for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*);
--	*To grant authority* to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
+**Commission** 
+:	*To charge with responsibility* for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*)
+:	*To grant authority* to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
 
 ### Scripture
 
@@ -44,7 +44,7 @@ Read these passages aloud together.
 -	Galatians 1:1
 -	Colossians 1:25
 
-Memorise these two passages, in time for your next meeting.
+Memorise the following passages, in time for your next meeting.
 
 Matthew 22:14
 :	For many are called (invited and summoned), but few are chosen
@@ -243,7 +243,7 @@ Read these passages aloud together.
 -	Hebrews 5:11-14
 
 
-Memorise these two passages, in time for your next meeting:
+Memorise the following passages, in time for your next meeting:
 
 John 20:21
 : Peace to you! (*Shalom, alecheim!*) Just as the Father has sent me forth, so I am sending you.
@@ -490,7 +490,7 @@ As each generation of disciples follow these strategies, a cyclical process ([](
 
 ![The strategic cycle][cycle]
 
-[cycle]:	commissioncycle.png
+[cycle]:	commissioncycle.png width=200px
 
 ## Discussions [strategy]
 
@@ -584,7 +584,7 @@ Read these passages aloud together:
 -	Acts 13:1-4
 -	Acts 19:8-11
 
-Memorise these two passages, in time for your next meeting:
+Memorise the following passages, in time for your next meeting:
 
 Hebrews 8:5
 :	But what they are serving is only a copy and shadow of the heavenly original; for when Moses was about to erect the Tent, God warned him: *See to it that you make everything according to the pattern you were shown on the mountain*
@@ -602,7 +602,7 @@ A *trialogue* comprises three overlapping circles. It is used to illustrate a dy
 
 ![Foundational messianic structures][foundational-structures]
 
-[foundational-structures]: foundationalstructures.png
+[foundational-structures]: foundationalstructures.png width=250px
 
 These structures are designed to work together, in combination, as part of regional or national missional movements, serving God's eternal purpose. In the following sections, each structure is explored separately, before considering some of the important outcomes that occur when these structures interact together, in obedience to the Spirit.
 
@@ -610,7 +610,7 @@ These structures are designed to work together, in combination, as part of regio
 
 ![Pastoral, evangelistic community][pec]
 
-[pec]: pastoral-evangelistic-community.png
+[pec]: pastoral-evangelistic-community.png width=125px
 
 Pastoral, evangelistic community has two particular functions:
 
@@ -634,8 +634,7 @@ A celebratory, worshipping community demonstrates the goodness, kindness and pro
 -	The covenantal feasts, prescribed in the *Torah*[^cf25], incorporate prophetic signs, pointing towards both the good things that God has done for his people *and* his call to faithful service. The annual *Passover* is the most significant Hebraic celebration. 
 
 -	The new covenant, inaugurated by Jesus, provides a profound fulfilment of the Passover. The symbolic sharing of bread and wine, representing the body and blood of the Messiah, speaks of the Passover *Lamb of God*, who sacrificed his life to serve God's eternal purpose.	
-
--	Celebrating the Messiah's sacrifice reminds us of the devoted, sacrificial service to which we are called and commissioned, as members of the new-covenant community.
+-	Celebrating the Messiah's sacrifice reminds us of the devoted, sacrificial service to which we are called and commissioned, as members of the messianic community.
 
 ### Evangelistic, proclaiming role
 
@@ -682,7 +681,7 @@ It is the responsibility of those commissioned as pastors and evangelists to equ
 
 ![Discipling into allegiance][dia]
 
-[dia]: disciplingallegiance.png "Discipling into allegiance"
+[dia]: disciplingallegiance.png "Discipling into allegiance"  width=125px
 
 ### OPTION
 
@@ -693,7 +692,7 @@ It is the responsibility of those commissioned as pastors and evangelists to equ
 
 ![Teaching and training centres][ttc]
 
-[ttc]: teachingtrainingcentres.png "Teaching and training centres"
+[ttc]: teachingtrainingcentres.png "Teaching and training centres"  width=125px
 
 Teaching and training centres supplement the formation of disciples taking place within [pastoral, evangelistic community] . Their function is to equip mature messianic disciples for vocational service[^cf28]—in two types of contexts: *intra-cultural* and *inter-cultural*.
 
@@ -735,7 +734,7 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 ![Equipping with truth][ewt]
 
-[ewt]: equippingtruth.png "Equipping with truth"
+[ewt]: equippingtruth.png "Equipping with truth"  width=125px
 
 ### OPTION
 
@@ -746,7 +745,7 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 ![Apostolic missionary teams][amt]
 
-[amt]:	apostolicmissionaryteams.png "Apostolic missionary teams"
+[amt]:	apostolicmissionaryteams.png "Apostolic missionary teams" width=125px
 
 The function of apostles and apostolic, missionary teams ([](#amt)) is highlighted by two significant metaphors: *ambassador* and *master-builder*.
 
@@ -789,7 +788,7 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 
 ![Pioneering with power][pwp]
 
-[pwp]:	pioneeringpower.png "Pioneering with power"
+[pwp]:	pioneeringpower.png "Pioneering with power"  width=125px
 
 ### OPTION
 
@@ -806,11 +805,11 @@ At the centre of the [trialogue][Introducing the trialogue] is a space where the
 
 ![Prophetic Role][pr]
 
-[pr]:	propheticpriestlymediatoryrole.png
+[pr]:	propheticpriestlymediatoryrole.png  width=275px
 
 The idea of a central heart, interacting with and influencing each of the other ministry structures provides a profound metaphor for the prophetic ministry. It confirms that the prophetic role is vital, influential and central—even though it functions in a relatively hidden, non-structural manner.
 
-Interestingly, Paul describes the foundational significance of the prophet as second only to that of the apostle.[^cf37] My observation is that the prophetic role is easily misunderstood, reacted to, dismissed and under-appreciated, perhaps partly because of its somewhat hidden way of functioning.
+Interestingly, Paul describes the foundational significance of the prophet as second only to that of the apostle.[^cf37] My observation is that the prophetic role is easily misunderstood, reacted to, dismissed and under-appreciated, perhaps partly because of its somewhat hidden way of functioning. Yet, when embraced, it has a profound capacity to spearhead deep, spiritual renewal.
 
 ### Dual mediatory role
 
@@ -853,7 +852,7 @@ The prophetic role is easily overlooked or misunderstood, because of its relativ
 
 ![Picking up God's heartbeat][pgh]
 
-[pgh]:	prayerrole.png
+[pgh]:	prayerrole.png  width=250px
 
 ### OPTION
 
@@ -881,18 +880,15 @@ Having explored separately the foundational messianic structures, this final sec
 
 ### Structural interactions
 
-An effective missional, discipleship movement becomes established as divinely-ordained messianic structures learn to function faithfully and interact dynamically with one another, in accordance with God's strategic design and purpose. 
+An effective missional, discipleship movement becomes established as divinely-ordained messianic structures learn to function faithfully and interact dynamically with one another, in accordance with God's strategic design and purpose—as Paul wrote to the Ephesians:
 
-As Paul wrote to the Ephesians:
-
-Ephesians 2:19b-22
-:	You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. In him the whole *structure* is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God.
+> You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. In him the whole *structure* is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God—*Ephesians 2:19b-22*
 
 Some of the dynamic interactions suggested by such an integrated, holy movement are illustrated in [](#si) and tabulated in [](#table2).
 
 ![Structural interactions][si]
 
-[si]: structuralinteractions.png
+[si]: structuralinteractions.png width=225px
 
 [Structural interactions][table2]
 |Structure	| Dynamic	| Structure	|  
@@ -1010,7 +1006,7 @@ Read these passages aloud together. *Observe how each passage summarises a signi
 -	Acts 16.5
 -	Acts 19.20
 
-Memorise these two passages, in time for your next meeting:
+Memorise the following passages, in time for your next meeting:
 
 Acts 1:8
 :	But you shall receive power—ability, efficiency and might—when the Holy Spirit has come upon you; and you shall be my witnesses in Jerusalem and all Judea and Samaria and to the ends—the very bounds—of the earth!
@@ -1028,7 +1024,7 @@ A bee colony is a kind of *collective organism*, because individual bees cannot 
 
 ![A swarm of bees][swarm]
 
-[swarm]:	swarm.png
+[swarm]:	swarm.png height=150px
 
 ### Increase
 
@@ -1044,7 +1040,9 @@ Scout bees must swiftly identify a suitable permanent hive location, so the swar
 
 ### Summary: honey bee populations
 
-![](division.png)
+![][ide]
+
+[ide]:	division.png width=200px
 
 -	**Increase** leads to **division** leading to **expansion** 
 
@@ -1069,7 +1067,7 @@ The maize plant is a rapidly-reproducing cereal crop, with a leafy stalk, typica
 
 ![Maize plant][mp-fig]
 
-[mp-fig]:	mp-diagram.png
+[mp-fig]:	mp-diagram.png height=150px
 
 ### Increase
 
@@ -1088,7 +1086,9 @@ Maize plants expand into new areas through redistribution of their seeds. Becaus
 
 ### Summary: maize plants
 
-![](multiplication.png)
+![][ime]
+
+[ime]:	multiplication.png width=200px
 
 -	**Increase** leads to **multiplication** leading to **expansion** 
 
@@ -1114,7 +1114,9 @@ Commercial, business organisations (including most charitable enterprises) seek 
 
 ### Increase
 
-![Organisational growth](organisation.png)
+![Organisational growth][og]
+
+[og]:	organisation.png width=250px
 
 Organisational growth is marked by an increase in commercial measurements such as turnover, profit, employees, management experience, production capacity, market size and share and so on. At some point, most organisations reach a limit to their growth in one or other of these areas. Further growth is (usually) sought by duplicating the number of outlets (shops, offices, factories etc.) owned or managed by the organisation.
 
@@ -1128,7 +1130,9 @@ Regional location, form, speed and costs of expansion are usually determined by 
 
 ### Summary: commercial organisations
 
-![](duplication.png)
+![][idue]
+
+[idue]:	duplication.png width=200px
 
 -	**Increase** leads to **duplication** leading to **expansion**
 
@@ -1174,7 +1178,9 @@ Throughout the world, within every people group, wherever willing hearts and ava
 
 ### Summary: Missional, Discipling Movements
 
-![](reproduction.png)
+![][ire]
+
+[ire]:	reproduction.png width=200px
 
 -	**Increase** leads to **reproduction** leading to **expansion**
 
@@ -1283,10 +1289,12 @@ The *Maize Plant Discipleship Syllabus* incorporates sixteen modules.
 ## Maize Plant Discipleship handbook
 
 Each module contains four interrelated Studies, each of which incorporates:
--	Outline, Term Definitions and ScriptureReadings
+
+-	Outline, Term Definitions and ScriptureReadings
 -	Topical Sections and Summary
 -	Questions for Group Discussion
-The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co- ordinate study groups and discussions
+
+The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co- ordinate study groups and discussions
 
 ## Facilitating discipleship
 
@@ -1300,12 +1308,16 @@ Additional information about Maize Plant Discipleship is available via the proje
 -	@MPDResource
 
 
-##	AuthorDr John B Clements is a missiological educator, having received a doctorate from Fuller Theological Seminary School of Intercultural Studies. John is presently working with a team of other educators and missional practitioners to establish a UK Centre for African Mission (UKCAM).
--	Vita		http://jbclements.wordpress.com
+##	Author
+
+Dr John B Clements is a missiological educator, having received a doctorate from Fuller Theological Seminary School of Intercultural Studies. John is presently working with a team of other educators and missional practitioners to establish a UK Centre for African Mission (UKCAM).
+
+-	Vita		http://jbclements.wordpress.com
 -	Linked-in		http://uk.linkedin.com/in/jbclements
 -	UKCAM		http://ukcafricanmission.wordpress.com
 -	Social 		http://about.me/jbclements
-John is married to Sarah; they have three boys and one girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
+
+John is married to Sarah; they have three boys and one girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
 
 
 [^cf1]: ⌘ *Missio Dei*---an increasingly widespread theological concept; broadly equivalent with *God's eternal purpose* (see MPD-M1).
