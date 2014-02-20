@@ -2,7 +2,7 @@
 
 *Maize Plant Discipleship* (hereafter, MPD) refers to the identity of a teaching, training and educational resource, designed in collaboration with Africans, for use in African contexts.
 
--	MPD resources are especially intended to facilitate group discussions, related to scripture readings and topical studies, so that the learning process is not dependent upon the presence of an expert teacher, but only of people willing to facilitate the co-ordination of small study groups and discussions.
+-	MPD resources are especially intended to facilitate group discussions, related to topical studies and scripture readings, so that the learning process is not dependent upon the presence of an expert teacher, but only of people willing to facilitate the co-ordination of small study groups and discussions.
 
 -	See [MPD Resource website], for further background information, including the research and education philosophy guiding the development of MPD resources.
 
