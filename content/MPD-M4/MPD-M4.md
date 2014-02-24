@@ -1,5 +1,5 @@
 Version: 	0.3.1 --- Pre-Design Draft
-Change:	— Pre-processing (Post-Editorially, pre-In-Design) —
+Change:	Pre-processing -- Post-Editorially, pre-In-Design
 LaTex input:	mpd-textbook-header
 Title:	MPD-M4
 Subtitle:	Dynamics of Commissioning
