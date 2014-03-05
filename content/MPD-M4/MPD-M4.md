@@ -1,5 +1,5 @@
-Version: 	0.3.1 --- Pre-Design Draft
-Change:	Pre-processing -- Post-Editorially, pre-In-Design
+Version: 	0.4.2 --- Publishing Draft (Post-Editorially, pre-In-Design)
+Change:	Replaced ch7 (Information) with ch1 (Using this handbook)
 LaTex input:	mpd-textbook-header
 Title:	MPD-M4
 Subtitle:	Dynamics of Commissioning
@@ -12,6 +12,44 @@ Base Header Level:	2
 LaTeX Mode:	memoir
 LaTex input:	mpd-textbook-document
 LaTex footer:	mpd-textbook-footer
+
+# Using This Handbook
+
+This module explores *God's commissioning* of the Messianic Community, in four inter-related studies:
+
+1.	[The Commissioning of Messianic Community]
+
+-	[The Strategies of Messianic Community]
+
+-	[The Structures of Messianic Community]
+
+-	[The Expansion of Messianic Community]
+
+This module is number 4 of 16 that comprise the *Maize Plant Discipleship Syllabus*:
+
+1.	The Eternal Purpose of God
+-	Dynamics of Vocation, The Nations
+-	Dynamics of Vocation, The Jews
+-	Dynamics of Commissioning
+-	Dynamics of Body Membership
+-	Dynamics of Revival
+-	Dynamics of Truth
+-	Dynamics of Intercession
+-	Dynamics of Cultural Transformation
+-	Disciplines of Spiritual Maturity
+-	Disciplines of Running the Race
+-	Disciplines of Pressing Towards our Vocation
+-	Disciplines of Economic Faithfulness
+-	Disciplines of Messianic Leadership
+- 	Disciplines of Living By Faith
+16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
+
+Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies. Their use does not require expert teachers or theologians: only facilitators willing to co-ordinate small groups of people.
+
+Guidelines on appropriately facilitating study groups and discussions (as well as significant background information) is incorporated in the *Maize Plant Discipleship Facilitators' Handbook*, available from the same source as this handbook. For further information please visit the website:
+
+-	http://maizeplantdiscipleship.wordpress.com/
+
 
 
 # The Commissioning of Messianic Community
@@ -1246,69 +1284,7 @@ The study highlighted characteristics associated with the growth, reproduction, 
 
 -	What are you prepared to invest, what are you prepared to renounce, in order to help the establishment of a discipleship movement?
 
-# Further Information
-
-## Maize Plant Concept
-
-In the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. Grown throughout sub-Saharan Africa, maize provides a similar, highly recognisable symbol of investment, growth, harvest and multiplication. 
-
-The [*Maize Plant Discipleship Syllabus*] uses the metaphor of a maize plant to illustrate its key components ([](#mpm)). 
-
--	**Soil and roots** represent the biblical, covenantal community, context and vocation of Israel;
-
--	**Maize plant** representing the *dynamic* spiritual growth and multiplication of messianic community;
-
--	**Sunlight and rainfall** representing essential spiritual *disciplines* that stimulate and sustain the growth of messianic community.
-
-![Maize plant metaphor][mpm]
-
-[mpm]: maize-plant-metaphor.png
-
-
-## Maize Plant Discipleship Syllabus
-
-The *Maize Plant Discipleship Syllabus* incorporates sixteen modules.
-
-1.	The Eternal Purpose of God
--	Dynamics of Vocation, The Nations
--	Dynamics of Vocation, The Jews
--	Dynamics of Commissioning
--	Dynamics of Body Membership
--	Dynamics of Revival
--	Dynamics of Truth
--	Dynamics of Intercession
--	Dynamics of Cultural Transformation
--	Disciplines of Spiritual Maturity
--	Disciplines of Running the Race
--	Disciplines of Pressing Towards our Vocation
--	Disciplines of Economic Faithfulness
--	Disciplines of Messianic Leadership
--	Disciplines of Living By Faith
-16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
-
-## Maize Plant Discipleship handbook
-
-Each module contains four interrelated Studies, each of which incorporates:
-
--	Outline, Term Definitions and ScriptureReadings
--	Topical Sections and Summary
--	Questions for Group Discussion
-
-The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co- ordinate study groups and discussions
-
-## Facilitating discipleship
-
-The *Maize Plant Discipleship Facilitators Handbook* includes guidelines on appropriately facilitating discipleship study and discussion groups, as well as valuable information about the origin and background of Maize Plant Discipleship. It is available from the same source as this booklet.
-
-## Further information
-
-Additional information about Maize Plant Discipleship is available via the project website or Twitter feed:
-
--	http://maizeplantdiscipleship.wordpress.com/
--	@MPDResource
-
-
-##	Author
+#	Author
 
 Dr John B Clements is a missiological educator, having received a doctorate from Fuller Theological Seminary School of Intercultural Studies. John is presently working with a team of other educators and missional practitioners to establish a UK Centre for African Mission (UKCAM).
 
@@ -1317,8 +1293,7 @@ Dr John B Clements is a missiological educator, having received a doctorate from
 -	UKCAM		http://ukcafricanmission.wordpress.com
 -	Social 		http://about.me/jbclements
 
-John is married to Sarah; they have three boys and one girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
-
+John is married to Sarah; they have three boys and one girl and, since 2002, have lived in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
 
 [^cf1]: ⌘ *Missio Dei*---an increasingly widespread theological concept; broadly equivalent with *God's eternal purpose* (see MPD-M1).
 
