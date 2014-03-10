@@ -1,4 +1,4 @@
-Version: 	0.4.2 --- Publishing Draft (Post-Editorially, pre-In-Design)
+Version: 	0.4.3 --- Publishing Draft
 Change:	Replaced ch7 (Information) with ch1 (Using this handbook)
 LaTex input:	mpd-textbook-header
 Title:	MPD-M4
@@ -25,6 +25,12 @@ This module explores *God's commissioning* of the Messianic Community, in four i
 
 -	[The Expansion of Messianic Community]
 
+Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies. Their use does not require expert teachers or theologians: only facilitators willing to co-ordinate small groups of people.
+
+Guidelines on appropriately facilitating study groups and discussions (as well as significant background information) is incorporated in the *Maize Plant Discipleship Facilitators' Handbook*, available from the same source as this handbook. For further information please visit the website:
+
+-	http://maizeplantdiscipleship.wordpress.com/
+
 This module is number 4 of 16 that comprise the *Maize Plant Discipleship Syllabus*:
 
 1.	The Eternal Purpose of God
@@ -43,12 +49,6 @@ This module is number 4 of 16 that comprise the *Maize Plant Discipleship Syllab
 -	Disciplines of Messianic Leadership
 - 	Disciplines of Living By Faith
 16.	Disciplines of Overcoming in the Arena of Spiritual Conflict
-
-Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies. Their use does not require expert teachers or theologians: only facilitators willing to co-ordinate small groups of people.
-
-Guidelines on appropriately facilitating study groups and discussions (as well as significant background information) is incorporated in the *Maize Plant Discipleship Facilitators' Handbook*, available from the same source as this handbook. For further information please visit the website:
-
--	http://maizeplantdiscipleship.wordpress.com/
 
 
 
@@ -210,7 +210,7 @@ This concludes the study, *The Commissioning of Messianic Community*, which:
 
 In summary, the study revealed that
 
-> **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission as a community of disciples, called, equipped and chosen to serve God's eternal purpose.**
+> **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission: as a community of disciples, called, equipped and chosen to serve God's eternal purpose.**
 
 ## Discussions [commissioning]
 
