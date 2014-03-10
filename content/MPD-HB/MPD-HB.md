@@ -1,12 +1,6 @@
-Version: 0.2.6 --- Reviewer's draft
-Change: --- Review distribution ---
-Scripture citations
-ch 5 re-ordered 
-learning cycle: gather-->hear
-clipped facilitating multiplication
-conflated chs 6 & 7
-(null): 
-(null): 
+Version: 0.2.3 --- Post Review Draft
+Change: --- Post Review Draft (0.2.0) ---
+--- Author's ammendments (0.2.x) ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -22,9 +16,15 @@ LaTex footer:	mpd-textbook-footer
 
 # In this Handbook #
 
-This *Facilitators' Handbook* provides guidelines for people facilitating group exploration, study  and discussion, using *Maize Plant Discipleship* resources.
+Maize Plant Discipleship has been designed in consultation with missional leaders and learners in Burkina Faso, to be a practical, relevant and accessible learning resource, appropriate for use in African contexts.
 
--	[**Discipleship and MPD**][] explores biblical and missional perspectives of Christian discipleship.
+It is being published as a series of low-cost, short, modular textbooks that incorporate reflective learning and group discussions, suitable for formal and informal modes of study.
+
+It's goal is to facilitate biblical learning that moves constantly outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
+
+This *Facilitators' Handbook* provides guidelines for people facilitating *Maize Plant Discipleship*. 
+
+-	[**Discipleship and MPD**][] explores biblical and missional perspectives of Messianic discipleship.
 
 -	[**Africa and MPD**][] explains the background to the development of Maize Plant Discipleship as a resource for use in African contexts.
 
@@ -32,7 +32,7 @@ This *Facilitators' Handbook* provides guidelines for people facilitating group 
 
 -	[**Facilitating MPD**][] provides practical insights and suggestions for facilitating group learning.
 
--	[**Publishing MPD**] examines practical issues relating to publication, including: licensing, translation, printing, distribution and economics.
+-	[**Publishing MPD**] examines practical issues relating to publication, including licensing, translation, printing and distribution.
 
 # Discipleship and MPD #
 
@@ -40,13 +40,13 @@ This *Facilitators' Handbook* provides guidelines for people facilitating group 
 
 ---
 
-> Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. However, all church members are not disciples, yet the very objective is to make every believer a disciple. A mere believer is far from a disciple---*Burkinabé Pastor D. Ayoro, 2010, cited in Clements, 2013*
+> Discipleship is the process of making disciples who themselves will also make other disciples. In a family where there is no birth there will be no continuity, so a church without disciples will not live for a long time. However, all church members are not disciples...a mere believer is far from a disciple---*Pastor Ayoro, Léo, 2010*
 
 ## What is discipleship? ##
 
 **Messianic discipleship is a dynamic, generational process, empowered by the Holy Spirit**. 
 
-To fully illustrate what is involved in this process, I want to link together[^fn1] two crucial statements made by the apostle, Paul, in his second letter to his disciple, Timothy:
+To fully illustrate what is involved in this process, I want to link together two crucial statements made by the apostle, Paul, in his second letter to his disciple, Timothy:[^fn1]
 
 > Keep safe the great treasure that has been entrusted to you, with the help of the Holy Spirit, who lives in us... and the things you heard from me, which were supported by many witnesses, these commit to faithful people, such as will be competent to teach others---*2 Timothy 1.14 and 2.2*
 
@@ -88,61 +88,51 @@ This is what the parable calls *good soil*. People willing to be transformed thr
 
 ## Discipleship movements ##
 
-The formation of faithful disciples was at the heart of the Messiah Jesus' life and work. The whole Christian movement, which today is spreading significantly throughout the whole world, began with one small, core group of disciples, formed around Jesus. 
+The formation of faithful disciples was at the heart of the Messiah Jesus' life and work. The entire historical and now-worldwide Christian movement began with one small, core group of disciples, formed around Jesus. 
 
-Discipling movements have the potential to change the world. Leaders, money, books and power all have their places within radical, popular movements. But, in a world in which people are continually effected by corporate experiences that are larger than the individual, it is people-movements that are most capable of producing deep, wide, enduring change.
+Discipling movements have significant potential to impact and transform. Leaders, money, books and power all have their places within radical, popular movements. But, people-movements are most capable of producing deep, wide, enduring change.
 
 Two things are essential to transformative people movements: *vision* and *the formation of disciples*. Visionary leaders must impart a hope that is powerful, challenging and instrumental. A vision capable of gripping the hearts of others and forming them into faithful, active disciples:
 
 -	committed to significant transformation; 
 -	persistent and determined to turn vision into reality;
--	operating as *co-workers*—not selfishly-ambitious *individuals*;
+-	operating as co-workers—not selfishly-ambitious individuals;
 -	actively forming other faithful disciples.
 
 In this way a visionary, discipling movement is developed. A movement of focussed, inspired, dynamic people. People deeply and profoundly allied to a vision, a cause and a purpose larger than themselves.
 
-### Transforming nations ###
+### Intercultural movement ###
 
-During the past two-thousand years, the messianic, new-covenant community has grown and developed through precisely this sort of dynamism. From its origins as an obscure, tiny, Jewish sect it has grown into an international, intercultural, multi-ethnic community, now existing, in some way or another, in practically every nation of the world.
+During the past two-thousand years, the messianic, new-covenant community has grown and developed through precisely this sort of dynamism. From its origins as an obscure, tiny, Jewish sect it has grown into an international, intercultural, multi-ethnic community, now existing, in some form or another, in practically every nation of the world.
 
-The scripture citations below, from the book of Acts, illustrate a pattern. Examine the context of these verses in your own Bibles and reflect upon how each statement represents a conclusion to a significant period of church expansion.
+The scripture citations below, from the book of Acts, illustrate a pattern. It is worth examining the context of these verses in your own Bibles, reflecting upon how each statement represents a conclusion to a significant period of church expansion.
 
--	Acts 2:46-47
--	Acts  6:7
--	Acts 9.31
--	Acts 12.24
--	Acts 16.5
--	Acts 19.20
+-	2:46-47 — day after day, the Lord adding to them
+-	6:7 — the word of God continued to spread
+-	9.31 — their numbers kept multiplying
+-	12.24 — word of the Lord went on growing and being multiplied
+-	16.5 — the congregations...increased in number day by day
+-	19.20 — the message about the Lord continued in a powerful way to grow in influence
 
-We see from this pattern and the history that has flowed from this tiny beginning, that the whole expansive movement of Christianity begins with the multiplication of disciples. 
-
-The discipleship movement spreads out geographically and, more importantly, across ethnic and cultural boundaries. From its beginnings in Jerusalem, the movement expands throughout Palestine, Asia Minor, Greece and, finally, to Rome—the very centre and seat of worldly power, at that time.
+This dynamic movement then spreads geographically and, more importantly, across ethnic and cultural boundaries. From its beginnings in Jerusalem, the movement expands throughout Palestine, Asia Minor, Greece and, finally, on to Rome—the very centre and seat of worldly power, at that time.
 
 > Sh'aul remained two whole years in a place he rented for himself and continued receiving all who came to see him, openly and without hindrance proclaiming the Kingdom of God and teaching about the Lord Yeshua the Messiah—*Acts 28.30-31*
 
-Since then, it has continued to grow and spread throughout the world, significantly transform the history of many nations. It will surely transform many more in the days and years that are ahead. This dynamism can be traced to the Messianic Community operating as a movement of disciples, continually spreading out across geographical, social, ethnic, linguistic and cultural boundaries. 
+Since then, it has continued to grow and to effect and impact many new ethnicities and peoples, stories and cultures, throughout the world. It will surely effect many more in the days and years that are ahead. 
 
-### Cessation of movement ###
+This *dynamism* can be traced to the Messianic Community operating as *a movement of disciples*, continually spreading out, across geographical, social, ethnic, linguistic and cultural boundaries. It is this kind of dynamism that I hope will be stimulated by Maize Plant Discipleship, wherever it is adopted and utilised.
 
-Nevertheless, in certain seasons, in certain places, history tells us, dynamism ultimately fades. A church planted within a nation or culture, in a former season, ceases growing and multiplying. 
+### Renewal of movement ###
 
-Inevitably, behind its religious facades, such a church is marked by a lack of vision, a loss of communal vitality and a spirituality out of touch with its holy roots. Traditions, which may not be bad in themselves, have replaced the vitality of a living, reproducing body of people.  Even though its religious institutions may remain dogmatic towards their creeds, the Christian community itself no longer exhibits authentic, biblical zeal for its vocation: its call to serve God's purpose amongst the nations. 
-
-In practice, such a church or community has become un-critical in its engagement with the societies and cultures in which it lives. Its testimony is compromised by idolatrous values. Its lifestyle is accommodated to ungodly influences. It has ceased to be different, ceased to be transformative, ceased making a significant, discernible impact upon its social, material, political and cultural environments.
-
-In this case, the church has ceased to be a *movement*. Invariably, it has ceased making disciples, lacking the confidence to persuade either itself or others to forsake human idols and become wholehearted devoted to the Messiah.
-
-### Renewal ###
-
-By contrast, any messianic community—whether national denomination, regional group or local congregation—that earnestly desires spiritual revival must place visionary, messianic discipleship at the core of its renewed spirituality and its practical reformation.
+Any messianic movement or community—national, regional or local—that earnestly desires spiritual revival or renewal must place visionary, messianic discipleship at the core of its spirituality and its practical formation.
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of the church-as-an-organisation, greater even than serving-one-another, as part of messianic community. The goal is to be part of a movement of disciples called to serve God's eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled, idol-bound populations.
 
-Amongst the corruption of society, besides its filthy gutters, behind its social, political and religious walls, the Messiah is at work by his Spirit. That is where he calls co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+Amongst the corruption in society, besides its filthy gutters and behind its social, political, economic and religious walls, the Messiah is at work by his Spirit. That is where he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
 
 ### Anointed community  ###
 
-To make possible such an otherwise impossibly-high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology and faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
+To make possible such an otherwise impossibly-high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology or faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
 
 *Through the Spirit*, the new-covenant community is transformed into a charismatic community. A group of people endowed with spiritual gifts that are profoundly shaped to liberate human beings from idolatry and every other allegiance and falsehood that competes and sets itself against God and the knowledge of him[^fn9]. 
 
@@ -161,51 +151,41 @@ Thus, the Messianic Community is a body of people anointed with the fragrant oil
 
 God's intention is that this messianic, charismatic, covenant community co-works in partnership with him, using the strength, the power, the spiritual life, the anointing that he provides. 
 
-Too often though, that power, that anointed-life-of-Christ-within-us, seems to elude us. It seems out of our reach. Beyond our grasp. 
+Too often though, that power, that anointed-life-of-Christ-within-us, seems to elude us. It seems out of our reach. Beyond our grasp. Indeed, it is not something that can be *grasped*. Instead, the pathway to life is through dying. Yielding ourselves to God the Father, through the Messiah, by the Spirit. That is the message of the cross. As we *die to self*, we become *alive to God*.[^fn12]
 
-Indeed, it is not something that can be *grasped*. Instead, the pathway to life is through dying. That is the message of the cross. Only to the extent that we *die to ourselves*, do we truly become *alive to God*[^fn12]. 
+## The heart of discipleship ##
 
-~
+Thus we end where we began. With the foundational principle of transformative discipleship: seed sown into the ground, in order to produce a harvest.
 
-Thus we end where we began, with the foundational principle of transformative discipleship: the seed sown into the ground, in order to produce a harvest.
+> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—*John 12.24*
 
-> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—John 12.24
+This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship: 
 
-This life-giving spiritual reality is at the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship: as we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God and equipped to serve his eternal purpose.
+> As we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God and equipped to serve his eternal purpose.
 
 *That is the heart of Maize Plant Discipleship*.
 
+## Questions for Reflection and Discussion ##
+
+-	How is discipleship valued in your context?
+
+-	How faithfully is it practised?
+
+If there is a gap between what is believed and valued and what is practised, discuss why you think that is.
+
 # Africa and MPD #
 
-> ...Africanness and correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
-	
----
-
-> With this program (of Maize Plant Discipleship)...from what we see, people who offered their reaction, in my culture there is a saying that goes like this: 
-
->> *When the sauce is tasty, you draw closer your stool, nearer to the table, to eat!!*
-
-> So, from the teaching we have received from you, it just gives us a flavour! — *Pastor Samuel Yaldia [^fn13]
+> Africanness and (theological) correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally, the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 
 ## Introduction ##
 
-*Maize Plant Discipleship* is a training and learning resource that has been authored, written, taught, researched, formulated, revised and published with African leaders and learners in heart, mind and prayer at each point of it's development. It originated as a *Mobile Academy of Mission*, taught itinerantly in Kenya and Burkina Faso.[^fn14] As author and teacher, my goal was to emulate the apostolic model of mission by
+Tite Tienou, a Malian who grew up in Burkina Faso, encapsulates (above) a highly significant aspect of the philosophy that has driven the development of Maize Plant Discipleship: African voices must determine the theology that is of practical relevance to African contexts.
 
-> *Taking the teacher to the leaders, rather than bringing the leaders to the teacher, saving the precious resources of those least able to spare them.*
+### The Africa connection ###
 
-Recently, the resource has been developed as the subject of doctoral missiological research, in conjunction with *Fuller School of Intercultural Studies*, following which it has been reformulated to more effectively serve the needs of missional leaders and learners within Burkina Faso and other African contexts.
+The origins of Maize Plant Discipleship are rooted in my personal experiences amongst an international, Pentecostal missionary community. Over time, a stream of African leaders, training or studying in the UK, joined with our prayer fellowship, reporting how spiritually *at home* they felt with us. On returning to Africa, memories of shared experiences in prayer prompted them to invite me to visit and teach in their contexts.
 
-### Beginnings ###
-
-The origins of Maize Plant Discipleship are rooted in my personal experiences amongst an international, Pentecostal missionary community. In that context, a personal calling to invest time seeking God in prayer led to involvement with a team of people who met regularly to intercede for God's purposes amongst the nations of the world. 
-
-What took place amongst that team may be described an intense, Spirit-led intercession that continued, in that way, for over a decade. Throughout, I exhaustively journaled words, shared between the group, of scripture, prayer, prophecy, inspiration, exhortation, encouragement and wisdom—many of which informed or inspired insights now incorporated within the Maize Plant Discipleship syllabus.
-
-### The Africa factor ###
-
-Over time, a stream of African leaders, training or studying in the UK, joined with our prayer fellowship, almost invariably reporting how spiritually *at home* they felt with us. Later, back in Africa, memories of our shared experiences in prayer prompted them to invite me to visit and teach in their contexts.
-
-The first opportunity to do so came in 2000, through a former prayer team member working in Nakuru, Kenya. There, I presented five days of seminars on prayer, intercession and mission, which were received with considerable enthusiasm and appreciation. Afterwards, participants remarked not only upon a uniqueness of insight, but also the spirit of love, in which it was delivered.
+The first opportunity to do so came in 2000, through a former prayer team member, then working in Nakuru, Kenya. There, I presented five days of seminars on prayer, intercession and mission. The considerable enthusiasm and appreciation expressed by the attendants encouraged me to continue investing in the seminal training resource, which has since developed into Maize Plant Discipleship.
 
 ### Burkina Faso ###
 
@@ -213,33 +193,39 @@ The next stage of development came through a series of visits to Burkina Faso, b
 
 - In Léo: Bible school students, pastors, church-planters and trainees, many of whom were living in missionary contexts, within Muslim-dominant villages. 
 
-- In Ouagadougou: associates of a national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
+- In Ouagadougou: associates of a vibrant, national youth movement, incorporating university students, graduates, post-graduates, office workers and other young people.
 
-Having established that a genuine spiritual dynamic was taking place, I asked Burkinabé associates how I might make my discipleship resources more accessible and useful. They requested that I establish a regular training program *and* form my teaching notes into textbooks that could accompany the teaching and be studied and used in trainees own contexts. To maximise the effectiveness of the books, particularly from a cultural perspective, I incorporated their development into a program of doctoral research.
+At each point, the feedback of participants and organisers was sought. It became clear from their responses that a significant spiritual dynamic was taking place. The teaching was reported to be motivational and spriritually challenging. To understand this better, I asked Burkinabé associates: how could the discipleship teaching be made more accessible and useful within Burkinabé contexts?
+
+Their response was to propose the development of a "Train the Trainers" program, incorporating Maize Plant Discipleship teaching in a series of accessible handbooks. The books would be designed to accompany teaching presentations *and* to be studied and used by trainees in their own contexts.
 
 ## Doctoral research ##
 
-Between 2009 and 2013, I undertook doctoral research, guided by *Fuller School of Intercultural Studies*, with a view to analysing the practicality, relevance and accessibility of my discipleship training resource from an intercultural and scriptural perspective.
+In order to maximise effectiveness, from an intercultural perspective, I took the opportunity incorporate further development of the books within a program of doctoral research, directed by *Fuller School of Intercultural Studies*, between 2009 and 2013. 
 
-My field research involved collecting data through survey questionnaires, group interviews and in-depth interviews with national and regional leaders. In total, over seventy Burkinabé participants were consulted, a significant number of whom were national and, or denominational leaders, with experience of and responsibility for leadership training and development.
+This enabled me to consult Burkinabé leaders and learners on a wide range of concerns and questions relating to the appropriate biblical and practical formulation of discipleship and leadership training resources. 
+
+In total, over seventy Burkinabé participants were consulted, drawn from members of the *Assemblée Evangélique de Pentecôte, Assemblée de Deus, Association Nationale pour la Traduction de la Bible et de l'Alphabetisation, Mouvement des Jeunes Serviteurs de Dieu* and *SIL*.
+
+The research involved collecting data—opinions, perspectives, information and insight—following prototypical seminars delivered to conferences in Léo and Ouagadougou. This was done through multiple survey questionnaires and group interviews and a number in-depth interviews, conducted with national and, or denominational leaders—most of whom held responsibility for leadership training and development. This allowed a rich seam of data to be gathered for analysis.
 
 ### Findings ###
 
-Applying qualitative data analysis methods to my collected data revealed a number of significant findings or themes. Participants:
+Applying qualitative data-analysis to the collected data revealed a number of significant *findings*, or themes, relating to issues of discipleship, leadership training, theology, culture, intercultural relations and literacy. In particular, participants:
 
--  identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*.[^fn15]
+- identified strongly with the concept of discipleship and a need to freshly embrace *holistic, disciple-forming practices*;
 
-- consistently validated the [theological content] of my prototype training resource as *appropriate to Burkinabé contexts*—highlighting its biblical content, practical focus and cultural sensitivity.
+- consistently validated the [missiological content] of a prototype MPD training resource as *appropriate to Burkinabé contexts*, highlighting the value in terms of biblical content, practical focus and cultural sensitivity;
 
-- affirmed the pedagogical significance of incorporating graphical and analogical *illustrations* and adequate time for *reflection* and *discussion*.
+- affirmed the importance of incorporating graphical and analogical *illustrations* and alloted time for *reflection* and *discussion*;
 
-- expressed hunger for appropriate *literature*, to accompany leadership training, tailored to facilitate leaders working in oral contexts.
+- expressed desire for appropriate *literature*, tailored to facilitate leaders working in oral contexts;
 
-- identified the value of translating appropriate textbooks into minority African languages 
+- identified the value of translating appropriate textbooks into minority African languages;
 
-- highlighted significant logistical challenges to making textbooks practical and accessible (e.g. licensing, printing, promotion and distribution).
+- highlighted significant logistical challenges relating to publication—e.g. licensing, promotion, cost and distribution.
 
-These data analysis findings were combined with contextual missiological study to define as set of *practical, relevant and accessible* attributes that could be applied to the formulation of training resources appropriate to Burkinabé leaders and learners.[^fn16]
+These analytical conclusions were used to define a set of *practical, relevant and accessible* attributes that could be applied to the formulation of training resources appropriate to Burkinabé leaders and learners.[^fn13]
 
 ### Practical ###
 
@@ -251,13 +237,13 @@ Encouraging and facilitating a focus upon purposeful actions—rather than class
 
 - Envisioning personal, communal, cultural transformation.
 
-- Emphasising the importance of a continuous, generational formation of disciples.
+- Emphasising generational formation of disciples.
 
 ### Relevant ###
 
 An incorporation of qualities and characteristics appropriate to contextual culture.
 
-- Providing a biblically faithful, missional theology, integrated with Pentecostal spirituality.
+- Providing a biblically faithful missiology, integrated with Pentecostal spirituality.
 
 - Publishing short, topical, illustrative handbooks.
 
@@ -275,42 +261,50 @@ Lowering or removing barriers that could hinder access to the curriculum.
 
 - Licencing republication and redistribution.
 
-- Favouring the economically poor.
+- Distribution models that favour the economically poor.
 
-### Theological content ###
+### Missiological content ###
 
-My research led to a conclusion that a biblically faithful, missional theology, integrated with Pentecostal spirituality and appropriate to African contexts, should encompass not less than the following theological content or characteristics:
+My research concluded that a biblically faithful missiology, integrated with Pentecostal spirituality and appropriate to African contexts, should encompass not less than the following content or characteristics:
 
-1. An holistic worldview;
-- A communal orientation;
-- An historical, missionary theology;
-- An Hebraic, covenantal, missional hermeneutic;
-- A theology of biblical discipleship;
-- A theology of suffering and overcoming;
-- A theology of spiritual revival;
-- A theology of intercessory prayer and spiritual power;
-- A theology of poverty and prosperity;
-- A theology of vocation;
-- A theology of Christ-centred servant-leadership;
-- A theology of cultural transformation.
+1. 	A holistic worldview;
+-	A communal orientation;
+-	An historical, covenantal, missionary interpretation of Scripture;
+-	A missiology of 
+	-	biblical discipleship;
+	-	suffering and overcoming;
+	-	spiritual revival;
+	-	intercessory prayer and spiritual power;
+	-	poverty and prosperity;
+	-	personal and corporate vocation;
+	-	Christ-centred servant-leadership;
+	-	cultural transformation.
 
 ### Continuous improvement ###
 
-These *practical, relevant* and *accessible* attributes have been used to define the Maize Plant Discipleship Resource.
+These *practical, relevant* and *accessible* attributes, extracted from data gathered from Burkinabé participants, are those which have defined the Maize Plant Discipleship Resource.
 
-> After you have examined and used MPD resources, if you think we can improve upon these attributes, or our application of them, please contact us with your thoughts, via the MPD website: 
+> After you have examined and used MPD resources, if you think we can improve upon these attributes, or the application of them, please contact us with your ideas, via the MPD website: 
 
 -	http://maizeplantdiscipleship.wordpress.com/contact
 
 
 
+## Questions for Reflection and Discussion ##
+
+-	Do you think it's important that African Christians decide upon what is theologically appropriate to African contexts?
+
+-	Has this happened historically in your contexts? If not, why not? If so, what has changed?
+
+-	What theological issues are important to you and others in your context?
+
+-	If they are not covered by this syllabus, what will you do?
+
 # MPD Syllabus #
 
-John 12:24
-: I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — Jesus 
+> I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — *Jesus, John 12:24*
 
-Paul, 2 Corinthians 9:10
-: May he who supplies seed to the sower and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness
+> May he who supplies seed to the sower and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness — *Paul, 2 Corinthians 9:10*
 
 ## Maize Plant Metaphor ##
 
@@ -318,7 +312,7 @@ In the gospel of John, Jesus refers to his own mission using the metaphor of a s
 
 ---
 
-> Maize represents the "daily bread" of millions of African people. The messianic community is called, like the Messiah, to become a kind of "life-giving bread" to the peoples of the world—see John 6 & 20:21.
+> Maize produce effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
 
 ---
 
@@ -342,23 +336,22 @@ The Maize Plant Discipleship Syllabus is structured to symbolically reflect the 
 
 ### Soil and roots ###
 
-**Module MPD-M1**[^fn17]—provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, gradually unfolding a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
+**Module MPD-M1**[^fn14] provides a study of the biblical, Hebraic soil and messianic roots of new-covenant faith, in order to unfold a panoramic overview of the whole story of scripture, representing God's unchanging, eternal purpose.
 
-> Only seed sown into good soil produces a good harvest. Discipleship communities also need to be rooted in good soil, allowing us to draw on essential, spiritual nutrients and the living water of the Messiah's Spirit, anchoring us against winds of false teaching and sustaining us amidst the heat of trials, temptations and vocational responsibility.
+Only seed sown into good soil produces a good harvest. Discipleship communities also need to be rooted in good soil, allowing us to draw on essential, spiritual nutrients and the living water of the Messiah's Spirit, anchoring us against winds of false teaching and sustaining us amidst the heat of trials, temptations and vocational responsibility.
 
 
 #### MPD-M1-Eternal Purpose ####
 
-> In this foundational teaching (see [](#mp-roots.png)), the Messiah represent *the Seed* which enters the soil (of the biblical, covenantal history of the people of Israel) in order to die and to ultimately produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
+> In this foundational teaching (see [](#mp-roots.png)), the Messiah represent *the Seed* that enters the soil—of the biblical, covenantal history of the people of Israel—to die and ultimately produce a rich harvest of people—a messianic covenant community—from amongst all the peoples of the earth. 
 
 ![Roots][mp-roots.png]
 
 
 ### Maize plant ###
 
-**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community (see [](#mp-dynamics.png)).
-
-> In the metaphor of the maize plant, the growth and multiplication of maize represents the growth and multiplication of messianic community. MPD refers to characteristic processes of growth and multiplication as *dynamics*.[^fn18] Hence, the *dynamics of messianic community* refer to the unique, spiritual forces that stimulate its characteristic development, growth, structure, shape and fruit.
+**Modules MPD-M2 to MPD-M9** explore eight characteristic *dynamics* of messianic community (see [](#mp-dynamics.png)). These dynamics refer to the unique, spiritual forces[^fn15] that stimulate the characteristic development, growth, structure, shape and fruit of messianic community.
+ 
 
 ![Maize plant][mp-dynamics.png]
 
@@ -369,11 +362,11 @@ The Maize Plant Discipleship Syllabus is structured to symbolically reflect the 
 
 #### MPD-M3-Dynamics of Vocation-The Jews ####
 
-> Examines biblical Israel, in order to demonstrate the significant responsibilities of the Messianic Community with regard to the Jewish people.
+> Examines the significant responsibilities of the Messianic Community towards the Jewish people.
 
 #### MPD-M4-Dynamics of Commissioning ####
 
-> Explores the dynamic of messianic commissioning, including a focus upon strategy, structures and modes of expansion.
+> Explores the dynamic of messianic commissioning, including a focus upon strategy, structures and expansion.
 
 #### MPD-M5-Dynamics of Body Membership ####
 
@@ -393,56 +386,86 @@ The Maize Plant Discipleship Syllabus is structured to symbolically reflect the 
 
 #### MPD-M9-Dynamics of Cultural Transformation ####
 
-> Examines our call to work, amongst and on behalf of the nations, towards cultural transformations that signal the presence of God's kingdom.
+> Examines our call to work amongst and on behalf of the nations, towards cultural transformations that signal the presence of God's kingdom.
 
 ### Sunlight and rainfall ###
 
-**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community (see [](#mp-disciplines.png)). 
-
->In the metaphor of the maize plant, sunlight and rainfall are representative of messianic *disciplines*, which open us to receive the revelatory Light and sustaining Living Water of God's Spirit—without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
+**Modules MPD-M10 to MPD-M16** examine seven characteristic *disciplines* of messianic community (see [](#mp-disciplines.png)). In the metaphor of the maize plant, sunlight and rainfall are representative of messianic disciplines, which open us to receive the revelatory Light and sustaining Living Water of God's Spirit—without which we become spiritually weak and unable to produce good fruit or a plentiful harvest.
 
 ![Sunlight and rainfall][mp-disciplines.png]
 
 
 #### MPD-M10-Disciplines of Spiritual Maturity ####
 
-> Explores three stages of encounter, discovery and growth in spiritual maturity and discipleship: (i) pastoral, devotional; (ii) missional, vocational and (iii) apostolic, intercessory.
+> Reviews three stages of encounter, discovery and growth in spiritual maturity: pastoral—devotional; missional—vocational and apostolic—intercessory.
 
 #### MPD-M11-Disciplines of Running the Race ####
 
-> Uses the metaphor of an athlete to examine the qualifications, disciplines and inner motivations necessary for living an enduring life of service and completing *the race marked out for us*.
+> Uses the metaphor of an athlete to examine motivations, qualities and disciplines for living an enduring life of service—*completing the race marked out for us*.
 
 #### MPD-M12-Disciplines of Pressing Toward Our Vocation ####
 
 > Explores how we can be sustained us in our personal vocations through a deepening of our relationship with the Messiah, including *prayer without ceasing*.
 
-#### MPD-M13-Disciplines of Financial Faithfulness ####
+#### MPD-M13-Disciplines of Economic Faithfulness ####
 
-> Study explores financial faithfulness in the context of covenant relationship and messianic community, highlighting biblical perspectives of wealth and poverty that are radically different to those of the world. 
+> Explores economic faithfulness, highlighting biblical perspectives of wealth and poverty radically different to those of the world. 
 
 #### MPD-M14-Disciplines of Messianic Leadership ####
 
-> Examines the qualifications, motivations and characteristics of faithful messianic leadership, proposing a leadership model that balances *achieving* tasks, *building* teams and *developing* individuals.
+> Explores qualifications, motivations and characteristics of faithful messianic leadership *and* the balancing of task, team and individual.
 
 #### MPD-M15-Disciplines of Living by Faith ####
 
-> Explores how messianic faith is tested and purified through trials, until we learn to see with eyes of faith, after which major challenges no longer represent threats from which to retreat, but instead opportunities to experience God's covenant-faithfulness.
+> Explores the testing and purification of messianic faith, seeing with eyes of faith and embracing challenges as opportunities to experience God's faithfulness.
 
 #### MPD-M16-Disciplines of Overcoming ####
 
-> Employs the analogy of a sporting arena to represent the reality of spiritual confrontation and conflict with cultural idols and strongholds. In these contexts, we need to discern strategies that make room for a transformative encounter with God's overcoming power.
+> Employs the analogy of a sporting arena to represent spiritual confrontation and conflict with cultural idols and strongholds, discerning strategies that make room for a transformative encounter with God's overcoming power.
 
 ## MPD Handbooks ##
 
 Each MPD module *Handbook* contains four interrelated *Studies*, each of which incorporates:
 
--	A Précis
 -	Scripture Readings
--	Topical Sections
--	A Summary
+-	Topical Sections and Summary
 -	Questions for Group Discussion
 
-The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but upon facilitators willing to co-ordinate study groups and discussions— see [Facilitating MPD][].
+The format is designed to facilitate reflective group learning—so that Maize Plant Discipleship resources rely not upon the presence of a qualified leader, teacher or theologian, but simply upon facilitators willing to co-ordinate study groups and discussions (see [Facilitating MPD][]).
+
+## Terms and translations ##
+
+A number of significant terms are used throughout the MPD syllabus. They are defined here, so that Facilitators can refer to them at any time.
+
+### Messiah ###
+
+the promised Jewish deliverer...
+Jesus, the Christ...the Messiah	
+
+### Messianic ###
+
+-	Messianic
+	Cf. "Christian"
+-	Messianic Community
+-	Messianic, New-Covenant Community
+-	messianic community or communities
+
+
+### Bible translation ###
+
+Wherever possible facilitators should use and encourage the use of mother-tongue translations of Scripture. Throughout the MPD Syllabus Handbooks, scripture references—rather than quotations—are generally provided with this in mind.
+
+Where a quotation is incorporated within the teaching, the following abbreviations are used to indicate the version:
+
+-	CJB — The Complete Jewish Bible
+-	NIV — The New International Version
+-	TAB — The Amplified Bible
+
+## Questions for Reflection and Discussion ##
+
+-	How would you describe the significance of the maize plant to this syllabus and learning resource?
+
+-	How would you describe a dynamic?
 
 # Facilitating MPD #
 
@@ -450,38 +473,174 @@ The format is designed to facilitate reflective group learning—so that Maize P
 
 > I have received a valuable teaching which I would like to use to impact the life of people in my neighbourhood and in my church. I would like to see this teaching be the flame of the Spirit of God which will help the ministry to grow more—*Pastor Benao, 2010*
 
+## Discipleship group format ##
+
+MPD modules are structured to provide a *reflective learning process*, which incorporates practical, educational principles married to practical, spiritual principles, drawn from Scripture.
+
+### Reflective Learning ###
+
+[](#learning-cycle.png) illustrates a reflective learning process of the kind that might be encountered within progressive educational or training contexts, including these four elements: Hear — Reflect — Discuss — Act.
+
+![Reflective Learning Process][learning-cycle.png]
+
+-	We learn by *hearing* about other's experiences: practice informing theory and theory informing practice. 
+
+-	As we listen, we *reflect* upon both fresh ideas and current understanding: old and new sometimes conflicting, sometimes harmonising. 
+
+-	In *discussion* with others, we broaden and deepen our understanding and sharpen our convictions about the most appropriate way to...
+
+-	*act*, when we disperse and return to our contexts of work and vocation. Later, we gather again, so the reflective learning process can be repeated ...again and again.
+
+### Adapting the learning cycle ###
+
+I want to suggest how this reflective learning process, or cycle, may be adapted and applied to Maize Plant Discipleship groups, by combining it with a simple pattern, drawn from the example of the early church, which reports how
+
+> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—*Acts 2.42*
+
+The combined *MPD learning process* that I am proposing thus incorporates six elements: Hear — Receive — Open — Share — Pray — Act
+
+### Hear...what the Spirit is saying ###
+
+When we gather together as disciples of the Messiah, to hear biblical teaching, we are opening ourselves not only to human ideas or wisdom, as Paul explains to the Corinthians:
+
+> Now we have not received spirit that belongs to the world, But the Holy Spirit Who is from God, given to us that we might realise and comprehed and appreciate the gifts of divine favour blessing so freely and lavishly bestowed on us by God. And we're setting these truths forth in words not taught by human Wisdom but taught by the Holy Spirit, combining and interpreting spiritual truths with spiritual language to those who possess the Holy Spirit. — *1 Corinthians 2:12-13 TAB*
+
+![Hear][hear.png]
+
+Our goal, therefore, is not only to listen with our minds, but also with our spirit—our heart; not to become 'puffed up' with knowledge, but to *hear what the Spirit is saying to his people*.[^fn16] And we listen in order to live more faithfully. This kind of listening is called *heeding*: listening with the intention to learn and follow, or obey.
+
+
+----
+
+### Receive...God's message inwardly ###
+
+Hearing God's message to us, either as a body of people, or as individuals and families, is a start. However, it is not enough only to *hear*, we must learn to *receive* God's message.
+
+> The one who received the seed that fell on rocky places is the man who hears the word and at once receives it with joy. But since he has no root, he lasts only a short time... The one who received the seed that fell among the thorns is the man who hears the word, but the worries of this life and the deceitfulness of wealth choke it, making it unfruitful. 
+
+> The seed on good soil stands for those with a noble and good heart, who hear the word and retain it, and by persevering produce a crop... yielding a hundred, sixty or thirty times what was sown — *Matthew 13:18-23; Luke 8:15*
+
+![Receive][receive.png]
+
+The key is receiving God's word inwardly, allowing the word to begin to "*dwell richly within us*" (Collossians 3:16). Think about how we receive food: chewing, enjoying the taste, swallowing and digesting, enabling the body to receive the food's vitality and goodness. *It's the same with God's word*. We must chew it over, meditating and reflecting upon its meaning and application to our lives. Then we allow it to settle in our spirit, forming and shaping our convictions, or holding it in our hearts, even before we fully understand all that it means to us. 
+
+
+----
+
+### Open...heart to other's perspectives ###
+
+In messianic community, we must learn to open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves.
+
+![Open][open.png]
+
+The following suggestions may help group discussions to be lively and spiritually satisfying.
+
+-	**Invite free-moving debate relating to the study topic**. 
+
+	Ensure women and both young and old people are included. Allow discussions to ebb and flow, as people consider their responses and return to earlier discussions *(see also: [Facilitating openness])*. 
+
+-	**Discuss traditional proverbs that relate to study topics**. 
+
+	Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide opportunities to discuss aspects of the teaching with elders and others, including non-believers.
+
+-	**Discuss practical, vocational applications of the topical study**. 
+
+	Vocation is more than simply our job, or employment: it incorporates all the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
+
+
+----
+
+### Share...break bread together ###
+
+The celebratory breaking of bread, in order to remember the Lord Jesus and his sacrificial obedience, is a sign and symbol of the new covenant and a profound way for discipleship groups to visibly proclaim their shared devotion to the Messiah.
+
+![Share][share.png]
+
+Although breaking and sharing bread has typically become ceremonial in modern Christianity, it is possible to incorporate a simple meal into times of meeting together and to identify this prayerfully as a form of breaking bread together. 
+
+---
+
+> *Breaking bread was originally fashioned, by the early church, upon the weekly Sh'bat (Sabbath) meal of the Jews -- a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt*.
+
+---
+
+Sharing food together is a vital part of human fellowship and a practical way of celebrating and proclaiming God's daily provision and blessing. Where a meal is not practical or possible, consider sharing a small amount of bread together, in a symbolic act of shared hospitality and commitment to membership of the body of the Messiah.
+
+
+----
+
+### Pray...let God's kingdom come ###
+
+After discussion has taken place, invite the group to pray together, including intercession on behalf of neighbours, networks and communities and local and national rulers and governors.
+
+![Pray][pray.png]
+
+Use MPD teaching to infuse prayer with fresh confidence concerning God's will and purpose, including personal and vocational concerns and challenges faced by group members. 
+
+-	**Pray for the gospel** to deeply impact and transform individuals, communities, cultures and societies throughout your nation, Africa, Europe, Asia and the Americas; pray for unreached people groups.
+
+-	**Pray for the Maize Plant Discipleship Project**: that it will be used by God to edify and strengthen and bless the Messianic Community, within Africa ... and beyond!
+
+-	**Bless one another** with a blessing from Scripture, or as led by the Holy Spirit; speak a blessing over your community or nation, or with regards to a specific problem.
+
+-	**Expect the power of God** and the blessing of his life in us will overcome all opposition!
+
+----
+
+### Act...in light of God's message ###
+
+The purpose of our gathering to hear God's message is not simply to hear it, but to act upon it. As the epistle of Ya'akov (James) explains, we deceive ourselves when we listen to God's word, but do not do what it says:
+
+> Don't deceive yourselves by only hearing what the Word says, but do it! For whoever hears the Word but doesn't do what it says is like someone who looks at his face in a mirror, who looks as himself, goes away and immediately forgets what he looks like.
+
+> But if a person looks closely into the perfect *Torah*, which gives freedom, and continues, becoming not a forgetful hearer but a doer of the work it requires, then he will be blessed in what he does — *James 1:22-25*
+
+![Act][act.png]
+
+The goal of discipleship is to be transformed ourselves and to become a transforming influence in our homes and workplaces and communities. As we learn to do this as part of a growing, dynamic movement of disciples, we begin to fulfil our corporate vocation: *a messianic community blessed...to be a blessing!*
+
+----
+
+### MPD learning cycle ###
+
+Bringing together the six elements of reflective learning and messianic community together — Hear, Receive, Open, Share, Pray, Act — provides us with the MPD learning cycle ([](#mpd-learning-cycle.png))
+
+![MPD Learning Cycle][mpd-learning-cycle.png]
+
+----
+
 ## Facilitating role ##
 
-Facilitating MPD differs from much teaching and training, because it does not encourage rote learning, but is an intentionally open, reflective, group-orientated learning process, in which all kinds of leaders and learners are invited to participate together in discovering what the Spirit is saying.
+MPD is an intentionally open, reflective, group-orientated learning process, in which all kinds of leaders and learners are invited to participate together in discovering what the Spirit is saying.
 
 
 ### Facilitating Spirit-led discipleship ###
 
-Holy Spirit-led discipleship is about participating in a process through which the Spirit of Christ is able to lead, warn, direct, encourage, teach and exhort us all, individually and corporately.
+Holy Spirit-led discipleship is about participating in a process through which the Spirit of Christ is able to lead, warn, direct, encourage, teach, challenge and exhort us personally and corporately.
 
 -	Discipleship is never a matter of pouring out information from a teacher or from text books, in order to fill others with the same knowledge. This may be how we learned in school, but Spirit-led discipleship is different.
 
 -	The goal of discipleship is not to establish shared dogmatic belief or conformity to the convictions of a leader, mentor or facilitator, nor to church traditions—and certainly not to every aspect of MPD. 
 
--	Each person differs in gift and personality and stage of development, thus group members need to be empowered to learn in their own particular way and at their own pace. 
+-	The goal is conformity to the Spirit of the Messiah, Jesus, and obedience to the will of the Father.
 
--	The aim is to allow MPD to be a vehicle for God's Spirit to disciple people—recognising that MPD itself represents just one part of a whole process through which the Messiah may be discipling people.
+-	Since, every person differs in gift and personality and stage of development, each needs be empowered to learn in their own particular way and at their own pace. 
 
--	The goal is conformity to the Spirit of the Messiah, Jesus, and obedience to the will of the Father!
+-	The aim therefore is to allow MPD to be a vehicle for God's Spirit to speak to, educate and disciple people — recognising that MPD itself represents only one part of a whole-life process through which the Messiah may be guiding and directing his people.
 
 ### Facilitating openness ###
 
-When meeting together for MPD the aim is to foster an environment of learning and discovery, where debate and discussion is lively, yet relaxed and uncompetitive. An environment in which all members, even the youngest and least experienced, are comfortable to openly contribute their views, burdens and questions. 
+The aim is to foster an environment of learning and discovery, where debate and discussion is lively, yet relaxed and uncompetitive. An environment in which all members, even the youngest and least experienced, are comfortable to openly contribute their views, burdens and questions. 
 
--	Openness, difference and diversity of views will not stifle the true unity of the Spirit, which is based on love and mutual respect. 
+-	Openness, difference and diversity of views will not stifle the true unity of the Spirit, which is based upon love and mutual respect. 
 
--	Forced conformity, however, will typically erupt, sooner or later, because people need to feel that they have been heard and listened to—especially those presenting a different perspective. 
+-	Forced conformity, will however, typically erupt, sooner or later, because people need to feel that they have been heard and listened to—especially those with a different perspective. 
 
-By encouraging open debate, it is possible for members to learn how express strong and diverse views, without creating conflict or forcing conformity. However, openness can be particularly challenging to foster in cultures where where conformity is highly valued and where traditional authority flows downwards from the top. 
+By encouraging open debate, it is possible for members to learn how to express and assert strong and diverse views, without creating conflict or forcing conformity. However, openness can be particularly challenging to foster in cultures where where traditional authority flows downwards from the top and conformity is highly valued. 
 
-Here are some practical suggestions that may help establish openness and diversity of opinion:
+Here are some practical suggestions that may help establish openness and diversity of opinion.
 
--	Facilitators should contribute to discussions as a regular group members; they should never abuse their position by dominating a discussion or belittling other views. 
+-	Facilitators should contribute to discussions as regular group members; they should never abuse their position by dominating a discussion or belittling other views—indeed, they should encourage them.
 
 -	A facilitator should normally resist the temptation to rehearse teaching, affirm particular views or  summarise discussions. Doing these things can undermine the discovery and learning taking place.
 
@@ -491,18 +650,13 @@ Here are some practical suggestions that may help establish openness and diversi
 
 Discipleship represents a form of learning that is *called out* of students or disciples, under the guidance and direction of a facilitator, mentor, educator or teacher. People in these roles come alongside motivated learners, not to direct them forcefully, but to assist, encourage, facilitate and draw out the *learning-through-living* that is continuously taking place within those being discipled.
 
-Regular discipleship groups are a good way to begin fermenting interpersonal interaction, however they usually need to be supplemented by informal exchanges that allow mutual exchange, encounter, openness and listening. Time for companionship and friendship, during which we can share both painful realities stretching or testing our faith and hopes and dreams sustaining us. 
+Regular discipleship groups are a good way to begin fermenting interpersonal interaction, however they usually need to be supplemented by informal exchanges that allow mutual encounter, openness and listening. Time for companionship and friendship, during which it is possible to share both painful realities stretching or testing our faith and hopes and dreams sustaining us. 
 
-Without this, learning groups risk feeling too impersonal, theoretical or disjointed from daily life. However, unlike formal, classroom learning, this sort of practical, interpersonal, *open-to-the-other* kind of learning is rarely neat and tidy and may even seem chaotic at times. It is, though, potentially highly effective.
-
-~
-
-Honour the unity of the Spirit and the body of Christ. If you are committed to an existing movement, be respectful of its traditions and work to maintain good working relationships with its leaders. Maize Plant Discipleship should not form a threat to existing congregations and church groups, but complement and serve them, where appropriate, in the spirit of the Messiah.
-
+Without this, learning groups may risk feeling too impersonal, theoretical or removed from daily life. However, unlike formal, classroom learning, this sort of practical, interpersonal, *open-to-Others* kind of learning is rarely neat and tidy and may even seem chaotic at times. It is, though, potentially highly effective.
 
 ### Who can facilitate? ###
 
-A facilitator needs to be someone with a passion and sense of calling to help others become faithful Christian disciples. This passion must motivate them to be humble, flexible, warm, open and secure enough to allow others to explore personal boundaries of vocational understanding, experience and creativity. 
+A facilitator needs to be someone who senses a calling to help others become faithful Christian disciples. This must motivate them to be humble, patient, flexible, warm, open and secure enough to allow others to explore personal boundaries of vocational understanding, experience and creativity, at their own pace.
 
 A facilitator, or mentor, does not hold a position of authority over people. They simply facilitate the gathering of people into groups, for learning and discussion. Accordingly, a facilitator:
 
@@ -515,311 +669,117 @@ A facilitator, or mentor, does not hold a position of authority over people. The
 
 Of course, MPD can be facilitated by established leaders, mentors or disciplers—providing they are willing and comfortable to facilitate group discussions that are genuinely reflective and exploratory. 
 
-## Discipleship group format ##
-
-MPD modules are structured to provide a *reflective learning process*, which incorporates practical, educational principles married to practical, spiritual principles, drawn from Scripture.
-
-### Reflective Learning ###
-
-[](#learning-cycle.png) illustrates a *reflective learning process*, of the kind that might be encountered within progressive educational or training contexts.
-
-![Reflective Learning Process][learning-cycle.png]
-
-> To learn, we gather to *hear* new ideas. As we listen, we *reflect* upon those ideas: filtering them through our current understanding, old and new thoughts sometimes conflicting, sometimes harmonising. In *discussion* with others, we broaden and deepen our understanding and sharpen our convictions about the most appropriate way to *act*, when we disperse and return to our contexts of work and vocation.
-
-### Acts 2:42 ###
-
-I want to suggest how this reflective learning process, or cycle, may be adapted and applied to Maize Plant Discipleship groups, by combining it with a simple pattern of teaching, fellowship, breaking bread and prayer, drawn from the example of the early church:
-
-> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer—*Acts 2.42*
-
-The combined MPD learning process that I am proposing incorporates six elements: 
-
-Hear — Receive — Open — Share — Pray — Act
-
-### Hear ###
-
-When we gather together as disciples of the Messiah, to hear biblical teaching, we are not opening ourselves only to human ideas or wisdom, as Paul explains to the Corinthians:
-
-> We have not received the spirit of this world but the Spirit of God, so that we might understand the things that God has so freely given us. These are the things we are talking about when we avoid the manner of speaking that human wisdom would dictate and instead use a manner of speaking taught by the Spirit, by which we explain the things of the Spirit to people who have the Spirit.[^fn19]
-
-![Hear][hear.png]
-
-Our goal, therefore, is not only to listen with our minds, but also with our spirit—our heart. Not to become "puffed up" with knowledge, but to *hear what the Spirit is saying to his people*.[^fn20] And we listen in order to live more faithfully. This kind of listening is called *heeding*: listening with the intention to learn and follow, or obey.
-
-
-### Receive ###
-
-Hearing God's message to us, either as a body of people, or as individuals, or families, is the beginning; it is not enough only to *hear*...
-
-> Don't deceive yourselves by only hearing what the Word says, but do it! For whoever hears the Word but doesn't do what it says is like someone who looks at his face in a mirror, who looks as himself, goes away and immediately forgets what he looks like. But if a person looks closely into the perfect Torah, which gives freedom, and continues, becoming not a forgetful hearer but a doer of the work it requires, then he will be blessed in what he does.[^fn21]
-
-The key to obedience is in receiving God's word inwardly, through meditation and reflection. This allows the word to begin to "*dwell richly within us*"[^fn22]. 
-
-![Receive][receive.png]
-
-Think about how we receive food: chewing, enjoying the taste, swallowing and digesting it, enables the body to receive the foood's vitality and goodness. *It's the same with God's word*. We must chew it over, meditating and reflecting upon its meaning and application to our lives. Then we must allow it to settle in our spirit, forming and shaping our convictions, or holding it in our hearts, even before we fully understand all that it means to us. 
-
-*It is not always easy*. God's word can be like honey on the lips, but bitter in the stomach![^fn23] This is a way of saying that it may be pleasant and joyful to receive God's word when we first hear and 'taste' it, but faithful obedience always forms a testing and difficult path.
-
-### Open ###
-
-In fellowship with others, we must learn to open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves. 
-
-![Open][open.png]
-
-Within meetings, group discussion represents an important form of fellowship. The following suggestions may help group discussions to be lively, invigorating and spiritually satisfying.[^fn24]
-
-1.	**Invite and allow free-moving debate relating to the study topic**. 
-
-	It may take a few sessions for the group to get used to the freedom of this format; make sure younger people and women are included. (See also: [Facilitating openness]).
-
--	**Discuss traditional proverbs that relate to study topics**. 
-
-	Use of the *sweet talk* of proverbs will provide fresh insight. This can also help to provide unexpected, yet welcome opportunities to discuss what you are learning with elders and others, outside of the gathered group, including non-believers.
-
--	**Discuss practical, vocational applications of the topical study**. 
-
-	Vocation is more than simply our job, or employment: it incorporates the whole of the responsibilities towards which God calls us, including workplaces and practices, families, communities and networks, as well as personal vision and service.
-
--	**Allow discussions to ebb and flow**. 
-
-	Give time for people to consider their responses and return to earlier parts of the debate, where appropriate.
-
-### Share ###
-
-The celebratory breaking of bread, in order to remember the Lord Jesus and his sacrificial obedience, is a sign and symbol of the new covenant and a profound way for discipleship groups to visibly proclaim their shared devotion to the Messiah.
-
-![Share][share.png]
-
----
-
-> Breaking bread was originally fashioned, by the early church, upon the weekly *Sh'bat* (Sabbath) meal of the Jews—a time of thanksgiving for God's deliverance of Israel from the oppression of Egypt.
-
----
-
-Although breaking and sharing bread has typically become ceremonial in modern Christianity, it is possible to incorporate a simple meal into times of meeting together and to identify this prayerfully as a form of breaking bread together. 
-
--	Sharing food together is a vital part of human fellowship and a practical way of celebrating and proclaiming God's daily provision and blessing.
-
--	Where a meal is not practical or possible, consider sharing a small amount of bread together, in a symbolic act of shared hospitality and commitment to membership of the body of the Messiah.
-
-
-### Pray ###
-
-After discussion has taken place, invite the group to pray together, including intercession on behalf of neighbours, networks and communities and local and national rulers and governors.
-
-![Pray][pray.png]
-
--	**Pray for the gospel** to deeply impact and transform individuals, communities, cultures and societies throughout your nation, all of Africa, Europe, Asia and the Americas; pray for unreached people groups.
-
--	**Pray for the Maize Plant Discipleship Project**: that it will be used by God to edify and strengthen and bless the Messianic Community, within Africa ... and beyond!
-
-Finally, send one another forth in mutual prayer and the power of God's blessing.
-
--	Use what has been studied to infuse prayer with fresh confidence concerning God's will and purpose, including personal and vocational concerns and challenges faced by group members. 
-
--	Speak a blessing from Scripture, or as led by the Holy Spirit, towards a group member, a person, community or a specific problem.
-
--	Expect that the power of God's word and the blessing of his life in us will overcome all opposition!
-
-### Act ###
-
-The purpose of our gathering to hear God's message is not simply to hear it, but to act upon it! 
-
-> Everyone who comes to me, hears my words and *acts* of them... he is like someone building a house who dug deep adn laid the foundation on bedrock. When a flood came, the torrent beat against that house but couldn't shake it, because it was constructed well... Whoever hears my words but doesn't *act* on them is like someone who built his house on the ground without any foundation. As soon as the river struck, it collapsed and that house became a horredous wreck.[^fn25]
-
-![Act][act.png]
-
-The goal of discipleship is to be transformed ourselves and to become a transforming influence in our homes and workplaces and communities—"a messianic community blessed...to be a blessing!"
-
-### MPD learning cycle ###
-
-Placing these six learning elements together produces the MPD learning cycle ([](#mpd-learning-cycle.png))
-
-![MPD Learning Cycle][mpd-learning-cycle.png]
-
 ## Practical considerations ##
 
-Facilitating a discipleship group will be most effective when practicalities are considered and appropriate planning takes place. This should be done in advance, in order to grain the most from the group interaction.
+Facilitating a discipleship group will be most effective when practicalities are considered and appropriate planning takes place. This should be done in advance, in order to grain the most from group interaction.
 
 ### Getting started ###
 
-Maize Plant Discipleship is probably ideal for discipleship groups of between eight to twelve people. 
+Maize Plant Discipleship is probably ideal for discipleship groups of between eight to ten people. This is small enough to grow together with a degree of intimacy; large enough for group members to explore discipleship commitment at their own pace.
 
--	This is small enough to allow members to grow together with some degree of intimacy and large enough to allow members sufficient space to explore discipleship commitment at their own pace.
-
--	If you begin with a group of more than twelve people committed to participating in discipleship training, consider whether it is feasible to form more than one group and to begin forming disciples right away, by helping others to facilitate a group.
+-	*More than ten?* Consider forming more than one group and begin forming disciples right away, by helping others to facilitate a group.
 
 ### Involving others ###
 
-Although a facilitator is responsible for convening gatherings, they may delegate responsibilty for hosting, presenting the teaching, or moderating group discussions.
+Although a facilitator is responsible for convening gatherings, they may delegate responsibilty for hosting, presenting the teaching, or moderating group discussions. Sharing responsibilities avoids one person dominating or carrying too much responsibility. Ideally, as many group members as possible should be employed, over time, in sharing responsibilities.
 
--	Sharing these responsibilities avoids one person dominating proceedings or carrying the whole responsibility. If that happens, it can tend to stifle creativity and freedom of thought. Ideally, as many group members as possible should be employed, over time, in sharing responsibilities. *This is a form of discipleship in practice*.
-
--	Whomever is responsible for presenting the topical study should carefully read through the study in advance: absorbing, familiarising and reflecting upon the teaching and its lessons.
-
--	If areas of the study are unfamiliar or unclear, it's important not to ignore these issues. Instead, at the appropriate point, allow the group to discuss them. This will help to produce a lively discussion about that area of the study, encouraging others to bring forward their interpretation of the topic.
+Whoever is presenting the topical study should read through it carefully, in advance: absorbing, familiarising and reflecting upon the teaching and its lessons. If areas are unfamiliar or unclear, don't ignore them. Instead, allow a lively discussion about that area of the study, encouraging others to bring forward their interpretation of the topic.
 
 ### Timetable ###
 
-Planning a timetable for gathering an MPD group must consider how and when whole course of—approximately 64—studies can be completed, considering the nature of the group and availability of time. For example:
+Plan a timetable for the whole syllabus of — approximately 64 — studies to be completed, taking into consideration the nature of the group and availability of time. For example, are members effected by the agricultural or academic calender? 
 
--	Are members effected by the agricultural calender?
--	Are members effected by the academic calender? 
--	What other factors may need to be considered?
 
 ### Location ###
 
 Meeting together can take place in any appropriate location that can comfortably accommodate a group. A large room in someone's home, or a community hall is ideal. 
 
--	If a large building, such as a church, is used consider how the seating can be used to form a more intimate space for the group.
+Consider how the seating can be used to form a more intimate space for the group. It is important that people are able to see one another, in order to provide a practical forum for discussions and a more intimate space in general.
 
--	It is important that people are able to see one another, in order to provide a practical forum for discussions and a more intimate space in general.
-
--	Think about changing the location occasionally. Sometimes outside environments may be helpful in producing a liberating interaction. Experiment to find out what works well for your group.
+Experiment with a change of location occasionally. Outside environments may be helpful in producing a liberating interaction; find out what works well for your group.
 
 ### Adaption ###
 
-Be prepared to adapt both the teaching and the method of presentation, in order to properly facilitate a helpful and culturally-appropriate learning environment. Take into account the abilities and capacities of each particular discipleship group. Here are some suggestions to consider.
+Be prepared to adapt both the teaching and the method of presentation, to create a helpful and culturally-appropriate learning environment. Take into account the abilities and capacities of each particular discipleship group. Here are some suggestions to consider.
 
-1.	Ensure literature is a helpful servant, not "a hard task-master," to oral learners in particular. 
+-	Ensure literature is a helpful servant, not a hard task-master, to oral learners in particular. 
 
--	Invite creative people to contribute by interpreting or celebrating the message of the teaching using drama, art or song.
+-	Avoid overcomplicating matters; try to keep things simple and lighthearted.
+
+-	Consider inviting creative people to contribute by interpreting or celebrating the message of the teaching using drama, art or song.
 
 -	What other ways might it be appropriate to organise the time and the group in order to ensure the learning is culturally appropriate, relevant and practical? 
+
 
 > *Think about these things as you progress throughout this discipleship experience*.
 
 # Publishing MPD #
 
-> I think you are touching something that is not already existing... For example, if we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing!—**Burkinabé theological educator, 2010**
-
-> Freely you have received, therefore freely give—**Jesus,  Matthew 10.8**
+> I THINK you are touching something that is not already existing... If we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing.—*Burkinabé theological educator, 2010*
 
 ## Books for African contexts ##
 
 Over the past three-to-four decades, the African Christian community has multiplied and expanded massively, such that the global Christian community's statistical centre of gravity is now located in Africa. 
 
-While this extraordinary numerical growth has taken place there has been a relative shortage of book publishing within Africa. Resources serving to edify, disciple and inspire Christian communities have been particularly sparse within Francophone Africa. 
+While this extraordinary numerical growth has taken place, there has been a relative shortage of book publishing within Africa. Resources serving to edify, disciple and inspire Christian communities have been particularly sparse within Francophone Africa. 
 
 Furthermore, many books are imports or translations of books written for Christians in different, generally Western, cultural contexts—wherein quite different questions, cultural values and theological imperatives are considered significant. In short, many Christian textbooks used in African leadership training are contextually inappropriate.
 
-Added to this, books are published and distributed in a manner principally designed to protect the commercial interests of authors, publishers, distributers and retailers. Consequently, many books are practically unattainable to those who are economically marginalised—including many dedicated leaders hungry for resources to enrich their vocational work of making Christian disciples.
+Added to this, books are published and distributed in a manner principally designed to protect the commercial interests of authors, publishers, distributers and retailers. Consequently, many books are practically unattainable to those who are economically poor—including many leaders hungry for resources to enrich their vocational work of making Christian disciples. These leaders typically mediate between the two cultural worlds of orality and literacy respectively and consequently need textbooks that
 
-These leaders typically mediate between the two cultural worlds of orality and literacy respectively. Consequently, their need is for textbooks that
-
--	*facilitate*, rather than hinder their movement and mediation between these cultures. 
--	are readily translatable into ethnic, mother-tongue languages. 
--	reproducable and distributable in a manner that favours the econcomically marginalised and that energises missional activity.
+-	facilitate, rather than hinder, mediation between these cultures;
+-	are readily translatable into mother-tongue languages;
+-	can be republished in a low-cost way that energises mission.
 
 ## A new publishing philosophy ##
 
-*Maize Plant Discipleship* has been formulated and published with a missional philosophy at its heart: to practically foster and facilitate a widespread adoption of Christian discipleship praxis, led by contextual African leaders and learners.
+*Maize Plant Discipleship* has been formulated and published to meet these kind of contextual needs. With a missional, rather than commercial, philosophy, intended to practically foster and facilitate a widespread adoption of Christian discipleship praxis, led by African leaders and learners.
 
----
+Accordingly, MPD resources are being licenced for reproduction under the terms of a *Creative Commons* licence. This allows MPD resources to be reproduced, re-published, including translations, and re-distributed within a particular context--without breaching copyrigh, providing any and all reproduction identifies the original author *and* retains the licence as an integral element of the republication.
 
-> **MPD is not a commercial publishing venture**. 
+This respects and maintains the personal copyright of the author and translators, while also releasing the traditionally tight, commercial control of copyright owners and publishers.
 
-> Instead, MPD resources are licenced for reproduction under the terms of a *Creative Commons* licence.
+The licence permits textbooks reproduced under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. 
 
----
+Assuming textbooks of 25 A4 pages, double-sided printing, folded to produce 50 page-length, A5-size booklets, stapled and trimmed, with a single-colour printed cover, estimated production costs suggests a cost per book of $2 is achievable. An agency that organises printing and distribution on behalf of a number of other organisations may be the most appropriate way to economise on cost.
 
-These licences allow MPD resources to be reproduced, re-published (e.g. translated) and re-distributed within a particular context, without breaching copyright.
-
-Providing any reproduction identifies the original author (and translators) and retains the licence as an integral element of the republication.
-
-In this way, the license respects and maintains the personal copyright of the author and of translators—yet also releases the tight, commercial grip of copyright owners and publishers.
-
-## Publishing and distribution examples ##
-
-Under this licensing arrangement, any missional group, denomination or agency wishing to publish MPD handbooks is permitted to—without any licensing cost—*providing they keep to the terms of the licence*.
-
-The licence permits textbooks printed under licence to be sold or otherwise distributed by agencies that organise *translation, printing and distribution*, according to their own priorities and budgetary constraints. This allows for a variety of methods by which MPD text books could be distributed. 
-
--	Example A : Training Seminars
--	Example B : Denominational Bible School
--	Example C : Interdenominational NGO
--	Example D : Commercial Enterprise
-
-All four examples are based on textbooks of approximately 25 A4-sized pages, of double-sided printing, folded to produce 50pp, A5-sized booklets, stapled and trimmed, with a single-colour printed cover.[^fn26] Entire MPD syllabus = 17 textbooks.
-
-| Example |No of modules| No of copies | Cost / book| Total cost | Selling price |  
-|  ------	| ------	| ------	| ------	| ------	| ------	|  
-| A 	| 3	| 50	| 1000	| 150,000	| 1000/book	|  
-| B	| 17	| 25	| 800	| 340,000	| 7000/set |  
-| C	| 17	| 50	| 800	| 680,000	| 800/book |  
-| D	| 17	| 50	| 800	| 680,000	| 1500/book |
-
-The following sets out the advantages annd disadvantages of these examples.
-
-### Example A : Training Seminars ###
-
-Church or denomination reproduces 50 copies of 3 MPD textbooks; total cost 150,000 CFA; distributed to trainees at *cost-price*, providing funds for another 3 x 50 books; repeated 3 times a year, for two years.
-
-> Cost per trainee: 3000 CFA / seminars (9000 / year)
-
-### Example B : Denominational Bible School ###
-
-Denominational bible school reproduces 25 sets MPD syllabus (17 books); total cost 340,000 CFA; distributed at 50% *subsidised* price.
-
-> Cost per student 7000 CFA.
-
-### Example C : Interdenominational NGO ###
-
-Interdenominational NGO reproduces 50 MPD syllabus sets, on behalf of a group of churches and agencies; cost 680,000 CFA; distributed at cost price + 10% (~15,000 CFA per set):
-	
--	25 sets to organisation A @ 374,000 CFA 
--	15 sets to organisation B @ 224,400 CFA
--	10 sets to libraries, translation agencies, other groups and individuals @ 149,600 CFA.
-
-### Example D : Commercial Enterprise ###
-
-Entrepreneur, or NGO, prints 50 syllabus sets; cost 680,000 CFA (13,600 CFA per set); distributing at cost price + 25%:
-
--	25 *sets* to Bible school @ 425,000 CFA (17,000 ea.)
--	250 *books* to individuals, agencies @ 375,000 CFA (1500 ea.)
--	Total income: 800,000 CFA
--	Gross profit: 120,000 CFA
--	Remaining stock: 175 books, valued @ ~140,000 CFA (880 ea.)
-
-## Licensing ##
-
-> Maize Plant Discipleship by John Clements is licensed for distribution within Burkina Faso, as expressed on the following page. 
-
--	Permissions beyond the scope of the license may be available by contacting the author, at http://johnclements.net/contact.
 
 ----
 
-### Creative Commons Licence ###
+## License ##
 
-Creative Commons Attribution-ShareAlike 4.0 REGIONAL License
+Maize Plant Discipleship Facilitator's Handbook (this textbook) by John Clements is licensed for distribution within Burkina Faso, as follows:
 
-> Note: This is a human-readable summary of (and not a substitute for) the license, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode
+Note: This is a human-readable summary of (and not a substitute for) the license, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ---
+
+**Creative Commons Attribution-ShareAlike 4.0 REGIONAL License**. 
 
 **You are free to**:
 
 -	**Share** — copy and re-distribute the material in any medium or format
+
 -	**Adapt** — remix, transform and build upon the material 
 
-for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+> for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 **Under the following terms**:
 
--	Attribution — You must give appropriate credit,[^fn27] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
--	ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn28] as the original.
+-	**Attribution** — You must give appropriate credit,[^fn17] provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+-	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license[^fn18] as the original.
 
-**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+-	**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-**Notice**
+---
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+### Notice ###
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+-	You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. 
+
+-	No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+-	Permissions beyond the scope of the license may be available at http://maizeplantdiscipleship.wordpress.com/contact.
 
 # Further information #
 
@@ -827,43 +787,61 @@ No warranties are given. The license may not give you all of the permissions nec
 
 The text books of the Maize Plant Discipleship Curriculum have been intentionally formulated to be readily translatable. 
 
-If you would like to discuss translating MPD resources, for printing and distribution in another language, please get in touch via the Resources website.
+> If you would like to discuss translating MPD resources, for printing and distribution in another language, please get in touch with the author, or via the MPD website.
 
-## Contact and additional information ##
+## Internet ##
 
-Additional information about *Maize Plant Discipleship* is available via the following websites:
+Additional information about *Maize Plant Discipleship* is available via the project website and twitter feed:
 
--	**Resources**—http://maizeplantdiscipleship.wordpress.com/
+-	http://maizeplantdiscipleship.wordpress.com/ 
+-	@MPDResource 
 
--	**Author**—http://jbclements.wordpress.com/
+
+----
+
+## Author ##
+
+Dr John B Clements is a missiological educator, having received a doctorate from Fuller Theological Seminary School of Intercultural Studies, in 2012. 
+
+-	Vita — http://jbclements.wordpress.com 
+-	Linked-in — http://uk.linkedin.com/in/jbclements
+
+John is married to Sarah; they have three boys and one girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
+
+-	Social networking — http://about.me/jbclements
+-	Twitter — @johnbrc
+-	Email — jbclements@icloud.com
+
+
+
 
 [timothy.png]: timothy.png width=275px height=45px
 
 [mp-metaphor.png]: mp-metaphor.png width=150px height=245px
 
-[mp-roots.png]: mp-roots.png width=200px height=123px
+[mp-roots.png]: mp-roots.png width=250px height=154px
 
 [mp-dynamics.png]: mp-dynamics.png width=251px height=425px
 
 [mp-disciplines.png]: mp-disciplines.png width=310px height=425px
 
-[learning-cycle.png]: learning-cycle.png width=250px height=237px
+[learning-cycle.png]: learning-cycle.png width=225px height=214px
 
-[hear.png]: hear.png width=99px height=99px
+[hear.png]: hear.png width=119px height=120px
 
-[receive.png]: receive.png width=99px height=99px
+[receive.png]: receive.png width=120px height=123px
 
-[open.png]: open.png width=99px height=99px
+[open.png]: open.png width=119px height=121px
 
-[share.png]: share.png width=99px height=99px
+[share.png]: share.png width=119px height=120px
 
-[pray.png]: pray.png width=99px height=99px
+[pray.png]: pray.png width=119px height=121px
 
-[act.png]: act.png width=99px height=99px
+[act.png]: act.png width=119px height=120px
 
 [mpd-learning-cycle.png]: mpd-learning-cycle.png width=307px height=340px
 
-[^fn1]: There is good reason to link these two statements that are seperated only by Paul's emotional description of two disciples who failed to keep the treasure safe, by not standing by Paul at a critical time.
+[^fn1]: There is good reason to link these two statements, seperated as they are only by Paul's emotional description of two disciples who failed to "keep the treasure safe," by not standing with Paul at a critical time.
 
 [^fn2]: John 16:7-15
 
@@ -887,34 +865,14 @@ If you would like to discuss translating MPD resources, for printing and distrib
 
 [^fn12]: Romans 6:4-13
 
-[^fn13]: in Clements, J.B. 2012, "Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners." Fuller Theological Seminary, School of Intercultural Studies. Doctor of Missiology. 187pp.
+[^fn13]: Visit: http://**jbclements.wordpress.com/missiology** for further details of doctoral dissertation, *Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*.
 
-[^fn14]: As well as being trialled in Texas, USA and Wales, UK.
+[^fn14]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
 
-[^fn15]: In the Burkinabé context, discipleship represents a concept imbued with dynamism, incorporating a sense of both inward, personal and outward, communal responsibility: to pass on spiritual and practical disciplines of vitality, such as grace, knowledge, wisdom and maturity. Discipleship also helpfully blurs hard edges between formally-trained leadership and informally-trained workers.
+[^fn15]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change or progress within a system or process.
 
-[^fn16]: Visit: http://**jbclements.wordpress.com/missiology** for further details of my doctoral research—including access to the dissertation: *Facilitating A Renewal of Discipleship Praxis Amongst Burkinabé Leaders and Learners*.
+[^fn16]: Revelation 2:29, 3:6,13,23; Matthew 11:15, Mark 4:9 etc.
 
-[^fn17]: *MPD-Mn* refers to *Maize Plant Discipleship—Module n*, where n = module number.
+[^fn17]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material.
 
-[^fn18]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change or progress within a system or process.
-
-[^fn19]: 1 Corinthians 2:12-13
-
-[^fn20]: Revelation 2:29, 3:6,13,23; Matthew 11:15, Mark 4:9 etc.
-
-[^fn21]: James 1:22-25; see also Hebrews 3:7-19
-
-[^fn22]: Collossians 3:16
-
-[^fn23]: Revelation 10:9-10; also Ezekiel 3:1-14
-
-[^fn24]: Facilitators are invited to incorporate and develop their own ideas.
-
-[^fn25]: Luke 6:47-49
-
-[^fn26]: Example A assumes a cost price of 1000 CFA per text book (~$2, or £1.33). The other examples, based on a larger volume of printing, assume a cost price of 800 CFA. The commercial selling price is an estimate.
-
-[^fn27]: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. Prior versions of CC licenses have slightly different attribution requirements.
-
-[^fn28]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
+[^fn18]: You may also use a license listed as compatible at https://creativecommons.org/compatiblelicenses
