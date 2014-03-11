@@ -1,11 +1,1 @@
-#	MPD Guidelines
-
-**Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies.** Their use does not require expert teachers or theologians: only facilitators willing to co-ordinate small groups of people.
-
-Guidelines on appropriately facilitating study groups and discussions (as well as significant background information) is incorporated in the *Maize Plant Discipleship Facilitators' Handbook*, available from the same source as this handbook. For further information please visit the website:
-
--	<http://maizeplantdiscipleship.wordpress.com/>
-
-## Further Information
-
--	[About](about.md) Maize Plant Discipleship
+#	MPD Guidelines**Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies.** Their use does not require expert teachers or theologians: only facilitators willing to co-ordinate small groups of people.Guidelines on appropriately facilitating study groups and discussions (as well as significant background information) is incorporated in the *Maize Plant Discipleship Facilitators' Handbook*, available from the same source as this handbook. For further information please visit the website:-	<http://maizeplantdiscipleship.wordpress.com/>## Further Information-	[Syllabus](syllabus.md)-	More [about](about.md) Maize Plant Discipleship
