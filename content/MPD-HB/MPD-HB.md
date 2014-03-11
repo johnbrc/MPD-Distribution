@@ -1,6 +1,7 @@
-Version: 0.2.3 --- Post Review Draft
-Change: --- Post Review Draft (0.2.0) ---
---- Author's ammendments (0.2.x) ---
+Version: 0.2.4 --- Post Review Draft
+Change: --- 	Post Review Draft (0.2.0) ---
+--- 	Author's ammendments (0.2.x) ---
+---	Relocated paragraph in Maize Plant Metaphor ---
 LaTex input: 	mpd-textbook-header
 Title: 	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -310,12 +311,6 @@ These *practical, relevant* and *accessible* attributes, extracted from data gat
 
 In the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. Grown throughout sub-Saharan Africa, the maize plant provides a similar, highly recognisable metaphor. 
 
----
-
-> Maize produce effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
-
----
-
 The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor (see [](#mp-metaphor.png)).
 
 1.	**Soil and roots**
@@ -332,7 +327,7 @@ The Maize Plant Discipleship Syllabus is structured to symbolically reflect the 
 
 ![Maize Plant Metaphor][mp-metaphor.png]
 
-
+Maize produce effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 & 20:21.
 
 ### Soil and roots ###
 
@@ -713,7 +708,7 @@ Be prepared to adapt both the teaching and the method of presentation, to create
 
 > *Think about these things as you progress throughout this discipleship experience*.
 
-# Publishing MPD #
+# Republishing MPD #
 
 > I THINK you are touching something that is not already existing... If we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But discipleship is something that is really (an) innovative thing.—*Burkinabé theological educator, 2010*
 
