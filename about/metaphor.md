@@ -1,26 +1,1 @@
-#	Maize Plant Metaphor
-
-In the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. Grown throughout sub-Saharan Africa, the maize plant provides a similar, highly recognisable metaphor. 
-![Maize Plant Metaphor][metaphor] 
-
-The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor 
-
--	**Soil and roots**
-
-	Representing the biblical, covenantal community, context and vocation of Israel.
-
--	**Maize plant**
-
-	Representing the dynamic spiritual growth and multiplication of messianic community.
-
--	**Sunlight and rainfall**
-
-	Representing essential spiritual disciplines that stimulate and sustain the growth of messianic community.
-
-Produce from maize effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (see John 6 & 20:21).
-
-## Further Information
-
--	[About](about.md) Maize Plant Discipleship
-
-[metaphor]:	mp-metaphor.png	height=500px align=right
+#	Maize Plant MetaphorIn the gospel of John, Jesus refers to his own mission using the metaphor of a seed that enters the ground and dies, in order to produce a large harvest. Grown throughout sub-Saharan Africa, the maize plant provides a similar, highly recognisable metaphor. ![Maize Plant Metaphor][metaphor] The Maize Plant Discipleship Syllabus is structured to symbolically reflect the metaphor of a maize plant. There are three main components to the metaphor -	**Soil and roots**	Representing the biblical, covenantal community, context and vocation of Israel.-	**Maize plant**	Representing the dynamic spiritual growth and multiplication of messianic community.-	**Sunlight and rainfall**	Representing essential spiritual disciplines that stimulate and sustain the growth of messianic community.Produce from maize effectively represents *daily bread* for millions of African people. The messianic community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world (see John 6 & 20:21).## Further Information-	[Guidelines](guidelines.md)-	More [about](about.md) Maize Plant Discipleship[metaphor]:	mp-metaphor.png	height=500px align=right
