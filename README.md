@@ -11,7 +11,7 @@ MPD handbooks are formulated to facilitate reflective group learning—so that M
 
 -	[GitHub] is a digital resource distribution hub for [MPD resources]
 
--	See [MPD  website], for further information, including the research and education philosophy guiding the development of MPD resources.
+-	See [MPD website], for further information, including the research and education philosophy guiding the development of MPD resources.
 
 
 ## Thank You ##
