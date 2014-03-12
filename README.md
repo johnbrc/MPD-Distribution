@@ -7,7 +7,7 @@ MPD handbooks are formulated to facilitate reflective group learning—so that M
 
 ##	About
 
--	Read [**more about MPD**](about/about.md)
+-	Read [more about MPD]
 
 -	See [MPD website], for further information, including the research and education philosophy guiding the development of MPD resources.
 
@@ -26,3 +26,4 @@ MPD handbooks are formulated to facilitate reflective group learning—so that M
 [MPD resources]: http://johnbrc.github.io/MPD-Distribution/
 [MPD website]: http://maizeplantdiscipleship.wordpress.com
 [Vita]: https://jbclements.wordpress.com/vita
+[more about MPD]: https://github.com/johnbrc/MPD-Distribution/blob/master/about/about.md
