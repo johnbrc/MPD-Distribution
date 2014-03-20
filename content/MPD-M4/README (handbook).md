@@ -1,0 +1,1 @@
+##	This folder… contains distributable files for a handbook of Maize Plant Discipleship, a learning resource developed in consultation with missional leaders and learners in Burkina Faso, to be appropriate for use in African contexts. ###	Further information-	 [About](../../about/about.md) Maize Plant Discipleship
