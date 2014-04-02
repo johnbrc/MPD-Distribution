@@ -6,7 +6,7 @@
 -	Maize Plant Discipleship <http://maizeplantdiscipleship.wordpress.com>
 -	UK Centre for African Mission <http://ukcafricanmission.wordpress.com>
 
-John is married to Sarah; they have three boys and one girl and, for the last twelve years, have lived in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
+John is married to Sarah; they have four children and, for the last twelve years, have lived in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
 
 -	Social networking <http://about.me/jbclements>
 -	Twitter [@johnbrc](http://twitter.com/johnbrc)
