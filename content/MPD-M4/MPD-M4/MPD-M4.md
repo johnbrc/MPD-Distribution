@@ -1,5 +1,5 @@
-Version: 0.4.4 "Synergy"
-Change: Publication draft, incorporating extensive Tex commands
+Version: 0.4.5 "Halfway House"
+Change: chapters 1,2 now with added latex
 LaTex input:	mpd-header
 Title:	Maize Plant Discipleship Module 4
 Subtitle:	Dynamics of Commissioning
@@ -14,13 +14,13 @@ LaTeX Mode:	memoir
 LaTex input:	mpd-document
 LaTex footer:	mpd-footer
 
-# Using this handbook #
+<!--	\chapter*{Using this handbook}
+	\addcontentsline{toc}{section}{Using this handbook} 
+	\label{Usingthishandbook}-->
 
-## Intro ##
+This module, number 4, explores *God's commissioning* of the Messianic Community, in four inter-related studies:
 
-This module explores *God's commissioning* of the Messianic Community, in four inter-related studies:
-
-## Studies ##
+<!--\begin{studies}-->
 
 1.	The **Commissioning** of Messianic Community
 
@@ -30,23 +30,25 @@ This module explores *God's commissioning* of the Messianic Community, in four i
 
 -	The **Expansion** of Messianic Community
 
-## Handbooks ##
+<!--\end{studies}-->
 
-Module handbooks are designed to facilitate reflective learning and group discussions, based on scripture readings and topical studies. They rely simply upon facilitators willing to co-ordinate small groups of people.
+Maize Plant Discipleship handbooks facilitate reflective learning and group discussions, based on scripture readings and topical studies. They rely simply upon facilitators willing to co-ordinate small groups of learners.
 
-### Guidelines ###
+Comprehensive guidelines on appropriately facilitating study groups and discussions are incorporated in the *Maize Plant Discipleship Facilitators Handbook*—available from the same source as this handbook, or via the website.
 
-Comprehensive guidelines on appropriately facilitating study groups and discussions are incorporated in the *Maize Plant Discipleship Facilitators Handbook*; available from the same source as this handbook, or via the website.
-
-### Project information ###
+<!--\begin{wsite}-->
 
 -	http://maizeplantdiscipleship.wordpress.com/
 
-## Syllabus ##
+<!--\end{wsite}-->
+
+----
+
+<!--\osection{Syllabus}-->
 
 This module is number 4 of 16 comprising the *Maize Plant Discipleship Syllabus*:
 
-### Studies ###
+<!--\begin{syllabus}-->
 
 1.	The Eternal Purpose of God
 -	Dynamics of Vocation, The Nations
@@ -65,13 +67,15 @@ This module is number 4 of 16 comprising the *Maize Plant Discipleship Syllabus*
 - 	Disciplines of Living By Faith
 16.	Disciplines of Overcoming
 
+<!--\end{syllabus}-->
+
 # The Commissioning of Messianic Community #
 
-## Synopsis ##
+<!--\begin{synopsis}-->
 
 **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission**
 
-### Topics ###
+<!--\end{synopsis}\begin{topics}-->
 
 1. Military commissioning
 
@@ -79,15 +83,15 @@ This module is number 4 of 16 comprising the *Maize Plant Discipleship Syllabus*
 
 3. Commissioned as disciples
 
+<!--\end{topics}-->
+
 ### Terms used in this Study ###
 
 Commission
 :	*To charge with responsibility* for a task or duty, as when a military officer is given a specific rank and responsibility (e.g. *he was commissioned after attending the training academy*)
 :	*To grant authority* to undertake a task or function, as when an architect is authorised to build something, (e.g. *the architect was commissioned to manage the project*).
 
-### Scripture ###
-
-#### Read these passages aloud ####
+<!--\osection{Scripture}\bible-->
 
 Read these passages aloud; memorise the **bold** passages.
 
@@ -122,11 +126,11 @@ They are equipped and authorised for military service: capable, ready and truste
 
 In this new phase, soldiers continue to lead highly-disciplined lives and to experience difficult trials and tests. However, unlike the training phase, significant achievements are rewarded—generally by receiving enhanced or additional responsibility.
 
-### Option ###
-
-#### Discuss this topic ####
+<!--\begin{discuss}[Military commissioning]-->
 
 Use **Discussion 1** now, or continue to [**God's commissioning**] and use **Discussions 1-4** together after completing the whole of this Study
+
+<!--\end{discuss}-->
 
 ## God's commissioning ##
 
@@ -166,11 +170,11 @@ The *commission* of the messianic community means being united with and sharing 
 
 Thus, *Messianic commission* refers to joining, uniting with the Messiah, in his mission. We are called to be with him; to be prepared, set apart, blessed, anointed and sent towards the world, for the sake of the world; to bless the peoples of the world, in God's name.[^cf7]
 
-### Option ###
-
-#### Discuss this topic ####
+<!--\begin{discuss}[God's commissioning]-->
 
 Use **Discussion 2** now, or continue to [**Commissioned as disciples**] and use **Discussions 1-4** together after completing the whole of this Study 
+
+<!--\end{discuss}-->
 
 ## Commissioned as disciples ##
 
@@ -198,15 +202,13 @@ Like soldiers, disciples of the Messiah need to learn the basic disciplines and 
 
 -	It is how we become appointed and anointed to work alongside him, gathering a *harvest of faithfulness,[^cf12]* in the power of his Spirit.
 
-### Option ###
-
-#### Discuss this topic ####
+<!--\begin{discuss}[Commissioned as disciples]-->
 
 Use **Discussion 3** now, or continue to the **Summary** and then **Discussions 1-4** to complete this Study
 
-## Summary [s1] ##
+<!--\end{discuss}-->
 
-### Conclusion ###
+<!--\osection{Summary}-->
 
 This concludes Study 1, *The Commissioning of Messianic Community*, which:
 
@@ -218,57 +220,64 @@ This concludes Study 1, *The Commissioning of Messianic Community*, which:
 
 In summary, the study revealed that
 
-### Summary ###
+<!--\begin{summary}-->
 
 **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission: as a community of disciples, called, equipped and chosen to serve God's eternal purpose**
 
+<!--\end{summary}-->
+
 ----
 
-## Discussions[d1] ##
-
-### Discussions ###
+<!--\osection{Discussions}-->
 
 Begin with the first topic; progress to the secondary question, as appropriate.
 
-### 1 - Relating to T1, Military commissioning ###
+<!--\begin{disc}[relating to T1, Military commissioning]-->
 
 > **Discuss how the rigours of military soldiering and its disciplines differ from the challenges of civilian life.**
 
 > How helpful is the military metaphor of soldiering with respect to messianic discipleship in the context of your culture and your personal life?
 
-### 2 - Relating to God's commissioning ###
+<!--\end{disc}
+\begin{disc}[relating to T2, God's commissioning]-->
 
 > **Discuss one thing relating to the idea of commissioning that stood out to you, during this study.**
 
 > How might this idea contribute towards the development of messianic community in your local or national context?
 
-### 3 - Relating to Commissioned as disciples ###
+<!--\end{disc}
+\begin{disc}[relating to T3, Commissioned as disciples]-->
 
 > **Discuss messianic disciplines and hardships that are equivalent to a soldier's basic training.**
 
 > How might a messianic disciple fail the equivalent of basic training?
 
-### 4 - relating to Study 1 ###
+<!--\end{disc}
+\begin{disc}[relating to Study 1, as a whole]-->
 
 > **Discuss the importance of obedience, duty and faithfulness to a commission.**
 
 > How does the *duty* of a commission differ from the *discipline* of basic training?
 
+<!--\end{disc}-->
+
 # The Strategies of Messianic Community #
 
  
 
-## Synopsis ##
+<!--\begin{synopsis}-->
 
 > **Scripture reveals a series of five primary strategies empowering the mission of the Messianic community**
 
-### Topics ###
+<!--\end{synopsis}\begin{topics}-->
 
 1. [The strategy of praying] 
 2. [The strategy of reaching] 
 3. [The strategy of discipling] 
 4. [The strategy of teaching] 
 5. [The strategy of sending] 
+
+<!--\end{topics}-->
 
 ### Terms used in this study ###
 
@@ -278,7 +287,7 @@ Begin with the first topic; progress to the secondary question, as appropriate.
 
 ### Scripture ###
 
-#### Read these passages aloud ####
+<!--\osection{Scripture}\bible-->
 
 Read these passages aloud; memorise the **bold** passages.
 
@@ -297,7 +306,7 @@ The foundational strategy of messianic mission is **prayer**.
 
 ![Foundational strategy: prayer][pray]
 
-[pray]: pray.png height=50px
+[pray]: pray.png height=25px
 
 ### Strategic prayer ###
 
@@ -318,11 +327,11 @@ How does Jesus teach his disciples to respond to this challenge? He points them 
 
 > 	***Pray to the Lord of the harvest***.
 
-### Option ###
+<!--\begin{discuss}[The strategy of praying]-->
 
-#### Discuss this topic ####
+Use **Discussion 1** now, or continue to [**The strategy of reaching**] and use **Discussions 1-4** together after completing the whole of this Study
 
-Use **Discussion 5** now, or continue to [**The strategy of reaching**] and use **Discussions 1-4** together after completing the whole of this Study
+<!--\end{discuss}-->
 
 ## The strategy of reaching ##
 
@@ -330,7 +339,7 @@ The second strategic step is *reaching people*, in order to bring reconciliation
 
 ![Second strategy: reconciliation][reach]
 
-[reach]: pray-reach.png height=50px
+[reach]: pray-reach.png height=25px
 
 ### Reconciliation with God ###
 
@@ -355,14 +364,11 @@ Anything other than a complete change of direction, spiritually and practically,
 
 Reaching *others* with a message of reconciliation and repentance challenges our own lifestyle and faithfulness. If we fail to exhibit kingdom values and priorities, while proclaiming God's kingdom to others, it corrupts our personal testimony and, potentially, that of the Messianic Community. Before reconciling others, we must ourselves be fully reconciled and submitted to God.
 
-### Option ###
+<!--\begin{discuss}[The strategy of praying]-->
 
--	Discuss [*Reconciliation*], or
--	Continue to [*The strategy of discipling*] 
+Use **Discussion 2** now, or continue to [**The strategy of discipling**] and use **Discussions 1-6** together after completing the whole of this Study
 
-#### Discuss this topic ####
-
-Use **Discussion 5** now, or continue to [**The strategy of reaching**] and use **Discussions 5-10** together after completing the whole of this Study
+<!--\end{discuss}-->
 
 ## The strategy of discipling ##
 
@@ -370,7 +376,7 @@ The third strategy is the *formation of disciples* ([](#disciple)).
 
 ![Third strategy: forming disciples][disciple]
 
-[disciple]: pray-reach-disciple.png height=50px
+[disciple]: pray-reach-disciple.png height=25px
 
 ### Discipleship is at the heart of messianic community ###
 
@@ -395,10 +401,11 @@ As we experience a process of formation into disciples of Jesus, we face the cha
 
 Because discipleship deals with the heart, it must be a strategic, practical priority that *precedes* concentrated biblical [teaching][The strategy of teaching], which is for the spiritually mature. Teaching deals with our minds—our understanding, conviction and belief—and excessive teaching of immature, undisciplined people risks *puffing them up with knowledge*, instead of *building them up with God's love*.[^cf14]
 
-### Option ###
+<!--\begin{discuss}[The strategy of praying]-->
 
--	Discuss [*Discipleship*], or
--	Continue to [*The strategy of teaching*] 
+Use **Discussion 3** now, or continue to [**The strategy of teaching**] and use **Discussions 1-6** together after completing the whole of this Study
+
+<!--\end{discuss}-->
 
 ## The strategy of teaching ##
 
@@ -406,7 +413,7 @@ The *fourth* strategy is *teaching* ([](#teach))
 
 ![Fourth strategy: teaching the mature][teach]
 
-[teach]: pray-reach-disciple-teach.png height=50px
+[teach]: pray-reach-disciple-teach.png height=25px
 
 ### Solid food ###
 
@@ -472,8 +479,11 @@ Prophetic teaching has historically tended to represent a threat to mainstream e
 
 ### Option ###
 
--	Discuss [*Teaching*], or
--	Continue to [*The strategy of sending*] 
+<!--\begin{discuss}[The strategy of praying]-->
+
+Use **Discussion 4** now, or continue to [**The strategy of sending**] and use **Discussions 1-6** together after completing the whole of this Study
+
+<!--\end{discuss}-->
 
 ## The strategy of sending ##
 
@@ -481,7 +491,7 @@ The fifth strategy is *sending* disciples ([](#prdts)).
 
 ![Fifth strategy: sending disciples][prdts]
 
-[prdts]: pray-reach-disciple-teach-send.png height=50px
+[prdts]: pray-reach-disciple-teach-send.png height=25px
 
 ### Culmination of strategies ###
 
@@ -515,14 +525,15 @@ Because God sends the whole messianic community towards all the peoples and cult
 
 -	This includes participation in health-, wealth- and other worth-creating activities, such as arts, sports, media, civil service and government, which have historically been overlooked or devalued by some forms of Christian spirituality.
 
-### Option ###
+<!--\begin{discuss}[The strategy of praying]-->
 
--	Discuss [*Sending*], or
--	Continue to [*Summary*][summary-strategy] and [*Discussions*][strategy]
+Use **Discussion 5** now, or continue to the **Summary** and then **Discussions 1-6** to complete this Study
 
-## Summary [s2] ##
+<!--\end{discuss}-->
 
-### Conclusion ###
+----
+
+<!--\osection{Summary}-->
 
 This concludes Study 2, *The Strategies of Messianic Community*, which explored five foundational, missional strategies:
 
@@ -540,45 +551,49 @@ As each generation of disciples follow these strategies, a cyclical process begi
 
 **In summary**, the study revealed that
 
-### Summary ###
+<!--\begin{summary}-->
 
 **Scripture reveals a cycle of five major strategies empowering the mission of the Messianic community: Pray, Reach, Disciple, Teach, Send**
 
+<!--\end{summary}-->
+
 ----
 
-## Discussions [d2] ##
-
-### Discussions ###
+<!--\osection{Discussions}-->
 
 Begin with the first topic; progress to the secondary question, as appropriate.
 
-### D1 - Relating to T1, Prayer ###
+<!--\begin{disc}[relating to T1, Prayer]-->
 
 >	**Discuss practical habits that could help prayer be established as a strategic priority**.
 
 -	What difficulties have you encountered in making prayer a practical priority?	
 -	What is your strategic response to the practical actions that you have discussed? 
 
-### D2 - Relating to T2, Reconciliation ###
+<!--\end{disc}
+\begin{disc}[relating to T2, Reconciliation]-->
 
 > **Discuss what it means to be fully reconciled to God and his kingdom purposes**.
  	
 -	Are you aware of outstanding issues that are hindering you, or your household or family, from experiencing peace with God?	
 -	What actions are you going to take with respect to these issues?
 
-### D3 - Relating to T3, Discipleship ###
+<!--\end{disc}
+\begin{disc}[relating to T3, Discipleship]-->
 
 >	**Discuss things to which your heart is devoted. Be honest**.
 
 - 	In what ways do you recognise you might be sidetracked from a whole-hearted commitment to serving God's purposes?
 
-### D4 - Relating to T4, Teaching ###
+<!--\end{disc}
+\begin{disc}[relating to Teaching]-->
 
 >	**Discuss your personal experiences of what is referred to as the *strong meat* of God's word**.
 
 - 	How have these teachings affected your life?
 
-### D5 - Relating to T5, Sending ###
+<!--\end{disc}
+\begin{disc}[relating to Sending]-->
 
 >	**Discuss what it means to be sent—including whether it is something that happens once, regularly, or continuously.**
 
@@ -586,11 +601,14 @@ Begin with the first topic; progress to the secondary question, as appropriate.
 
 - 	How can we enact a lifestyle of being sent?
 
-### D6 - Relating to Study 2, as a whole ###
+<!--\end{disc}
+\begin{disc}[relating to Study 2, as a whole]-->
 
 >	**Carefully examine Matthew 28:19-20: words of Jesus known as *the great commission*.**
 
 -	How closely does it relate to the five strategies that you have studied?
+
+<!--\end{disc}-->
 
 # The Structures of Messianic Community #
 
