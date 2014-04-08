@@ -1,0 +1,17 @@
+# Current Versions #
+
+Each MPD handbook is identified with a date, time and a version number in: 
+
+-	metadata at the top of editable (MultiMarkdown) source files.
+-	a date-time-version stamp located on initial pages of (LaTex-generated) PDFs.
+
+Version numbers follow the convention: `N.n.x`, where:
+
+- `N` = **published** edition number
+- `n` = **distributed** version number
+- `x` = **author's** iteration
+
+## Further Information
+
+-	Read more about [versioning](about/versioning.md)
+-	[About](about.md) Maize Plant Discipleship
