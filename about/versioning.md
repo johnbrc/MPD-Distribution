@@ -9,7 +9,7 @@ Each MPD handbook is identified with a date, time and a version number. Version 
 
 `n` = DISTRIBUTED version number
 
-revised upwards whenever an AUTHORised version is DISTRIBUTED for purpose of:
+revised upwards when an AUTHORised version is DISTRIBUTED for purpose of:
 
 		-	review	 		0.2.x 
 		-	copy-editing 	0.3.x,
@@ -18,7 +18,7 @@ revised upwards whenever an AUTHORised version is DISTRIBUTED for purpose of:
 
 `x` = AUTHOR's iteration
 
-revised upwards following external input from reviewers, editors etc.
+revised upwards following iterative changes, including input from reviews, proof-reading, copyediting, translation etc.
 
 ## Further Information
 
