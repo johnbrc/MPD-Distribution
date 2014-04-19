@@ -1,6 +1,6 @@
 # Dr John B Clements
 
-![][leo]John is a missiological educator, having received a doctorate from Fuller Theological Seminary School of Intercultural Studies, in 2012.  As well as developing *Maize Plant Discipleship* John is presently working to establish a *UK Centre for African Mission*. 
+![][leo]John is a missiological educator, having been awarded a Doctorate of Missiology, in 2012, from Fuller Theological Seminary School of Intercultural Studies. Alongside development of *Maize Plant Discipleship* John is presently working to establish a UK Centre for African Mission. 
 
 -	Vocational profile <http://jbclements.wordpress.com>
 -	Maize Plant Discipleship <http://maizeplantdiscipleship.wordpress.com>
