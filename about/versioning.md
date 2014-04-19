@@ -4,12 +4,13 @@ Each MPD handbook is identified with a date, time and a version number. Version 
 
 `N` = PUBLISHED edition number
 
-		thus: 	1.0 	for First Edition, etc.
-		and 	0.1.x 	for author's first draft
+		thus: 	1.0 		First Edition, etc.
+		and 	0.1.x 	first draft
 
 `n` = DISTRIBUTED version number
 
-		revised upwards whenever an AUTHORised version is DISTRIBUTED for purpose of:
+revised upwards whenever an AUTHORised version is DISTRIBUTED for purpose of:
+
 		-	review	 	0.2.x 
 		-	copy-editing 	0.3.x,
 		-	publication 	0.4.x 
@@ -17,7 +18,7 @@ Each MPD handbook is identified with a date, time and a version number. Version 
 
 `x` = AUTHOR's iteration
 
-		revised upwards following external input from reviewers, editors etc.
+revised upwards following external input from reviewers, editors etc.
 
 ## Further Information
 
