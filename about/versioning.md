@@ -4,7 +4,7 @@ Each MPD handbook is identified with a date, time and a version number. Version 
 
 `N` = PUBLISHED edition number
 
-		thus: 	1.0 	First Edition, etc.
+		thus: 	1.0 	First Edition
 		and 	0.1.x 	first draft
 
 `n` = DISTRIBUTED version number
