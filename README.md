@@ -6,8 +6,8 @@ Maize Plant Discipleship handbooks are formulated to rely simply upon facilitato
 
 This folder contains two folders. 
 
--	`\content` contains the digital files that represent the Maize Plant Discipleship resource itself. Secondly, 
--	`\about` contains a series of files that are broadly similar to the information contained in the [wiki] for this repository: [Further information]
+-	`\content` contains the digital files representing Maize Plant Discipleship resource. 
+-	`\about` contains a series of [about] files containing content broadly similar to the repository [wiki].
 
 ###	Prospectus 
 
@@ -32,7 +32,7 @@ This folder contains two folders.
 [Website]: https://jbclements.wordpress.com/vita
 [GitHub]: http://johnbrc.github.io
 
-[Further information]: about/about.md
+[About]: about/about.md
 [Prospectus]: about/pdf/Prospectus.pdf
 
 [Digital Distribution Hub]: http://johnbrc.github.io/MPD-Distribution/
