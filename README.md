@@ -6,7 +6,7 @@ Maize Plant Discipleship handbooks are formulated to rely simply upon facilitato
 
 ###	Repository
 
-The MPD-Distribution repository contains two folders: 
+`MPD-Distribution` repository contains two folders: 
 
 -	`\content` contains the digital files representing Maize Plant Discipleship resource. 
 -	`\about` contains a series of [about] files containing content broadly similar to the repository [wiki].
