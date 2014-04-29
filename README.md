@@ -9,11 +9,11 @@ The MPD-Distribution repository contains two folders:
 -	`\content` contains the digital files representing Maize Plant Discipleship resource. 
 -	`\about` contains a series of [about] files containing content broadly similar to the repository [wiki].
 
-###	Prospectus 
+###	Maize Plant Discipleship Prospectus 
 
 -	[Prospectus] ⬇️ — PDF, for general distribution; containing overview, syllabus, author's vita, contact etc. 
 
-### Websites
+### 	Maize Plant Discipleship Websites
 
 -	[Digital Distribution Hub] for Maize Plant Discipleship files
 -	[Project Website] for Maize Plant Discipleship
