@@ -4,11 +4,13 @@ Maize Plant Discipleship is a practical, relevant and accessible discipleship re
 
 Maize Plant Discipleship handbooks are formulated to rely simply upon facilitators willing to co-ordinate small-group study, reflection and discussion, with the goal of facilitating biblical learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
 
+This folder contains two folders. Firstly, `\content` contains the digital files that represent the Maize Plant Discipleship resource itself. Secondly, `\about` contains a series of files that are broadly similar to the information contained in the [wiki] for this repository. 
+
 -	[Further information]
 
 ###	Prospectus 
 
--	[Prospectus] ⬇️ — for general distribution; overview, syllabus, author's vita, contact etc. 
+-	[Prospectus] ⬇️ — PDF, for general distribution; containing overview, syllabus, author's vita, contact etc. 
 
 ### Websites
 
@@ -34,3 +36,4 @@ Maize Plant Discipleship handbooks are formulated to rely simply upon facilitato
 
 [Digital Distribution Hub]: http://johnbrc.github.io/MPD-Distribution/
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
+[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
