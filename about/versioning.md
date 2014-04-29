@@ -12,7 +12,7 @@ Each MPD handbook is identified with a date, time and a version number. Version 
 revised upwards when an AUTHORised version is DISTRIBUTED for purpose of:
 
 		-	review	 		0.2.x 
-		-	copy-editing 	0.3.x,
+		-	copy-editing 	0.3.x
 		-	publication 	0.4.x 
 		-	translation 	0.5.x
 
