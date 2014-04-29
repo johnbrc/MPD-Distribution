@@ -13,7 +13,7 @@ revised upwards when an AUTHORised version is DISTRIBUTED for purpose of:
 
 		-	review	 		0.2.x 
 		-	copy-editing 	0.3.x
-		-	publication 	0.4.x 
+		-	pre-publication 	0.4.x 
 		-	translation 	0.5.x
 
 `x` = AUTHOR's iteration
