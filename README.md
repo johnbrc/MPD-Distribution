@@ -15,8 +15,8 @@ The MPD-Distribution repository contains two folders:
 
 [Prospectus] ⬇️ PDF format
 
-- 	for general distribution
-- 	containing overview, syllabus, author's vita, contact etc. 
+- 	For general distribution
+- 	Contains overview, syllabus, author's vita, contact etc. 
 
 ### 	Websites
 
