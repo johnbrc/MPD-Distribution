@@ -14,7 +14,9 @@ In practice, this means that it is being distributed with a Creative Commons Int
 
 ###	Wiki
 
-This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication.
+This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication. 
+
+**This is the place to begin**, if you're new to GitHub (this digital repository system), in particular.
 
 ###	Prospectus
 
