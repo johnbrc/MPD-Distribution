@@ -6,7 +6,7 @@
 
 ###	Goal and Ethos
 
-Maize Plant Discipleship is being developed as a (relatively) free cultural resource. *Relatively* because the strict definition of FCRs is, well, strict and MPD may not comply exactly. However, it's the closest and simplest description of the aim.
+Maize Plant Discipleship is being developed as a (relatively) free cultural resource. (*Relatively* because the strict definition of FCRs is, well, strict and the final form of the licence under which MPD is published may not comply exactly. However, it's the closest and simplest description of the aim.)
 
 In practice, this means that it is being distributed with a Creative Commons International Licence intended to make it simple and straightforward for translation and republication (e.g. printing and distribution) to take place in response to the resource's digital publication.
 
