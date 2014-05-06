@@ -36,7 +36,7 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 -	[Website]
 -	[GitHub]
 	
-[wiki]: wiki/home.md
+[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki/
 [Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
 
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
