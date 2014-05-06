@@ -20,7 +20,7 @@ This `MPD-Distribution` repository has a comprehensive [wiki], documenting relev
 
 For offline distribution: outline, syllabus, author's vita, internet addresses, contact details
 
--	[Prospectus](pdf/Prospectus.pdf) ⬇️ (pdf)
+-	[Prospectus] ⬇️ (pdf)
 
 ### 	Website
 
@@ -36,7 +36,7 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 -	[Website]
 -	[GitHub]
 	
-[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
+[wiki]: wiki/home.md
 [Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
 
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
