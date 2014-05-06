@@ -1,10 +1,10 @@
 #	Maize Plant Discipleship
 
-##	Concept
+###	Concept
 
 > Maize Plant Discipleship is a practical, relevant and accessible learning resource, developed in consultation with missional leaders and learners in Burkina Faso, to be appropriate for use in African contexts. Accordingly, MPD handbooks are formulated to rely simply upon facilitators willing to co-ordinate small-group study, reflection and discussion, with the goal of facilitating biblical learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
 
-##	Goal and Ethos
+###	Goal and Ethos
 
 Maize Plant Discipleship is being developed as a (relatively) free cultural resource. *Relatively* because the strict definition of FCRs is, well, strict and MPD may not comply exactly. However, it's the closest and simplest description of the aim.
 
@@ -12,17 +12,17 @@ In practice, this means that it is being distributed with a Creative Commons Int
 
 # Find Out More
 
-##	Wiki
+###	Wiki
 
 This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication.
 
-##	Prospectus
+###	Prospectus
 
 For offline distribution: outline, syllabus, author's vita, internet addresses, contact details
 
 -	[Prospectus](pdf/Prospectus.pdf) ⬇️ (pdf)
 
-## 	Website
+### 	Website
 
 -	[Project Website] for Maize Plant Discipleship
 
@@ -30,7 +30,7 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 
 …for your interest in and support for this project.
 
-##	Dr J.B. Clements (Author)
+###	Dr J.B. Clements (Author)
 
 -	[Vita]
 -	[Website]
