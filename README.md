@@ -40,6 +40,6 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 [Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
 
-[Vita]: about/author.md
+[Vita]: https://github.com/johnbrc/MPD-Distribution/wiki/Author
 [Website]: https://jbclements.wordpress.com/vita
 [GitHub]: http://johnbrc.github.io
