@@ -24,7 +24,6 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 
 ### 	Websites
 
--	[Digital Distribution Hub] for Maize Plant Discipleship files
 -	[Project Website] for Maize Plant Discipleship
 
 #	Thank You
@@ -39,8 +38,6 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 
 [wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
 [Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
-
-[Digital Distribution Hub]: http://johnbrc.github.io/MPD-Distribution/
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
 
 [Vita]: about/author.md
