@@ -14,15 +14,13 @@ In practice, this means that it is being distributed with a Creative Commons Int
 
 ###	Wiki
 
-This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication. 
-
-**This is the place to begin**, if you're new to GitHub (this digital repository system), in particular.
+This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication.
 
 ###	Prospectus
 
 For offline distribution: outline, syllabus, author's vita, internet addresses, contact details
 
--	[Prospectus](pdf/Prospectus.pdf) ⬇️ (pdf)
+-	[Prospectus] ⬇️ (pdf)
 
 ### 	Websites
 
@@ -38,14 +36,13 @@ For offline distribution: outline, syllabus, author's vita, internet addresses, 
 -	[Vita]
 -	[Website]
 -	[GitHub]
-	
-[Vita]: about/author.md
-[Website]: https://jbclements.wordpress.com/vita
-[GitHub]: http://johnbrc.github.io
 
-[About]: about/about.md
-[Prospectus]: about/pdf/Prospectus.pdf
+[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
+[Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
 
 [Digital Distribution Hub]: http://johnbrc.github.io/MPD-Distribution/
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
-[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
+
+[Vita]: about/author.md
+[Website]: https://jbclements.wordpress.com/vita
+[GitHub]: http://johnbrc.github.io
