@@ -1,0 +1,1 @@
+#	MPD Imprint**Maize Plant Discipleship** is published by *Write the Vision* -- an imprint of Dr John Benham Clements.## Further Information-	[Copyright](copyright.md)-	More [about](about.md) Maize Plant Discipleship
