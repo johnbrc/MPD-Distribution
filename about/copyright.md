@@ -1,1 +1,0 @@
-#	MPD Copyright© Copyright of Maize Plant Discipleship is legally ascribed to Dr John Benham Clements.## Further Information-	[Republication](republication.md)-	More [about](about.md) Maize Plant Discipleship
