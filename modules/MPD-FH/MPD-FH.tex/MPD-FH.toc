@@ -7,81 +7,60 @@
 \contentsline {subsection}{Facilitating Spirit-led discipleship}{3}{subsection*.3}
 \contentsline {subsection}{Facilitating openness}{3}{subsection*.4}
 \contentsline {subsection}{Who can facilitate?}{4}{subsection*.5}
-\contentsline {section}{\numberline {4}Practical Considerations}{4}{section.1.4}
-\contentsline {subsection}{Getting started}{4}{subsection*.6}
-\contentsline {subsection}{Involving others}{5}{subsection*.7}
-\contentsline {subsection}{Timetable}{5}{subsection*.8}
-\contentsline {subsection}{Location}{5}{subsection*.9}
-\contentsline {subsection}{Adaption}{5}{subsection*.10}
-\contentsline {section}{\numberline {5}Maize Plant Discipleship Learning Process}{6}{section.1.5}
-\contentsline {subsection}{Reflective learning}{6}{subsection*.11}
-\contentsline {subsection}{Adapting the learning process}{7}{subsection*.13}
-\contentsline {subsubsection}{HEAR{\dots }what the Spirit is saying}{8}{subsubsection*.14}
-\contentsline {subsubsection}{RETAIN{\dots }God's message inwardly}{9}{subsubsection*.16}
-\contentsline {subsubsection}{OPEN{\dots }hearts to other's perspectives}{10}{subsubsection*.18}
-\contentsline {subsubsection}{SHARE{\dots }our daily bread}{11}{subsubsection*.20}
-\contentsline {subsubsection}{PRAY{\dots }for God's kingdom to come}{12}{subsubsection*.22}
-\contentsline {subsubsection}{ACT{\dots }in light of God's message}{13}{subsubsection*.24}
-\contentsline {subsubsection}{Maize Plant Discipleship learning cycle}{14}{subsubsection*.26}
-\contentsline {section}{\numberline {6}Other learning forums}{15}{section.1.6}
-\contentsline {subsection}{Personal study}{15}{subsection*.28}
-\contentsline {subsection}{Classroom study}{15}{subsection*.29}
+\contentsline {section}{\numberline {4}Maize Plant Discipleship Learning Process}{4}{section.1.4}
+\contentsline {subsection}{HEAR{\dots }what the Spirit is saying}{6}{subsection*.7}
+\contentsline {subsection}{RETAIN{\dots }God's message inwardly}{7}{subsection*.9}
+\contentsline {subsection}{OPEN{\dots }hearts to other's perspectives}{8}{subsection*.11}
+\contentsline {subsection}{SHARE{\dots }our daily bread}{9}{subsection*.13}
+\contentsline {subsection}{PRAY{\dots }for God's kingdom to come}{10}{subsection*.15}
+\contentsline {subsection}{ACT{\dots }in light of God's message}{11}{subsection*.17}
+\contentsline {subsection}{Maize Plant Discipleship learning cycle}{12}{subsection*.19}
+\contentsline {section}{\numberline {5}Practical Considerations}{13}{section.1.5}
+\contentsline {subsection}{Getting started}{13}{subsection*.21}
+\contentsline {subsection}{Involving others}{13}{subsection*.22}
+\contentsline {subsection}{Replication}{13}{subsection*.23}
+\contentsline {subsection}{Location}{14}{subsection*.24}
+\contentsline {subsection}{Adaption}{14}{subsection*.25}
+\contentsline {subsection}{Timetable}{14}{subsection*.26}
+\contentsline {subsection}{Other learning forums}{15}{subsection*.27}
+\contentsline {subsubsection}{Personal study}{15}{subsubsection*.28}
+\contentsline {subsubsection}{Theological education}{15}{subsubsection*.29}
+\contentsline {subsubsection}{Congregational teaching}{15}{subsubsection*.30}
 \contentsline {chapter}{\chapternumberline {2}The Maize Plant Discipleship Syllabus}{17}{chapter.2}
 \contentsline {section}{\numberline {1}Maize Plant Metaphor}{17}{section.2.1}
-\contentsline {section}{\numberline {2}Soil and roots}{18}{section.2.2}
-\contentsline {subsection}{MPD-M1-Eternal Purpose}{19}{subsection*.31}
-\contentsline {section}{\numberline {3}Maize plant}{19}{section.2.3}
-\contentsline {subsection}{MPD-M2-Dynamics of Vocation-The Nations}{21}{subsection*.34}
-\contentsline {subsection}{MPD-M3-Dynamics of Vocation-The Jews}{21}{subsection*.35}
-\contentsline {subsection}{MPD-M4-Dynamics of Commissioning}{21}{subsection*.36}
-\contentsline {subsection}{MPD-M5-Dynamics of Body Membership}{21}{subsection*.37}
-\contentsline {subsection}{MPD-M6-Dynamics of Revival}{21}{subsection*.38}
-\contentsline {subsection}{MPD-M7-Dynamics of Truth}{21}{subsection*.39}
-\contentsline {subsection}{MPD-M8-Dynamics of Intercession}{21}{subsection*.40}
-\contentsline {subsection}{MPD-M9-Dynamics of Cultural Transformation}{21}{subsection*.41}
-\contentsline {section}{\numberline {4}Sunlight and rainfall}{22}{section.2.4}
-\contentsline {subsection}{MPD-M10-Disciplines of Spiritual Maturity}{22}{subsection*.43}
-\contentsline {subsection}{MPD-M11-Disciplines of Running the Race}{22}{subsection*.44}
-\contentsline {subsection}{MPD-M12-Disciplines of Pressing Toward Our Vocation}{22}{subsection*.45}
-\contentsline {subsection}{MPD-M13-Disciplines of Economic Faithfulness}{22}{subsection*.46}
-\contentsline {subsection}{MPD-M14-Disciplines of Messianic Leadership}{22}{subsection*.47}
-\contentsline {subsection}{MPD-M15-Disciplines of Living by Faith}{24}{subsection*.48}
-\contentsline {subsection}{MPD-M16-Disciplines of Overcoming}{24}{subsection*.49}
-\contentsline {section}{\numberline {5}Handbooks}{24}{section.2.5}
-\contentsline {section}{\numberline {6}Terms and translations}{24}{section.2.6}
-\contentsline {subsection}{Messiah}{24}{subsection*.50}
-\contentsline {subsection}{Messianic}{25}{subsection*.51}
-\contentsline {subsection}{Mother tongue}{25}{subsection*.52}
-\contentsline {section}{\numberline {7}Questions for Reflection and Discussion}{25}{section.2.7}
-\contentsline {chapter}{\chapternumberline {3}Republishing Maize Plant Discipleship Handbooks}{27}{chapter.3}
-\contentsline {section}{\numberline {1}Books for African contexts}{27}{section.3.1}
-\contentsline {section}{\numberline {2}A new publishing philosophy}{28}{section.3.2}
-\contentsline {section}{\numberline {3}License}{30}{section.3.3}
-\contentsline {subsection}{Notice}{31}{subsection*.53}
-\contentsline {chapter}{\chapternumberline {4}Africa and Maize Plant Discipleship}{33}{chapter.4}
-\contentsline {section}{\numberline {1}Introduction}{33}{section.4.1}
-\contentsline {subsection}{African roots}{34}{subsection*.54}
-\contentsline {section}{\numberline {2}Doctoral research}{34}{section.4.2}
-\contentsline {subsection}{Findings}{34}{subsection*.55}
-\contentsline {subsection}{Practical}{35}{subsection*.56}
-\contentsline {subsection}{Relevant}{36}{subsection*.57}
-\contentsline {subsection}{Accessible}{36}{subsection*.58}
-\contentsline {subsection}{Missiological content}{36}{subsection*.59}
-\contentsline {subsection}{Continuous improvement}{37}{subsection*.60}
-\contentsline {section}{\numberline {3}Questions for Reflection and Discussion}{37}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}Maize Plant Philosophy of Discipleship}{39}{chapter.5}
-\contentsline {section}{\numberline {1}What is discipleship?}{40}{section.5.1}
-\contentsline {subsection}{Seed and harvest}{41}{subsection*.62}
-\contentsline {subsection}{Sharing treasure}{41}{subsection*.63}
-\contentsline {section}{\numberline {2}Discipleship movements}{42}{section.5.2}
-\contentsline {subsection}{Discipleship movements in Acts}{43}{subsection*.64}
-\contentsline {subsection}{Intercultural movement}{43}{subsection*.65}
-\contentsline {subsection}{Renewal of movement}{44}{subsection*.66}
-\contentsline {subsection}{Anointed community}{44}{subsection*.67}
-\contentsline {subsection}{Life{\dots }through death}{45}{subsection*.68}
-\contentsline {section}{\numberline {3}The heart of discipleship}{45}{section.5.3}
-\contentsline {section}{\numberline {4}Questions for Reflection and Discussion}{46}{section.5.4}
-\contentsline {chapter}{\chapternumberline {6}Further information}{47}{chapter.6}
-\contentsline {section}{\numberline {1}Translation}{47}{section.6.1}
-\contentsline {section}{\numberline {2}Internet}{47}{section.6.2}
-\contentsline {section}{\numberline {3}Author}{48}{section.6.3}
+\contentsline {subsection}{Soil and roots}{19}{subsection*.32}
+\contentsline {subsection}{Maize plant}{20}{subsection*.34}
+\contentsline {subsection}{Sunlight and rainfall}{22}{subsection*.36}
+\contentsline {section}{\numberline {2}Module handbooks}{24}{section.2.2}
+\contentsline {section}{\numberline {3}Scripture versions}{24}{section.2.3}
+\contentsline {section}{\numberline {4}Significant terms}{24}{section.2.4}
+\contentsline {subsection}{Messiah}{25}{subsection*.38}
+\contentsline {subsection}{Messianic}{25}{subsection*.39}
+\contentsline {subsection}{Vocation}{25}{subsection*.40}
+\contentsline {chapter}{\chapternumberline {3}Maize Plant Philosophy of Discipleship}{27}{chapter.3}
+\contentsline {section}{\numberline {1}What is messianic discipleship?}{27}{section.3.1}
+\contentsline {subsection}{Seed and harvest}{28}{subsection*.42}
+\contentsline {subsection}{Sharing treasure}{29}{subsection*.43}
+\contentsline {section}{\numberline {2}Discipleship movements}{30}{section.3.2}
+\contentsline {subsection}{Intercultural movement}{31}{subsection*.44}
+\contentsline {subsection}{Renewal of movement}{31}{subsection*.45}
+\contentsline {subsection}{Anointed community}{31}{subsection*.46}
+\contentsline {subsection}{Life{\dots }through death}{32}{subsection*.47}
+\contentsline {section}{\numberline {3}The heart of discipleship}{33}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Africa and Maize Plant Discipleship}{35}{chapter.4}
+\contentsline {section}{\numberline {1}Introduction}{35}{section.4.1}
+\contentsline {subsection}{African roots}{36}{subsection*.48}
+\contentsline {section}{\numberline {2}Doctoral research}{36}{section.4.2}
+\contentsline {subsection}{Findings}{37}{subsection*.49}
+\contentsline {subsection}{Practical}{38}{subsection*.50}
+\contentsline {subsection}{Relevant}{38}{subsection*.51}
+\contentsline {subsection}{Accessible}{38}{subsection*.52}
+\contentsline {subsection}{Missiological content}{39}{subsection*.53}
+\contentsline {subsection}{Continuous improvement}{39}{subsection*.54}
+\contentsline {section}{\numberline {3}Questions for Reflection and Discussion}{40}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Republishing Maize Plant Discipleship Handbooks}{41}{chapter.5}
+\contentsline {section}{\numberline {1}Books for African contexts}{41}{section.5.1}
+\contentsline {section}{\numberline {2}What kind of books are needed?}{42}{section.5.2}
+\contentsline {section}{\numberline {3}A new publishing philosophy}{43}{section.5.3}
+\contentsline {subsection}{Translation}{43}{subsection*.55}
+\contentsline {section}{\numberline {4}Licence}{44}{section.5.4}
