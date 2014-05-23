@@ -47,20 +47,23 @@
 \contentsline {subsection}{Anointed community}{31}{subsection*.46}
 \contentsline {subsection}{Life{\dots }through death}{32}{subsection*.47}
 \contentsline {section}{\numberline {3}The heart of discipleship}{33}{section.3.3}
+\contentsline {section}{\numberline {4}Questions for Reflection and Discussion}{33}{section.3.4}
 \contentsline {chapter}{\chapternumberline {4}Africa and Maize Plant Discipleship}{35}{chapter.4}
-\contentsline {section}{\numberline {1}Introduction}{35}{section.4.1}
-\contentsline {subsection}{African roots}{36}{subsection*.48}
+\contentsline {section}{\numberline {1}The Africa factor}{35}{section.4.1}
 \contentsline {section}{\numberline {2}Doctoral research}{36}{section.4.2}
-\contentsline {subsection}{Findings}{37}{subsection*.49}
-\contentsline {subsection}{Practical}{38}{subsection*.50}
-\contentsline {subsection}{Relevant}{38}{subsection*.51}
-\contentsline {subsection}{Accessible}{38}{subsection*.52}
-\contentsline {subsection}{Missiological content}{39}{subsection*.53}
-\contentsline {subsection}{Continuous improvement}{39}{subsection*.54}
+\contentsline {subsection}{Findings}{37}{subsection*.48}
+\contentsline {subsection}{Practical}{38}{subsection*.49}
+\contentsline {subsection}{Relevant}{38}{subsection*.50}
+\contentsline {subsection}{Accessible}{38}{subsection*.51}
+\contentsline {subsection}{Missiological content}{39}{subsection*.52}
+\contentsline {subsection}{Continuous improvement}{39}{subsection*.53}
 \contentsline {section}{\numberline {3}Questions for Reflection and Discussion}{40}{section.4.3}
 \contentsline {chapter}{\chapternumberline {5}Republishing Maize Plant Discipleship Handbooks}{41}{chapter.5}
 \contentsline {section}{\numberline {1}Books for African contexts}{41}{section.5.1}
 \contentsline {section}{\numberline {2}What kind of books are needed?}{42}{section.5.2}
-\contentsline {section}{\numberline {3}A new publishing philosophy}{43}{section.5.3}
-\contentsline {subsection}{Translation}{43}{subsection*.55}
-\contentsline {section}{\numberline {4}Licence}{44}{section.5.4}
+\contentsline {section}{\numberline {3}A new publishing philosophy}{42}{section.5.3}
+\contentsline {subsection}{Facilitating mediation between orality and literacy}{42}{subsection*.54}
+\contentsline {subsection}{Intentionally formulated to be readily translatable}{43}{subsection*.55}
+\contentsline {subsection}{Published according to a missional philosophy}{43}{subsection*.56}
+\contentsline {section}{\numberline {4}Questions for reflection and discussion}{44}{section.5.4}
+\contentsline {section}{\numberline {5}Licence}{45}{section.5.5}
