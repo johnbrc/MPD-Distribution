@@ -37,33 +37,24 @@
 \contentsline {subsection}{Messiah}{25}{subsection*.38}
 \contentsline {subsection}{Messianic}{25}{subsection*.39}
 \contentsline {subsection}{Vocation}{25}{subsection*.40}
-\contentsline {chapter}{\chapternumberline {3}Maize Plant Philosophy of Discipleship}{27}{chapter.3}
-\contentsline {section}{\numberline {1}What is messianic discipleship?}{27}{section.3.1}
-\contentsline {subsection}{Seed and harvest}{28}{subsection*.42}
-\contentsline {subsection}{Sharing treasure}{29}{subsection*.43}
-\contentsline {section}{\numberline {2}Discipleship movements}{30}{section.3.2}
-\contentsline {subsection}{Intercultural movement}{31}{subsection*.44}
-\contentsline {subsection}{Renewal of movement}{31}{subsection*.45}
-\contentsline {subsection}{Anointed community}{31}{subsection*.46}
-\contentsline {subsection}{Life{\dots }through death}{32}{subsection*.47}
-\contentsline {section}{\numberline {3}The heart of discipleship}{33}{section.3.3}
-\contentsline {section}{\numberline {4}Questions for Reflection and Discussion}{33}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Africa and Maize Plant Discipleship}{35}{chapter.4}
-\contentsline {section}{\numberline {1}The Africa factor}{35}{section.4.1}
-\contentsline {section}{\numberline {2}Doctoral research}{36}{section.4.2}
-\contentsline {subsection}{Findings}{37}{subsection*.48}
-\contentsline {subsection}{Practical}{38}{subsection*.49}
-\contentsline {subsection}{Relevant}{38}{subsection*.50}
-\contentsline {subsection}{Accessible}{38}{subsection*.51}
-\contentsline {subsection}{Missiological content}{39}{subsection*.52}
-\contentsline {subsection}{Continuous improvement}{39}{subsection*.53}
-\contentsline {section}{\numberline {3}Questions for Reflection and Discussion}{40}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}Republishing Maize Plant Discipleship Handbooks}{41}{chapter.5}
-\contentsline {section}{\numberline {1}Books for African contexts}{41}{section.5.1}
-\contentsline {section}{\numberline {2}What kind of books are needed?}{42}{section.5.2}
-\contentsline {section}{\numberline {3}A new publishing philosophy}{42}{section.5.3}
-\contentsline {subsection}{Facilitating mediation between orality and literacy}{42}{subsection*.54}
-\contentsline {subsection}{Intentionally formulated to be readily translatable}{43}{subsection*.55}
-\contentsline {subsection}{Published according to a missional philosophy}{43}{subsection*.56}
-\contentsline {section}{\numberline {4}Questions for reflection and discussion}{44}{section.5.4}
-\contentsline {section}{\numberline {5}Licence}{45}{section.5.5}
+\contentsline {chapter}{\chapternumberline {3}Africa and Maize Plant Discipleship}{27}{chapter.3}
+\contentsline {section}{\numberline {1}Books and African contexts}{27}{section.3.1}
+\contentsline {subsection}{The Africa factor}{28}{subsection*.41}
+\contentsline {section}{\numberline {2}Doctoral research}{29}{section.3.2}
+\contentsline {subsection}{Discipleship}{29}{subsection*.42}
+\contentsline {subsection}{Theology}{29}{subsection*.43}
+\contentsline {subsection}{Literature}{30}{subsection*.44}
+\contentsline {section}{\numberline {3}Licence}{31}{section.3.3}
+\contentsline {section}{\numberline {4}Improvement and republication}{32}{section.3.4}
+\contentsline {section}{\numberline {5}Questions for Reflection and Discussion}{33}{section.3.5}
+\contentsline {chapter}{\chapternumberline {4}Maize Plant Philosophy of Discipleship}{35}{chapter.4}
+\contentsline {section}{\numberline {1}What is messianic discipleship?}{35}{section.4.1}
+\contentsline {subsection}{Seed and harvest}{36}{subsection*.46}
+\contentsline {subsection}{Sharing treasure}{37}{subsection*.47}
+\contentsline {section}{\numberline {2}Discipleship movements}{38}{section.4.2}
+\contentsline {subsection}{Intercultural movement}{39}{subsection*.48}
+\contentsline {subsection}{Renewal of movement}{39}{subsection*.49}
+\contentsline {subsection}{Anointed community}{39}{subsection*.50}
+\contentsline {subsection}{Life. Through death}{40}{subsection*.51}
+\contentsline {section}{\numberline {3}The heart of discipleship}{41}{section.4.3}
+\contentsline {section}{\numberline {4}Questions for Reflection and Discussion}{41}{section.4.4}
