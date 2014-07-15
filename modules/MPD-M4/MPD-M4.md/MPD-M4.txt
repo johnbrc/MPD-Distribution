@@ -1,5 +1,5 @@
-Version: 0.4.8 "Journey's End"
-Change: finalising production draft
+Version: 0.5.0 "Speaking in Tongues"
+Change: Translation draft
 LaTex input:	mpd-header
 Title:	Maize Plant Discipleship Module 4
 Subtitle:	Dynamics of Commissioning
@@ -11,7 +11,7 @@ Copyright:	John B Clements, 2014.  Maize Plant Discipleship by John B Clements i
 Keywords:	discipleship, mission, messianic, community 
 Base Header Level:	2
 LaTeX Mode:	memoir
-LaTex input:	mpd-document
+LaTex input:	mpd-document-modules
 LaTex footer:	mpd-footer
 
 # Using this handbook #
@@ -50,7 +50,7 @@ Comprehensive guidelines on appropriately facilitating study groups and discussi
 
 The Maize Plant Discipleship Syllabus incorporates a Facilitators Handbook and 16 modular Handbooks, themed to symbolically reflect the maize plant metaphor, by referring to the imagery of soil, roots, growth, sunlight and rainfall.
 
-### Studies ###
+### Modules ###
 
 1.	The Eternal Purpose of God
 -	Dynamics of Vocation, The Nations
@@ -144,11 +144,11 @@ This topic explores the origins of the word *mission* and its connection with *c
 
 The English word, *mission[^cf1]* was originally used exclusively to refer to God's active sending of himself, into the world, to restore it from the effects of human wickedness, idolatry, chaos, spiritual darkness, oppression, injustice and evil.[^cf2] This is seen in three particular ways. 
 
-The Old Testament reveals God's glorious Presence
+The Old Testament reveals God's glorious *Shekinah* Presence
 :	most vividly as a pillar of cloud and fire during the exodus from Egypt, within the Tabernacle of Meeting, above the Ark of the Covenant and at Solomon's dedication of the temple.[^cf3]
 
 The New Testament reveals the Messiah, Jesus
-:	as *Lamb of God, apostle, high priest[^cf4]* and *the radiance of the (Shekinah) glory, the very expression of God's essence...the visible image of the invisible God[^cf5]*—in every way Jesus the Messiah reflects the reality that God the Father is a missional god.
+:	as *Lamb of God, apostle, high priest[^cf4]* and *the radiance of the (Shekinah) glory, the very expression of God's essence...the visible image of the invisible God*—in every way Jesus the Messiah reflects the reality that God the Father is a missional god.[^cf5]
 
 The New Testament reveals the Holy Spirit
 :	as the *Breath[^cf6]* of the Messiah, sent by the Messiah, as the Messiah was sent by the Father, the Holy Spirit empowers and *sends* the Messianic Community, anointing it to do the works of God.[^cf7] and to become his living temple.[^cf8]
@@ -198,7 +198,7 @@ Those who hear and respond to a calling to military service are commissioned onl
 
 Like soldiers, disciples of the Messiah also need to learn basic disciplines and specialised skills. Like soldiers, progressing from calling to commissioning requires yielding ourselves fully to the demands of vocational service, in order to become disciplined, skilled, and faithful in accomplishing our work. 
 
-Thus the process of *calling—training—commissioning* represents the method by which the Messiah prepares his disciples for useful service.[^cf14] This is how we become *co-workers* with the Messiah in his mission. It is how we become *chosen* by him, which means to be appointed and anointed to work alongside him, reaping a *harvest of faithfulness,[^cf15]* in the power of his Spirit.
+Thus the process of *calling—training—commissioning* represents the method by which the Messiah prepares his disciples for useful service.[^cf14] It is how we become *co-workers* with the Messiah in his mission. It is how we become *chosen* by him, which means to be appointed and anointed to work alongside him, reaping a *harvest of faithfulness,[^cf15]* in the power of his Spirit.
 
 ### Discuss this topic ###
 
@@ -207,6 +207,14 @@ Thus the process of *calling—training—commissioning* represents the method b
 -	What messianic disciplines might be compared to basic military training?
 
 -	How might a messianic disciple fail the equivalent of basic training?
+
+## Bonus discussions: Study 1 ##
+
+### Bonus D1, relating to Study 1 ###
+
+-	How does the *duty* of a commission differ from the *discipline* of basic training?
+
+-	Describe the responsibility imparted by the giving and receiving of a commission.
 
 ## Summary: Study 1 ##
 
@@ -225,14 +233,6 @@ In summary, the study revealed how:
 ### Summary ###
 
 **The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission: as a community of disciples, called, equipped and chosen to serve God's eternal purpose**
-
-## Bonus discussions: Study 1 ##
-
-### Bonus D1, relating to Study 1 ###
-
--	How does the *duty* of a commission differ from the *discipline* of basic training?
-
--	Describe the responsibility imparted by the giving and receiving of a commission.
 
 # The Strategies of Messianic Community #
 
@@ -469,7 +469,7 @@ Whether inter- or intra-culturally, God is the one who equips, empowers and send
 
 As each generation of disciples is prepared, taught and sent, they carry the responsibility to renew the whole process in their own context. This generational impetus is integral to the entire strategic process. It generates a cyclical process that is capable of establishing an expanding, missional movement.
 
-#### Figure: Cyclical process ####
+#### Figure: Commissioning cycle ####
 
 ![][commissioncycle.png]
 
@@ -725,7 +725,11 @@ Of the five leadership gifts,[^cf47] pastor, evangelist, teacher and apostle are
 
 Overlaying the three circles representing each of the three foundational messianic structures, creates a central region where all three overlap. This region may be identified as representing the *prophetic heart* of messianic community.
 
+#### Figure: prophetic, mediatory role ####
+
 ![][propheticmediatoryrole.png]
+
+#### Prophetic heart ####
 
 The idea of a central heart, interacting with and influencing each of the other ministry structures thus provides a profound metaphor for the prophetic ministry. This suggests the prophetic role is vital, influential and central, even though it functions in a somewhat hidden, non-structural manner.
 
@@ -1126,7 +1130,7 @@ Module 5 explores *Dynamics of Body Membership*. For further information see: *U
 
 [pray-reach-disciple-teach-send.png]: pray-reach-disciple-teach-send.png width=292px height=26px
 
-[commissioncycle.png]: commissioncycle.png width=195px height=200px
+[commissioncycle.png]: commissioncycle.png width=243px height=250px
 
 [pastoral-evangelistic-community.png]: pastoral-evangelistic-community.png width=125px height=125px
 
@@ -1140,11 +1144,11 @@ Module 5 explores *Dynamics of Body Membership*. For further information see: *U
 
 [pioneeringpower.png]: pioneeringpower.png width=125px height=125px
 
-[propheticmediatoryrole.png]: propheticmediatoryrole.png width=179px height=199px
+[propheticmediatoryrole.png]: propheticmediatoryrole.png width=225px height=250px
 
 [pickingupgodsheartbeat.png]: pickingupgodsheartbeat.png width=200px height=233px
 
-[structuralinteractions.png]: structuralinteractions.png width=199px height=190px
+[structuralinteractions.png]: structuralinteractions.png width=235px height=225px
 
 [swarm-bw.png]: swarm-bw.png width=90px height=122px
 
