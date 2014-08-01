@@ -39,7 +39,7 @@ When we share our lives, we learn together and *learning groups* mirror this rea
 
 ### Learning, not teaching? ###
 
-Yes. Maize Plant Discipleship is principally a *learning*, rather than a *teaching* resource. Learning depends on much more than the presentation of topical information, such as desire, temperament, experience, opportunity, talent, time, energy, environment and so forth. Thus the decision to learn something new must always begin with the student themselves. 
+Yes. Maize Plant Discipleship is principally a *learning*, rather than a *teaching* resource. Learning depends on many factors, in addition to the presentation of topical information—most of which relate to the student, rather than the teacher or teaching. Such factors include desire, temperament, experience, talent, time, energy, environment and so forth. Thus the decision to learn something new must always begin with the student themselves. 
 
 Accordingly, discipleship should be recognised as a form of learning that is called out of students or disciples, through the guidance and direction of a facilitator, mentor, educator or teacher. People in those roles come alongside *motivated learners* to assist, encourage, facilitate and *call out* the learning taking place within those being discipled.
 
