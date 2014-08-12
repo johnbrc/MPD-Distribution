@@ -1,17 +1,17 @@
-Version: 0.3.7 --- Copyediting Draft
-Change: Final tinkering
+Version: 0.3.8 --- Copyediting Draft
+Change: incorporating adaptions to tex input files
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
 Author:	Dr John B Clements
 Twitter:	@johnbrc, @mpdresource
 Email:	clements.jb@gmail.com
-Web:	http://maizeplantdiscipleship.wordpress.com
-Copyright:	John B Clements, 2014.  Maize Plant Discipleship by John B Clements is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Based on a work at http://johnbrc.github.io/MPD-Distribution
+Web:	http://maizeplantdiscipleship.info
+Copyright:	John B Clements, 2014.  Maize Plant Discipleship by John B Clements is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence. Based on a work at http://johnbrc.github.io/MPD-Distribution
 Keywords:	discipleship, mission, messianic, community 
 Base Header Level:	2
 LaTeX Mode:	memoir
-LaTex input:	mpd-document-facilitator
+LaTex input:	mpd-document-fh
 LaTex footer:	mpd-footer
 
 # Maize Plant Discipleship #
@@ -149,7 +149,7 @@ The entire Maize Plant Discipleship syllabus incorporates approximately 64 studi
 
 ### Other learning forums ###
 
-Maize Plant Discipleship handbooks can easily lend themselves to personal study, theological education or other forms of guided learning. In particular,
+Maize Plant Discipleship handbooks can easily lend themselves to personal study, theological education and other forms of guided learning. In particular,
 
 -	Scripture references, within in the footnotes, provide a rich treasury of addition material for in-depth biblical study
 
@@ -157,7 +157,7 @@ Maize Plant Discipleship handbooks can easily lend themselves to personal study,
 
 #### Personal study ####
 
-Students using Maize Plant Discipleship handbooks for personal study should seek to incorporate [reflective learning methods] by either submitting the fruit of their study to the oversight of a mentor, or sharing it with a fellow student, for reflection, discussion and critical consideration.
+Students using Maize Plant Discipleship handbooks for personal study should seek to incorporate [reflective learning] methods by either submitting the fruit of their study to the oversight of a mentor, or sharing it with a fellow student, for reflection, discussion and critical consideration.
 
 #### Theological education ####
 
@@ -181,7 +181,7 @@ Maize Plant Discipleship studies can be adapted for use in local congregations. 
 
 # Maize Plant Discipleship Learning Process #
 
-THIS CHAPTER ENCAPSULATES the reflective learning process intended to underlie presentation of the Maize Plant Discipleship syllabus.
+THIS CHAPTER PRESCRIBES the reflective learning process intended to underlie presentation of the Maize Plant Discipleship syllabus.
 
 ## Reflective Learning ##
 
@@ -193,7 +193,7 @@ Maize Plant Discipleship modules are structured to provide a *reflective learnin
 
 -	**Discussing** — understanding and sharpening conviction in conversation with others.
 
--	**Acting** — by integrating learning into praxis, in vocational contexts.
+-	**Acting** — integrating learning into practice, in vocational contexts.
 
 As this learning process is repeated, it becomes a *cycle*, which can be illustrated figuratively.
 
@@ -203,7 +203,7 @@ The *Maize Plant Discipleship Learning Process* builds upon this basic cycle, by
 
 > They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer.
 
-This provides The *Maize Plant Discipleship Learning Process* with *six* elements (in practice, it may not be possible to incorporate all the elements, each time a learning group meets):
+The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus the *Maize Plant Discipleship Learning Process* has *six* elements altogether (in practice, it may not always be possible to incorporate all of them, each time a learning group meets):
 
 1.	**HEAR** ... listen, heed
 -	**RETAIN** ... meditate, reflect
@@ -608,7 +608,7 @@ Two things are essential to transformative people movements: *vision* and the *g
 -	operating as co-workers—not selfishly ambitious individuals
 -	active in forming other faithful disciples.
 
-Thus develops a visionary, discipling movement of focused, inspired, dynamic people, deeply and profoundly allied to a cause and purpose greater than themselves. The formation of faithful disciples was at the heart of Jesus' life and work and today the entire historical and now worldwide Messianic (Christian) movement is testimony to the power of that one small, core group of disciples, formed around Jesus.
+Thus develops a visionary, discipling movement of focused, inspired, dynamic people, deeply and profoundly allied to a cause and purpose greater than themselves. The formation of faithful disciples was at the heart of Jesus' life and work. Today the entire historical and now worldwide Messianic (Christian) movement testifies to the significance of that small, core group of disciples, formed around Jesus.
 
 <!--\begin{pause}-->
 
@@ -693,7 +693,7 @@ THIS CHAPTER EXPLAINS the development and potential of Maize Plant Discipleship 
 
 Tite Tienou, a Malian who grew up in Burkina Faso, encapsulates a significant aspect of the philosophy that has guided the development of Maize Plant Discipleship: African voices should determine the theology that is of practical relevance to African contexts. Tienou states:
 
-> Africanness and (theological) correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of African's in their total context. Quite naturally, the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
+> Africanness and (theological) correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of Africans in their total context. Quite naturally, the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 
 Although Maize Plant Discipleship is authored by an outsider to Africa, it could and would not have developed without the critical input, as well as missional energy, encouragement, friendship and culture of African people. At each stage of its formation, it has been:
 
@@ -703,23 +703,18 @@ Although Maize Plant Discipleship is authored by an outsider to Africa, it could
 
 In this final stage of development, it has been formulated for publication as a series of low-cost, practical, relevant and accessible modular handbooks, in response to missiological doctoral research carried out amongst leaders and learners in Burkina Faso.
 
-## Doctoral Research ##
-
-Between 2009 and 2013, a selection of Maize Plant Discipleship seminars were delivered to conferences in Léo and Ouagadougou. Following this, a series of survey questionnaires, focus groups and personal interviews:
-
--	Enabled the gathering of a wide range of reflective opinions, perspectives, information,  insights, questions and concerns, relating to discipleship, theology, leadership training, methodologies, literature and intercultural dynamics.
-
--	Revealed a number of significant findings, which have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: *discipleship, theology and literature*.
-
 <!--\begin {pause}-->
-
-Over 70 Burkinabé participants —
-:	contributed to the research, almost all of whom held local, regional, national and denominational responsibilities for leadership training and the development of discipleship praxis. 	
 
 Romans 4:17 —
 :	Abraham is described as one whose faith *called into being things that did not exist*; in essence, Maize Plant Discipleship has been *called into being* by the faith of Africans, acting in response to African contexts.
 
 <!--\end {pause}-->
+
+## Doctoral Research ##
+
+Between 2003 and 2010, multiple prototypes of Maize Plant Discipleship seminars were delivered to conferences in Léo and Ouagadougou. In 2010, the author conducted doctoral research using a series of survey questionnaires, focus groups and personal interviews. This enabled the gathering of a wide range of reflective opinions, perspectives, insights, information, questions and concerns relating to discipleship, theology, leadership training, methodologies, literature and intercultural dynamics. 
+
+Over 70 Burkinabé participants contributed to the research. Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship—particularly in relation to: *discipleship, theology and literature*.
 
 ### Discipleship ###
 
@@ -731,10 +726,10 @@ Research participants identified strongly with the concept of discipleship and, 
 
 ### Theology ###
 
-Participants consistently validated the theological content of the training prototype. Accordingly, Maize Plant Discipleship incorporates a:
+Participants consistently validated the theological content of the training prototype. Accordingly, Maize Plant Discipleship incorporates:
 
-1.	Holistic worldview, communal orientation, charismatic spirituality
--	Historical, covenantal, missionary interpretation of Scripture
+1.	A holistic worldview, communal orientation, charismatic spirituality
+-	A historical, covenantal, missionary interpretation of Scripture
 -	Biblical theologies of discipleship, suffering and overcoming; spiritual revival, intercessory prayer and spiritual power; poverty and prosperity; personal and corporate vocation; Christ-centred servant-leadership and cultural transformation.
 
 <!--\begin {pause}-->
@@ -742,7 +737,7 @@ Participants consistently validated the theological content of the training prot
 One Burkinabé theological educator —
 :	examining a prototype Maize Plant Discipleship booklet, stated:
 
-> *You are touching something that is not already existing. If we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But (a series of books on) discipleship is something that is really an innovative thing.*
+>	*You are touching something that is not already existing. If we talk about evangelism, it may well be a new way of approaching evangelism, but we already have many methods of evangelism. But (a series of books focusing on) discipleship is ... really an innovative thing.*
 
 <!--\end {pause}-->
 
@@ -752,7 +747,7 @@ Research participants strongly expressed a desire for *contextually appropriate 
 
 1.	Formulated to cross boundaries of orality and literacy
 
-	-	Focussed on practical discipleship—not theoretical ideas
+	-	Focused on practical discipleship—not theoretical ideas
 	-	Studies devised for use amongst cohort groups
 	-	Incorporating reflective learning, group discussion and scripture memorisation
 	-	Containing numerous graphical and metaphorical illustrations.
@@ -797,7 +792,7 @@ An agency organising republication —
 
 ### Improvement and Republication ###
 
-Maize Plant Discipleship has been intentionally developed to be practical, relevant and accessible for use in African and majority world contexts. After you have explored and trialled Maize Plant Discipleship resources, if you have ideas about how it might be improved, please let me know.
+Maize Plant Discipleship has been intentionally developed to be practical, relevant and accessible for use in African and majority world contexts. After you have explored and trialled Maize Plant Discipleship resources, if you have ideas about how it might be improved, please let me know, via www.maizeplantdiscipleship.info.
 
 <!--\begin {pause}-->
 
@@ -808,22 +803,20 @@ For example —
 
 <!--\end {pause}-->
 
--	The Creative Commons License reproduced opposite, in simplified form, governs the use of the whole Maize Plant Discipleship syllabus. It permits republication and adaption, including translation. 
+-	The Creative Commons Licence reproduced opposite, in simplified form, governs the use of the whole Maize Plant Discipleship syllabus. It permits republication and adaption, including translation. 
 
 	Simply follow the terms of the licence precisely, particularly *attribution* and *sharing-alike*, so that others can access, use and share the reworked resource in a similar way.
 
 <!--\begin {questions}-->
 
--	Do you think it's important that African Christians decide upon what is missiologically appropriate to African contexts?
+-	Why is it important that African Christians decide upon what is missiologically appropriate to African contexts?
 
 -	Has this happened historically in your contexts? 
 
-	-	If not, why not? 
-	-	If so, what has changed?
+	-	If not, why might that be? 
+	-	If so, what has changed as a result?
 
--	What missiological issues are important to you and others in your context?
-
--	If they aren't in this syllabus, what might you do? 
+-	What missiological issues are important to you and others in your context? 
 
 <!--\end {questions}-->
 
@@ -882,7 +875,7 @@ Social
 
 -	Using Maize Plant Discipleship resources? Let us know!
 
-[learning-cycle.png]: learning-cycle.png width=208px height=200px
+[learning-cycle.png]: learning-cycle.png width=207px height=200px
 
 [hear.png]: hear.png width=119px height=120px
 
@@ -896,7 +889,7 @@ Social
 
 [act.png]: act.png width=119px height=120px
 
-[mpd-learning-cycle.png]: mpd-learning-cycle.png width=289px height=319px
+[mpd-learning-cycle.png]: mpd-learning-cycle.png width=271px height=299px
 
 [mp-metaphor.png]: mp-metaphor.png width=168px height=275px
 
