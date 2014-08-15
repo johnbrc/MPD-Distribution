@@ -1,4 +1,4 @@
-Version: 0.3.9 --- Copyediting Draft
+Version: 0.3.10 --- Copyediting Draft
 Change: figures; ch5; ch4-discipleship movements
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
@@ -206,8 +206,8 @@ The *Maize Plant Discipleship Learning Process* builds upon this basic cycle, by
 The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus the *Maize Plant Discipleship Learning Process* has *six* elements altogether:
 
 1.	**HEAR** ... what the Spirit is saying
--	**RETAIN** ... God's message inwards
--	**OPEN** ... heart to other perspectives
+-	**RETAIN** ... God's message inwardly
+-	**OPEN** ... hearts to others
 -	**SHARE** ... daily bread together
 -	**PRAY** ... for God's kingdom to come
 -	**ACT** ... in the light of God's message
@@ -367,7 +367,7 @@ Jesus refers to his own mission using the metaphor of a seed that enters the gro
 
 > I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest — *Jesus, John 12:24*
 
-Maize is grown throughout sub-Saharan Africa and thus provides a similar, highly recognisable metaphor relating to the essential dynamics of life, death, sustenance and growth. The Maize Plant Discipleship Syllabus is symbolically structured to reflect this fundamental metaphor:
+Maize is grown throughout sub-Saharan Africa and provides a similar, highly recognisable metaphor relating to the essential dynamics of life, death, sustenance and growth. The Maize Plant Discipleship Syllabus is symbolically structured to reflect this fundamental metaphor:
 
 ----
 
@@ -393,7 +393,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 
 -	**Module 1, The Eternal Purpose of God**
 
-	Establishes a panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is *the Seed* that enters the soil of the biblical, covenantal history of the people of Israel, in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. *Module 1, thus forms the foundation of the entire syllabus*.
+	Establishes a panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is *the Seed* that sprouts from the soil of the biblical, covenantal history of the people of Israel, in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. *Module 1, thus forms the foundation of the entire syllabus*.
 
 ![][mpd-roots.png]
 
@@ -597,13 +597,13 @@ Discipline and sacrifice are amongst the most significant secrets to living a tr
 
 Nevertheless, spiritual treasure should never be wasted or cast away carelessly. Whilst some seed inevitably falls upon unreceptive ground, a farmer never intentionally wastes seed. Similarly, spiritual treasure is too precious to be deliberately squandered on people who spurn its value.[^fn11] Investment must be made with people who recognise the worth of this treasure and who make room for its transformative power.
 
-Such people are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] people willing to be transformed through a personal knowledge and experience of the Messiah, who will share their treasure with other faithful people ... who will share it with other faithful people ... and so on and so forth.
+Such people are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] people willing to be transformed through a personal knowledge and experience of the Messiah, who will share their treasure with other faithful people ... who will share it with other faithful people and so on and so forth.
 
 ----
 
 ## Discipleship Movements ##
 
-The formation of faithful disciples was at the heart of Jesus' life and work. Today the entire historical and now worldwide Messianic (Christian) movement testifies to the significance of that small, core group of disciples, formed around Jesus.
+The formation of faithful disciples was at the heart of Jesus' life and work. Today the entire historical and now worldwide Messianic movement testifies to the significance of that small, core group of disciples, formed around Jesus.
 
 Although rarely consistently, the Messianic Community has grown and developed dynamically, since its birth in the first century, over the course of two millennia. From its origins as an obscure, tiny, Jewish sect it has developed into an international, intercultural, multi-ethnic community that exists, today, in some form or another, in practically every nation of the world.
 
@@ -622,32 +622,32 @@ The book of Acts provides a powerful illustration —
 
 <!--\end{pause}-->
 
-### Loss of momentum ###
+### Loss of generational momentum ###
 
-Withal, history also teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, but are today, sadly, only historical footnotes. Others continue institutionally, yet without any real sense of spiritual renewal and generational momentum. 
+Withal, history also teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, but are today, sadly, only historical footnotes. Others continue institutionally, yet without any real sense of spiritual renewal, generational momentum or confidence in challenging cultural and social idols.
 
-It may be surmised then, that maintaining the momentum of generational discipleship requires a persistent focus upon personal, social and cultural transformation. Vision that is imparted must be capable of gripping the hearts of others and forming them into faithful, active disciples:
+It may be surmised then, that maintaining the momentum of generational discipleship requires a persistent focus upon personal, social and cultural transformation. Vision must be imparted that is capable of gripping the hearts of others and forming them into faithful, active disciples:
 
 -	committed to significant personal and social renewal 
 -	persistent and determined to turn vision into reality
 -	operating as co-workers—not selfishly ambitious individuals
 -	active in forming other faithful disciples.
 
-In this way, a visionary, discipling movement is developed and sustained, of focused, inspired, dynamic people, deeply and profoundly allied to a cause and purpose greater than themselves. 
+Only in this way can a visionary, discipling movement become authentically established.
 
 ### Renewal of movement ###
 
-Accordingly, any messianic movement or community that earnestly desires spiritual renewal must place visionary, generational discipleship at the core of its spirituality and practical formation.
+Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the core of its spirituality and practical formation.
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of congregational activity. It is more than learning to serve one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to serve his eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
 
-It is there, amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters, that the Messiah is at work, by his Spirit. From there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+Amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters, there the Messiah is at work, by his Spirit. And from there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
 
 ## Anointed Community  ##
 
 To make possible such an otherwise impossibly-high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology or faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
 
-Through the Spirit, the covenant community is transformed into a charismatic community—a group of people endowed with spiritual gifts that are profoundly shaped to liberate human beings from idolatry and the allegiances and falsehoods that compete against the knowledge of God.[^fn13]
+Through the Spirit, the covenant community is transformed into a *charismatic community*—a group of people endowed with spiritual gifts profoundly shaped to liberate human beings from idolatry and the allegiances and falsehoods that compete against the knowledge of God.[^fn13]
 
 The Messianic Community is a body of people anointed with the fragrant presence of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. It is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.[^fn14]
 
@@ -671,7 +671,7 @@ Indeed, it is not something that can be grasped. Rather, the pathway to life is 
 
 ### The heart of discipleship ###
 
-Thus we end, as we began, with the foundational principle of transformative discipleship: seed sown into the ground, in order to produce a harvest.
+Thus we end, as we began, with the foundational principle of transformative discipleship: seed sown into the ground, in order to produce a rich harvest.
 
 > I tell you that unless a grain of wheat that falls to the ground dies, it stays just a grain; but if it dies, it produces a big harvest—*John 12:24*
 
@@ -792,7 +792,7 @@ An agency organising republication —
 
 ## Translation and Republication ##
 
-It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. After you have explored and trialled Maize Plant Discipleship, we would welcome hearing from you, via the Maize Plant Discipleship website, letting us know how and where you are using the resource and with what effect, including any improvements that you want to suggest.
+It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. After you have explored and trialled Maize Plant Discipleship, we would welcome hearing from you. You can contact us via the Maize Plant Discipleship website. Please tell us how and where you are using the resource and with what effect, including any improvements that you want to suggest.
 
 <!--\begin {pause}-->
 
@@ -854,7 +854,7 @@ Maize Plant Discipleship by John Clements is licensed under a **Creative Commons
 
 **Dr John B Clements** is a missiological educator, having received a Doctorate of Missiology (Contextual Missiology) from Fuller Theological Seminary School of Intercultural Studies, in 2012. 
 
-![][john-rhossilli.jpg]
+![][john-rhossilli-bw.jpg]
 
 John is married to Sarah; they have three boys and a girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
 
@@ -902,7 +902,7 @@ Social
 
 [Generational-discipleship.png]: Generational-discipleship.png width=268px height=45px
 
-[john-rhossilli.jpg]: john-rhossilli.jpg width=135px height=99px
+[john-rhossilli-bw.jpg]: john-rhossilli-bw.jpg width=133px height=100px
 
 [^fn1]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change within a process or system (such as a plant or a body).
 
