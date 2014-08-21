@@ -1,5 +1,6 @@
-Version: 0.3.10 --- Copyediting Draft
-Change: figures; ch5; ch4-discipleship movements
+Version: 0.3.11 --- Copyediting Draft
+Change: updated figures, ch2; 
+discipleship movements, ch4
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -151,7 +152,7 @@ The entire Maize Plant Discipleship syllabus incorporates approximately 64 studi
 
 Maize Plant Discipleship handbooks can easily lend themselves to personal study, theological education and other forms of guided learning. In particular,
 
--	Scripture references, within in the footnotes, provide a rich treasury of additional material for in-depth biblical study
+-	Scripture references, within the footnotes, provide a rich treasury of additional material for in-depth biblical study
 
 -	discussion questions can be adopted as the basis for written answers, or even short essays. 
 
@@ -524,7 +525,7 @@ Messiah —
 	The New Testament identifies Jesus as the Jewish Messiah,[^fn3] anointed by the Spirit to fulfil three mediatory roles—prophet, priest and king—on behalf of God's people.[^fn4] After his ascension to the *Right Hand of God*, Jesus becomes the *one Mediator between God and humanity*.[^fn5]
 
 Messianic —
-:	relating to the Messiah; primarily used in the syllabus to refer to Messianic Community or messianic communities.
+:	relating to the Messiah; primarily used in the syllabus to refer to *Messianic Community* and *messianic communities*.
 
 Messianic Community (capitalised) —
 :	the whole, worldwide and historical body of people belonging to the Messiah. In the New Testament this community is referred to as *the body of Messiah (Christ)*. The reference is broadly equivalent to *Worldwide Christian Community* or *Church*. Those terms, however, are generally avoided because of their association with particular historical expressions of Christianity that are not inclusive.
@@ -605,9 +606,9 @@ Such people are those whom Jesus, in the parable of the sower, refers to as *goo
 
 The formation of faithful disciples was at the heart of Jesus' life and work. Today the entire historical and now worldwide Messianic movement testifies to the significance of that small, core group of disciples, formed around Jesus.
 
-Although rarely consistently, the Messianic Community has grown and developed dynamically, since its birth in the first century, over the course of two millennia. From its origins as an obscure, tiny, Jewish sect it has developed into an international, intercultural, multi-ethnic community that exists, today, in some form or another, in practically every nation of the world.
+From its first-century origins, as an obscure, tiny, Jewish sect, the Messianic Community has grown and developed across two millennia. Today it is an international, intercultural, multi-ethnic community that exists, in some form or another, in practically every nation of the world. 
 
-On its journey, the Messianic Community and the message it has proclaimed has impacted innumerable peoples, stories and cultures, throughout the world. This dynamism can be traced directly to its operation as *a generational discipling movement*, repeatedly spreading across social, ethnic, linguistic, geographical and cultural boundaries.
+On its journey, the Messianic Community and the message it has proclaimed has impacted innumerable peoples, stories and cultures, throughout the world. Its dynamism can be traced directly to its functioning faithfully as *a generational discipling movement*, spreading across social, ethnic, linguistic, geographical and cultural boundaries.
 
 <!--\begin{pause}-->
 
@@ -637,11 +638,11 @@ Only in this way can a visionary, discipling movement become authentically estab
 
 ### Renewal of movement ###
 
-Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the core of its spirituality and practical formation.
+Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the heart of its spirituality and practical formation.
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of congregational activity. It is more than learning to serve one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to serve his eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
 
-Amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters, there the Messiah is at work, by his Spirit. And from there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+Amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters, there the Messiah is at work, by his Spirit. From there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
 
 ## Anointed Community  ##
 
@@ -722,7 +723,7 @@ Romans 4:17 —
 
 Between 2003 and 2010, multiple prototypes of Maize Plant Discipleship seminars were delivered to conferences in Léo and Ouagadougou. In 2010, the author conducted doctoral research using a series of survey questionnaires, focus groups and personal interviews. This enabled the gathering of a wide range of reflective opinions, perspectives, insights, information, questions and concerns relating to discipleship, theology, leadership training, methodologies, literature and intercultural dynamics. 
 
-Over 70 Burkinabé participants contributed to the research. Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: 
+**Over 70 Burkinabé participants contributed to the research.** Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: 
 
 -	Discipleship
 
@@ -762,14 +763,14 @@ Research participants strongly expressed a desire for *contextually appropriate 
 1.	Formulated to cross boundaries of orality and literacy
 
 	-	Focused on practical discipleship—not theoretical ideas
-	-	Studies devised for use amongst cohort groups
+	-	Devised for use amongst cohort groups
 	-	Incorporating reflective learning, group discussion and scripture memorisation
 	-	Containing numerous graphical and metaphorical illustrations.
 
 -	Intended to be translatable into mother-tongue languages
 
 	-	Thematic, modular structure of studies and topics
-	-	Avoidence of academic, philosophical language
+	-	Avoids of academic, philosophical language
 	-	Encourages contextual adaption.
 
 -	Published according to a missional philosophy
@@ -792,7 +793,7 @@ An agency organising republication —
 
 ## Translation and Republication ##
 
-It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. After you have explored and trialled Maize Plant Discipleship, we would welcome hearing from you. You can contact us via the Maize Plant Discipleship website. Please tell us how and where you are using the resource and with what effect, including any improvements that you want to suggest.
+It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. After you have explored and trialled Maize Plant Discipleship, we would welcome hearing from you. You can contact us via the Maize Plant Discipleship website, (www.maizeplantdiscipleship.info). Please tell us how and where you are using the resource and with what effect, including any improvements that you want to suggest.
 
 <!--\begin {pause}-->
 
