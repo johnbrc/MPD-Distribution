@@ -1,6 +1,5 @@
-Version: 0.3.11 --- Copyediting Draft
-Change: updated figures, ch2; 
-discipleship movements, ch4
+Version: 0.3.12 --- Copyediting Draft
+Change: minor ammendments
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship Handbook
@@ -625,28 +624,28 @@ The book of Acts provides a powerful illustration —
 
 ### Loss of generational momentum ###
 
-Withal, history also teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, but are today, sadly, only historical footnotes. Others continue institutionally, yet without any real sense of spiritual renewal, generational momentum or confidence in challenging cultural and social idols.
+History teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, yet today are, sadly, only historical footnotes. Others continue institutionally, yet without any real sense of spiritual renewal, generational momentum or confidence in challenging cultural and social idols.
 
-It may be surmised then, that maintaining the momentum of generational discipleship requires a persistent focus upon personal, social and cultural transformation. Vision must be imparted that is capable of gripping the hearts of others and forming them into faithful, active disciples:
+Maintaining the momentum of generational discipleship requires a persistent focus upon personal, social and cultural transformation. The Messiah is at work, by his Spirit, amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters. From there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+
+### Renewal of movement ###
+
+Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the heart of its spirituality and practical formation.
+
+Disciples must be invited, formed and sent forth as part of a *world-facing* movement. Such a goal requires much more than the maintenance of congregational activity. It requires more than learning to care for one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to *serve his eternal purpose*, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
+
+Establishing such a transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples:
 
 -	committed to significant personal and social renewal 
 -	persistent and determined to turn vision into reality
 -	operating as co-workers—not selfishly ambitious individuals
 -	active in forming other faithful disciples.
 
-Only in this way can a visionary, discipling movement become authentically established.
 
-### Renewal of movement ###
-
-Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the heart of its spirituality and practical formation.
-
-Disciples must be invited, formed and sent forth as part of a *world-facing* movement. The goal is much more than the maintenance of congregational activity. It is more than learning to serve one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to serve his eternal purpose, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
-
-Amongst the corruption in society, behind its social, political, economic and religious walls and beside its filthy gutters, there the Messiah is at work, by his Spirit. From there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
 
 ## Anointed Community  ##
 
-To make possible such an otherwise impossibly-high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology or faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
+To make possible the realisation of such a high calling, messianic discipleship provides a unique ingredient that no other philosophy, ideology or faith can provide: the dynamic of the indwelling Spirit of the Messiah. 
 
 Through the Spirit, the covenant community is transformed into a *charismatic community*—a group of people endowed with spiritual gifts profoundly shaped to liberate human beings from idolatry and the allegiances and falsehoods that compete against the knowledge of God.[^fn13]
 
@@ -723,7 +722,7 @@ Romans 4:17 —
 
 Between 2003 and 2010, multiple prototypes of Maize Plant Discipleship seminars were delivered to conferences in Léo and Ouagadougou. In 2010, the author conducted doctoral research using a series of survey questionnaires, focus groups and personal interviews. This enabled the gathering of a wide range of reflective opinions, perspectives, insights, information, questions and concerns relating to discipleship, theology, leadership training, methodologies, literature and intercultural dynamics. 
 
-**Over 70 Burkinabé participants contributed to the research.** Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: 
+Over 70 Burkinabé participants contributed to the research. Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: 
 
 -	Discipleship
 
@@ -765,21 +764,19 @@ Research participants strongly expressed a desire for *contextually appropriate 
 	-	Focused on practical discipleship—not theoretical ideas
 	-	Devised for use amongst cohort groups
 	-	Incorporating reflective learning, group discussion and scripture memorisation
-	-	Containing numerous graphical and metaphorical illustrations.
+	-	Including numerous graphical and metaphorical illustrations.
 
 -	Intended to be translatable into mother-tongue languages
 
 	-	Thematic, modular structure of studies and topics
-	-	Avoids of academic, philosophical language
-	-	Encourages contextual adaption.
+	-	Avoiding academic, philosophical language
+	-	Encouraging contextual, vernacular adaption.
 
 -	Published according to a missional philosophy
 
-	-	Allows republication, translation and low cost sales
-
-	-	Honours copyright of author and translators
-
-	-	Releases tight, commercial control over republication.
+	-	Allowing republication, translation and low cost sales
+	-	Upholds author's and translators' copyrights
+	-	Releases tight control over republication.
 
 <!--\begin {pause}-->
 
@@ -793,7 +790,7 @@ An agency organising republication —
 
 ## Translation and Republication ##
 
-It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. After you have explored and trialled Maize Plant Discipleship, we would welcome hearing from you. You can contact us via the Maize Plant Discipleship website, (www.maizeplantdiscipleship.info). Please tell us how and where you are using the resource and with what effect, including any improvements that you want to suggest.
+It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. We welcome hearing from those who have explored and trialled Maize Plant Discipleship. Contact us via the Maize Plant Discipleship website, (www.maizeplantdiscipleship.info), telling us where, how and with what effect you are using it, together with any suggestions you would like to offer. 
 
 <!--\begin {pause}-->
 
@@ -802,7 +799,8 @@ Are you aware of stories, proverbs or cultural analogies —
 
 	*If you send them to us, we may incorporate them in future editions. Alternatively, under the terms of the Maize Plant Discipleship Licence, you could publish an adaption*.
 
-	*The Creative Commons Licence, reproduced at the end of each handbook, permits republication and adaption, such as translation or inclusion of contextualised elements. Simply follow the terms of the licence appropriately*.
+The Creative Commons Licence
+:	reproduced at the end of this and each handbook, permits republication and adaption, such as translation or inclusion of contextualised elements.
 
 <!--\end {pause}-->
 
@@ -826,7 +824,7 @@ Are you aware of stories, proverbs or cultural analogies —
 
 ## The Maize Plant Discipleship Licence ##
 
-Maize Plant Discipleship by John Clements is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. Based on a work at http://johnbrc.github.io/MPD-Distribution/. Permissions beyond the scope of this licence may be available at http://maizeplantdiscipleship.info/.  
+Maize Plant Discipleship by John Clements is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. Based on a work at http://johnbrc.github.io/MPD-Distribution/. Permissions beyond the scope of this licence may be available at www.maizeplantdiscipleship.info
 
 > *Note: What follows is a simplified summary of (and not a substitute for) the licence, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode/ *
 
