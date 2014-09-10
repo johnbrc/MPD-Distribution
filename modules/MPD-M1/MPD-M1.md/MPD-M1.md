@@ -1,0 +1,1593 @@
+Version: 0.1.1 "Prototype"
+Change: first draft, ch1
+LaTex input:	mpd-header
+Title:	Maize Plant Discipleship Module 1
+Subtitle:	The Eternal Purpose of God
+Author:	John B Clements
+Twitter:	@johnbrc, @mpdresource
+Email:	clements.jb@gmail.com
+Web:	http://maizeplantdiscipleship.wordpress.com
+Copyright:	John B Clements, 2014.  Maize Plant Discipleship by John B Clements is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Based on a work at http://maizeplantdiscipleship.wordpress.com
+Keywords:	discipleship, mission, messianic, community 
+Base Header Level:	2
+LaTeX Mode:	memoir
+LaTex input:	mpd-document-modules
+LaTex footer:	mpd-footer
+
+<!--\chapter*{Using this handbook}\label{Usingthishandbook}-->
+
+Module 1 of the Maize Plant Discipleship syllabus, explores *God's eternal purpose*, in four inter-related studies:
+
+<!--\begin{studies}-->
+
+1.	Covenant and Scripture
+2.	The New, Messianic Covenant
+3.	The New, Messianic Covenant Community
+4.	The Eternal Purpose of God
+
+<!--\end{studies}-->
+
+**Maize Plant Discipleship** is an open educational resource, derived and road-tested in collaboration with Africans. It has been formulated in response to contextual doctoral research in Burkina Faso to be practical, relevant and accessible for use in majority-world contexts. 
+
+Maize Plant Discipleship is being published as a series of short, modular, low-cost handbooks:
+
+-	suitable for formal and informal modes of study 
+-	incorporate reflective learning and group discussions, 
+-	reliant simply upon facilitators co-ordinating small learning groups
+-	easily replicable, in terms of both republication and translation. 
+
+It's goal is to facilitate biblical learning that continuously moves outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
+
+----
+
+<!--\osection{Syllabus}-->
+
+The Maize Plant Discipleship Syllabus incorporates 16 modular Handbooks.
+
+<!--\begin{syllabus}-->
+
+1.	**The Eternal Purpose of God**
+-	Dynamics of Vocation, The Nations
+-	Dynamics of Vocation, The Jews
+-	Dynamics of Commissioning
+-	Dynamics of Body Membership
+-	Dynamics of Revival
+-	Dynamics of Truth
+-	Dynamics of Intercession
+-	Dynamics of Cultural Transformation
+-	Disciplines of Spiritual Maturity
+-	Disciplines of Running the Race
+-	Disciplines of Pressing Towards our Vocation
+-	Disciplines of Economic Faithfulness
+-	Disciplines of Messianic Leadership
+- 	Disciplines of Living By Faith
+16.	Disciplines of Overcoming
+
+<!--\end{syllabus}-->
+
+The *Maize Plant Discipleship Facilitators Handbook*—available from the same source as this handbook, or via the Internet—contains comprehensive guidelines on appropriately facilitating Maize Plant Discipleship learning groups and discussions.
+
+# Covenant and Scripture #
+
+<!--\begin{synopsis}-->
+
+**The covenants of God, revealed in Scripture, are vital to faithfully understanding God's historical and eternal purposes**
+
+<!--\end{synopsis}\begin{topics}-->
+
+1.	Scripture in perspective
+2.	Characteristics of covenant
+3.	Characteristics of God's covenants
+4.	Unfolding covenantal purpose
+
+----
+
+<!--\end{topics}\osection{Terms used in this study}-->
+
+Covenant —
+:	an arrangement that brings about a relationship of commitment between God and his people
+
+Commitment —
+:	the state or quality of being dedicated to a cause, activity
+
+Obligation —
+:	a duty or commitment; an act or course of action to which a person is morally or legally bound
+
+<!--\osection{Scripture}\bible-->
+
+Read these passages. The **bold** passages are marked for memorisation, in time for the next meeting.
+
+-	Genesis 1:27–32
+-	Genesis 3:17–20
+-	Genesis 9:9–16
+-	**Genesis 12:1-3** & 15.18, 17.1-22, 22.15
+-	Genesis 26:1–5,24 & 28:13-15
+-	**Exodus 19.4–6**
+-	2 Samuel 7.12-16 & 23:5
+
+Keep a marker in the passages, to refer to them throughout the study.
+
+## Scripture in perspective ##
+
+The books and stories within the Bible are bound together by a series of covenants. Without appreciating the significance of covenant, a faithful, holistic understanding of Scripture is easily missed. To illustrate this, this section of the study contrasts *historical* and *covenantal* perspectives of Scripture.
+
+### Scripture in historical perspective ###
+
+Traditional perspectives of Scripture review the principal events and stories encountered in the books of the Old Testament in the historical order in which they took place. These events are then interpreted, looking at their significance for Christian faith. Principal events include:
+
+-	**Creation**, the knowledge of good and evil and the appearance of **death** (Genesis 1-3)
+
+-	A **flood** of water in judgement upon human wickedness and the confusion of **languages** (Genesis 9-11)
+
+-	A **promise** of land, descendants and kings, made to a man named Abraham (Genesis 12-22)
+
+-	An **exodus** from Egypt of Abraham's descendants and formation of a new **nation**, Israel (Exodus-Deuteronomy)
+
+-	Israel's journey towards and into the **land** promised to Abraham (Joshua)
+
+-	Israel's experiences, ruled over by **judges, priests, prophets and kings** (Judges, Samuel)
+
+-	Israel's, and Judah's, **exile** from the land (Kings, Chronicles)
+
+Each of these biblical events are represented below, as a series of lines that together form a *story-based timeline of biblical history*.
+
+
+![][EP1history.png]
+
+In these events, various patterns are evident: God's calling and blessing; human rebellion, judgment and disaster; return, forgiveness, deliverance. Such patterns can be discerned in the accounts of Adam, Cain, Noah, Abraham, Moses, David and repeatedly in the stories of the people of Israel. They illustrate the importance of faithfulness towards God and the dangers of failing to obey his commands.
+
+### Scripture in covenantal perspective ###
+
+Nevertheless, by looking carefully at the inner content of these historical narratives, it is possible to discern another, more profound pattern—one which flows through the whole of Scripture: *a series of divine covenants*. 
+
+Understanding this pattern requires re-examining key themes of the biblical accounts of creation, as well as each of the Patriarchal covenants:
+
+-	The blessing of creation—which God calls *good*[^fn1]
+
+-	The curse placed upon the ground—following Adam's disobedience[^fn2]
+
+-	The covenant established with Noah[^fn3]
+
+-	The covenant established with Abraham[^fn4]
+
+-	The covenant renewed with Isaac and Jacob[^fn5]
+
+-	The covenant established with Israel, in the wake of the exodus from Egypt[^fn6]
+
+-	A covenant is made with David [^fn7]
+
+In the following diagram, these covenantal events have been added to the timeline. In the diagram, the historical events may be likened to trees growing out of the earth. Underneath, the covenants represent deep roots in the soil of biblical history. Together they illustrate how:
+
+
+![][EP2covenants.png]
+
+<!--\begin{summary}-->
+
+**God's redemption of his corrupted creation is rooted in covenant relationships established with human beings**.
+
+<!--\end{summary}-->
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	Why did God chose to make covenants with human beings?
+
+-	What significance do God's covenants have to you and your community?
+
+<!--\end{discuss}-->
+
+## Characteristics of covenant ##
+
+The establishment of a covenant signifies the formation of a solemn bond, *commitment* or *obligation* binding together individuals, families, tribes and nations. Covenants may be negotiated, including weaker parties approaching stronger ones. Where one party is recognisably or assertively stronger than the other, such as a conqueror or *deliverer* in contexts of war, it imposes or dictates covenant terms to the weaker, conquered or rescued party:
+
+-	The more powerful tribe or nation offers protection, land and reward, in the name of their leader or commander. 
+
+-	The lesser or subjugated tribe or nation becomes a servant-people, promising allegiance, military service and payment of taxes.
+
+### Biblical use ###
+
+The Hebrew word translated *covenant* is *berîyth*. It occurs over 250 times in the Old Testament, where it refers to a formal, binding arrangement between two parties, such as a treaty, constitution, agreement, alliance, pledge or oath. The same word is used when referring to both secular and divine covenants. 
+
+Within biblical use, *berîyth* is frequently combined with another Hebrew word that means *to cut*. Together they provide the phrase, *to cut covenant.* This refers to the knife cut that kills a sacrificial animal, with the subsequent sprinkling of its blood, prior to a ritual meal—a vital elements of the ritual ceremony by which a covenant is formed.
+
+### Terms and oaths ###
+
+-	*Terms* accompany the formation of covenants. These terms prescribe behaviours that constitute either the *keeping* (maintainence) or the *breaking* (violation) of the covenant relationship. 
+
+-	Covenant terms could include: trade, food, water or other resources; skill-sharing; land, routes, territory; taxes; ceremony, tradition; protection, allegiance, peace or war. For a conquered tribe, terms could be benign and generous or oppressive and dominating.
+
+-	Covenant parties swore *oaths* to uphold the terms. These oaths were pronounced to the accompaniment of invocations consisting of: *blessings* (rewards, bounty) for keeping covenant and *curses* (sanctions, punishments) for violating it.
+
+### Summary ###
+
+<!--\begin{summary}-->
+
+**Covenant refers to a binding obligation forming a solemn relationship between two parties**. A sacrificial meal and spoken oaths confirm the covenant relationship: blessings prescribe rewards for covenant faithfulness to the covenant; curses prescribe sanctions for violating the covenant.
+
+<!--\end{summary}-->
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	How is covenant understood within your culture? 
+
+-	How does this compare to the covenants encountered in Scripture?
+
+<!--\end{discuss}-->
+
+## Characteristics of God's covenants ##
+
+Like a powerful human lord, or chief, God makes covenant relationship with a people of his choice, designating the terms of covenant, without negotiation. The making of each biblical, patriarchal covenant marks a significant point in the history of God's unfolding plans and purposes. 
+
+In particular, the formation of each covenant incorporates two vital elements: the *calling* of a covenant community and the *purpose* of the covenant, which the covenant community is called to serve.
+
+### The vocation of the covenant community ###
+
+With each covenant it becomes apparent that God is setting apart a family, a tribe, a nation, a people—*a covenant community*—the faithfulness of whom forms a vital key to the establishment, service and success of God's wider purposes for his creation. They are *a servant community, a community called to serve God's purposes.*
+
+As they serve God's purpose, the covenant community is chosen and favoured, blessed, by God. This blessing is not an end in itself, but a *means* to an end: the covenant community is blessed by God in order that they can serve God's purposes effectively. 
+
+Whenever this principle is obscured, the covenant community risks significantly frustrating God's purposes. The covenant community thus carries a vital responsibility for allowing God to work out his purposes through them.
+
+#### Keeping covenant ####
+
+*Keeping covenant* means faithfully observing and preserving the solemn relationship and the obligations set out by the covenant. It means submission and obedience to the terms of the covenant—including seeking forgiveness and restitution, following breaches of covenant. 
+
+Yet, it means more than simply upholding the fine details of the covenant terms. Being faithful to God's covenant means recognising, accepting and co-operating with the *vocation of the covenant community*. This is the reason that God calls a community into covenant with him: that they may become a servant community, *called to serve the eternal purpose of God*.
+
+#### Breaking covenant ####
+
+Because the *covenant relationship* is always greater than the specific terms of a covenant, occasional breaches can be repaired and the covenant relationship *restored*. Restoration happens through a recognition of breaches (*confession*), restitution (*forgiveness*) and recommitment (*renewal*).
+
+When many breaches are made, without any restoration of the covenant, it indicates that the solemnity of the relationship has been lost. The consequences of continual faithlessness towards the covenant relationship leads to the punishments and curses incorporated within the covenant.
+
+*Why is the breaking of covenant such a serious matter?* 
+
+Not because God is a harsh judge. It is because it frustrates his purposes for the covenant. When God's *covenant community* fails to uphold the *covenant relationship* they cannot fulfil their *covenant vocation*.
+
+### Certainty of divine covenant ###
+
+Read Hebrews 6.13-18
+
+The writer explains that God's purpose in swearing an oath is to *demonstrate the unchangeable character of his intentions*. This confirms that God won't change his mind. He will do what he has purposed and promised to do through his covenants and through his Covenant Community.
+
+Even if God's people break the covenant, *God remains faithful* to his covenant purposes and upholds his sworn obligation. Because his character is unchanging, his unchanging, eternal purpose remains intact. When God makes a covenant he is committing himself to fulfilling his divine purpose through that covenant.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	 In God's covenants, how are blessings and curses related?
+
+-	How might this effect your thoughts about sicknesses and other problems sometimes associated with curses?
+
+<!--\end{discuss}-->
+
+## God's covenantal purpose ##
+
+Each biblical covenant points towards the restoration of a creation corrupted by rebellion against God's government and purposes. Primary to this restoration is the reconciliation of human beings into faithful relationship with their Creator.
+
+### Covenant with Noah ###
+
+**Read Genesis 6:18, 8:6-22 and 9:8-16**
+
+God reminds Noah that he *made human beings in his image*, and instructs Noah's family to *Be fruitful and multiply, swarm over the earth and multiply on it*—echoing the original creation *blessing* given to Adam. 
+
+Scripture refers to God *establishing his covenant* with not only Noah, but also with *his descendants, all the inhabitants of the earth, every living creature* and *with the earth" *itself. A sign accompanies this covenant: a rainbow will serve as perpetual reminder of God's covenant promise to never again destroy all living things.
+
+#### Summary ####
+
+*In summary, therefore,
+
+>	**God's covenant with Noah reveals and expresses God's commitment to uphold his creation**. In spite of man's evil, God will not abandon his covenant with his creation.
+
+### Covenant with Abraham ###
+
+**Read Genesis 12:1-3, 15.18, 17.1-22, 22.15**
+
+God's covenant with Abraham represents God's response towards the rebellion, degeneration and wickedness of human society, recorded in Genesis chapters 1-11. It reveals God's plan for *a great nation* that will bless all *the families of the earth*. The covenant thus operates in two complimentary directions: 
+
+-	*Downwards* through the generations of Abraham's descendants, who are blessed *in Abraham*.
+
+-	*Outwards* towards the whole human family, who are to be blessed *by Abraham*.
+
+Thus, the covenant contains more than a promise; it includes a subtle command: *you are to be a blessing*. This suggests Abraham is intended to convey his sense of promise, protection, blessing and divine purpose to the tribes and peoples with whom he relates. Because of his covenant with God, he is to anticipate being a blessing to others.
+
+#### Summary ####
+
+In summary therefore,
+
+>	**God's covenant with Abraham reveals and expresses God's commitment to bless all the families of the earth through a great nation.** God is committed to restoring his creation—marred by human rebellion—using a covenant community to bring human beings back into right relationship with him.
+
+### Covenant with Israel ###
+
+**Read Exodus 19.4-6, 6:2-6; Leviticus 26.9; Deuteronomy 4:5-6, 8.18, 28:1; Isaiah 42:6; Ezekiel 16.60-62; Romans 9:4-9**
+
+A covenant is formed with the nation of Israel, against the backdrop of a powerful deliverance and *exodus* from the oppression of Egypt's Pharaoh. Abraham's descendants, the *sons of Israel,* acknowledge God (YHWH) as their powerful and faithful Deliver, who has brought them to the point of entering the sanctuary of the land promised to their ancestors.
+
+Again, two perspectives are discernible. Firstly, Israel is offered the opportunity to become God's own *treasure.* Secondly, they are to become a *kingdom of priests,* hinting at how Israel is intended to mediate God's blessing to other nations.
+
+Central to Israel's calling is the *Torah* (meaning *teaching*), given to Moses on Mount Sinai and centred upon the Ten *Words* (Commandments). The Torah provides a set of clear, detailed instructions informing Israel how to live in faithful covenant relationship. The Torah thus forms the basis for Israel's vocation: through faithfulness to the covenant, Israel is called to demonstrate love, devotion and allegiance to God. And through covenantal faithfulness, they are to demonstrate God's wisdom and understanding, enabling them to become *a light to the nations*.
+
+Within the covenant relationship, the choices that Israel makes—either faithful covenant relationship or unfaithful idolatry—effectively represent a choice between *life or death*, *blessing or curse*, deliverance or disaster, inheritance or exile. These choices reveal God's kindness *and* severity: kindness towards those embracing his covenant, submitting to his government, available to serve his purposes; severity towards those rejecting his covenant, resisting his purposes, rebelling against his goodness, disobeying his teachings. 
+
+Thus, through their covenant relationship with Adonai, the people of Israel become recipients of life, blessing, grace and goodness from God that will eventually overflow towards all nations and peoples.
+
+God's covenant with Israel reveals and expresses God's commitment to use a chosen people—a covenant community—to reveal his love and glory to the whole world...
+
+>	**God chooses an unimportant nation to demonstrate through them his goodness, kindness and loving covenant-faithfulness towards a world of people which has rebelled against his purpose for Creation**
+
+### Covenant with David ###
+
+With the covenant relationship casting *Adonai* as Israel's King, Israel's premier prophet, Samuel, recognises a deep tragedy unfolding through Israel's demand for a mortal king to rule over them. Nevertheless, God acquiesces to Israel's demand, saying to Samuel:
+
+>	It is not you they are rejecting; they are rejecting me; they don't want me to be king over them. They are doing...exactly what they have been doing to me, from the day I brought them out of Egypt until today, by abandoning me and serving other gods.[^fn8]
+
+Thus, in spite of Samuel's objections and warnings, Israel becomes a national kingdom. Following the failure of Saul, Israel's first choice as king, a young man, David Ben-Yishai ('Son of Jesse')—described as "*a man after God's own heart*,"[^fn9] is chosen and anointed by Samuel to succeed Saul. In time, the Lord promises David:
+
+>	*I will establish one of your descendants to succeed you, one of your flesh and blood; and I will set up his ruler-ship; he will build a house for my name and I will establish his royal throne forever; I will be a father for him and he will be **a son** for me; thus your house and your kingdom will be made secure forever before you; your throne will be set up forever.[^fn10]
+
+This covenant reveals that one of David's descendants will build a Temple for God's name and that the royal throne—the reign or government—of David will continue eternally. 
+
+During the considerable triumphs and prosperity of David's reign, Israel's unity and covenant faithfulness causes her to become, for the first time in her history, "*the head, not the tail*,"[^fn11] influencing and drawing tribute from kingdoms far and wide. 
+
+Following David's death, rulership passes into the hands of his son, Solomon, who begins his reign with great wisdom and overt expressions of covenant faithfulness towards God—including overseeing the lavish construction and dedication of the first Jerusalem Temple. 
+
+God confirms his covenant with Solomon, but also warns him of the dire consequences of failing to keep the covenant, through disobeying his commands and worshipping other gods. Whilst initially the kingdom prospers greatly under Solomon's reign, he succumbs to the temptation of taking many non-Hebrew wives and concubines, the indulgence of whom leads to his flagrant embrace of acts of devotion to other gods. Solomon's idolatry invites God's judgement and wrath and results in a national division: into the Northern Kingdom of Israel and the Southern Kingdom of Judah—and, ultimately, exile from the Land. 
+
+Around a century after the division, c.725 BC, scorning the admonition and dire prophetic warnings of Hosea and Amos, Israel's kings have consistently failed to repair the covenant breach and their land of Samaria is overrun by the Assyrians, Israel's people taken entirely into captivity, the Northern Kingdom ended. 
+
+A century and a half later, despite the prophetic warnings of Isaiah, Micah, Nahum, Habakkuk, Zephaniah and Jeremiah and even a short-lived revival under the reign of Josiah, a similar fate befalls the Southern Kingdom and 'Judah' is taken into exile by the Babylonians.
+
+*Did the covenant promise to David thereby fail?* 
+
+In fact, Solomon was warned by God that the promise made to him was conditioned upon covenant faithfulness: if the covenant was not upheld then Solomon's unfaithfulness would bring desolation upon not only the king, but also the temple and the kingdom—as David's unfaithfulness had done before him. Nevertheless, the prophetic word containing this warning to Solomon also suggested that, even after desolation, a restoration of covenant remained a possibility: 
+
+>	*If my people, who bear my name, will humble themselves, pray, seek my face and turn from their evil ways, I will hear from heaven, forgive their sin and heal their land.*[^fn12]
+
+Thus, whilst *fulfilment* of the covenant promise faltered, God's commitment regarding a future king remained in force. The promise is to be fulfilled by a "*branch*" of David's line: a Redeemer, a King—a Messiah—who would rise in the future to bring deliverance and blessing to Israel. 
+
+>	**God's covenant with David reveals and expresses God's commitment to choose and anoint one of David's descendants to eternally establish God's kingdom reign on earth**. God hints at a future Anointed King—a Messiah—who will establish the Kingdom of God eternally
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	What is the significance of God's commitment to creation?
+
+-	What are the significant characteristics of God's covenant with Abraham?
+
+-	Why does God need a covenant community?
+
+-	What does God most need from a covenant community?
+
+-	How did King Solomon's failure to faithfully keep God's covenant effect God's purposes?
+
+<!--\end{discuss}-->
+
+<!--\osection{Summary: Study 1}-->
+
+This concludes Study 1, *Covenant and Scripture*, which:
+
+-	Compared Scripture in historical and covenantal perspective
+-	Explored the characteristics of covenant and of God's covenants in particular
+-	Summarised the unfolding covenant purpose suggested by the patriarchal covenants
+
+Figure 3 updates the biblical panorama being constructed by this study, incorporating elements from the patriarchal covenants:
+
+
+![A great nation, blessed to be a blessing][EP4light.png]
+
+<!--\begin{summary}-->
+
+**Overarching the panorama is the Abrahamic covenant: *a great nation, blessed to be a blessing to all the families of the earth*.**
+
+*God's universal concern for every 'family'—every tribe, language and nation—stretching ahead of Abraham and Israel, forming the foundational framework for the later covenants—including a new, messianic covenant yet-to-come.*
+
+<!--\end{summary}-->
+
+<!--\osection{Bonus discussions: Study 1}
+\begin{disc}[Commissioning]-->
+
+-	In the way humans live, how do we variously reflect and contradict God's commitment to creation?
+
+-	To express God's commitment to his creation, what could we consider doing: more often? Less often? For the first time ever? For the last ever time?
+
+-	Who are *all the families of the earth*?
+
+-	Africa, the place and its peoples, has known many tragedies and abuses of human power. What is God's response?
+
+-	What is the scriptural relationship between King David and the Messiah, Jesus?
+
+-	David was a shepherd, a warrior and a king. Which role most faithfully expressed him as "a man after God's own heart"?
+
+<!--\end{disc}-->
+
+# The New, Messianic Covenant #
+
+<!--\begin{synopsis}-->
+
+****
+
+<!--\end{synopsis}\begin{topics}-->
+
+1.	Covenantal renewal
+2.	The revelation of the Messiah
+3.	Mediation of the Messiah (part A)
+4.	Mediation of the Messiah (part B)
+
+----
+
+<!--\end{topics}\osection{Terms used in this study}-->
+
+<!--\osection{Scripture}\bible-->
+
+Read these passages aloud; memorise the **bold** passages.
+
+-
+
+## Covenantal renewal ##
+
+This topic examines
+
+### Exile, return, renewal ###
+
+Following their forced expulsion from the Land, Judah and Israel enter a lengthy period of spiritual darkness, symbolised by their exile: the continual, painful indicator of God's ongoing judgement and reminder of their idolatrous covenant breach. Return from exile—implying a cleansed land and deliverance from Gentile rulers—thus becomes the anticipated sign that Israel's sin has been forgiven, that the severed covenant relationship is being restored, that grace is again being poured out upon Israel. This hope—the "vindication of Israel"—takes on considerable proportions within exiled-Israel's religious traditions.
+
+Eventually, a remnant does return to the Land, alongside a leader named Zerubbabel—whence they begin rebuilding the Jerusalem Temple, setting in motion the 'second Temple' era, lasting until the Roman destruction of Jerusalem, in 70 AD. This remnant is subsequently joined by further returning exiles, alongside the Levitical priest, Ezra, and the passionate and prayerful Nehemiah, who continue the process of rebuilding Jerusalem. Nevertheless, it becomes clear that the restoration and return from exile is practically and spiritually incomplete and does not form the definitive sign of God's grace, forgiveness and covenant restoration that is hoped for, with Haggai prophesying about a more glorious temple yet-to-come and Malachi, speaking long after Ezra and Nehemiah's work, of the Lord returning suddenly to his temple, in the pristine form of the purifying "*messenger of the covenant*."[^fn13]
+
+### Messianic expectation ###
+
+This background shapes Israel's expectation of covenant restoration and consequent conception of God's kingdom rule returning amongst them, particularly in terms of another "*David*"—a glorious, Davidic king, an anointed ruler, a Messiah—who will righteously shepherd the people of Israel: returning them from exile, cleansing the Land, delivering them from pagan oppression, prospering them once again. It is this hope that fuels the keen anticipation of the Messiah's imminent arrival, evident within first-century, 'second Temple' Israel.
+
+### Spiritual renewal ###
+
+Notwithstanding this popular expectation, the broader picture provided by the prophets incorporates a solution to the covenant community's faithlessness, curse and exile that embraces a quite *inglorious* messiah. One who challenges the incumbent leadership of Israel as a despised prophet, calling forth and shepherding a renewed covenant people, demonstrating both an anointed, spirit-led justice and a mediatory, sacrificial, atoning death that "*makes many righteous*"—even Gentiles, since restoring Israel "*is not enough,*" he will also be "*a light to the nations.*"[^fn14] 
+
+This messiah, the prophets predict, will live an intercessory life, his sufferance for the sins of his people bringing within the covenant community a new, inner deliverance from wickedness:
+
+>	*I will cut a new covenant with the house of Israel; I will put my Torah within them and write it upon their hearts; they will be my people and I will be their God...All will know me... because I will forgive their wickedness and remember their sins no more.*[^fn15]
+
+*This—not triumphalistic, military victory over pagan enemies—is the prophetic reality that forms the true sign that Israel's sins have been forgiven, that her spiritual exile is ending: Adonai, the Lord, "*suddenly coming to his temple*,"[^fn16] in the enigmatic form of his Messiah, inaugurating and mediating **a new covenant**.
+
+A new covenant that, unlike the former one, provides power to induce spiritual renewal within the covenant community: an inner cleansing and forgiveness of sin; a new intimate knowledge of the Lord and his Torah, figuratively, but genuinely, "written" upon the hearts of the covenant people; blessing and empowering them to become the blessing to "all the families of the earth" originally promised to Abraham.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## The revelation of the Messiah ##
+
+This topic examines
+
+### Messiah: Goal of the covenants ###
+
+*The people of Isra'el...were made God's children, the Sh'khinah has been with them, the *covenants* are theirs, likewise the giving of the Torah, the Temple service and the promises; the Patriarchs are theirs; and from them, as far as his physical descent is concerned, came the Messiah, who is over all...**the goal at which the Torah aims is the Messiah**.[^fn17]
+
+*Figure 5 depicts how the Messiah and his mission forms the true goal, purpose and climax of the covenant narratives and prophetic writings of Israel. In turn, the covenant history of Israel provides the appropriate perspective for encountering the New Testament narratives concerning the Messiah and the Kingdom of God arriving through him:
+
+![Messiah and New Covenant][EP4messiah.png]
+
+### Revealing the Messiah ###
+
+The task of Matthew, Mark, Luke and John was to provide historical, biographical accounts of Jesus—incorporating his life, work, signs, miracles, teaching, relationships and, finally, his death, resurrection and ascension—and to do so *not* as impartial observers or secular historians, rather as committed members of a **new covenant community**, intent on establishing the significance of Jesus—who he was and what his true purpose was. The greatest reality they aimed to reveal was Jesus' identity as the Jewish Messiah,[^fn18] critical to the story they were unfolding and its implications for the emerging new covenant community, centred around the person of Jesus.
+
+In order to subvert populist ideas about a Davidic king ushering in an era of prosperity and military deliverance from political and martial oppression by gentile powers and to portray instead the enigmatic, unfolding mysteries that surrounded Jesus of Nazareth, the gospel writers incorporated a huge range of overlapping *remez*, *midrash*, stories, signs, events, parables and evidences of fulfilment of prophesy. Symbols rooted deeply within Israel's Patriarchal, covenant framework, which together illuminated precisely how Jesus fulfilled ancient, covenant promises and prophetic foreshadows (table 1), portraying and confirming in the understanding of their readers, that Jesus absolutely was the promised One, the **Messiah**, the inaugurator of the **new covenant**.
+
+#### Table 1: Messiah ####
+
+| Prophets wrote ... | that the Messiah would be ... | Gospel writers confirm prophets | 
+| ------	| ------	| ------	| 
+| Genesis 12.1-3, 17.19, 21.12, 28.14	| **the seed of Abraham, Isaac and Jacob**	| Matthew 1.2, Luke 3.34 	| 
+| Samuel 7.11-16; Isaiah 9.6; Genesis 12.1-3	| **a descendant of David and heir to his throne**	| Matthew 1.16, 22.40, Acts 2.30 	| 
+| Isaiah 40.3-6; Malachi 3.1 	| **preceded by one who would announce him** 	| Matthew 3.1-3, Luke 1.7, 3.2-6	| 
+| Isaiah 11.2, 61.1; Psalm 45.7 	| **anointed with the Spirit of God** 	| Matthew 3.16, John 3.34 	| 
+| Deuteronomy 18.15,18 	| **a prophet like Moshe (Moses)** 	| Acts 3.20-22, (Hebrews 3.1-2 ff.) 	| 
+| Isaiah 61.1-2; 35.5-6; 42.18 	| **a source of healing and restoration to the oppressed**	| Luke 4.18-19; Matthew 11.5, throughout gospels 	| 
+| Isaiah 42.1-4 	| **tender, compassionate, unostentatious** 	| Matthew 12.15-20 	| 
+| Psalm 2.7; 2 Samuel 7.12-16; Proverbs 30.4 	| **be the Son of God**	| Matthew 3.17; Luke 1.32 	| 
+| Isaiah 53.7-12	| **one whose death atoned for Israel's sins**	| Matthew 27.38; Mark 10.45; John 1.20; Acts 8.30-35	| 
+| Isaiah 53.9-10; Psalm 2.7, 16.10	| **raised from the dead**	| Matthew 28.1-20, Acts 2.23-36, 13.33-37	| 
+| Psalm 110:4; Zechariah 6:13	| **a priest**	| Hebrews 5:5-6; 6:20; 7:15-17, Hebrews 7:25-8:2; Romans 8:34 	| 
+| Psalm 16:11; 68:18; 110:1	| **raised to the Father's right hand**	| Luke 24:51; Acts 1:9-11; 7:55, Hebrews 1:3	| 
+| Isaiah 28:16; Psalm 118:22-23	| **the cornerstone of God's messianic community**	| Matthew 21:42; Ephesians 2:20, 1 Peter 2:5-7	| 
+| Isaiah 11:10; 42:1,4; 49:1,12	| **accepted by Gentiles**	| Matthew 12:21; Romans 9:30; 10:20; 11:11; 15:10	|
+
+### Comprehending the Messiah ###
+
+Messiah means "anointed" or "poured on." Both kings and priests were invested with their authority in a ceremony involving being anointed with olive oil, usually by prophets. Thus, the idea of being given God's priestly and kingly authority is inherent within the concept of "Messiah."  In fulfilment of the prophecies of Isaiah (Table 1), Jesus was anointed by the Spirit and fulfilled both these roles—though neither in a way that was expected of him. Jesus also acted as a prophet to the Jewish nation. Thus, as the Messiah, he fulfilled three mediatory roles: *prophet, king* and *high priest*.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## Mediation of the Messiah (part A) ##
+
+This topic examines
+
+### One mediator between God and man ###
+
+Biblically, **prophets** have a significant mediatory role in interceding for people before God: Abraham is the first prophet recognised within scripture; he interceded and God heard his prayer. Moses is considered the greatest prophet within Israel's history; he changed God's mind when he was planning to give up on the children of Israel. Samuel was an important intercessory prophet, as were Elijah, Isaiah, Jeremiah and Daniel. God worked decisively through the intercession of these prophets to change the course of covenant history. 
+
+Prophets apparently experienced entrance into the heavenly council or presence of God, where they heard God's word, enabling them to faithfully deliver that word to the people: another vitally important form of mediation between God and his covenant community. Prophets also had an authoritative role in anointing kings and priests.
+
+Faithful **kings** of Israel were also recognised for their important role in interceding in prayer for the covenant nation of Israel, particularly Kings David and Solomon. Kings were also mediators in the sense of acting as God's representative in leading the covenant community into faithful service of God's purposes; accordingly kings of Israel were metaphorically identified as being seated upon God's throne.[^fn19]
+
+The Jewish high **priest**, following in the ministry given to Aaron, mediated on behalf of Israel, making a atonement for their sins, once a year, within the "*Holiest Place*."[^fn20] As such, he drew near to God's throne in order to obtain grace, mercy and forgiveness for others.
+
+### Messiah: Jewish prophet: Son of Man ###
+
+Christian faith and tradition has long celebrated the fact of Jesus' humanity; only more recently have Christian scholars and writers re-embraced the reality that, in his humanity, Jesus was wholly Jewish. Even more specifically, within the first-century Jewish milieu, Jesus was widely accredited as being an authentic Jewish prophet—something easily overlooked by readers familiar with the idea of Jesus as 'Saviour'. Yet within the gospels, "*prophet*" is the only role with which Jesus is universally and unequivocally identified. 
+
+Thus, the first role of the Messiah was to act as a prophet to the Jewish covenant community, emerging firmly within the Jewish tradition of prophets such as Moses, Elijah and Jeremiah. Accordingly, whilst avoiding direct allusions to his identity as Messiah, Jesus openly and regularly referred to himself as "*Son of Man*," a title echoing one used consistently by Ezekiel—one of Israel's major prophets. "*Son of Man*" was also a key title used within the book of Daniel, in a distinctive, defining reference to the Messiah—a nuance employed suggestively by Jesus, once his "*time*" had arrived.
+
+In his role as a prophet, Jesus' primary purpose was apparently to announce the immanent arrival of "*the kingdom of God*." [^fn21] A significant element of this prophetic announcement and enactment of the in-breaking government or reign of God incorporated critiquing the incumbent religious leadership of Israel: a combination of the sects of *P'rushim* (Pharisees) and *Tz'dukim* (Sadducees). They were held responsible for the ongoing corruption of the covenant relationship: publicly going through the motions of Torah-obedience, yet with "*uncircumcised hearts*," neglecting the greater commandments of humility, mercy and justice; occupying "*the seat of Moses*"[^fn22]—the privileged position of religious and community leadership—yet making covenant obedience harder for others. Jesus completely denounced these groups—although, even amongst them, some individuals were "*close to the kingdom*";[^fn23] indeed some actually became disciples of Jesus.
+
+As a prophet, Jesus called the "*lost sheep of the house of Israel*" [^fn24] to repentance: to a renewed covenant faithfulness to YHVH (Adonai, 'the Lord') incorporating a radical, new-covenant, kingdom way of life, within an emerging, new-covenant community, centred around himself: Israel's Messiah and King.
+
+### Messiah : King of the Jews : "Son of God", "Son of David" ###
+
+Although identification of the Messiah was crucial to the Jewish understanding of their covenant history and promise of national redemption, the idea of a *divine* messiah was completely unanticipated and is, arguably, an almost secondary feature of the gospel narratives. Thus, Luke ends his gospel with Jesus encouraging his disciples to be witnesses—not of his divinity, rather—that "...*everything written about me in the Torah, the Prophets and the Psalms had to be fulfilled...the Messiah is to suffer and to rise from the dead on the third day... You are witnesses of these things*."[^fn25] 
+
+In Matthew's gospel, intended for Jewish readership, Jesus is principally announced using a definitive title of the Messiah, "*Son of David.*" [^fn26] Similarly, when Jesus is addressed as "*Son of God,*" within the gospels, it should typically be understood as a title used by Jews to refer to the Messiah. Thus, when the high priest questions Jesus, he uses the two titles synonymously: "*I put you under oath! By the living God, tell us if you are the Messiah, the Son of God*."[^fn27] Similarly, when Peter experiences his personal epiphany, he uses the two titles with a similar sense of synonymy, declaring: "*You are the Messiah, the Son of the living God.*"[^fn28] 
+
+This understanding stands in significant contrast to much of the Christian faith and tradition, whereby "Son of God" is typically assumed to be a direct reference to Jesus' divinity—his being 'the second member of the Trinity: Father, Son and Holy Spirit.' In fact, within first-century Judaism, the title "Son of God" did not hold this meaning, being used of godly persons in general and of the 'special one' sent by God—the Messiah—in particular.
+
+Notwithstanding the fact that "Son of God" was not an implicit claim to divinity, Jesus did nevertheless effectively identify himself as co-existent with God: avoiding open declaration, he employed strong but subtle hints inviting his listeners to draw their conclusions. In this manner, Jesus most significantly revealed his divinity in three particular ways.
+
+Firstly, through his miracles, some of which were of an order that implied he was divine. For example, his command over the stormy waves, which evoked Tanakh passages glorifying God for his command over nature. Hence, the proclamation of his disciples: "*What kind of man is this, that even the winds and sea obey him?*"[^fn29] Secondly, by subtle but provocative use of names and titles, as when he identified himself using the eternal Name of God: 'I AM' and when he spoke intimately of God as Father: "*I and the Father ('Abba') are one*."[^fn30] 
+
+Perhaps most significantly of all, Jesus identified himself with the second *Lord* depicted within Psalm 110—the *Adon* to whom *Adonai* speaks: 
+
+>	*The LORD [Adonai] says to my Lord [Adon], Sit at my right hand, until I make your enemies your footstool.*[^fn31]
+
+*Being invited to sit at God's right hand constituted the Messiah's enthronement as heavenly and earthly ruler—thus Jesus' ultimate claim, following his resurrection: "*All authority in heaven and on earth has been given to me.*"[^fn32] This image of the Messiah seated 'at the right hand of Adonai is found throughout scripture, thus forming the most definitive image of the Messiah and expression of his rule and authority.
+
+Although these images were firmly rooted in the Tanakh and Jewish understanding of the Messiah, the incumbent religious rulers of his day held to a stunted form of monotheism based upon the *Sh'ma*:
+
+>	*Sh'ma Y'Israel, Adonai Eloheinu, Adonai echad [Hear, Israel!, Adonai our God, Adonai is One]; you are to love Adonai your God with all your heart, all your being and all your resources."*[^fn33]
+
+*Within that traditional framework of Jewish 'monotheism', for a man to identify himself as divine, co-existent with or exalted beside God was blasphemous and punishable by death—even though it was not a true blasphemy, as Jesus' challenge to his accusers demonstrated: 
+
+>	*We are stoning you...for blasphemy—because you, who are only a man, are making yourself out to be Elohim. Yeshua answered them, "Isn't it written in your Torah, 'You people are Elohim'? If he called 'elohim' the people to whom the word of Elohim was addressed (and the Torah cannot be broken), then are you telling the one whom the Father set apart as holy and sent into the world, 'You are committing blasphemy' just because I said, 'I am a son of Elohim'? *[^fn34]
+
+*Consequently, it is appropriate to recognise within the synoptic gospels that, although definite nuances and hints exist which suggestively reveal Jesus divinity, the principal emphasis is upon his identification as Israel's Redeemer, the promised Messiah.
+
+Approximately fifty years after his death, Jesus' divine status was more overtly communicated within John's gospel, not least in its opening announcement: "*the Word was with God...the Word was God,*" identifying Jesus as the eternal *Davar.* By this time many of Paul's epistles had been distributed, containing his groundbreaking expositions of 'mysteries now revealed' and announcements of the Messiah's divine glory and universal significance, allowing Jesus' divinity and incarnation—and their extraordinary implications—to dawn more fully within the new-covenant community.
+
+In conclusion, the New Testament embraces the divinity of Jesus the Messiah. However, viewing and interpreting Jewish covenant history only as a vehicle for God's revelation of himself through incarnation—as much of Christian theology has traditionally done—is an injustice towards an historical, Jewish view of the scriptural narratives. A more holistically Jewish view suggests it may be more appropriate to propose that it required *no one less than* a divine personality—the eternal *Word*—to become incarnate as a human being, in order that the manifold intercessory, mediatory role of the Messiah could be fulfilled—a role that only makes sense in the context of Jewish covenant history.
+
+As "*Son of David*," the messianic king, Jesus identified himself as the Branch and Ruler promised via the Davidic covenant, the "*One Shepherd,*" whom God was using to bring about his eternal purpose, through Israel, on behalf of all the nations of the earth. As Shepherd-King, he issues an invitation, a call to all those who will "*hear his voice*":[^fn35] 'Turn your life towards God; trust in me, follow me...give allegiance to me, submit to me as your Messiah, your Lord'. In so doing, he inaugurates within those that accept, follow and give allegiance to him a new, Messianic Covenant Community, spiritually centred around himself as the exalted Lord—their Messiah, their King.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## Mediation of the Messiah (part B) ##
+
+This topic examines
+
+### Messiah: High Priest : "of the order of Melchizedek" ###
+
+The final aspect of the Messiah's role is as Israel's true *cohen hagadol* ("*high priest*"), inaugurating and guaranteeing a new, superior covenant, which the writer of Hebrews identifies as the 'new covenant' prophesied by Jeremiah, made with "*the House of Israel and Judah*."[^fn36] The Messiah mediates this new covenant as a sinless and eternal high priest, unlike the Levitical high priests who went before, under the terms of the Sinai covenant, whose own sin meant that they could only enter the earthly tabernacle once a year. Instead the Messiah, serves in... 
+
+>	*...the Holy Place, that is, in the true Tent of Meeting, the one erected not by human beings but by Adonai... Whereas the sacrifices of animals by Levitical priests acted to facilitate Adonai's forbearance of sins committed under the first (Sinai) covenant, they could never actually take away sin. By contrast, this one [priest], after he had offered for all time a single sacrifice for sins, sat down at the right hand of God, from then on to wait until his enemies be made a footstall for his feet.*[^fn37]
+
+Thus, Jesus the Messiah enters the true, heavenly tabernacle, in order to offer to Adonai the sacrifice of his life—represented by his blood—and, in so doing, presents again the highly significant juxtaposition of the Messiah sitting down at the right hand of God. In this way, his high priestly ministry within heaven confirms the reality of the "*finished*" work of his earthly death; the two realities—earthly and heavenly—acting together to inaugurate the new covenant: "*Because of this death...he is a mediator of a new covenant."*[^fn38]
+
+In establishing Yeshua as a priest of a different order to Levitical priests, 'Hebrews' introduces, *Malki-Tzedek*,[^fn39] a character found in only two places within the Tanakh.* Malki-Tzedek* was the priest of *El 'Elyon* who received tithes from the Patriarch, Abraham, and blessed him. Since it was a clearly established principle that "*the greater blesses the lesser*,"[^fn40] the writer of Hebrews performs a *midrash*[^fn41] upon the narrative, establishing Melchizedek as greater than Abraham. Having already demonstrated that "*Yeshua deserves more honour than Moses, just as the builder of the house deserves more honour than the house,*"[^fn42] his purpose is to demonstrate that the Messiah—as "*high priest forever to be compared with Malki-Tzedek*"[^fn43]—is also greater than Abraham, the principal Patriarch and Father of the Jewish nation—echoing Yeshua's own claim: *"Before Abraham came into being, I AM!"*
+
+The writer of Hebrews makes a further *midrash* upon Melchizedek's lineage in order to draw attention to the reality that the Messiah "*became a cohen...by virtue of the power of an indestructible life*"[^fn44]—in consequence of which, he has an eternal, intercessory ministry as advocate for human beings who come to the Father through him:
+
+>	*Because he lives forever...he is totally able to deliver those who approach God through him; since he is alive forever and thus forever able to intercede on their behalf... 
+
+>	If anyone does sin, we have Yeshua the Messiah, the *Tzaddik*, who pleads our cause with the Father. Also he is the kapparah for our sins—and not only for ours, but also for those of the whole world...
+
+>	Who will bring a charge against God's chosen people?...Certainly not the Messiah Yeshua, who died and—more than that—has been raised, is *at the right hand of God and is actually pleading on our behalf*?[^fn45]
+
+### Messiah: centre of new covenant community ###
+
+-	As '**prophet**', Jesus called the covenant community of Israel to repent and to enter fully into the "*Kingdom of Heaven*," which was "*arriving*" in the person of the Messiah, the new "*David*," King of the Jews. 
+
+-	As '**king**', he formed the centre of a new-covenant community embracing a resurrected Messiah, the anointed Royal Shepherd, not only of the Jews, but also of "*other sheep...not from this pen,*"[^fn46]—the Gentiles, "*all the families of the earth.*" 
+
+-	As '**priest**', the Messiah inaugurated the "*new covenant*" prophesied by Jeremiah, through which an anointed covenant community could experience the *Sh'khinah* of God.
+
+As prophet, priest and king, Yeshua the Messiah is presented by the New Testament writers as greater even that Israel's covenant Patriarchs, Abraham, Moses and David, as they establish that through his inauguration of the new covenant—at the earthly *Pesach* of Calvary *and* the heavenly Tabernacle of the Power on High—he has become the One Unique Mediator between God and human beings:
+
+>	*God, our deliverer...wants all humanity to be delivered and come to a full knowledge of truth. For God is one and there is but **one Mediator between God and humanity**, Yeshua the Messiah, himself human, who gave himself as a ransom on behalf of all, thus providing testimony to God's purpose at just the right time.*[^fn47]
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+<!--\osection{Summary: Study 1}-->
+
+This concludes Study N, **, which:
+
+-	
+
+In summary, the study revealed how:
+
+<!--\begin{summary}-->
+
+****
+
+<!--\end{summary}-->
+
+<!--\osection{Bonus discussions: Study 1}
+\begin{disc}[Commissioning]-->
+
+-
+
+<!--\end{disc}-->
+
+# The New, Messianic Covenant Community #
+
+<!--\begin{synopsis}-->
+
+****
+
+<!--\end{synopsis}\begin{topics}-->
+
+1.	Pentecost: Torah and Spirit
+2.	Pentecost: Messianic Community
+3.	Light to the Gentiles
+4.	Removal of *m'chitzah*
+
+----
+
+<!--\end{topics}\osection{Terms used in this study}-->
+
+<!--\osection{Scripture}\bible-->
+
+Read these passages aloud; memorise the **bold** passages.
+
+-
+
+## Pentecost: Torah and Spirit ##
+
+This topic examines
+
+When Israel's prophets anointed kings and priests with oil, it was a symbolic metaphor for the anointing of the Holy Spirit. The story of *Pentecost,* recorded in Acts, effectively tells of the risen, ascended Messiah—prophet, high priest and king—*anointing *the new-covenant community with his Spirit, with the effect of transforming uneducated *'am-ha'aretz* into community leaders emboldened to give faithful, public witness as powerful, effective 'ambassadors' of the Messiah's royal authority. A witness involving not only shepherding the nascent messianic community and announcing the Good News of the Kingdom—in word and deed—but also relating what they had learnt and experienced of Jesus to Jewish covenant history: remaining faithful both to *Torah*—the covenant charter of the Jewish nation—and to the Messiah, Israel's Redeemer.
+
+Torah and Spirit
+
+>	*This is the covenant which I will make with them after those days,* says Adonai: *I will put my Torah on their hearts and write it on their minds.*[^fn48]
+Jeremiah's prophecy clearly portrays Torah as a central element of the new covenant—a stark contrast to swathes of *Gentile* Christian tradition, which has generally taught that within the New Testament, salvation is no longer by *works,* since the *Law* has effectively been abolished and replaced variously, according to the theological point being made, by *grace, promise* and *the Spirit.*
+
+Whilst some elements of Torah clearly *are* effectively replaced under the terms of the new covenant—in particular, 'Hebrews' elucidates the redundancy of the ritual sacrificial system and the Levitical priesthood, in light of the Messiah's sacrifice and priesthood—even this replacement should be understood as forming part of the New Testament's presentation of a radical renewal of *Torah* taking place—initially through the Messiah, subsequently through his apostles, particularly Paul, the former Pharisee—as one covenant era passes into another.
+
+Thus, whereas Christian theology typically posits the *end of the Law* and its replacement with a combination of *grace, promise* or *the Spirit*, a Jewish, covenant perspective posits a more complex relationship between Spirit and Torah. For example, Paul at one time writes: "*For we know that the Torah is of the Spirit"*[^fn49]; on other occasion he claims, "*I worship the God of our Fathers in accordance with the Way ... I continue to believe everything that accords with the Torah and everything written in the Prophets*"; whilst James writes of "*the perfect Torah, which gives freedom.*"[^fn50]
+
+An Hebraic paradigm, in fact, admits discovery of a significant synonymy between the Torah and the Spirit—as set out within Table 2, below—elucidating important parallels and more accurately highlighting the true contrasts existing between *Torah* within the first covenant schema and *Spirit* within the new covenant schema: 
+
+
+|Torah, First Covenant | Scripture references | Spirit, New Covenant	| 
+| -: |:-:| :-	| 
+|given to Israel during Shavu'ot	| Exodus 19.1, 34.22; Acts 2:1	| given to Messianic Community during Pentecost (Shavu'ot)	| 
+|teaches God's truth	| Psalm 119; John 14.26; 15.26; 16.13	| teaches God's truth 	| 
+|Sh'khinah manifests powerfully, fire from heaven confirms divine origin	| Exodus 19.16-19, 24.9-11; Acts 2:2-3	| Sh'khinah manifests powerfully, fire from heaven confirms divine origin 	| 
+|written on tablets of stone, declares people guilty, brings death, came with fading glory| Exodus 31.18, 34.33-5, cf. Deut. 6.6; 2 Corinthians 3.2-18; cf. Jeremiah 31.31, Ezekiel 36.26| written upon tablets of the heart, declares people innocent, brings life, freedom, came with greater, lasting glory |
+|a written text communicating teaching, instruction, commandments of God| Deuteronomy 4.6-14; 1 Corinthians 2.12-16| a new spirit imparting, communicating heart and mind of Messiah 
+|lacked power to transform human nature	| Jeremiah 31.32; Romans 8:3-10	| transforms human nature, cleanses hearts
+
+### New and Old ###
+
+These parallels and contrasts present a radical distinction within the New Testament not between Torah and Spirit—each of which represents a gift of God to teach, guide, instruct and lead his covenant community—but rather, between an 'old' covenant consisting of a written text declaring human beings guilty, yet lacking efficacious power to transform human nature, tending instead to become perverted into a legalistic or ethno-centric system, and a new covenant that declares people innocent and is capable of imparting divine power, renewing the human spirit, infusing the Spirit of God within the covenant-community united with the Messiah, effectively transforming human nature from 'old' to 'new'.
+
+Consequently, the true contrast presented by the New Testament is between relating to Torah as consisting only of a written text—in itself devoid of power to change human nature—and relating to Torah by the power of the Spirit, who's goal is to transform human hearts and minds, bringing them into obedience to God's will, reproducing the likeness of the Son within the covenant community.
+
+How does the New Testament present this transformation taking place? To comprehend it properly requires an examination of both the Hebrew term 'ruach' and the nuanced New Testament teaching concerning Torah—three elements of which are particularly significant in regard to this argument:
+
+•	Torah has not been abolished, made redundant or replaced;
+•	Torah has been renewed, giving rise to 'the Torah of the Messiah';
+•	the New Covenant has become Torah.
+
+### Torah of Messiah ###
+
+Matthew wrote about the Messiah's vocation in terms of his coming to complete—typically translated "fulfil"—Torah, quoting Jesus' own declaration:
+
+>	Don't think I have come to abolish the Torah or the Prophets. *I have not come to abolish but to complete*. Yes indeed! I tell you that until heaven and earth pass away, not so much as a yud or a stroke will pass from the Torah.[^fn51]
+This accords with the earlier examination of how Jesus "brought to completion" the messianic prophecies and covenant foreshadows through his three messianic, mediatory roles of prophet, priest and king. Other highly significant Jewish prototypes such as the *pesach* (passover) lamb and the heavenly *man *(manna) are also identified as finding ultimate fulfilment in the Messiah.
+
+A further aspect of the Messiah's 'fulfilment' or 'completion' of Torah includes his teaching or amplifying a more complete understanding, even revision, of Torah—something Jewish rabbinic tradition stated only the Messiah could do. Jesus did this particularly within his "sermon on the mount," where he repeatedly challenged incumbent Torah interpretations—withal, making them more, not less strict—saying, "*You have heard, It is written...but I say to you...*"[^fn52]
+
+An emphasis on the abiding nature of Torah and its continuity within the new covenant schema is also confirmed by Paul, whose epistle to the Romans seeks to reconcile Torah with how the new covenant offers righteousness through trusting: "*Does it follow that we abolish Torah by this trusting? Heaven forbid! On the contrary we confirm Torah*."[^fn53]
+
+Although it is beyond the scope of this thesis to develop a comprehensive apologetic of this interpretation regarding Torah, it is worth examining one leading illustration: 
+
+>	For Christ is the end of the law for righteousness for everyone who believes.
+
+The Greek word translated 'end'—here by the Modern King James Version; few modern translations differ—is *telos*, the normal meaning of which is "goal, purpose, consummation," but not "termination." Thus, by contrast, the Complete Jewish Bible renders this text:
+
+>	For the goal at which the Torah aims is the Messiah, who offers righteousness to everyone who trusts.*[^fn54]
+Such an understanding of Torah—that its goal was and is the Messiah—accords a *unity* to the New and Old Testament scripture, as well as a genuine *continuity* to the outworking of God's covenant-based purposes through the ages, as posited within this thesis.
+
+### Torah of the Messiah ###
+
+The New Testament's radical transformation of Torah reveals that certain elements are no longer binding, the function they performed having been eclipsed by the Messiah; other elements are modified or changed by the Messiah's teaching or incarnation. Furthermore, certain elements are not intended to apply to Gentiles grafted into the Messianic Community, though they continue to be culturally and religiously significant for Jews. This transformation of Torah, brought about by the Messiah and incumbent upon the Messianic Community baptised into unity with the Messiah, is presented within the New Testament as the "*Torah of the Messiah*":
+
+>	With those who live outside the framework of Torah, I put myself in a position of someone outside of Torah in order to win those outside the Torah—although I myself am not outside of God's Torah but within the framework of Torah as upheld by the Messiah.[^fn55]
+
+>	The whole of the Torah is summed up in this one sentence: "Love your neighbour as yourself"... Bear with one another's burdens—in this way you will be fulfilling the Torah's true meaning which the Messiah upholds.[^fn56]
+
+Thus, in distinction to Torah as understood under the old covenant schema, the "Torah of the Messiah" refers to the teaching and commands of God as 'fulfilled', interpreted, transformed and taught ("upheld") by the Messiah and his apostolic disciples, within the New Testament gospels and epistles—and ultimately to the work of the Spirit of Truth within the hearts and minds of the covenant community.
+
+### New Covenant 'made Torah' ###
+
+According to 'Hebrews'—or 'Messianic Jews'—the New Covenant has actually become Torah: "*This covenant has been given as Torah on the basis of better promises*."[^fn57] This vitally overlooked detail of New Covenant theology effectively gives the New Testament equal status with the Torah of Moses—a claim consistent with the warning:
+
+>	If the word God spoke through angels became binding, so that every violation and act of disobedience received its just deserts in full measures, then how will we escape if we ignore such a great deliverance?[^fn58]
+
+This understanding confirms the two previous conclusions: Torah has not been abolished, or annulled, but *transformed* by the Messiah and the Messianic New Covenant.
+
+### Covenant faithfulness ###
+
+One consequence of these arguments is the recognition that New-Covenant-faithfulness implies Torah-faithfulness. Baptism unites disciples with the Messiah: binding the Messiah into a covenant relationship of loving-kindness, protection and eternal life towards those whom the Father has given to him. And binding followers into a covenant relationship of allegiance to the crucified, resurrected Messiah and obedience to the covenant terms set out within the "Torah of the Messiah," through submission to the Holy Spirit, who internalises within the messianic community the reality of the Messiah's atonement, the forgiveness of sin and an intimate knowledge of the Torah—of God's will and purpose:
+
+>	This is the covenant which I will make with the house of Israel... 'I will put Torah in their minds and write it on their hearts; I will be their God and they will be my people...For all will know me...because I will be merciful toward their wickedness and remember their sins no more.[^fn59]
+
+>	What the *Torah* could not do by itself, because it lacked the power to make the old nature cooperate, God did by sending his Son as a human being ... in order to deal with sin ... so that the just requirement of the *Torah* might be fulfilled in us who do not live our lives according to what our old nature wants but according to what the *Spirit* wants.[^fn60]
+
+### Spirit—Ruach—'Heart-mind'  ###
+
+Understanding how the Spirit fulfils the 'just requirements of Torah' within the faithful covenant community, requires examining the biblical concept of spirit. 
+
+The Greek word for 'spirit' is *pneuma*; the equivalent Hebrew word is *ruach*, the literal meaning of which is *breath*, or *air in motion*. Breath represents inner life; the inner life of humans is communicated through breathing, as well as through words, which are effected with breath. Biologically, there is a clear connection between breath, breathing and the human heart. Scripture presents a similar connection between the *ruach* (breath, spirit) and the *heart* of human beings. Within the Tanakh, *ruach* often appears in parallel with *levav*, the Hebrew word for heart, in a way that suggests they effectively refer to the same element within human beings. For example: 
+
+>	I shall give them one heart, and shall put a new *ruach* within them. And I shall take the heart of stone out of their flesh and give them a heart of flesh.[^fn61]
+
+Most significantly, Scripture communicates God's earnest desire for a people whose heart, whose *ruach* is like his, that he may thereby have a people who are like him:
+
+>	I will give you a new heart and put a new spirit (ruach) inside you; I will take the stony heart out of your flesh and give you a heart of flesh. I will put my Spirit (ruach) inside you and cause you to live by my laws, respect my rulings and obey them.[^fn62]
+
+The Hebrew concept of heart incorporates: 
+
+-	the "mind, heart, soul, inclination, resolution, determination of will; 
+
+-	the conscience and moral character; 
+
+-	the seat of emotions and passions, especially courage." 
+
+Thus, biblically, the heart of a person refers not to the sentimental part of human nature—as is common usage within modern western culture—but to the centre of a whole human being where all inner life takes place, whether emotional, rational or spiritual; where imagination, motive and purpose are determined. A better translation—albeit unwieldy for general use—might be "heart-mind." Thus, within the New Testament, the kingdom of God is said to come with repentance, with *a turning of the heart-mind*, towards complete allegiance towards the Messiah.
+
+>	Offer yourselves as a sacrifice, living and set apart for God. This will please him; it is the logical "Temple worship" for you...Don't let yourselves be conformed to the standards of the present age. Instead, keep letting yourselves be transformed by the renewing of your minds; so that you will know what God wants.[^fn63]
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## Pentecost: Messianic Community ##
+
+This topic examines
+
+### New creation ###
+
+*Ruach*, then, and its Greek equivalent, *pneuma*, should not be thought of as referring to spirit as some kind of ethereal substance, organically different within those who are "saved," but rather as the integrated *heart-mind* of a person: the seat of conscience, reason, imagination and emotion, which has been awoken, renewed or revived towards God's Truth within believers, in a way that is not generally true within non-believers.
+
+Thus, when Paul writes of believers being made a *new creation*,[^fn64] he is not essentially referring to an organic, or biological, infusion of a 'new spirit' in terms of a fresh, divine 'breath of air' within them, rather to an inner renewal of the 'heart-mind': a renewal of conscience and consciousness that begins with the *confession* of allegiance to Jesus as Messiah and *Lord.* An allegiance brought to its first climax and outward demonstration at *baptism*—the mark of entrance into new covenant relationship, bringing the individual into *union* with the Messiah, the first stage of a continual, life-long process of inner *renewal*, which is itself a vital foreshadowing of the final renewal of humanity and creation:
+
+>You have stripped away the old self, with its ways, and have put on the new self, which is continually being renewed in fuller and fuller knowledge, closer and closer to the image of the Creator.[^fn65]
+
+### Conclusion ###
+
+The anointing of the covenant community with the Spirit of God may be understood as the biblical fulfilment of Jeremiah's prophecy concerning the writing of Torah upon the hearts, a reality also related to the "*circumcision of heart"* referred to by Moses, Jeremiah and Paul.
+
+The result is that the human spirits of the covenant community are being actively and powerfully transformed by the Spirit of God into a mature uniting with the will, understanding, conviction and purpose of the Messiah. The 'Torah of the Messiah' is the formative instrument of the Holy Spirit to bring the Messianic Community into this conformance—into the glory of the Messiah: a new-covenant people being re-created in the image of the Creator, the first-fruits of his entire renewal of creation.
+
+The New Covenant thus presents the 'covenant faithfulness' of the Messiah, redeeming Jews and Gentiles from their bondage to the human condition of sinfulness and its curse (a condition the Torah 'highlighted' but could not change), atoning for their sin and writing the Torah upon their heart-minds, bringing them into an unprecedented relationship of intimacy with God, through the Spirit—and into the promised 'blessing' of Abraham. 
+
+In return, the New Covenant calls for the 'covenant faithfulness' of those who profess an allegiance to the Messiah that incorporates, above all, personal acceptance of Jesus as *Lord* and *Messiah*, evidenced through the rite of baptism; a uniting with the new covenant community *and* a Spirit-led adherence to the 'Torah of the Messiah' that brings individuals and the covenant community together into an experience of "*the mind of the Messiah.*"[^fn66]
+
+### Anointed, messianic community ###
+
+Thus, the purpose of the anointing of the covenant community—'anointing' deriving explicitly from the concept of Messiah, 'the Anointed One'—is to transform the covenant community into a priestly body possessing the character—the mind, the heart, the will, the imagination, the purpose, *the spirit*—of Adonai: the Lord, Jesus, the Messiah and God the Father—who are One. Thus, the covenant community becomes the Messianic Community, a 'mystery now revealed': the anointed **body of the Messiah**.[^fn67]
+
+>	He has put all things under his feet and made him head over everything for the Messianic Community, which is his body, the full expression of Him who fills all creation.[^fn68]
+
+The idea expressed by Paul here is significant, although the language is obscure, suggesting that the Messiah, who "*fills all creation,*" and achieves "*full expression*" through his messianic community, his body—just as a human head requires a body for full expression.
+
+Moreover, to the apostle Paul, the outpouring of the Holy Spirit has the effect of transforming the new-covenant community into a 'spiritual temple': a veritable "*dwelling place for God*,"[^fn69] in fulfilment of one of the most poignant and ancient covenant promises: *You will be my people...I will be your God and I will dwell amongst you.*[^fn70]
+
+### Light of the world ###
+
+That this extraordinary event of the Holy Spirit's outpouring took place at Pentecost, in Jerusalem, surrounded by "*religious Jews from every nation under heaven*,"[^fn71] who were able to understand the newly-anointed believers speaking in a multitude of languages "*about the great things God has done*," had another vitally important impact—it sparks into life the final mandate which the resurrected Jesus had given to his disciples:
+
+>	All authority in heaven and earth has been given to me; therefore, **go and make people from all nations into disciples**, immersing them into the reality of the Father, the Son and the Holy Spirit, and teaching them to obey everything I have commanded you.[^fn72]
+
+As the Messianic Community of—initially exclusively Jewish—believers received the Holy Spirit in this profound way, they were emboldened to act as witnesses: blending insights into the new covenant with their personal experience of the Messiah, the newly released life of the Spirit within them enlivening their hearts, strengthening their resolve, invigorating their minds to provide a new sense of purpose, conviction, clarity, boldness and determination—evidence of the Torah of the Messiah now effectively written upon their hearts and minds.
+
+Forty days earlier, Peter, for example, had fearfully denied Jesus. Now, he is bold and fearless: preaching to thousands, convicting them of their sin, directing them to recognise Yeshua as Lord and Messiah, instructing them to be baptised, in order to save themselves "*from this perverse generation*"[^fn73]; publicly performing a miraculous healing in the Temple area; finally, arrested, imprisoned and brought before the Jewish religious authorities, Peter speaks of the Messiah and his purposes for the covenant nation of Israel with deep insight, knowledge and trenchant authority.
+
+### Messianic: anointed, blessed, covenant community  ###
+
+Peter's Pentecost message to the Jewish people confirms one of this thesis' key claims: the new, messianic covenant, its commands and its blessings to the Jewish nation, are firmly rooted within the framework of the Abrahamic covenant:
+
+>	You are the sons of the prophets and you are included in the **covenant** which God made with our fathers when he said to Abraham, '**By your seed will all the families of the earth be blessed**.' So it is to you first that God has sent his servant whom he has raised up, so that he might **bless** you by turning each one of you from your evil ways.[^fn74]
+
+The "*all families*" of the Abrahamic covenant represents exactly the same "*all nations*" to which Jesus instructed his disciples to 'go,' in order to make people from those nations into faithful disciples of the Messiah.[^fn75] The word translated "nations," 'ethnos', also meaning "gentiles"; thus, clearly Peter is already looking to horizons beyond Jerusalem, saying to the Jews "*to you **first***," the Messiah was sent, implicitly reminding them of Israel's true, covenant vocation: a nation blessed to be a blessing to the *gentiles* of the earth. 
+
+It is the outworking of this "great commission, to all nations" that inevitably breaks into and eventually opens up the dominant Jewish cultural matrix of the earliest messianic community, forcing it to confront its greatest crisis of identity: the incorporation of Gentiles into the new covenant community.
+
+#### Fig 6: Pentecost, body of messiah ####
+
+Before examining the complexities of this highly significant challenge to the messianic community's development, I will update the 'graphical panorama' of biblical covenant history: to include Pentecost, the "body of the Messiah" and the new covenant commission to "make disciples of all nations":
+
+![Pentecost and body of Messiah][EP6pentecosts.png]
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## Light to the Gentiles ##
+
+This topic examines
+
+### Beyond the house of Israel ###
+
+When we read the New Testament scriptures from our vantage point today, two thousand years after the earthly life of Jesus, knowing that the gospel has since penetrated so many ethnic groups and cultures and that 'the Church' has become an entity distinct from the Jewish people; Christianity, a faith quite distinct from Judaism, it is difficult for us to comprehend the depth of cultural struggle with which early Jewish followers of Jesus had to engage. In fact, the development of Jewish tradition, at that time, led Jews to scrupulously avoid certain forms of contact with Gentiles who ,associated with paganism, were considered ritually 'unclean' and unsuitable for Jews to associate closely with:
+
+>	For a man who is a Jew to have a close association with someone who belongs to another people, or to come and visit him, is something that just isn't done.[^fn76]
+
+Without understanding this cultural struggle, a great deal of the New Testament doesn't make proper sense. Grasping this is made more difficult by some modern versions of the Bible too readily translating the Greek word *ethnos*, as "nations," rather than "gentiles" Though sometimes a suitable translation, in many contexts "nations" is inadequate to communicate the inter-cultural impact of what is being described. For example, Jesus began his ministry by going to a region of Israel that was associated with Gentiles:
+
+>	The land of Zebulun and the land of Naphtali, in the way to the sea, beyond the Jordan, Galilee of the Gentiles. The people which dwelt enveloped in darkness have seen a great light; and for those who sat in the land and shadow of death Light has dawned.[^fn77]
+To translate this as "Galilee of the nations"—as does the Modern King James, for example—obscures a subtle but important statement which Jesus was making with his actions. Even when "Gentiles" is used, significant cross-cultural issues may still not be obvious to the reader.
+
+The two most highly significant questions, effectively being asked throughout the New Testament, are: Can a Gentile be grafted into the Abrahamic covenant community? If so, How?
+
+### Jesus and Gentiles ###
+
+The significance of the Gentiles is clearly depicted by the gospel writers. Matthew, in his patriarchal genealogy of Jesus, deliberately includes four women: Tamar, Rahab, Ruth, Bathsheba—each of whom is a Gentile. Luke notes the importance of the ministry of John the Baptist proclaiming "***all humanity** will see God's deliverance.*"[^fn78] He also writes about *Shim'on*, a devout, righteous Jew who meets Jesus' parents within the Jerusalem Temple, on the occasion of Jesus' *b'rit-milah*:
+
+>	It had been revealed to him by the Holy Spirit that he would not die before he had seen the Messiah of Adonai...Shim'on took him in his arms... and said, "I have seen with my own eyes your yeshu'ah ("salvation") which you have prepared in the presence of all peoples—a light that will bring revelation to the **Gentiles** and glory to your people Isra'el."[^fn79]
+
+Throughout the course of Jesus' life, teaching and ministry it becomes clear that he is making a series of significant statements about the Gentiles. To modern readers, these messages may not even initially appear to be about Gentiles, but to first-century Jewish listeners and observers, looking to Jesus as a teacher and prophet—and potentially the Messiah— of Israel, it would have been clear that a series of profound statements were being made. For example, the account of a Gentile woman, whose daughter has a demon:
+
+>	The woman was a Greek, by birth a Syro-phoenician and she begged him to drive the demon out of her daughter. He said, "Let the children be fed first, for it is not right to take the children's food and toss it to their pet dogs. She answered him, 'That is true, sir, but even the dogs under the table eat the children's leftovers.' Then he said to her, 'For such an answer you may go home; the demon has left your daughter.'[^fn80]
+
+To understand this passage fully, it is necessary to examine the parallel passage in Matthew, where Jesus explains his initial rejection of the women's requests, declaring: "*I was sent only to the lost sheep of the house of Israel*." At this, the woman falls at his feet, the above exchange takes place, following which Jesus answers the woman: "*Lady, you are a person of great trust. Let your desire be granted*."[^fn81]
+
+To hear a Gentile commended for demonstrating great faith or trust would have stunned Jesus' Jewish followers and listeners. However, it was the application of her trusting faith that especially interested Jesus: she was not only an example of a trusting Gentile, but the "great trust" for which she is commended clearly rested on understanding that Jesus, the Jewish prophet, would not deny the overflow of God's grace to the Gentiles. In this sense, she understood the kingdom—the government-of God—more than the religious Jews who claimed to be heirs of Abraham's faith and of Moses authority!
+
+A similar echo is found in Jesus' commendation of a Roman centurion, who says to Jesus:
+
+>	'Sir, I am unfit to have you come into my home. Rather, if you will only give the command, my orderly will recover. For I too am a man under authority. I have soldiers under me, and I say to this one, 'Go!' and he goes; to another, 'Come!' and he comes; to my slave, 'Do this!' and he does it.' 
+
+>	On hearing this Yeshua was amazed, saying to those following him, *'Yes! I tell you, I have not found anyone in Isra'el with such trust! Moreover, I tell you that many will come from the east and from the west to take their places at the feast in the Kingdom of Heaven with Avraham, Yitz'chak and Ya'akov. But those born for the Kingdom will be thrown outside in the dark, where people will wail and grind their teeth!'[^fn82]
+
+A shattering challenge, worthy of a Jewish prophet! The Jewish leaders and religious sects knew that they were being addressed by this warning: not only were Gentiles to be invited "*from the east and... West*"—apparently including the very pagans now ruling oppressively over Israel, the despised Romans—while "*those born for the kingdom*"—a direct allusion to those taking pride in their physical descent from Abraham—would be rejected. No wonder some of them began to plot Jesus' death—as their spiritual ascendants had done with other prophets before.
+
+### Gentiles in early messianic community ###
+
+This emerging struggle between Jewish and Gentile identity within the early messianic community continues in the book of Acts, with chapters 10 and 11 providing the most telling account. Therein, Peter, a close apostle of Jesus, enters a trance and receives three visions, at first sight, seemingly concerning *treif* food. However, Peter comes to understand that the real meaning being communicated to him is that:
+
+>	God has shown me not to call any **person** common or unclean... I now understand that God does not play favourites...whoever fears him and does what is right is acceptable to him, no matter what people he belongs to.[^fn83]
+
+In other words, Peter, even after receiving from Jesus the 'great commission' to make disciples of all nations, still needed to be convinced by the Holy Spirit, in order to be ready to go and speak to a group of God-fearing Gentiles! 
+
+>	As these Gentiles are listening to Peter explaining that Jesus' had *"been appointed by God to judge the living and the dead... that everyone who puts his trust in him receives forgiveness of sins,"* the Holy Spirit comes upon the Gentiles—to the evident shock of Jewish onlookers—enabling them to *"speak in tongues,"* following which Peter decides to immerse them *"in the name of Yeshua the Messiah."[^fn84]
+
+This important event sparks a veritable revolution, as others, thrust out of Jerusalem by a persecution, begin to speak about Jesus beyond the Jewish synagogues and communities—including the Greeks of Antioch. The evangelisation of Gentiles gathers pace with the missionary work of Paul and Barnabas throughout Greece. In each place, beginning by speaking in the synagogues, when unbelieving Jews stir up trouble for them, they retort that they will therefore take the message to the Gentiles, citing Isaiah 49.6 in support: *"I have set you as a light for the Gentiles, to be for deliverance to the ends of the earth."[^fn85]
+
+As a result many people believe and trust in Jesus and the message about him spreads widely. As one of the 'pillars' of the community, Peter's revelation and declaration of the acceptability of Gentile peoples in the eyes of God—if they "do *what is right*"—has made it clear that the hitherto wholly Jewish new-covenant community must accept the social integration of Gentiles. 
+
+Peter's revelation and highly significant conclusion, has nevertheless left important theological questions unanswered. Inevitably, as the new covenant community continues to work out the implications of the Messiah's life, death, resurrection and teaching, more and more issues and questions are raised—none more vital to the embryonic messianic community than the Gentiles and their manner of entrance into both covenant relationship and the covenant community. The role of comprehending and answering these questions falls, in God's providence, to a man named *Sh'aul*, a zealous Pharisee, with an education in both Greek and Hebrew language and culture, as well as a deep regard for and understanding of Torah and the biblical covenants.
+
+*Sh'aul*, also known as Paul, in a series of nuanced, yet impassioned epistles, takes on the task of offering both a series of profound theological explanations, as well as a determined, indignant, personal defence of the identity, nature and freedom of the messianic covenant community. In particular, Paul opposes those who wish to undermine new-covenant truth and liberty and who are attempting to take the messianic community into directions that, according to Paul, are entirely against the counsels of God and the intent of the Messiah.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## Removal of m'chitzah ##
+
+This topic examines
+
+### Gentiles: foreigners to the covenant ###
+
+*Remember your former state: you Gentiles by birth... at that time had no Messiah; you were estranged from the national life of Israel; you were foreigners to the covenants embodying God's promise you were in this world without hope and without God.[^fn86]
+
+In his epistle addressed to the Ephesian community of messianic followers, Paul confirms this thesis' foundational premise: that **the covenants embody God's purpose and promise**. Hitherto, this covenant-based hope is directed solely toward Israel; Gentile estrangement from the "*national life of Israel*" implying nothing less than being outside of God's covenant faithfulness—where they are without any hope of deliverance through God's appointed Messiah. Indeed, according to Paul they are "*without God*" at all: essentially, estrangement from Israel—estrangement from the covenants—represents complete estrangement from God.
+
+### Once far off, now brought near ###
+
+Paul, however, does not stop there; his message now firmly one of hope for the Gentiles: *"You who were once far off have been brought near through the shedding of Messiah's blood."* [^fn87] 
+
+Paul declares that, through Messiah's death, Gentiles, formerly without hope, formerly outside the scope of the covenant faithfulness of God, have now been brought near to God; brought into covenant relationship through the Messiah, alongside the Jews—yet without becoming Jewish converts. 
+
+How could this be? How, in terms of covenant—the governing paradigm of Jewish worldview and mainstay of their relationship with Adonai—could Gentiles be incorporated? Were the Gentiles to form a second covenant group? Were they to become circumcised, to become Jewish proselytes? These were the kind of questions that immediately rose within the minds of first-century Jews and those who understood their Torah-dominated culture. Paul continues with his explanation, employing two key Hebraic terms to describe what has occurred through the Messiah's death:
+
+*[The Messiah] himself is our **shalom**—he has made us both one and has broken down the **m'chitzah** which divided us, by destroying in his own body the enmity occasioned by the Torah, with it's commands set forth in the form of ordinances.[^fn88]
+
+### The breaking down of the m'chitzah ###
+
+First of all, Paul refers to a *m'chitzah* being broken down. *M'chitzah* is the term for a partition or divider which acts to separate people into two groups, such as the partition which is still used to separate men from women in an Orthodox Jewish synagogues. Here though, Paul is referring to a wall within the Temple. This Temple divider is a stone partition, approximately one and a half metres in height, which separates the Temple's inner courts—the Holiest Place, into which only Jews could enter—from the Court of the Gentiles, an outer area of the Temple where non-Jewish worshippers of Adonai could enter, but beyond which they were completely barred.
+
+Paul's reference to the *m'chitzah's *destruction employs it as a powerful metaphor to drive home the reality that the Gentiles are now on an equal footing with the Jews in relation to Adonai, the Lord. Paul declares that Jesus did this by destroying the enmity between the Jews and Gentiles 'stirred up by' the existence of Torah. 
+
+The Jews' gift and embrace of Torah had separated them out as God's covenant people—yet it was not intended to be so for their own benefit, rather in order that they should serve God's purposes, ultimately, becoming "*a light to the Gentiles*."[^fn89] That purpose was now working out through the Messiah and the emerging Jewish remnant: the messianic-covenant community. But for centuries Torah had effectively highlighted the division between the Jews and Gentiles, thereby stirring-up hatred between the two communities which God intended one day to join into a single covenant community—a reality so extraordinary and so significant that Paul refers to it as nothing less than a new humanity: 
+
+>	He did this in order to create in union with himself from the two groups a single new humanity and thus make shalom.[^fn90]
+
+According to Paul, Torah-observance *as understood by the non-Messianic Jews*, could no longer be the arbiter or defining characteristic of who belonged to the covenant community—of who was being faithful to the covenant God. Paul's renewed understanding of Torah contends that those counted as members of the new-covenant community are those faithful to the crucified and resurrected Messiah: confessing allegiance to him as Lord and abiding in a relationship of trusting faithfulness, obeying the Torah as interpreted and upheld by the Messiah and his apostles.
+
+Within this community neither *"being circumcised nor being uncircumcised matters; what matters is being a new creation."*[^fn91] In this community, love for neighbour is the highest command, second only to loving God himself, and fellowship between those of different races, religious factions and 'doctrinal sensibilities' is paramount. Thus, even though Torah-observance continues to be a feature of life for members of the new covenant community, the enmity stirred up by it is destroyed, since fellowship, love and unity are elevated above all other commands.*
+
+### Shalom ###
+
+*Shalom* is thus the second key term which Paul employs to describe what is happening through this reconciliation, this uniting of two groups formerly divided against each other. This weighty Hebrew word is typically translated as 'peace,' though it actually holds a much fuller meaning incorporating: tranquillity, safety, well-being, welfare, health, contentment, success, comfort, wholeness and integrity. Shalom, thus understood, represents God's ideal will for human beings. But because of rebellion, evil and wickedness the 'shalom' he originally intended humans to experience and enjoy has been corrupted, broken, destroyed.
+
+Paul is therefore saying that in the Messiah—through Gentiles being incorporated into the covenant relationship, being joined with the messianic covenant community—God's gift of 'shalom' is being restored to them: an indication of the reconciliation that has taken place between them and the Jews, by both being joined with the Messiah, but more significantly, an indication, a sign, of the reconciliation between pagan Gentiles *and God himself*. Thus, those formerly cut off from the covenant community and promises are now reconciled and brought into the covenant faithfulness of God, represented by *shalom*.
+
+Through this reconciliation, a 'new humanity', is being created: incorporating paganised Gentiles, as well as exiled Jews, now reconciled to God: One Body united with the Messiah, in which God has begun to restore humanity—a kind of first-fruits of his restoration of the whole creation.
+
+### Access in one Spirit to the Father ###
+
+Paul's reference to the *m'chitzah* also hints at the destruction of the *parokhet*—the veil that separated the Holiest Place from the Holy Place, into which the high priest normally only entered once a year, within which the *Sh'khinah* presence, the glory of God had dwelt within the "ark of the covenant." Metaphorically, the tearing of the *parokhet* represented the ending of the ministry of the earthly high priests, the signal that the earthly temple and sacrifices were being superseded by the sacrifice and intercession of the Messiah. This is essentially the message of the biblical book of Hebrews.
+
+>	Inside the parokhet...a forerunner has entered on our behalf, namely, Yeshua, who has become a high priest forever...If the system of cohanim is transformed, there must of necessity occur a transformation of Torah...[^fn92]
+
+Whereas the 'old covenant' priesthood, descended from Aaron, established by Moses, catering for the people of Israel alone, "*did not bring anything to the goal*"—hence the requirement for a *kapparah* to be made year after year—by contrast, the new covenant established by the Messiah, provides a once and for all times *kapparah*, a single offering that "*has brought to the goal for all time those who are being set apart for God and made holy.*"[^fn93]
+
+>	This is the kind of high priest that meets our need—holy, without evil, without stain, set apart from sinners and raised higher than the heavens; one who does not have the daily necessity of offering up sacrifices...because he offered one sacrifice, once and for all, by offering up himself...he lives forever...and consequently he is totally able to deliver those who approach God through him, since he is alive forever and thus forever able to intercede on their behalf.[^fn94]
+
+Here we again see evidence of the overlapping and intersecting circles of Hebraic thought, flowing from Paul's epistle to the Ephesians, through the *midrashic* expositions of the writer of Hebrews; at the centre of all these circles of thought, each time, is the new centre of God's covenant revelation: the Messiah and the new, messianic covenant, the way into which is open not only to members of the 'old covenant' community, "*those nearby*," the Jews, but also to those "*far off*," the Gentiles.
+
+### Gentiles: fellow citizens of God's family ###
+
+Paul, having set out exactly where the Gentiles formerly were and how they have "*now been brought near*" to God by the Messiah, reaches the summit of his proclamation of what has happened to them:
+
+>	So then, you are no longer foreigners and strangers. On the contrary, you are fellow-citizens with God's people and members of Gods' family. You have been built on the foundation of the emissaries and the prophets, with the cornerstone being Yeshua the Messiah himself. In union with him the whole building is held together...growing into a holy temple in union with the Lord. Yes, in union with him, you yourselves are being built together into a spiritual dwelling place for God![^fn95]
+
+A summary of Paul's description of the former state of Gentile peoples includes being:
+
+-	in this world without hope 
+-	without God
+-	having no (hope or promise of the) Messiah
+-	estranged from the national life of Israel
+-	foreigners to the covenants.
+
+In complete contrast to this former, forlorn state, Gentiles united with Messiah are described as being:
+
+-	fellow citizens with God's people
+-	members of God's family
+-	joined to the house—the commonwealth—of Israel 
+-	grafted into the 'vine' of Israel
+-	incorporated into covenant community.
+
+The result of this transformation of fortune is that Jewish and Gentile followers of Yeshua together form:
+
+-	a new, messianic covenant community
+-	a single 'new humanity' of Jews, Gentiles
+-	a building founded upon the Messiah, his apostles and prophets
+-	a 'holy temple'—a dwelling place for God
+-	the mystical 'body of messiah,' filled with the Spirit of God
+
+### Gentiles: sharing the faith of Abraham ###
+
+Traditionally, the Jews saw themselves as the natural and spiritual descendants of Abraham, the premier Patriarch of the Jewish nation and faith. This was why they found it difficult to accept that Gentiles could become sharers in the covenant promises of God: Gentiles were not descended from Abraham. 
+
+Thus, in order to challenge the complacency of Jews who assumed that their natural, physical descent from Abraham brought them favour with God, Paul reminded the Jews that those registered by God as righteous—as faithful to the covenant—were specifically and *only* those who stood in the tradition of Abraham's trusting faithfulness towards God's covenant promises—not those who were simply natural descendants. 
+
+A real Jew, according to Paul, must not merely be a physical descendant, nor merely familiar with what Torah says, but a real Jew must do what the Torah says: being faithful as Abraham was, trusting God and giving him glory and praise—praise is the meaning of the name 'Judah', from which comes the name 'Jew'—even when hope appears forlorn.
+
+The ultimate goal of Paul's exegesis is to establish that the trusting new-covenant faithfulness of Gentile followers of the Messiah is as equally authentic as the trusting new-covenant faithfulness of Jewish followers. To confirm this argument, Paul directly connects messianic faith expressed by Gentiles with the faith expressed by Abraham:
+
+.	Those who rely on trusting and being faithful are blessed along with Abraham, who trusted and was faithful.[^fn96]
+
+Paul makes the same point in his epistle to the Romans:
+
+>	Is God the God of the Jews only? Isn't he also the God of the Gentiles? Yes, he is indeed... because as you will admit, God is one.[^fn97]
+
+In other words: although Jews and Gentiles come from very different cultures and spiritual backgrounds and Gentiles do not share in the former covenants, both are alike under the condemnation of sin and both, through expressing faith in the Messiah, are made equal in the sight of God. Furthermore, Paul is suggesting that the incorporation of the Gentile peoples into covenant relationship with God is no afterthought: it was in the mind and heart of God centuries before, precisely when he made the covenant with Abraham:
+
+>	The Tanakh, foreseeing that God would consider the Gentiles righteous when they live by trusting and being faithful, told the Good News to Abraham in advance, by saying, 'In connection with you, all the Gentiles will be blessed.'[^fn98]
+
+Paul thus expounds the idea that God's consideration of the Gentiles as righteous—as faithful members of the covenant community—was not only foretold within Scripture, but the covenant blessing given to Abraham—"*in connection with you, all the Gentiles will be blessed*"—actually represents God's seminal revelation to Abraham of the new covenant message: the "Good News" of the Messiah.
+
+Accordingly, this "Good News"—the announcement of the kingdom reign of God arriving within the Messiah, of which Paul has been made an emissary[^fn99]—is to be understood as having been previously announced to Abraham. Effectively this announcement represents the divine response to the rebellion of humanity. 
+
+Hence, the present work of God through the Good News, though 'new' in clarity and application, is not new in character or intent. In fact, it represents "*a mystery now made plain*"—one entirely in accordance with the Torah and the faith of the Patriarchs with whom the covenants were made:
+
+>	Good News, in harmony with the secret revelation of the secret truth which is the proclamation of Yeshua the Messiah, kept hidden in silence for ages and ages, but manifested now through the prophetic writings, in keeping with the command of God the Eternal and communicated to all the Gentiles.[^fn100]
+
+Clearly, God's 'eternal purpose' was within his heart and mind from the onset of covenant history. It was proclaimed to the Patriarch Abraham, confirmed by Torah and the Jewish Prophets, brought to completion in the person of Jesus of Nazareth, the Messiah, and expounded by the revelatory, apostolic teaching of Paul to the early Messianic Community!
+
+### Inheriting the blessing, receiving the Spirit ###
+
+Within his announcement to Abraham, God revealed his commitment to bless Abraham and, through him, all the families of the earth. This blessing is brought towards its goal within the new covenant, as the Gentiles—formerly cut off, without hope of reconciliation with God—receive forgiveness for sins, deliverance from the power of death and the Holy Spirit:
+
+>	Yeshua the Messiah did this so that **in union with him the Gentiles might receive the blessing announced to Abraham**, so that through trusting and being faithful we might receive what was promised, namely, the Spirit.[^fn101]
+
+Here Paul explains that the Gentiles receipt of the Spirit is a direct fulfilment of the covenant promise. The Abrahamic blessing represented God's covenant response to the rebellion of man, the reality of which is described in the events of Genesis chapters three through to eleven, recording the curse of death proclaimed upon Adam; humankind's exile from the fruit-laden garden and subsequent descent into a breed exhibiting only evil, chaotic wickedness. Thus, whereas sin and rebellion brought the **curse** of death, deceit and decay, union with the Messiah brings the **blessing** of the Spirit who gives life: 
+
+>	If the Messiah is in you, then, on the one hand, the body is dead because of sin; but, on the other hand, the Spirit is giving life because God considers you righteous.[^fn102]
+
+Similarly, whereas the Sinai covenant was glorious, bring illumination and condemnation of sin, but lacking power to deliver human beings from the law of sin and death; by contrast the new covenant transforms those who live by trusting faithfulness in the Messiah, the new 'breath' of the Spirit inhabiting the new covenant people of God, changing them into the image, mind and character of the Messiah:
+
+>	ADONAI is this text means the Spirit. And where the Spirit of ADONAI is, there is freedom. So all of us, with our faces unveiled, see as in a mirror the glory of the Lord...we are being changed into his very image, from one degree of glory to the next, by ADONAI the Spirit.[^fn103]
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+<!--\osection{Summary: Study 1}-->
+
+This concludes Study N, **, which:
+
+-	
+
+In summary, the study revealed how:
+
+<!--\begin{summary}-->
+
+****
+
+<!--\end{summary}-->
+
+<!--\osection{Bonus discussions: Study 1}
+\begin{disc}[Commissioning]-->
+
+-
+
+<!--\end{disc}-->
+
+# The Eternal Purpose of God #
+
+<!--\begin{synopsis}-->
+
+****
+
+<!--\end{synopsis}\begin{topics}-->
+
+1.	Covenant partnership
+2.	New covenant glory (part A)
+3.	New covenant glory (part B)
+4.	God's eternal purpose
+
+----
+
+<!--\end{topics}\osection{Terms used in this study}-->
+
+<!--\osection{Scripture}\bible-->
+
+Read these passages aloud; memorise the **bold** passages.
+
+-
+
+## Covenant partnership ##
+
+This topic examines
+
+### Inheriting the blessing ###
+
+Furthermore, Adonai invites those who are willing to trust in and follow his Messiah, to receive the fresh 'breath' of his Spirit, to become **covenant-partners,** pursuing his eternal purpose. Gentile followers of the Messiah, by being united spiritually to the Messiah have become the spiritual "*seed of Abraham*" and, as a consequence, heirs of the blessing: 
+
+>	If you belong to the Messiah, you are seed of Abraham and heirs according to the promise.[^fn104]
+
+Accordingly, those united with the Messiah are not only those who themselves are 'blessed,' *but also* those who are called "*to be a blessing...to all the families of the earth*," receiving not only the blessing of first horizon of the covenant promise—the blessing of God towards them—but the also receiving the injunction of the second horizon—the injunction to be a blessing to all the families of the earth:
+
+>	I will make of you a great nation. I will bless you and I will make your name great and **you are to be a blessing**. I will bless those who bless you, but I will curse anyone who curses you; and **by you all families of earth will be blessed**.[^fn105]
+
+What this means is that the body of the Messiah—the Messianic Community, the *ekklessia*, the Church—has inherited the Abrahamic blessing and are, therefore, themselves, like Abraham *avinu* before them, **blessed to be a blessing...to all the nations of the world**. God has invested his blessing in those who follow the Messiah, in order that they reach out to other families, peoples and nations to bless them.
+
+### Failing to inherit the blessing ###
+
+Adonai's covenant promise to bless Abraham was not simply for his own benefit or that of his descendants; Abraham and his descendants were blessed *for a specific purpose*: to demonstrate God's covenant faithfulness and for his blessing to spread out to all nations. Whenever Israel became insular and parochial and failed in serving the God's purposes, Israel suffered God's judgement. Yet God could not abandon his eternal covenant—instead, he disciplined them, sometimes severely, in order to return them towards faithful covenant service.
+
+In two thousand years, the Messianic, Christian covenant community—the Church—has also become insular, parochial, self-serving, even idolatrous and, for long periods, largely failed in its vocation to be a blessing to the nations of the world. Oftentimes, other forces—military, legal, political and religious—entered into the moral vacuum, further short-circuiting the blessing that God intended to come through his covenant community. Nevertheless, the blessing of God has continually flowed out towards all nations and in the twentieth century, if numerical growth is any measure, it has reached surging proportions.
+
+### The responsibility of the blessing ###
+
+Today, the Abrahamic blessing of God remains upon those who are united with the Messiah through their faith: they are **blessed to be a blessing to all the nations of the world**. To receive the blessing without seeking to be a blessing to peoples outside of God's covenant grace and goodness represents faithlessness towards the new covenant into which followers of the Messiah have been brought and, effectively, a rejection of the covenant terms. 
+
+Thus it is that we find Paul expressing the radical determinant that those confessing allegiance to the Messiah cannot claim a true inheritance alongside the Messiah *unless *they also act in covenant partnership with God—sharing practically in the *"fellowship of his suffering"[^fn106]:
+
+>	The Spirit himself bears witness with our own spirits that we are children of God and if we are children, then we are also heirs, heirs of God and joint-heirs with the Messiah—**provided we are suffering with him** in order to be glorified with him.[^fn107]
+
+Thus, all those united with the Messiah—Messianic Jews and Gentile Christians—are called into a form of 'covenant community partnership' with God: *called to serve the eternal purpose of God.*
+
+**God's 'new covenant' with the house of Israel expresses God's commitment to create a faithful messianic covenant community...**
+
+A community receiving and imparting the 'shalom' of the kingdom through forgiveness of sin; a single 'new humanity'— a mystical 'body of the Messiah'—comprising Jew and Gentile, united in reaching out to all nations with the Good News of God's reign through his Son
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## New covenant glory ##
+
+This topic examines
+
+From the genesis of creation, throughout the ages and the various biblical covenants, to the present and into the future, God has been and remains committed to his eternal purpose. He has never been, nor ever will be, diverted from it, until all is fulfilled. In the new covenant he has been faithful to this eternal purpose, revealed progressively through the covenants and the prophetic writings that bear witness to it:
+
+### Table 2 ###
+
+God's covenant commitment
+...with
+...therefore / through the covenant
+to uphold his creation
+Noah
+God will not abandon his commitment to his creation, in spite of man's evil
+to bless all the families of the earth through 'a great nation'
+Abraham
+God is committed to restoring his creation, marred by human rebellion, using a covenant community to bring human beings back into right relationship with him
+to use a covenant community to reveal his love and glory to the whole world
+Israel
+God chooses an unimportant nation, to demonstrate his loving, covenant faithfulness towards a world of people which has rebelled against his eternal purpose for Creation
+to anoint one of David's descendants to eternally establish God's kingdom 
+David
+God hints at a coming Anointed One—a Messiah—a coming King who will establish the Kingdom of God eternally, on earth
+to create a renewed, faithful covenant community, blessing all nations through God's reign through his Messiah
+Israel, Messiah Yeshua
+God establishes a Spirit-anointed, covenant-keeping community of Jew and Gentile together, receiving and imparting the 'shalom' of the kingdom
+
+### The covenants reveal God's eternal purpose ###
+
+Clearly, throughout 'covenant history', God has been resolutely working out his purposes in covenant partnership with human communities:
+
+-	The first covenant recognised his commitment to creation. He would not 'begin again,' but work through this creation. 
+-	The second and third covenant revealed and established his method: a covenant nation through which all other nations would ultimately be blessed. 
+-	The fourth and fifth covenants revealed an Anointed King—a king, in some mysterious way, who was actually the Eternal One, God himself—acting to bring reconciliation, redemption and righteousness to a renewed covenant-community, blessed—by the outpouring of the Holy Breath of God—to be a blessing to all the nations of the earth.
+
+Together the covenants reveal...
+
+>	God's eternal purpose accomplished in the Messiah Yeshua.[^fn108]
+
+### Bringing many sons to glory ###
+
+>	Those who love God and are called in accordance with his purpose...he determined in advance would be conformed to the pattern of his Son, so that he might be the firstborn among many brothers; and those whom he thus determined in advance, he also called; and those whom he called, he also caused to be considered righteous; and those whom he caused to be considered righteous, he also glorified![^fn109]
+
+Paul, writing to the Roman believers, arrives at one of the summits of his epochal arguments, speaking specifically about those called in accordance with God's eternal purpose. For those thus called, he writes, the process of their conformance to the pattern of the Son, the Messiah, comes to completion with their glorification. The writer of Hebrews makes essentially the same point when he declares:
+
+>	In bringing many sons to glory, it was fitting that God, the Creator and Preserver of everything should bring the Captain of their salvation to the goal through suffering.[^fn110]
+
+The Messiah was brought by God, through suffering, to his goal. Which goal? The goal of "bringing many sons to glory"..."that he might be the firstborn among many brothers." Thus, God's eternal purpose may be understood as bringing many 'sons' to glory.
+
+What does it mean to be brought to glory? The New Testament principally presents the following four distinct, though overlapping, aspects of 'glory':
+
+-	The glory of the Messiah
+-	The glory of knowing the Messiah
+-	The glory of suffering with the Messsiah
+-	The glory of resurrection with the Messiah
+
+### The glory of the Messiah ###
+
+'Glory' typically refers to "brilliant, radiant beauty, splendour" or "high honour." The Hebrew word, Sh'khinah, refers uniquely to the glorious presence of God. In the old covenant schema, the Sh'khinah presence dwelt in the Holiest place, only entered by the high priest, once a year. In the new covenant schema, the Sh'khinah presence was no longer confined to the temple, but located absolutely within the Messiah:
+
+>	...his Son, to whom he has given ownership of everything and through whom he has created the universe. This Son is the radiance of the Sh'khinah, the very expression of God's essence, upholding all that exists by his powerful word.[^fn111]
+
+The New Testament, however, also presents the Messiah as a relatively inglorious figure, "emptying" himself and "taking the form of a slave," in order to obey God, in a way that resonates with the curious Messianic prophesy of Isaiah, "he was not well-formed or handsome...his appearance did not attract us...he was despised; we did not value him."[^fn112]
+
+Thus, the New Testament presents a more subtle form of glory. One that does not physically overwhelm, as when angels met prophets like Daniel, Ezekiel and John, causing them to fall on their faces, but rather which invites trust, confidence, love and self-surrender and, ultimately, transformation into the likeness of the character of the Messiah.
+
+>	The Word became a human being and lived with us and we saw his Sh'khinah, the Sh'khinah of the Father's only Son, full of grace and truth.[^fn113]
+
+### The glory of knowing the Messiah ###
+
+Such transformation takes place mysteriously within the hearts of those in covenant relationship with the Messiah.
+
+>	God who...said, "Let light shine out of darkness"...has made his light shine in our hearts, the light of the knowledge of God's glory shining in the face of the Messiah Yeshua.[^fn114]
+
+Those who respond to this glory of the grace, truth and humility of the Messiah are thus, themselves "...changed into his image from one degree of glory to the next." However, this transformation does not take place in a spiritual vacuum, but by following in the footsteps of the Messiah, who "learned obedience through his sufferings."[^fn115]
+
+### The glory of suffeirng with the Messiah ###
+
+Peter was one of three disciples who ascended a mountain with Jesus and saw him transformed, exhibiting brilliant, radiant splendour and actually heard the Father speak:
+
+>	We saw his majesty with our own eyes...we were there when he received honour and glory from God the Father and the voice came to him from the grandeur of the Sh'khinah, saying 'This is my son, whom I love; I am well pleased with him!'[^fn116]
+
+Yet, Peter also saw Jesus completely abased, humbled to the point of a despicable death on an execution stake—and was almost certainly changed more by the latter than the former. Peter thus presents this aspect of God's 'glory' to his readers: the willingness to be completely humbled and to suffer in the pursuit of serving God's eternal purpose. 
+
+If you are being insulted because you bear the name of the Messiah, how blessed are you! For the Spirit of the Sh'khinah, that is, the Spirit of God, is resting on you...if anyone suffers for being Messianic, let him not be ashamed; but let him bring glory to God by the way he bears his name.[^fn117]
+
+Peter carefully subverts the traditional notion of the Sh'khinah presence, transforming it to include the resting of the Spirit of God upon those who suffer for following the Messiah. 
+
+The essence of this subversive message is, in reality, the core of the Good News: the immense paradox that true life, eternal life, real, restored, abundant human life comes through embracing death. Not primarily the final death, but a life of 'sharing in the fellowship of the Messiah's sufferings'. Thus, Paul writes of his own apostolic experience:
+
+We have all kinds of troubles, but we are not crushed; we are perplexed, yet not in despair; persecuted, yet not abandoned; knocked down, yet not destroyed. We always carry in our bodies the dying of Yeshua, so that the life of Yeshua may be manifested in our bodies too. For we who are alive are always being handed over to death for Yeshua's sake, so that Yeshua's life also might be manifested in our mortal bodies. Thus, death is at work in us but life in you.[^fn118]
+
+Paul also declares "I die every day,"[^fn119] in speaking of the surrendering of his life to serve God, in spite of abasements, hardships, persecutions, hunger, danger ... It was because of him that I gave up everything and regard it all as garbage in order to gain the Messiah and be found in union with him...I gave it all up in order to know him...to know the power of his resurrection...the fellowship of sharing in his sufferings as I am being conformed to his death.[^fn120]
+
+Paradoxically, Paul explains, those who suffer with the Messiah are being transformed into his likeness through an experience of 'dying to live.' They are highly honoured—blessed—yet willing to lay aside honour, wealth, acclaim in order to reach out to others: to be a blessing to the all the ethnos of the world. The glory manifested in those who so live, invisible in this life, will prove of immeasurable worth in the age to come:
+
+>	Our light and transient troubles are achieving for us an everlasting glory whose weight is beyond description [^fn121]
+
+Effectively, within the new covenant matrix, for those "with an ear to hear,"[^fn122] a new subtle, form of honour is ascribed to those willing to "take up their cross" in following the Messiah along the narrow road of living an intercessory life on behalf of others:
+
+>	By his knowing pain and sacrifice my righteous servant makes many righteous; it is for their sins that he suffers. Therefore, I will assign him a share with the great...for having exposed himself to death...interceding for the offenders.[^fn123]
+
+Those willing to travel this road will share with the Messiah in his glory:
+
+>	We are also heirs, heirs of God and joint-heirs with the Messiah—provided we are suffering with him in order to be glorified with him. I don't think the sufferings we are going through are even worth comparing with the glory that will be revealed to us in the future.[^fn124]
+
+Thus we understand that suffering means sharing in the intercessory life and spirit of Jesus, the Messiah—this is true covenant faithfulness.
+
+### The glory of resurrection with the Messiah ###
+
+The New Testament presents the Messiah's glorification-through-resurrection as the 'first-fruits' of a new creation, which ultimately in the olam-haba, the age to come, will be consummated in a regeneration of creation that effectively marks a reuniting of God's glory with the whole of creation:
+
+>	The creation waits eagerly for the sons of God to be revealed; for the creation was made subject to frustration...but it was given a reliable hope that it too would be set free from its bondage to decay and would enjoy the freedom accompanying the glory that Gods' children will have.[^fn125] 
+
+In the Regeneration, the Sh'khinah presence will dwell continuously amongst human beings, his glory covering and reigning over the earth, filling it with his shalom. 
+
+>	We, following along with his promise, wait for new heavens and a new earth, in which righteousness will be at home...[^fn126] I saw a new heaven and a new earth...I heard a loud voice from the throne say, See! God's Sh'khinah is with mankind and he will live with them. They will be his peoples and he himself, God-with-them, will be their God.[^fn127]
+
+At that time, God's covenant people will be glorified—restored, through their resurrection from the dead, to the absolute fullness of life and humanity, as manifested by the Messiah. Not an ethereal escape to a celestial paradise dislocated from this earthly creation, but inhabiting a glorious spiritual body fitted for life within a renewed creation:
+
+>	There are heavenly bodies and there are earthly bodies, but the beauty and glory of the heavenly bodies is of one kind, while the beauty and glory of earthly bodies is a different kind. So it is with the resurrection of the dead...As surely as there is a physical body, there is also a spiritual body.[^fn128]
+
+This spiritual body is not simply about being alive forever. Rather about liberation from the curse of corruption, death, disease, mortality. Receiving the fullness of life, of true humanity, united with and formed into the character, the image of the Messiah; having the capacity to fully live, on earth, sharing in the olam' haba—the world, the age to come—as God intends human beings to live: Created in unhindered fellowship with Creator—this is the eternal purpose of God.
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+## God's eternal purpose ##
+
+This topic examines
+
+### Completing the big picture ###
+
+In conclusion, the final elements can be included in the schematic biblical panorama constructed by this thesis: the incorporation of the messianic gentiles, the great commission and new covenant 'ministry of reconciliation' and the final culmination of the Messiah's return and the resurrection of the dead in the renewed creation completing God's eternal purpose: to bring many people to his glory.
+
+#### Fig 7: God's eternal purpose ####
+
+![God's eternal purpose][EP7eternalpurpose.png]
+
+#### Getting on board ####
+
+![Getting on board?][EP8locomotive.png]
+
+<!--\begin{discuss}[\currentsectiontitle]-->
+
+-	
+
+-
+
+<!--\end{discuss}-->
+
+<!--\osection{Summary: Study 1}-->
+
+This concludes Study N, **, which:
+
+-	
+
+In summary, the study revealed how:
+
+<!--\begin{summary}-->
+
+****
+
+<!--\end{summary}-->
+
+<!--\osection{Bonus discussions: Study 1}
+\begin{disc}[Commissioning]-->
+
+-
+
+<!--\end{disc}-->
+
+<!--\chapter*{Author}\label{author}
+\osection{Dr John B Clements}-->
+
+> John was awarded a Doctorate of Missiology (Contextual Missiology), by *Fuller Theological Seminary School of Intercultural Studies*, in 2013. John is presently working to establish the *Ajayi Crowther Centre for African Mission*, in Oxford.
+
+![][john-rhossilli.jpg]
+
+> John is married to Sarah, with four children. He is an avid bird-watcher and casual photographer, pastimes he combines with his enjoyment of countryside and coastal walking in South West Wales.
+
+<!--\begin{wsite}-->
+
+-	Vita		http://jbclements.wordpress.com 
+-	Social	http://about.me/jbclements
+
+<!--\end{wsite}-->
+
+[EP1history.png]: EP1history.png width=300px height=71px
+
+[EP2covenants.png]: EP2covenants.png width=298px height=182px
+
+[EP4light.png]: EP4light.png width=342px height=239px
+
+[EP4messiah.png]: EP4messiah.png width=299px height=210px
+
+[EP6pentecosts.png]: EP6pentecosts.png width=325px height=229px
+
+[EP7eternalpurpose.png]: EP7eternalpurpose.png width=324px height=228px
+
+[EP8locomotive.png]: EP8locomotive.png width=325px height=126px
+
+[john-rhossilli.jpg]: john-rhossilli.jpg width=135px height=99px
+
+[^fn1]: Genesis 1:27–32
+
+[^fn2]: Genesis 3:17–20
+
+[^fn3]: Genesis 9:9–16
+
+[^fn4]: Genesis 12:1-3 & 15.18, 17.1-22, 22.15
+
+[^fn5]: Genesis 26:1–5,24 & 28:13-15
+
+[^fn6]: Exodus 19.4–6
+
+[^fn7]: 2 Samuel 7.12-16 & 23:5; see also Psalm 89.3
+
+[^fn8]: 1 Samuel 8:7-8
+
+[^fn9]: Acts 13:22; cf. 1 Samuel 13:14; Psalm 89:20
+
+[^fn10]: 2 Samuel 7:16; see also 1 Chronicles 17:11-14
+
+[^fn11]: Deuteronomy 28:13
+
+[^fn12]: 2 Chronicles 7:14
+
+[^fn13]: Malachi 3:1-4
+
+[^fn14]: Isaiah 53:11 & 49:6 respectively
+
+[^fn15]: Jeremiah 31:31-34, also Ezekiel 36 & 34:16-23*
+
+[^fn16]: Malachi 3:1-4
+
+[^fn17]: Romans 9:4-5, 10:4*
+
+[^fn18]: John 20:31
+
+[^fn19]: 1 Chronicles 28:5 & 29:23
+
+[^fn20]: Exodus 26:31-33, 36:35-36 (Matthew 27:51)
+
+[^fn21]: Mark 1:14-15
+
+[^fn22]: Matthew 23:2
+
+[^fn23]: Mark 12:28-34
+
+[^fn24]: Matthew 10:6, 15:24;
+
+[^fn25]: Luke 24:44-48
+
+[^fn26]: Matthew 1:1 *et al*
+
+[^fn27]: Matthew 26:63; see also Luke 22:66-71
+
+[^fn28]: Matthew 16:16; see also John 1:49; Luke 22:66-70; John 11:27
+
+[^fn29]: Matthew 8:27
+
+[^fn30]: John 8:55-59 & 10:30,38 respectively
+
+[^fn31]: Matthew 22:41-46; Mark 12:36; Luke 20:42*
+
+[^fn32]: Matthew 28:18
+
+[^fn33]: Deuteronomy 6:4—see also Mark 12:28-30*
+
+[^fn34]: John 10:30-36; Elohim means "God"; elohim means both "gods" and "judges"*
+
+[^fn35]: John 10:3-4,16,27
+
+[^fn36]: Jeremiah 31:31-34
+
+[^fn37]: Hebrews 8:2; 10:12,13
+
+[^fn38]: Hebrews 9:15
+
+[^fn39]: 'Melchizedek,' meaning, King (*Malki*) of Righteousness (*Tzedek*); he was also King of *Shalem* ('peace')
+
+[^fn40]: Hebrews 7:7
+
+[^fn41]: See glossary
+
+[^fn42]: Hebrews 3:3
+
+[^fn43]: Hebrews 5:6,10, 6:20, 7:11,17
+
+[^fn44]: Hebrews 7:16
+
+[^fn45]: Hebrews 7:24-25; *Tzaddik* means "Righteous One"; 1 John 2:2; Romans 8:34
+
+[^fn46]: John 10:16
+
+[^fn47]: I Timothy 2:3-6
+
+[^fn48]: Hebrews 10:16*
+
+[^fn49]: Romans 7:14a
+
+[^fn50]: Acts 24:14, James 1:25 respectively
+
+[^fn51]: Matthew 5:17-18
+
+[^fn52]: Matthew 5, 6
+
+[^fn53]: Romans 3:31
+
+[^fn54]: Romans 10:4*
+
+[^fn55]: 1 Corinthians 9:21
+
+[^fn56]: Galatians 5:4 & 6:2
+
+[^fn57]: Hebrews 8:6
+
+[^fn58]: Hebrews 2:2-3
+
+[^fn59]: Hebrews 8:10-12
+
+[^fn60]: Romans 8:3-4
+
+[^fn61]: Ezekiel 11:19; also 8:31
+
+[^fn62]: Ezekiel 36:26-27
+
+[^fn63]: Romans 12:1-2
+
+[^fn64]: 2 Corinthians 5:17
+
+[^fn65]: Colossians 3:9-10; see also Romans 8:9
+
+[^fn66]: 1 Corinthians 2:9-16
+
+[^fn67]: Ephesians 3:9,10
+
+[^fn68]: Ephesians 1:22-23—see also 1 Corinthians 3:16 & 12:11-13; Colossians 1:18,34
+
+[^fn69]: Ephesians 2:22
+
+[^fn70]: Leviticus 26:12
+
+[^fn71]: Acts 2:5-12 *ff.*
+
+[^fn72]: Matthew 28:19-20*
+
+[^fn73]: Acts 2:40
+
+[^fn74]: Acts 3:25-26*
+
+[^fn75]: Matthew 28:19-20
+
+[^fn76]: Acts 10:28-29*
+
+[^fn77]: Matthew 4:15,16 (Amplified Bible)*
+
+[^fn78]: Luke 3:4-6
+
+[^fn79]: Luke 2:25-38*
+
+[^fn80]: Mark 7:24-30
+
+[^fn81]: Matthew 15:22-28
+
+[^fn82]: Matthew 8:8-12
+
+[^fn83]: Acts 10:34-35
+
+[^fn84]: Acts 10:36-48
+
+[^fn85]: Acts 13:47
+
+[^fn86]: Ephesians 2:11-12
+
+[^fn87]: Ephesians 2:13
+
+[^fn88]: Ephesians 2:14
+
+[^fn89]: Isaiah 49:6
+
+[^fn90]: Ephesians 2:13-15
+
+[^fn91]: Galatians 6:15
+
+[^fn92]: Hebrew 6:19b-20 & 6:12
+
+[^fn93]: Hebrews 10:14
+
+[^fn94]: Hebrews 7:26, 25
+
+[^fn95]: Ephesians 2:19-22
+
+[^fn96]: Galatians 3:9
+
+[^fn97]: Romans 4:11-16
+
+[^fn98]: Galatians 3:8
+
+[^fn99]: Romans 1:2-6
+
+[^fn100]: Romans 16:25-6
+
+[^fn101]: Galatians 3:9-14
+
+[^fn102]: Romans 8:10-11
+
+[^fn103]: 2 Corinthians 3:17-18
+
+[^fn104]: Galatians 3:26-29
+
+[^fn105]: Genesis 12:1-3
+
+[^fn106]: Philippians 3:10
+
+[^fn107]: Romans 8:17
+
+[^fn108]: Ephesians 3:11
+
+[^fn109]: Romans 8:29-30
+
+[^fn110]: Hebrews 2:9-10
+
+[^fn111]: Hebrews 1:1-3
+
+[^fn112]: Isaiah 53:2-3
+
+[^fn113]: John 1:14
+
+[^fn114]: 2 Corinthians 4:6
+
+[^fn115]: Hebrews 5:8
+
+[^fn116]: 2 Peter 1:17; cf. Matthew 17:6
+
+[^fn117]: 1 Peter 4:12-16
+
+[^fn118]: 2 Corinthians 4:8-12
+
+[^fn119]: 1 Corinthians 15:31
+
+[^fn120]: Philippians 3:8-11
+
+[^fn121]: 2 Corinthians 3:17-4:17
+
+[^fn122]: Revelation 2:7,11,17,29; 3:6,13,22; 13:9
+
+[^fn123]: Isaiah 53:10-12
+
+[^fn124]: Romans 8:17-18
+
+[^fn125]: Romans 8:19-23
+
+[^fn126]: 2 Peter 3:13, citing Isaiah 65:17 & 66:22
+
+[^fn127]: Revelation 21:1-3—evoking Leviticus 26:11, Isaiah 7:14, 8:8; Jeremiah 31:34; Ezekiel 37:27
+
+[^fn128]: 1 Corinthians 15:40, 44 (Amplified Version)
