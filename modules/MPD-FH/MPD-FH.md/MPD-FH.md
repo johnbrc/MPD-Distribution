@@ -203,7 +203,7 @@ The *Maize Plant Discipleship Learning Process* builds upon this basic cycle, by
 
 > They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer.
 
-The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus the *Maize Plant Discipleship Learning Process* has *six* elements altogether:
+The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus, altogether the *Maize Plant Discipleship Learning Process* has *six* elements:
 
 1.	**HEAR** ... what the Spirit is saying
 -	**RETAIN** ... God's message inwardly
@@ -353,7 +353,7 @@ Combining together the six elements of the Maize Plant Discipleship learning pro
 <!--\begin {pause}-->
 
 The Maize Plant Discipleship learning cycle is a tool —
-:	its purpose is to serve facilitators and learning groups. It may not always be possible to incorporate all the elements, each and every time. Allow it to stretch, but not to limit your learning. *Where appropriate, adapt it*.
+:	its purpose is to facilitate, not control learning and it may not be essential to incorporate every element, every time a group meets. Allow the cycle to stretch, but not to limit. *Where appropriate, adapt it*. For example, groups could incorporate two (or more) studies into a single gathering, repeating the first three elements of the cycle, before moving on to the final three. 
 
 <!--\end {pause}-->
 
@@ -853,7 +853,7 @@ Maize Plant Discipleship by John Clements is licensed under a **Creative Commons
 
 **Dr John B Clements** is a missiological educator, having received a Doctorate of Missiology (Contextual Missiology) from Fuller Theological Seminary School of Intercultural Studies, in 2012. 
 
-![][john-rhossilli-bw.jpg]
+![][john-rhossilli.jpg]
 
 John is married to Sarah; they have three boys and a girl and presently live in a delightful corner of South West Wales, UK. John is an avid bird-watcher and casual photographer, pastimes that he combines with his enjoyment of countryside and coastal walking.
 
@@ -889,7 +889,7 @@ Social
 
 [act.png]: act.png width=108px height=108px
 
-[mpd-learning-cycle.png]: mpd-learning-cycle.png width=268px height=300px
+[mpd-learning-cycle.png]: mpd-learning-cycle.png width=244px height=275px
 
 [mp-metaphor.png]: mp-metaphor.png width=174px height=250px
 
@@ -901,7 +901,7 @@ Social
 
 [Generational-discipleship.png]: Generational-discipleship.png width=268px height=45px
 
-[john-rhossilli-bw.jpg]: john-rhossilli-bw.jpg width=133px height=100px
+[john-rhossilli.jpg]: john-rhossilli.jpg width=135px height=99px
 
 [^fn1]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change within a process or system (such as a plant or a body).
 

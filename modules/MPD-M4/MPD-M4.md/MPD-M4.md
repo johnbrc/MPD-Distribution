@@ -218,7 +218,7 @@ In summary, the study revealed how:
 
 <!--\vspace*{\fill}-->
 
-<!--\begin{bonus}[Commissioning]-->
+<!--\begin{bonus}-->
 
 -	How does the *duty* of a commission differ from the *discipline* of basic training?
 
@@ -480,7 +480,7 @@ In summary, the study revealed how:
 
 <!--\vspace*{\fill}-->
 
-<!--\begin{bonus}[Strategy]-->
+<!--\begin{bonus}-->
 
 -	Which of the five strategies in this study are being enacted most effectively in your context?
 
@@ -822,7 +822,7 @@ In summary, the study revealed how:
 
 <!--\vspace*{\fill}-->
 
-<!--\begin{bonus}[Structures]-->
+<!--\begin{bonus}-->
 
 -	How does the prophetic ministry complement the interactions between the three messianic structures?
 
@@ -1084,7 +1084,7 @@ Module 5 explores *Dynamics of Body Membership*. For further information see: *U
 
 > John was awarded a Doctorate of Missiology (Contextual Missiology), by *Fuller Theological Seminary School of Intercultural Studies*, in 2013.
 
-![][john-rhossilli.jpg]
+![][john-rhossilli.jpg]is
 
 > John is married to Sarah, with four children. He is an avid bird-watcher and casual photographer, pastimes he combines with his enjoyment of countryside and coastal walking in South West Wales.
 
