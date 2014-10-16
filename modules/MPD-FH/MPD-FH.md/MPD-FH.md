@@ -1,17 +1,18 @@
-Version: 0.3.12 --- Copyediting Draft
-Change: minor ammendments
+Version: 0.4.0 --- Translation Draft
+Change: Issued for translation
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
-Subtitle:	Maize Plant Discipleship Handbook
+Subtitle:	Maize Plant Discipleship
 Author:	Dr John B Clements
+Translation:	
 Twitter:	@johnbrc, @mpdresource
-Email:	clements.jb@gmail.com
+Email:	clements.jb@icloud.com
 Web:	http://maizeplantdiscipleship.info
-Copyright:	John B Clements, 2014.  Maize Plant Discipleship by John B Clements is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence. Based on a work at http://johnbrc.github.io/MPD-Distribution
+Copyright:	Maize Plant Discipleship by John B Clements is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. Based on a work at http://johnbrc.github.io/MPD-Distribution/
 Keywords:	discipleship, mission, messianic, community 
 Base Header Level:	2
 LaTeX Mode:	memoir
-LaTex input:	mpd-document-fh
+LaTex input:	mpd-document
 LaTex footer:	mpd-footer
 
 # Maize Plant Discipleship #
@@ -20,7 +21,7 @@ THIS CHAPTER PROVIDES practical insights and suggestions for facilitating Maize 
 
 ## What is Maize Plant Discipleship? ##
 
-Maize Plant Discipleship is a learning resource, designed to be practical, relevant and accessible for use in African and other majority world contexts. It has been derived and road-tested in collaboration with Africans, formulated in response to contextual doctoral research in Burkina Faso and is being published as a series of short, modular, low-cost handbooks:
+Maize Plant Discipleship is a learning resource, designed to be practical, relevant and accessible for use in African and other Majority World contexts. It has been derived and road-tested in collaboration with Africans, formulated in response to contextual doctoral research and is being published as a series of short, modular, low-cost handbooks:
 
 -	suitable for formal and informal modes of study
 -	incorporating reflective learning and group discussions
@@ -122,7 +123,7 @@ Meeting together can take place in any appropriate location that can comfortably
 <!--\begin {pause}-->
 
 Arrange seating —
-:	in order to create intimate and practical spaces, whereby everyone can hear and see the presenter and each other during discussions.
+:	to create intimate, practical spaces for discussion, so that everyone can see and hear each other.
 
 Find out what works for your group —
 :	consider using different locations, maybe even meeting outside sometimes.
@@ -185,23 +186,23 @@ THIS CHAPTER PRESCRIBES the reflective learning process intended to underlie pre
 
 ## Reflective Learning ##
 
-Maize Plant Discipleship modules are structured to provide a *reflective learning process* incorporating practical, educational principles combined with practical, spiritual principles, drawn from Scripture. Reflective group learning must minimally incorporate these four components:
+Maize Plant Discipleship modules are structured to provide a *reflective learning process*. Reflective group learning minimally incorporates these components:
 
--	**Hearing** — about others' experiences and perspectives; practice informing theory and theory informing practice. 
+-	**Hear** — about the experiences and perspectives of others.
 
--	**Reflecting** — upon the interaction of old and new ideas, concepts and perspectives. 
+-	**Reflect** — upon ideas and concepts, old and new.
 
--	**Discussing** — understanding and sharpening conviction in conversation with others.
+-	**Discuss** — sharpen understanding, in dialogue with others.
 
--	**Acting** — integrating learning into practice, in vocational contexts.
+-	**Act** — integrate learning into vocational practices.
 
-As this learning process is repeated, it becomes a *cycle*, which can be illustrated figuratively.
+In this way, practice informs theory and theory informs practice. As this learning process is repeated, it forms a *cycle*, which can be illustrated figuratively.
 
 ![][learning-cycle.png]
 
-The *Maize Plant Discipleship Learning Process* builds upon this basic cycle, by incorporating a simple pattern, drawn from Acts 2:42:
+The *Maize Plant Discipleship Learning Process* combines this reflective learning cycle with practical, spiritual principles, drawn from Scripture:
 
-> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer.
+> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer —  Acts 2:42
 
 The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus, altogether the *Maize Plant Discipleship Learning Process* has *six* elements:
 
@@ -371,15 +372,13 @@ Maize is grown throughout sub-Saharan Africa and provides a similar, highly reco
 
 ----
 
-**Good seed sown in good soil, stimulated by sunshine and refreshed by rainfall produces dynamic growth and a good harvest**.
+**Good seed, sown in good soil, stimulated by sunshine and refreshed by rainfall produces dynamic growth, resulting in a good harvest**.
 
-![][mp-metaphor.png]
+![][MetaphorSECONDDRAFT.png]
 
-Like maize plants:
+Like maize plants, messianic communities need to be rooted in good ground where they can draw on life-giving spiritual nutrients (food), be refreshed by the living water of the Spirit and be stimulated by revelatory light.
 
--	messianic communities need to be rooted in good ground that allows them to draw on vital, spiritual nutrients, stimulated by revelatory light and refreshed by the living water of the Spirit;
-
--	strong roots will anchor messianic communities against destructive winds of false teaching and sustain them amidst the withering heat of trials, temptations and vocational responsibility.
+Strong roots will anchor messianic communities against the destructive winds of false teaching and sustain them amidst the withering heat of trials, temptations and vocational responsibility.
 
 Based on this metaphor, the Maize Plant Discipleship Syllabus is divided into three parts:
 
@@ -395,7 +394,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 
 	Establishes a panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is *the Seed* that sprouts from the soil of the biblical, covenantal history of the people of Israel, in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. *Module 1, thus forms the foundation of the entire syllabus*.
 
-![][mpd-roots.png]
+![][SoilandRootsSEVENTHDRAFT.png]
 
 <!--\begin {pause}-->
 
@@ -410,7 +409,7 @@ Maize produce —
 
 **Modules 2 to 9** explore seven messianic *dynamics* that represent the characteristic development, growth, structure, shape and fruit of the Messianic Community.[^fn1]
 
-![][mp-dynamics.png]
+![][MaizePlantSECONDDRAFT.png]
 
 -	**Module 2, Dynamics of Vocation, The Nations**
 
@@ -450,7 +449,7 @@ Maize produce —
 
 **Modules 10 to 16** examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit or a plentiful harvest.
 
-![][mp-disciplines.png]
+![][SunlightandRainfallEIGHTHDRAFT.png]
 
 -	**Module 10, Disciplines of Spiritual Maturity**
 
@@ -533,11 +532,11 @@ messianic communities (un-capitalised) —
 :	localised congregations of the Messianic Community. The term is used in preference to *churches* in order to emphasise the biblical link to the whole body of the Messiah, the Messianic Community.
 
 Vocation —
-:	a calling, life's work, mission, purpose, function; profession, occupation, career, job, employment, trade, craft, business, line, line of work, métier.
+:	a calling, life's work, mission, purpose, function; profession, occupation, career, job, employment, trade, craft, business, line of work, métier.
 
-	In the Maize Plant Discipleship syllabus, *vocation* and *vocational* may refer to both personal and communal calling. Within the syllabus, the terms are used to emphasise that both an individual and a local community's sense of vocation flow from the divine calling to serve God's eternal purpose, in union with the Messiah.
+	In the Maize Plant Discipleship syllabus, *vocation* and *vocational* refers to both personal and communal calling. Within the syllabus, the terms are used to emphasise that both an individual and a local community's sense of vocation flow from the divine calling to serve God's eternal purpose, in union with the Messiah.
 
-	Vocation also represents an umbrella term that incorporates and dignifies all forms of work and ministry. It looks beyond traditional divides of laity and clergy, male and female, pointing towards the reality that all followers of the Messiah are *called to faithfully serve God's purposes, within homes, workplaces and communities*. 
+	Vocation also represents an umbrella term that incorporates and dignifies all forms of work and ministry. It looks beyond traditional divides of laity and clergy, male and female, by pointing towards the reality that all followers of the Messiah are *called to faithfully serve God's purposes, within homes, workplaces and communities*. 
 
 ---
 
@@ -565,7 +564,7 @@ Maize Plant Discipleship approaches messianic discipleship as a dynamic, generat
 
 Together, these two Scriptures establish three key components of messianic discipleship:
 
-1.	**The great treasure of knowing the Messiah, Jesus Christ**
+1.	**The great treasure of knowing the Messiah, Jesus**
 
 	The real, personal, experiential knowledge of the Messiah is more than human knowledge or philosophy: it is *a great treasure*, a divine relationship, mediated by the Holy Spirit.
 
@@ -649,9 +648,21 @@ To make possible the realisation of such a high calling, messianic discipleship 
 
 Through the Spirit, the covenant community is transformed into a *charismatic community*—a group of people endowed with spiritual gifts profoundly shaped to liberate human beings from idolatry and the allegiances and falsehoods that compete against the knowledge of God.[^fn13]
 
-The Messianic Community is a body of people anointed with the fragrant presence of the Holy Spirit, having been brought under God's authority, through baptism into the Messiah. It is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed mediatory, intercessory role, under the direction of the Spirit of God.[^fn14]
+This Charismatic Community is a body of people brought under God's authority, through baptism into the Messiah, and anointed with the fragrant presence of the Holy Spirit, through the baptism of the Spirit. 
 
-> **This community of disciples is a messianic, charismatic people called into covenant relationship with the Father, through the Son and sent into the world to bless the nations in the power of the Spirit!**
+It is a body learning to walk in the footsteps of Jesus: learning to exercise its God-appointed, mediatory, intercessory, messianic role, under the direction of the Spirit of God.[^fn14]
+
+This community of disciples is
+
+:	a messianic, charismatic people 
+
+	called into covenant relationship with the Father,
+
+	through being united with the Son,
+
+	sent into the world, to bless the nations,
+
+	in the power of the Spirit!
 
 <!--\begin{pause}-->
 
@@ -659,15 +670,17 @@ Charismatic —
 :	from the Greek, *charism*, meaning *gift*; the *charisma* of the Messianic Community derives from its anointing with the Spirit of the Messiah
 
 Messianic —
-:	essentially means *anointed to bring deliverance*, anointed with the Spirit to mediate on behalf of God's people and the nations
+:	essentially means *anointed to bring deliverance*; the Messianic Community is anointed with the Spirit to mediate on behalf of God's people and the nations, bringing deliverance from evil and new life in the Messiah
 
 <!--\end{pause}-->
 
 ### Dying to live ###
 
-God's intention is that this messianic, charismatic, covenant community co-works in partnership with him—using the strength, the power, the spiritual life, the anointing that he provides. Yet too often, the power of the anointed-life-of-Christ-within seems to elude us. It seems out of our reach. Beyond our grasp. 
+God's intention is that this messianic, charismatic, covenant community co-works in partnership with him—using the strength, the power, the spiritual life, the anointing that he provides. 
 
-Indeed, it is not something that can be grasped. Rather, the pathway to life is through dying. Yielding ourselves to God the Father, through the Messiah, by the Spirit. That is the message of the cross. As we *die to self*, we become *alive to God*.[^fn15]
+Yet too often, the power of the anointed-life-of-Christ-within seems to elude us. It seems out of our reach. Beyond our grasp. Indeed, it is not something that can be grasped. 
+
+Rather, the pathway to life is through dying. Yielding ourselves to God the Father, through unity with the Messiah, by the power of the Spirit. That is the message of the cross. As we *die to self*, we become *alive to God*.[^fn15]
 
 ### The heart of discipleship ###
 
@@ -677,7 +690,7 @@ Thus we end, as we began, with the foundational principle of transformative disc
 
 This life-giving spiritual reality represents the heart of Jesus' own life, mission, ministry and pain-filled death. And this same principle forms the foundation and wellspring of Maize Plant Discipleship:
 
-> **As we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to truly become alive-to-God and equipped to serve his eternal purpose**
+> **As we embrace a practical form of discipleship, incorporating a daily dying-to-self, we learn how to become truly alive-to-God and authentically equipped to serve his eternal purpose**
 
 *That is the heart of Maize Plant Discipleship*.
 
@@ -703,13 +716,11 @@ Tite Tienou, a Malian who grew up in Burkina Faso, encapsulates a significant as
 
 > Africanness and (theological) correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of Africans in their total context. Quite naturally, the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 
-Although Maize Plant Discipleship is authored by an outsider to Africa, it could and would not have developed without the critical input, as well as missional energy, encouragement, friendship and culture of African people. At each stage of its formation, it has been:
+Maize Plant Discipleship has been authored by an outsider to Africa. Even so, its development is entirely a response to African contexts. At every stage, the missional energy and cultural perspective of African people has been crucial. It is the response of African pastors, students, missionaries and young people that has called Maize Plant Discipleship into being.
 
--	authored exclusively in response to African leaders and learners
+In particular, between 2003 and 2010, leaders from *Assemblée Evangélique de Pentecôte* and *Mouvement des Jeunes Serviteurs de Dieu* regularly organised leadership training conferences, in Léo and Ouagadougou. This collaboration facilitated the continual exposure and refinement of the teaching that now forms Maize Plant Discipleship.
 
--	road-tested in collaboration with African leaders and learners
-
-In this final stage of development, it has been formulated for publication as a series of low-cost, practical, relevant and accessible modular handbooks, in response to missiological doctoral research carried out amongst leaders and learners in Burkina Faso.
+In this latest stage of development, *doctoral research*, carried out amongst Burkinabé leaders and learners, has led to Maize Plant Discipleship's formulation as a series of low-cost, modular handbooks. Handbooks that are practical, relevant and accessible for use in African contexts.
 
 <!--\begin {pause}-->
 
@@ -720,9 +731,9 @@ Romans 4:17 —
 
 ## Doctoral Research ##
 
-Between 2003 and 2010, multiple prototypes of Maize Plant Discipleship seminars were delivered to conferences in Léo and Ouagadougou. In 2010, the author conducted doctoral research using a series of survey questionnaires, focus groups and personal interviews. This enabled the gathering of a wide range of reflective opinions, perspectives, insights, information, questions and concerns relating to discipleship, theology, leadership training, methodologies, literature and intercultural dynamics. 
+In 2010, the author conducted doctoral research in Burkina Faso. The research explored themes of discipleship, theology, leadership training, literature and intercultural dynamics. Prototypical Maize Plant Discipleship seminar formed an integral part of the research.
 
-Over 70 Burkinabé participants contributed to the research. Drawn from over five organisational groupings, a significant number of participants held responsibility for local, regional, national and denominational leadership training and discipleship. Analysis of their responses revealed a number of crucial findings that have directly shaped the formulation of Maize Plant Discipleship, particularly in relation to: 
+Survey questionnaires, focus groups and personal interviews gathered insights from over 70 Burkinabé participants. Amongst them, a significant number held denominational responsibility for leadership training and discipleship. Analysis of the responses revealed a series of critical findings relating to: 
 
 -	Discipleship
 
@@ -790,11 +801,11 @@ An agency organising republication —
 
 ## Translation and Republication ##
 
-It is hoped that Maize Plant Discipleship will be widely translated, republished, trialled and adopted for use in numerous African and other majority world contexts. We welcome hearing from those who have explored and trialled Maize Plant Discipleship. Contact us via the Maize Plant Discipleship website, (www.maizeplantdiscipleship.info), telling us where, how and with what effect you are using it, together with any suggestions you would like to offer. 
+It is hoped that Maize Plant Discipleship handbooks will be widely translated, republished and adopted for use in many African and other majority world contexts. We welcome hearing from those who have explored and trialled it. Please tell us where, how and with what effect you are using it, together with any suggestions you would like to offer. Contact us via www.maizeplantdiscipleship.info
 
 <!--\begin {pause}-->
 
-Are you aware of stories, proverbs or cultural analogies —
+Are you aware of stories, proverbs, metaphors —
 :	that could help to contextually illustrate and culturally illuminate teaching concepts contained in the Maize Plant Discipleship syllabus?
 
 	*If you send them to us, we may incorporate them in future editions. Alternatively, under the terms of the Maize Plant Discipleship Licence, you could publish an adaption*.
@@ -824,9 +835,9 @@ The Creative Commons Licence
 
 ## The Maize Plant Discipleship Licence ##
 
-Maize Plant Discipleship by John Clements is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. Based on a work at http://johnbrc.github.io/MPD-Distribution/. Permissions beyond the scope of this licence may be available at www.maizeplantdiscipleship.info
+Maize Plant Discipleship by John Clements is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. Based on a work at http://johnbrc.github.io/MPD-Distribution/
 
-> *Note: What follows is a simplified summary of (and not a substitute for) the licence, which may be accessed at: http://creativecommons.org/licenses/by-sa/4.0/legalcode/ *
+> *Note: What follows is a simplified summary of (and not a substitute for) the licence, which may be accessed at: http://creativecommons.org/licenses/by-nc-sa/4.0/*
 
 <!--\begin{summary}-->
 
@@ -836,11 +847,13 @@ Maize Plant Discipleship by John Clements is licensed under a **Creative Commons
 
 -	**Adapt** — remix, transform and build upon the material 
 
-> for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow the licence terms.
+> The licensor cannot revoke these freedoms as long as you follow the licence terms.
 
 **Under the following terms**:
 
 -	**Attribution** — You must give appropriate credit, provide a link to the licence, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+-	**NonCommercial** - NonCommercial — You may not use the material for commercial purposes (i.e. primarily intended for commercial advantage or monetary compensation.)
 
 -	**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same licence as the original.
 
@@ -875,7 +888,7 @@ Social
 
 -	Using Maize Plant Discipleship resources? *Get in touch!*
 
-[learning-cycle.png]: learning-cycle.png width=208px height=200px
+[learning-cycle.png]: learning-cycle.png width=233px height=225px
 
 [hear.png]: hear.png width=108px height=108px
 
@@ -891,13 +904,13 @@ Social
 
 [mpd-learning-cycle.png]: mpd-learning-cycle.png width=244px height=275px
 
-[mp-metaphor.png]: mp-metaphor.png width=174px height=250px
+[MetaphorSECONDDRAFT.png]: MetaphorSECONDDRAFT.png width=299px height=271px
 
-[mpd-roots.png]: mpd-roots.png width=270px height=150px
+[SoilandRootsSEVENTHDRAFT.png]: SoilandRootsSEVENTHDRAFT.png width=283px height=142px
 
-[mp-dynamics.png]: mp-dynamics.png width=258px height=374px
+[MaizePlantSECONDDRAFT.png]: MaizePlantSECONDDRAFT.png width=277px height=389px
 
-[mp-disciplines.png]: mp-disciplines.png width=305px height=391px
+[SunlightandRainfallEIGHTHDRAFT.png]: SunlightandRainfallEIGHTHDRAFT.png width=283px height=397px
 
 [Generational-discipleship.png]: Generational-discipleship.png width=268px height=45px
 
