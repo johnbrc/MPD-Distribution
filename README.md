@@ -24,7 +24,7 @@ Maize Plant Discipleship is being developed as an [Open Educational Resource]. A
 
 ###	Wiki
 
-This `MPD-Distribution` repository has a comprehensive [wiki], documenting relevant information about the project and how to utilise the repository for the purposes of translation and republication.
+A [wiki] documents the digital distribution of Maize Plant Discipleship resources via `MPD-Distribution` repository.
 
 ### 	Website
 
