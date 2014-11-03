@@ -26,7 +26,7 @@ Maize Plant Discipleship is being developed as an [Open Educational Resource]. I
 
 - [Project Website]:link:
 
--	[Prospectus] (:arrow_down: pdf): project overview, syllabus contents, vita and contact details
+-	[Prospectus] :arrow_down: (pdf): project overview, syllabus contents, vita and contact details
 
 ###	Thank You
 
