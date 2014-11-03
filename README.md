@@ -18,7 +18,7 @@ Maize Plant Discipleship handbooks are formulated to rely simply upon facilitato
 
 ###	Ethos
 
-Maize Plant Discipleship is being developed as an [Open Educational Resource]. Accordingly, it is distributed with a Creative Commons International Licence intended to facilitate contextual publication, translation and republication.
+Maize Plant Discipleship is being developed as an [Open Educational Resource]. It is distributed with a Creative Commons International Licence intended to facilitate contextual publication, translation and republication.
 
 # Find Out More
 
