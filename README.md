@@ -4,13 +4,13 @@
 
 > a modular learning resource
 
-> designed to be practical, relevant and accessible
-
-> for use in African and other Majority-World contexts
-
 > derived and road-tested in collaboration with Africans
 
 > formulated in response to contextual doctoral research in Burkina Faso
+
+> designed to be practical, relevant and accessible
+
+> for use in African and other Majority-World contexts
 
 ###	Goal 
 
