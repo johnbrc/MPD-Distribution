@@ -12,31 +12,31 @@
 
 > formulated in response to contextual doctoral research in Burkina Faso
 
-##	Goal 
+###	Goal 
 
 Maize Plant Discipleship handbooks are formulated to rely simply upon facilitators willing to co-ordinate small-group study, reflection and discussion, with the goal of facilitating biblical learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
 
-##	Ethos
+###	Ethos
 
 Maize Plant Discipleship is being developed as an [Open Educational Resource]. It is distributed with a Creative Commons International Licence intended to facilitate contextual publication, translation and republication.
 
-# Find Out More
+## Find Out More
 
-##	Wiki
+###	Wiki
 
 - A [wiki] documents the digital distribution of Maize Plant Discipleship resources via the digital repository, `MPD-Distribution`.
 
-## 	Website
+### 	Website
 
 -	[Project Website] for Maize Plant Discipleship
 
-##	Prospectus
+###	Prospectus
 
 Containing: project overview, syllabus contents, vita and contact details
 
 -	[Prospectus] ⬇️ (pdf)
 
-#	Thank You
+##	Thank You
 
 …for your interest in and support for this project.
 
