@@ -28,11 +28,11 @@ Maize Plant Discipleship is being developed as an [Open Educational Resource]. I
 
 -	[Prospectus]:arrow_down: (pdf): project overview, syllabus contents, vita and contact details
 
-##	Thank You
+###	Thank You
 
 …for your interest in and support for this project.
 
-###	Dr J.B. Clements (Author)
+####	Dr J.B. Clements (Author)
 
 -	[Vita]
 -	[Website]
