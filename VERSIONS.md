@@ -10,7 +10,7 @@ Each MPD handbook is identified with a date, time and a version number in:
 Version numbers use the following:
 
 | draft 	| phase 	| version number | 
-|  ------	| ------	| 
+|  :-:	| :-:	| :-:		|  
 | first	| draft	| 0.1.x	|
 | second	| review 	| 0.2.x	| 
 | third	| copy-editing 	| 0.3.x 	| 
@@ -18,7 +18,7 @@ Version numbers use the following:
 | fifth	| post-translation	| 0.5.x	| 
 | first edition	|  publication	|  1.0 	| 
 
-`x` » iterative, minor revisions, following input from reviews, proof-reading, copyediting, translation etc.
+`x` » minor, iterative revisions
 
 ## Find Out More
 
