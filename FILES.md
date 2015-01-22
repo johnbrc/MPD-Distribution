@@ -8,37 +8,44 @@ Files and folders in this repository are structured as follows:
 
 ## Study
 
-Read, review, facilitate learning groups, using the resource. 
+Published editions will be exported for reading / review / study / facilitating learning groups, in the following formats:
 
-### File Formats
+Filename	| Format	|  Viewer  
+------	| ------	| ------	|  
+\*.pdf	| [Portable Document Format]	| PDF Reader	|  
+\*.mobi	| [MobiPocket eBook][]	| Kindle e-Readers	|  
+\*.epub	| [iBooks]	| iPad, iPhone	|  
+\*.html	| [HTML]	| Web browsers	| 
 
-Published editions will be exported for study in the following formats
-
--	`*.pdf` — Portable Document Format
--	`*.mobi` — Kindle compatible
--	`*.epub` — Apple iBooks compatible
--	`*.html` — online web pages
+[Portable Document Format]: http://en.wikipedia.org/wiki/Portable_Document_Format
+[PDF]: http://en.wikipedia.org/wiki/Portable_Document_Format
+[MobiPocket eBook]: http://wiki.mobileread.com/wiki/MOBI
+[iBooks]: http://en.wikipedia.org/wiki/IBooks
+[html]: http://en.wikipedia.org/wiki/HTML
 
 Note: *pre-publication* versions are typically available only in `pdf` format
 
 ## Translate
 
-Language and, or cultural translations.
+Resources are made available for the purpose of *translation*, in the following formats:
 
-### File Formats
+Filename	| Format	|  Purpose	|   
+  ------	| ------	| ------	|  
+\*.pdf	| A5 handbook [PDF]	| Review	|  
+\*.pdf	| A4 [PDF]	| Review	|   
+\*.md	| Plaint text, [Multimarkdown]	| Translation |  
+\*.txt	| Plaint text, [Multimarkdown]	| Translation (Windows-compatible)	| 
 
--	`*.pdf` — A4 format
--	`*.pdf` — A5 handbook format
--	`*.md` — plain-text format (MultiMarkdown formatted)
--	`*.txt` — as `*.md`, renamed filetype, Windows compatible
+[Multimarkdown]: http://en.wikipedia.org/wiki/MultiMarkdown
+
 
 ## Republish
 
-Print and distribute resource, under licence.
+Resources are made available for the purpose of printing and distribution, under licence, in the following formats:
 
-### File Formats
-
--	`*.pdf` — A5-size handbook, paginated 
--	`*.pdf` — A4-size cover, full colour (CMYK)
--	`*.pdf` — A4-size cover, spot colour
+Filename	| Format	|  Purpose	|   
+------	| ------	| ------	|  
+\*.pdf	| A5 paginated for duplex printing	| Print	|  
+\*.pdf	| A4  CMYK separations	| Full-colour cover	|   
+ \*.pdf	| A4 monochrome	| Single-colour cover	|   
 
