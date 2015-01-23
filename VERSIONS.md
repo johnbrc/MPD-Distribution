@@ -22,6 +22,6 @@ Version numbers use the following:
 
 ## Find Out More
 
--	Read more about versioning on the [wiki]
+-	Read more on the [wiki]
 
 [wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
