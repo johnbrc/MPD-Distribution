@@ -1,7 +1,7 @@
-Digital publication takes place via [Releases](#releases), which package files for download, in various formats, in order to facilitate three distinct purposes:
+Digital publication takes place via [Releases], which package files for download, in various formats, in order to facilitate three distinct purposes:
 
 1. [Learning](#learning)
-1. [Print](#print) 
+1. [Print](#printing) 
 1. [Translation](#translation)
 
 ### Learning
@@ -47,7 +47,8 @@ See [Intercultural Republication], for further information relating to translati
 [wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
 
 
-[Portable Document Format]: http://en.wikipedia.org/wiki/Portable_Document_Format
+[Releases]: https://github.com/johnbrc/MPD-Distribution/releases
+
 [PDF]: http://en.wikipedia.org/wiki/Portable_Document_Format
 [MobiPocket eBook]: http://wiki.mobileread.com/wiki/MOBI
 [iBooks]: http://en.wikipedia.org/wiki/IBooks
@@ -55,11 +56,8 @@ See [Intercultural Republication], for further information relating to translati
 [Multimarkdown]: http://en.wikipedia.org/wiki/MultiMarkdown
 [MacTex]: http://latex-project.org/ftp.html
 [LaTex]: http://fletcherpenney.net/multimarkdown/use/
+
 [contextual publication]: https://github.com/johnbrc/MPD-Distribution/wiki/Contextual-publication
-[derived]: https://github.com/johnbrc/MPD-Distribution/wiki/Process
-[Intercultural Republication]: https://github.com/johnbrc/MPD-Distribution/wiki/Intercultural-republication
-[nomenclature]: https://github.com/johnbrc/MPD-Distribution/wiki/Nomenclature
-[timetable]: https://github.com/johnbrc/MPD-Distribution/wiki/Timetable
 [process]:  https://github.com/johnbrc/MPD-Distribution/wiki/Process
-[licence]: https://github.com/johnbrc/MPD-Distribution/wiki/Licence
-[Releases]: https://github.com/johnbrc/MPD-Distribution/releases
+[Intercultural Republication]: https://github.com/johnbrc/MPD-Distribution/wiki/Intercultural-republication
+

@@ -1,14 +1,20 @@
 #	Maize Plant Discipleship
 
-A modular learning resource, derived and road-tested in collaboration with Africans, formulated in response to contextual doctoral research in Burkina Faso, designed to be practical, relevant and accessible for use in African and other Majority-World contexts
+[Maize Plant Discipleship](http://maizeplantdiscipleship.wordpress.com) is a modular, biblical learning resource designed to be practical, relevant and accessible for use in African and other Majority World contexts. 
 
-###	Goal 
+### Formulation
 
-Maize Plant Discipleship handbooks are formulated to rely simply upon facilitators willing to co-ordinate small-group study, reflection and discussion, with the goal of facilitating biblical learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
+The resource has been formulated according to a set of characteristics [defined](http://maizeplantdiscipleship.wordpress.com/the-formula/defined-characteristics) in response to doctoral research, combined with practical experience, amongst leaders and learners in Burkina Faso, West Africa.
 
-###	Ethos
+- The outcome is a modular, low-tech handbook that equips facilitators for small-group study, reflection and discussion, which can be inexpensively printed and distributed—or accessed directly on electronic devices.
 
-Maize Plant Discipleship is distributed as an [Open Educational Resource], with a Creative Commons International Licence intended to facilitate *free* contextual study, translation and republication.
+### Approach
+
+The goal is to facilitate biblical learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture. 
+
+- To reach towards this goal, the project focuses upon [publication of digital resources](https://github.com/johnbrc/MPD-Distribution/wiki/Digital-publication) that can be easily accessed and economically printed, distributed and translated.
+
+##	Publication
 
 <<[Files.md]
 
