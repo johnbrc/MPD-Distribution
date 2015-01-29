@@ -1,5 +1,7 @@
-Version: 0.4.0 --- Translation Draft
+Version: 0.4.1 --- Translation Draft
 Change: Issued for translation
+0.4.1
+see Change log
 LaTex input:	mpd-header
 Title:	Facilitators' Handbook
 Subtitle:	Maize Plant Discipleship
@@ -170,7 +172,7 @@ Maize Plant Discipleship studies can be adapted for use in local congregations. 
 
 ---
 
-<!--\begin {questions}-->
+<!--\vspace*{\fill}\begin {questions}-->
 
 -	What are the characteristics of a good facilitator?
 
@@ -374,7 +376,7 @@ Maize is grown throughout sub-Saharan Africa and provides a similar, highly reco
 
 **Good seed, sown in good soil, stimulated by sunshine and refreshed by rainfall produces dynamic growth, resulting in a good harvest**.
 
-![][MetaphorSECONDDRAFT.png]
+![][mp-metaphor.png]
 
 Like maize plants, messianic communities need to be rooted in good ground where they can draw on life-giving spiritual nutrients (food), be refreshed by the living water of the Spirit and be stimulated by revelatory light.
 
@@ -394,7 +396,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 
 	Establishes a panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is *the Seed* that sprouts from the soil of the biblical, covenantal history of the people of Israel, in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. *Module 1, thus forms the foundation of the entire syllabus*.
 
-![][SoilandRootsSEVENTHDRAFT.png]
+![][roots.png]
 
 <!--\begin {pause}-->
 
@@ -409,7 +411,7 @@ Maize produce —
 
 **Modules 2 to 9** explore seven messianic *dynamics* that represent the characteristic development, growth, structure, shape and fruit of the Messianic Community.[^fn1]
 
-![][MaizePlantSECONDDRAFT.png]
+![][mp-dynamics.png]
 
 -	**Module 2, Dynamics of Vocation, The Nations**
 
@@ -449,7 +451,7 @@ Maize produce —
 
 **Modules 10 to 16** examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit or a plentiful harvest.
 
-![][SunlightandRainfallEIGHTHDRAFT.png]
+![][mp-disciplines.png]
 
 -	**Module 10, Disciplines of Spiritual Maturity**
 
@@ -540,7 +542,8 @@ Vocation —
 
 ---
 
-<!--\begin {questions}-->
+<!--\vspace*{\fill}
+\begin {questions}-->
 
 -	What is the significance of the metaphor of seed to the ministry of Jesus?
 
@@ -694,9 +697,11 @@ This life-giving spiritual reality represents the heart of Jesus' own life, miss
 
 *That is the heart of Maize Plant Discipleship*.
 
+
 ---
 
-<!--\begin {questions}-->
+<!--\vspace*{\fill}
+\begin {questions}-->
 
 -	How is discipleship valued in your context?
 
@@ -878,13 +883,13 @@ Maize Plant Discipleship by John B. Clements is licensed under a **Creative Comm
 
 [mpd-learning-cycle.png]: mpd-learning-cycle.png width=244px height=275px
 
-[MetaphorSECONDDRAFT.png]: MetaphorSECONDDRAFT.png width=299px height=271px
+[mp-metaphor.png]: mp-metaphor.png width=299px height=271px
 
-[SoilandRootsSEVENTHDRAFT.png]: SoilandRootsSEVENTHDRAFT.png width=283px height=142px
+[roots.png]: roots.png width=283px height=142px
 
-[MaizePlantSECONDDRAFT.png]: MaizePlantSECONDDRAFT.png width=277px height=389px
+[mp-dynamics.png]: mp-dynamics.png width=277px height=389px
 
-[SunlightandRainfallEIGHTHDRAFT.png]: SunlightandRainfallEIGHTHDRAFT.png width=283px height=397px
+[mp-disciplines.png]: mp-disciplines.png width=283px height=397px
 
 [Generational-discipleship.png]: Generational-discipleship.png width=268px height=45px
 
