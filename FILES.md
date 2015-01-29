@@ -30,13 +30,22 @@ See [contextual publication] for further information relating to printing and di
 
 ### Translation
 
-Editable, plain-text files, from which digital publications (above) using a computerised typesetting [process]
+Editable, plain-text files, from which digital publications (above) using a computerised typesetting [process].
 
 Filetype	| Format	|  Editor  	|  
 | :-:	| ------	| ------	|  
 `md`	| [Multimarkdown]	| Markdown-compatible	|   
 `txt`	| Plain text	| Windows-compatible	|  
 `tex`	| XeTex 	| [MacTex], or equivalent	|
+
+[Releases] use shorthand to identify translations:
+
+| Translation	|	shorthand	|  
+| ------	| :----:	|  
+| English	| EN	| 
+| French	| FR	|  
+
+Hence, MPD-M4-FR would be a French translation of Module 4.
 
 See [Intercultural Republication], for further information relating to translation.
 
