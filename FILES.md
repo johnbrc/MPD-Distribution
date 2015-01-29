@@ -1,12 +1,12 @@
 Digital publication takes place via [Releases](#releases), which package files for download, in various formats, in order to facilitate three distinct purposes:
 
-1. [Learning](#learning)
+1. [Study](#study)
 1. [Print](#print) 
 1. [Translation](#translation)
 
-### Learning
+### Study
 
-For facilitating local learning groups (and, or personal study; review; translation etc.)
+For facilitating Learning Groups; personal study; review; translation etc.
 
 Filetype	| Format	|  Viewer  	| 
 | :-:	| ------	| ------	|  
@@ -16,9 +16,9 @@ Filetype	| Format	|  Viewer  	|
 `epub`	| [iBooks]	| iOS (iPad, iPhone)	| 
 `html`	| [HTML]	| Web browser	| 
 
-### Printing
+### Print
 
-For printing inexpensive, duplex handbooks, with full- or single-colour covers. 
+For printing inexpensive, duplex handbooks, with either full- or single-colour covers. 
 
 | Filetype	| Format	|  Detail  	| Purpose	|  
 | :-:	| :--	| :-----	| :-----	|  
@@ -30,7 +30,7 @@ See [contextual publication] for further information relating to printing and di
 
 ### Translation
 
-Editable, plain-text files, from which digital publications (above) using a computerised typesetting [process]
+Editable, plain-text files, from which [Study](#study) format publications are [derived]
 
 Filetype	| Format	|  Editor  	|  
 | :-:	| ------	| ------	|  
@@ -39,6 +39,18 @@ Filetype	| Format	|  Editor  	|
 `tex`	| PDF LaTex 	| [MacTex], or equivalent	|
 
 See [Intercultural Republication], for further information relating to translation.
+
+# Releases
+
+**Users are strongly advised to understand the project's scope, prior to accessing releases**:
+
+-	Releases and associated files are identified by a standard [nomenclature]
+-	Releases are being published according to a flexible [timetable]
+-	Releases are published by a digital typesetting [process]
+-	Releases are governed by a [licence]
+-	View [Releases]
+
+> `Pre-release` files are for review _only_, not publication or widespread distribution❗
 
 ## Find Out More
 
