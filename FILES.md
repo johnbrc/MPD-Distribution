@@ -36,7 +36,7 @@ Filetype	| Format	|  Editor  	|
 | :-:	| ------	| ------	|  
 `md`	| [Multimarkdown]	| Markdown-compatible	|   
 `txt`	| Plain text	| Windows-compatible	|  
-`tex`	| PDF LaTex 	| [MacTex], or equivalent	|
+`tex`	| XeTex 	| [MacTex], or equivalent	|
 
 See [Intercultural Republication], for further information relating to translation.
 
