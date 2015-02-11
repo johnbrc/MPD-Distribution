@@ -1,1 +1,44 @@
-# Current Versions #Each MPD handbook is identified with a date, time and a version number in: -	metadata at the top of editable (MultiMarkdown) source files.-	a date-time-version stamp located on initial pages of (LaTex-generated) PDFs.Version numbers follow the convention: `N.n.x`, where:`N` = PUBLISHED edition number		thus: 	1.0 	First Edition		and 	0.1.x 	first draft`n` = DISTRIBUTED version numberrevised upwards when an AUTHORised version is DISTRIBUTED for purpose of:		-	review	 		0.2.x 		-	copy-editing 	0.3.x		-	pre-publication 0.4.x 		-	translation 	0.5.x`x` = AUTHOR's iterationrevised upwards following iterative changes, including input from reviews, proof-reading, copyediting, translation etc.## Find Out More-	Read more about versioning on the [wiki][wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
+[Releases] and enclosed module files are identified according to the following convention, combined with a [version](#versionschema) number. 
+
+| Filename 	| Module number	| [Filetype] |  
+|  ------	| :----:	| ------	|  
+| MPD-Mn.* 	| n 	| generic |
+| MPD-M1.pdf	| 1	| PDF | 
+| MPD-M4.txt	| 4	| plain text |
+| MPD-M4.md	| 4	| plain text  (MultiMarkdown)|
+
+Etc.
+
+## Version schema
+
+Versions are identified in a `date-time-version-number` stamped on [PDFs][Filetype] and, or `metadata` at the top of editable, plain-text [files][Filetype] .
+
+### Pre-release
+
+Pre-releases, identified by orange `Pre-release` tag, are not intended for widespread distribution.
+
+| draft 	| phase 	| version number |  
+|  ------	| ------	| :----:	|   
+| first  	| draft	| 0.1.x	|  
+| second	| review	| 0.2.x	| 
+| third	| copy-edit	| 0.3.x 	| 
+| fourth	| translation	| 0.4.x	| 
+| fifth	| post-translation	| 0.5.x	|  
+
+>`x` » minor, iterative revisions
+
+###	Published Editions
+
+Published editions will be identified as `First Edition`, `Second Edition` etc., in readiness for [[contextual publication]]. Publication is proceeding according to a flexible [[timetable]].
+
+## Releases
+
+- View existing [Releases]
+
+## Find Out More
+
+-	Read more on the [wiki]
+
+[Filetype]:https://github.com/johnbrc/MPD-Distribution/wiki/Digital-publication
+[wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
+[Releases]: https://github.com/johnbrc/MPD-Distribution/releases
