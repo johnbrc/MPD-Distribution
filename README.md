@@ -1,12 +1,16 @@
 #	Maize Plant Discipleship
 
-[Maize Plant Discipleship](http://maizeplantdiscipleship.wordpress.com) is a modular, biblical learning resource designed to be practical, relevant and accessible for use in African and other Majority World contexts. 
+[Maize Plant Discipleship](http://maizeplantdiscipleship.wordpress.com) is a biblical learning resource designed to be practical, relevant and accessible for use in African and other Majority World contexts. 
 
 ### Formulation
 
-The resource has been formulated according to a set of characteristics [defined](http://maizeplantdiscipleship.wordpress.com/the-formula/defined-characteristics) in response to doctoral research, combined with practical experience, amongst leaders and learners in Burkina Faso, West Africa.
+The resource is formulated according to characteristics [defined](http://maizeplantdiscipleship.wordpress.com/the-formula/defined-characteristics) in response to doctoral research, combined with practical experience, amongst leaders and learners in Burkina Faso, West Africa. The outcome is a series of 17 modular handbooks:
 
-- The outcome is a modular, low-tech handbook that equips facilitators for small-group study, reflection and discussion, which can be inexpensively printed and distributed—or accessed directly on electronic devices.
+-	incorporating reflective learning and group discussions
+-	suitable for formal and informal modes of study
+-	reliant simply upon facilitators coordinating small learning groups
+-	inexpensive to print, distribute and translate
+-	accessible on electronic devices.
 
 ### Approach
 
@@ -45,3 +49,4 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 [Vita]: https://github.com/johnbrc/MPD-Distribution/wiki/Author
 [Website]: https://jbclements.wordpress.com/vita
 [GitHub]: http://johnbrc.github.io
+>>>>>>> development

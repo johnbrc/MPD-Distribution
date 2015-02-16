@@ -1,7 +1,9 @@
-Version: 0.5.3 Post-translation
-Change: removed “The”, section titles, ch 1,2;
-removed “Author” section;
-+ ch4 bonus questions
+Version: 0.5.4 Post-translation
+Change: ammended in parallel with M4-FR:
+added bonus questions ch4,
+revised study summary format,
+syllabus to back page,
+removed intro, author sections
 LaTex input:	mpd-header
 Title:	Dynamics of Commissioning
 Subtitle:	Maize Plant Discipleship, Module 4
@@ -16,52 +18,6 @@ Base Header Level:	2
 LaTeX Mode:	memoir
 LaTex input:	mpd-document
 LaTex footer:	mpd-footer
-
-<!--\chapter*{Using this handbook}\label{Usingthishandbook}-->
-
-This module, no. 4 of 16, explores *The Commissioning of Messianic Community*, in four studies:
-
-<!--\begin{studies}
-{\small\makeatletter\@starttoc{toc}\makeatother}
-\end{studies}-->
-
-**Maize Plant Discipleship** is an open educational resource, derived and road-tested in collaboration with Africans. It has been formulated in response to contextual doctoral research in Burkina Faso to be practical, relevant and accessible for use in majority-world contexts and is being published as a series of short, modular, low-cost handbooks:
-
--	suitable for formal and informal modes of study 
--	incorporate reflective learning and group discussions, 
--	reliant simply upon facilitators co-ordinating small learning groups
--	easily replicable, in terms of both republication and translation. 
-
-It's goal is to facilitate biblical learning that continuously moves outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
-
-----
-
-**Maize Plant Discipleship Facilitators Handbook** contains comprehensive guidelines on appropriately facilitating Maize Plant Discipleship learning groups and discussions.
-
-<!--\begin{syllabus}-->
-
-Maize Plant Discipleship Syllabus incorporates 16 handbooks.
-
-1.	The Eternal Purpose of God
--	Dynamics of Vocation, The Nations
--	Dynamics of Vocation, The Jews
--	*Dynamics of Commissioning*
--	Dynamics of Body Membership
--	Dynamics of Revival
--	Dynamics of Truth
--	Dynamics of Intercession
--	Dynamics of Cultural Transformation
--	Disciplines of Spiritual Maturity
--	Disciplines of Running the Race
--	Disciplines of Pressing Towards our Vocation
--	Disciplines of Economic Faithfulness
--	Disciplines of Messianic Leadership
-- 	Disciplines of Living By Faith
-16.	Disciplines of Overcoming
-
-<!--\end{syllabus}-->
-
-Maize Plant Discipleship handbooks are available from the same source as this handbook or online, via: **www.maizeplantdiscipleship.info**
 
 # Commissioning of Messianic Community #
 
@@ -79,7 +35,7 @@ Maize Plant Discipleship handbooks are available from the same source as this ha
 
 ----
 
-<!--\end{topics}\osection{Terms used in this study}-->
+<!--\end{topics}\osection{Terms}-->
 
 Commission
 :	To charge with responsibility for a task or duty, as when a military officer is given a specific rank and responsibility, e.g. *he was commissioned after attending the training academy*
@@ -104,7 +60,7 @@ This topic examines the experiences of a military solider, in order to enlarge o
 
 
 
-A soldier's life starts when they perceive a *calling* to a life of military service. A calling is an awareness that a particular occupation represents a desirable, compelling, or appropriate vocation to pursue. There may be many reasons why someone enlists in an army, but at some point they sense a calling towards it.
+A soldier's life starts when they perceive a *calling* to a life of military service. A calling is an awareness that a particular occupation represents a desirable, compelling, or appropriate vocation to pursue. There may be many reasons why someone enlists in an army, but at some point they sense a personal calling towards it.
 
 ### Training ###
 
@@ -232,16 +188,13 @@ In summary, the study revealed how:
 
 <!--\begin{summary}-->
 
-**The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission: as a community of disciples, called, equipped and chosen to serve God's eternal purpose**
+**The Messianic Covenant Community has been commissioned to work alongside the Messiah in his mission**, as a community of disciples, called, equipped and chosen to serve God's eternal purpose
 
 <!--\end{summary}-->
 
-<!--\vspace*{\fill}
-\begin{bonus}-->
+<!--\vspace*{\fill}\begin{bonus}-->
 
--	How does the *duty* of a commission differ from the *discipline* of basic training?
-
--	Describe the responsibility implied by the giving and receiving of a commission.
+Discuss (i) the responsibility implied by the giving and receiving of a commission and (ii) how the *duty* of being commissioned differs from the *discipline* of basic training.
 
 <!--\end{bonus}-->
 
@@ -263,7 +216,7 @@ Pray - Reconcile - Disciple - Teach - Send
 -	The strategy of teaching 
 -	The strategy of sending
 
-<!--\end{topics}\osection{Terms used in this study}-->
+<!--\end{topics}\osection{Terms}-->
 
 Strategy
 :	a plan of action or policy designed to achieve a major or overall aim; military operations and movements in a war or battle.
@@ -354,7 +307,7 @@ Reaching others with a message of reconciliation challenges our own lifestyle an
 <!--\begin{discuss}[\currentsectiontitle]-->
 
 -	What does it means to be fully reconciled to God and his kingdom purposes?
--	What issues hinder you, your household or family, from personally experiencing peace with God?
+-	What issues hinder you, your household and family, from personally experiencing reconciliation and peace with God?
 
 <!--\end{discuss}-->
 
@@ -453,11 +406,9 @@ The peculiar demands of intercultural ministry can mean that it does not rest ea
 
 
 
-The *spirit of wisdom and revelation* plays a vital role in messianic teaching and understanding.[^cf29] 
+The *spirit of wisdom and revelation* plays a vital role in messianic teaching and understanding.[^cf29] Revelation is a gift of the Spirit that opens our understanding to spiritual truths and realities. The Spirit of God expands our human understanding to incorporate spiritual truths that are not obtained by, or received within, our natural, rational minds. Instead, they are revealed to our spirit.[^cf30]
 
 >	*This is what we speak, not in words taught us by human wisdom but in words taught by the Spirit, explaining spiritual realities with Spirit-taught words. The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit*—1 Corinthians 2:6-16 NIV
-
-Revelation is a gift of the Spirit that opens our understanding to spiritual truths and realities. The Spirit of God expands our human understanding to incorporate spiritual truths that are not obtained by, or received within, our natural, rational minds. Instead, they are revealed to our spirit.[^cf30]
 
 A vital key to experiencing wisdom and revelation is the desire to do God's will: Jesus promised that *Anyone who chooses to do the will of God will find out whether my teaching comes from God...[^cf31]* and *Everyone who asks receives; the one who seeks finds and to the one who knocks, the door will be opened.[^cf32]*
 
@@ -519,22 +470,18 @@ As each generation of disciples is prepared, taught and sent, they carry the res
 
 <!--\ssection{The Strategies of Messianic Community}-->
 
-This concludes Study 2, which explored five foundational, missional strategies: strategic prayer, reconciliation with God, formation of disciples, teaching the spiritually mature and sending people into mission. 
-
-In summary, the study revealed how:
+This concludes Study 2, which explored five foundational, missional strategies: strategic prayer, reconciliation with God, formation of disciples, teaching the spiritually mature and sending people into mission. In summary, the study revealed how:
 
 <!--\begin{summary}-->
 
-**Scripture reveals a cycle of five major strategies empowering the mission of the Messianic community that may be summarised: Pray, Reach, Disciple, Teach, Send**
+**Scripture reveals a cycle of five major strategies empowering the mission of the Messianic community**, which may be summarised: Pray, Reach, Disciple, Teach, Send
 
 <!--\end{summary}-->
 
 <!--\vspace*{\fill}
 \begin{bonus}-->
 
--	Which of the five strategies in this study are being enacted most effectively in your context?
-
--	Which strategies are the least effective in your context? Why might that be?
+Discuss which of the five messianic strategies are being enacted (i) most and (ii) least effectively in your context and (iii) why that might be.
 
 <!--\end{bonus}-->
 
@@ -554,7 +501,7 @@ In summary, the study revealed how:
 -	Prophets, priests, mediators
 -	Structures and strategies
 
-<!--\end{topics}\osection{Terms used in this study}-->
+<!--\end{topics}\osection{Terms}-->
 
 Structure
 :	referring to vocational communities structured (organised) according to their purpose and function. 
@@ -645,7 +592,7 @@ Pastoral, evangelistic communities are called to be a fellowship of people learn
 
 <!--\begin{summary}-->
 
-**Discipling people into faithful allegiance to God's Messiah, facilitating and encouraging significant spiritual and practical expressions of faithfulness, in homes, workplaces and communal places**
+**Discipling people into faithful allegiance to God's Messiah** — facilitating and encouraging significant spiritual and practical expressions of faithfulness, in homes, workplaces and communal places.
 
 <!--\end{summary}-->
 
@@ -707,7 +654,7 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 <!--\begin{summary}-->
 
-**Equipping mature disciples with biblical truth, enabling them to fulfil personal, vocational callings, in a manner that expresses faithful allegiance to the Messiah, in a range of cultural contexts**.
+**Equipping mature disciples with biblical truth** — enabling them to fulfil personal, vocational callings, in a manner that expresses faithful allegiance to the Messiah, in a range of cultural contexts.
 
 <!--\end{summary}-->
 
@@ -767,7 +714,7 @@ The characteristic role of *apostolic missionary teams* is to lay a messianic fo
 
 <!--\begin{summary}-->
 
-**Skilfully, resolutely, purposefully, sacrificially pioneering in the power of the Spirit: planting and establishing pastoral, evangelistic communities and teaching and training centres, in new geographical and cultural contexts**
+**Skilfully, resolutely, purposefully, sacrificially pioneering in the power of the Spirit** — planting and establishing pastoral, evangelistic communities and teaching and training centres, in new geographical and cultural contexts.
 
 <!--\end{summary}-->
 
@@ -829,7 +776,7 @@ The prophetic role is essentially a mediatory role, requiring a sensitive, intim
 
 <!--\begin{summary}-->
 
-**Pick up God's heartbeat for the peoples of the world, interceding with the Spirit for the purposes of God and hearing and conveying what the Spirit is saying to the Messianic Community**
+**Pick up God's heartbeat for the peoples of the world** — interceding with the Spirit for the purposes of God and hearing and conveying what the Spirit is saying to the Messianic Community.
 
 <!--\end{summary}-->
 
@@ -854,7 +801,7 @@ This topic explores structural and spiritual interaction between pastoral-evange
 | ---:	| :---: | --- |
 |pray|prophetic mediatory role|picking up God's heartbeat|
 
-|reach, disciple|pastoral, evangelistic communities|discipling into allegiance|
+|reconcile, disciple|pastoral, evangelistic communities|discipling into allegiance|
 
 |teach|teaching and training centres|equipping with truth|
 
@@ -885,22 +832,24 @@ As messianic structures learn to function faithfully and to interact dynamically
 
 <!--\ssection{The Structures of Messianic Community}-->
 
-This concludes Study 3, which examined the foundational structures of messianic community, including their relation to the five foundational gifts of pastor, evangelist, teacher, apostle and prophet and the five foundational strategies of pray, reach, disciple, teach, send.
+This concludes Study 3, which examined:
+
+-	the foundational structures of messianic community, 
+-	including their relation to the five foundational gifts of pastor, evangelist, teacher, apostle and prophet and 
+-	the five foundational strategies of pray, reach, disciple, teach, send. 
 
 In summary, the study revealed how:
 
 <!--\begin{summary}-->
 
-**The messianic community has a God-ordained structure that uniquely equips it to fulfil the messianic commission**
+**The messianic community has a God-ordained structure**, which uniquely equips it to fulfil the messianic commission
 
 <!--\end{summary}-->
 
 <!--\vspace*{\fill}
 \begin{bonus}-->
 
--	How does the prophetic ministry complement the interactions between the three messianic structures?
-
--	How might the three foundational structures explore responding towards prophetic gifts and insights?
+Discuss (i) how the prophetic ministry complements interactions between the three foundational structures and (ii) how to invite the effective involvement of prophetic gifts and insights amongst those structures.
 
 <!--\end{bonus}-->
 
@@ -919,7 +868,7 @@ In summary, the study revealed how:
 
 ----
 
-<!--\end{topics}\osection{Terms used in this study}-->
+<!--\end{topics}\osection{Terms}-->
 
 Increase
 :	referring to numerical growth
@@ -1117,22 +1066,24 @@ Throughout the world, within every people group, wherever willing hearts and ava
 
 <!--\ssection{The Expansion of Messianic Community}-->
 
-This concludes Study 4, which explored three examples of either organic or organisational reproduction, in order to compare and contrast them with the organised expansion of messianic, discipleship movements. 
+This concludes Study 4, which 
 
-The study highlighted characteristics associated with the growth, reproduction, relocation, harvest and risks of swarming bees, maize plants, commercial organisations and missional movements. In summary, the study revealed that:
+-	explored three examples of either organic or organisational reproduction, in order to compare and contrast them with the organised expansion of messianic, discipleship movements. 
+
+-	highlighted characteristics associated with the growth, reproduction, relocation, harvest and risks of swarming bees, maize plants, commercial organisations and missional movements. 
+
+In summary, the study revealed that:
 
 <!--\begin{summary}-->
 
-**The Messianic Community is intended to be a rapidly multiplying movement of disciples, constantly expanding into all the world, in order to bless the peoples of the world.**
+**The Messianic Community is intended to be a rapidly multiplying movement of disciples**, constantly expanding into all the world, in order to bless the peoples of the world.
 
 <!--\end{summary}-->
 
 <!--\vspace*{\fill}
 \begin{bonus}-->
 
--	Which of the four types of expansion appeals most to you?
-
--	Which one provides the greatest challenge to the growth of Messianic Community in your cultural context?
+Discuss (i) which of the four types of expansion appeals most to you personally and (ii) which provides the greatest challenge to the growth of Messianic Community in your cultural context?
 
 <!--\end{bonus}-->
 
@@ -1146,7 +1097,7 @@ The study highlighted characteristics associated with the growth, reproduction, 
 
 [pray-reach-disciple-teach-send.png]: pray-reach-disciple-teach-send.png width=292px height=26px
 
-[commissioncycle.png]: commissioncycle.png width=239px height=250px
+[commissioncycle.png]: commissioncycle.png width=210px height=225px
 
 [pastoral-evangelistic-community.png]: pastoral-evangelistic-community.png width=125px height=125px
 
@@ -1236,7 +1187,7 @@ The study highlighted characteristics associated with the growth, reproduction, 
 
 [^cf28]: Philippians 2:16
 
-[^cf29]: Ephesians 1:16-19
+[^cf29]: Ephesians 1:16-19; Luke 24:45-47
 
 [^cf30]: 1 Corinthians 2:6-16
 

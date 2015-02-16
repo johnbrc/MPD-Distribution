@@ -1,8 +1,9 @@
-Version: 0.5.3 FR Post-translation draft
-Change: 0.5.3 
-removed ‘Les’ from section headings, ch 2,3;
-re-ordered ch4 topic sections;
-removed ‘Author’, conclusion
+Version: 0.5.4 FR Post-translation
+Change: ammended in parallel with M4:
+added bonus questions ch4,
+revised study summary format,
+syllabus to back page,
+removed intro, author sections
 LaTex input:	mpd-header
 Title:	La Dynamique du Mandat
 Subtitle:	Discipolat, Plante de Maïs, Module 4
@@ -17,54 +18,14 @@ LaTeX Mode:	memoir
 LaTex input:	mpd-document
 LaTex footer:	mpd-footer
 
-<!--\chapter*{Comment utiliser ce manuel}\label{Commentutilisercemanuel}-->
-
-Ce module explore le mandat de Dieu pour la Communauté Messianique, en quatre études inter-connectées :
-
-<!--\begin{studies}
-{\small \makeatletter\@starttoc{toc}\makeatother}
-\end{studies}-->
-
-**Le Discipolat Plante de Maïs** est une ressource éducative ouverte, dérivé et testé sur le terrain en collaboration avec des Africains. Il a été formulé en réponse à des recherches doctorales contextuelles menées au Burkina Faso pour être pratique, pertinente et accessible pour une utilisation dans la majorité des contextes du monde et est en cours d'édition comme une série de manuels courts, modulaires, à faible coût :
-
--	adapté aux modes d'étude formelle et informelle,
--	intègre l'apprentissage réfléchi et les discussions en groupe,
--	dépendant tout simplement d'animateurs qui coordonnent de petits groupes d'apprentissage,
--	facilement reproductible, tan ten termes de rééditions et de traduction. 
-
-Son but est de faciliter l'apprentissage biblique qui se déplace continuellement vers l'extérieur, entrainant des communautés entières dans des modèles de discipolat à fondement scripturaire, dans un dialogue vivant avec la culture contextuelle.
-
-Des directives détaillées sur la facilitation appropriée des groupes d'étude et des discussions sont incorporées dans le *Manuel de l'Animateur du Discipolat, Plante de Maïs*—disponible à la même source que ce manuel, ou par l'Internet.
-
-<!--\begin{syllabus}-->
-
-1.	Le dessein éternel de Dieu
--	La dynamique de la vocation, Les Nations
--	La dynamique de la Vocation, Les Juifs
--	**La dynamique du mandat**
--	La dynamique des membres du corps
--	La dynamique de renouveau
--	La dynamique de la vérité
--	La dynamique de l'intercession
--	La dynamique de la transformation culturale
--	Les disciplines de la maturité spirituelle
--	Les disciplines pour courir la course
--	Les disciplines pour foncer vers notre vocation
--	Les disciplines de fidélité économique
--	Les disciplines de leadership messianique
--	Les disciplines de la vie par la foi
-16.	Les disciplines de la victoire
-
-<!--\end{syllabus}-->
-
 # Le Mandat de la Communauté Messianique #
 
 <!--\begin{synopsis}-->
 
 **La communauté de l'alliance messianique a reçu mandat de travailler aux côtés du Messie dans sa mission**
 
-<!--\end{synopsis}-->
-<!--\begin{topics}-->
+<!--\end{synopsis}
+\begin{topics}-->
 
 1.	L'enrôlement militaire
 
@@ -74,14 +35,15 @@ Des directives détaillées sur la facilitation appropriée des groupes d'étude
 
 ----
 
-<!--\end{topics}-->
-<!--\osection{Les termes utilisés dans cette étude}-->
+<!--\end{topics}	
+\osection{Les termes}-->
 
 Mandater
 :	Charger de la responsabilité pour une tâche ou un devoir, comme lorsqu'un officier militaire reçoit un grade et des responsabilités spécifiques, ex. *il a été mandaté après avoir été à l'académie de formation*
 :	Accorder l'autorisation d'entreprendre une tâche ou une fonction, comme lorsqu'un architecte est autorisé à construire quelque chose, ex. *l'architecte a été mandaté pour gérer le projet*
 
-<!--\osection{Références bibliques}\bible-->
+<!--\osection{Références bibliques}	
+\bible-->
 
 Lire ces passages à haute voix ; mémoriser les passages en **gras**.
 
@@ -212,19 +174,14 @@ En résumé, l'étude a révélé comment :
 
 <!--\begin{summary}-->
 
-**La Communauté de l'Alliance Messianique a reçu mandat de travailler aux côtés du Messie dans sa mission : comme une communauté de disciples, appelée, équipée et choisie pour servir le dessein éternel de Dieu**
+**La Communauté de l'Alliance Messianique a reçu mandat de travailler aux côtés du Messie dans sa mission**, comme une communauté de disciples, appelée, équipée et choisie pour servir le dessein éternel de Dieu
 
 <!--\end{summary}-->
 
----
+<!--\vspace*{\fill}
+\begin{bonus}-->
 
-<!--\vspace*{\fill}-->
-
-<!--\begin{bonus}-->
-
--	Comment le *devoir* d'une commission diffère-t-il de la *discipline* de la formation de base ? 
-
--	Décrire la responsabilité conférée par le don et la réception d'une commission.
+Décrire (i) la responsabilité conférée par le don et la réception d'une commission and (ii) comment le *devoir* d'une commission diffère-t-il de la *discipline* de la formation de base.
 
 <!--\end{bonus}-->
 
@@ -234,7 +191,8 @@ En résumé, l'étude a révélé comment :
 
 **Les Ecritures révèlent une série de cinq stratégies principales qui donnent de la force à la mission de la Communauté Messianique**
 
-<!--\end{synopsis}\begin{topics}-->
+<!--\end{synopsis}
+\begin{topics}-->
 
 1.	La stratégie de prière
 -	La stratégie de réconciliation
@@ -242,12 +200,14 @@ En résumé, l'étude a révélé comment :
 -	La stratégie d'enseignement 
 -	La stratégie d'envoi
 
-<!--\end{topics}\osection{Terms used in this study}-->
+<!--\end{topics}
+\osection{Les termes}-->
 
 Stratégie
 :	un plan d'action ou une politique visant à atteindre un objectif majeur ou global ; les opérations militaires et les mouvements dans une guerre ou une bataille.
 
-<!--\osection{Scripture}\bible-->
+<!--\osection{Scripture}
+\bible-->
 
 Lire ces passages à haute voix ; mémoriser les passages en **gras**.
 
@@ -263,7 +223,7 @@ Lire ces passages à haute voix ; mémoriser les passages en **gras**.
 
 La stratégie fondamentale de la mission messianique est la prière.
 
-![][pray.png]
+![][priez.png]
 
 ### La prière stratégique ###
 
@@ -300,7 +260,7 @@ Ceci est le point de départ d'une mission stratégique : une prière focalisé
 
 La deuxième étape stratégique de la mission messianique c'est atteindre les gens, afin d'encourager la réconciliation avec Dieu, par le Messie.
 
-![][pray-reach.png]
+![][reconciliez.png]
 
 ### La réconciliation avec Dieu ###
 
@@ -331,7 +291,7 @@ Atteindre les autres avec un message de réconciliation lance un défi à notre 
 
 La troisième stratégie est la formation de disciples.
 
-![][pray-reach-disciple.png]
+![][faire.png]
 
 ### Le discipolat est au cœur de la communauté messianique ###
 
@@ -359,7 +319,7 @@ Parce que le discipolat traite du cœur, stratégiquement et pratiquement, il do
 
 La quatrième stratégie est l'enseignement.
 
-![][pray-reach-disciple-teach.png]
+![][enseigner.png]
 
 ### La nourriture solide ###
 
@@ -428,7 +388,7 @@ Une clé essentielle pour expérimenter la sagesse et la révélation, est le d�
 
 La cinquième stratégie est l'envoi de disciples.
 
-![][pray-reach-disciple-teach-send.png]
+![][envoyer.png]
 
 ### L'aboutissement des strategies ###
 
@@ -458,7 +418,7 @@ Que ce soit inter- ou intra-culturellement, Dieu est celui qui équipe, donne le
 
 Comme chaque génération de disciples est préparée, enseignée et envoyée, ils portent la responsabilité de renouveler l'ensemble du processus dans leur propre contexte. Cet élan générationnel est intrinsèque à l'ensemble du processus stratégique. Il génère un processus cyclique qui est capable d'établir un mouvement missionnaire croissant.
 
-![][commissioncycle.png]
+![][cycle.png]
 
 <!--\begin{discuss}[\currentsectiontitle]-->
 
@@ -470,23 +430,26 @@ Comme chaque génération de disciples est préparée, enseignée et envoyée, i
 
 <!--\ssection{Les Stratégies de la Communauté Messianique}-->
 
-Ceci conclut l'Étude 2, qui a exploré cinq stratégies missionnaires de base : la prière stratégique, la réconciliation avec Dieu, la formation de disciples, l'enseignement des gens spirituellement matures et leur envoi en mission. 
+Ceci conclut l'Étude 2, qui a exploré cinq stratégies missionnaires de base : 
+
+-	la prière stratégique
+-	la réconciliation avec Dieu
+-	la formation de disciples
+-	l'enseignement des gens spirituellement matures et 
+-	leur envoi en mission. 
 
 En résumé, l'étude a révélé comment :
 
 <!--\begin{summary}-->
 
-**Les Ecritures révèlent un cycle de cinq grandes stratégies qui dynamisent la mission de la communauté messianique, et qui peuvent être résumées comme suit : Prier, Atteindre, Faire des disciples, Enseigner, Envoyer**
+**Les Ecritures révèlent un cycle de cinq grandes stratégies qui dynamisent la mission de la communauté messianique**, et qui peuvent être résumées comme suit : Prier, Atteindre, Faire des disciples, Enseigner, Envoyer
 
 <!--\end{summary}-->
 
-<!--\vspace*{\fill}-->
+<!--\vspace*{\fill}
+\begin{bonus}-->
 
-<!--\begin{bonus}-->
-
--	Which of the five strategies in this study are being enacted most effectively in your context ?
-
--	Which strategies are the least effective in your context ? Why might that be ?
+Discuss which of the five messianic strategies are being enacted (i) most and (ii) least effectively in your context and (iii) why that might be.
 
 <!--\end{bonus}-->
 
@@ -498,7 +461,8 @@ En résumé, l'étude a révélé comment :
 
 **La communauté messianique a une organisation instituée par Dieu, qui seul, l'équipe et lui permet d'accomplir le mandat messianique**
 
-<!--\end{synopsis}\begin{topics}-->
+<!--\end{synopsis}
+\begin{topics}-->
 
 1.	Les communautés pastorales évangéliques
 -	Les centres d'enseignement et de formation
@@ -506,7 +470,8 @@ En résumé, l'étude a révélé comment :
 -	Les prophètes, les prêtres, les médiateurs
 -	Structures et stratégies
 
-<!--\end{topics}\osection{Les termes utilisés dans cette étude}-->
+<!--\end{topics}
+\osection{Les termes}-->
 
 Structure
 :	Cela fait référence aux communautés à vocation structurées (organisées) selon leur but et leur fonction. 
@@ -525,7 +490,8 @@ Prophétie
 Apostolique
 :	dérive de *apôtre,* qui veut dire *l'envoyé* ; faisant référence à ceux qui ont été envoyés en tant que missionnaires pionniers interculturels.
 
-<!--\osection{Scripture}\bible-->
+<!--\osection{Scripture}
+\bible-->
 
 Lire ces passages à haute voix ; mémoriser les passages en **gras**.
 
@@ -540,7 +506,7 @@ Lire ces passages à haute voix ; mémoriser les passages en **gras**.
 
 ## Communautés pastorales évangéliques ##
 
-![][pastoral-evangelistic-community.png]
+![][communautés.png]
 
 Les communautés pastorales évangéliques sont définies par leur double caractère pastoral *et* évangélique.[^cf33] 
 
@@ -585,13 +551,13 @@ Pasteurs et évangélistes
 
 <!--\tsection{Discipling dans l'allégeance}-->
 
-![][disciplingallegiance.png]
+![][allegeance.png]
 
 Les communautés pastorales évangéliques sont appelées à être un peuple qui vie en communion fraternelle, apprenant à partager leurs vies et leurs valeurs selon des manières qui expriment de façon pratique, à la fois le *Leadership Pastoral* et la *Seigneurie* de Jésus, afin que toute la communauté travaille ensemble vers un objectif principal commun de :
 
 <!--\begin{summary}-->
 
-**Discipliner les gens à l'allégeance fidèle au Messie de Dieu, faciliter et encourager des expressions de fidélité spirituelle importante et pratique, dans les familles, les lieux de service et lieux publics**
+**Discipliner les gens à l'allégeance fidèle au Messie de Dieu** — faciliter et encourager des expressions de fidélité spirituelle importante et pratique, dans les familles, les lieux de service et lieux publics.
 
 <!--\end{summary}-->
 
@@ -605,7 +571,7 @@ Les communautés pastorales évangéliques sont appelées à être un peuple qui
 
 ## Centres d'enseignement et de formation ##
 
-![][teachingtrainingcentres.png]
+![][centres.png]
 
 Les centres d'enseignement et de formation complètent la formation des disciples qui a lieu au sein des [communautés pastorales évangéliques]. Leur fonction est d'équiper des disciples messianiques matures pour le service missionnaire vocationnel, dans les deux contextes *intra-culturels* et *interculturels*, qui expriment ensemble l'ampleur de la mission messianique : la communauté servante de Dieu, bénie pour être une source de bénédiction pour *tous les peuples* du monde—bien qu'il existe d'importantes différences entre eux.
 
@@ -641,13 +607,13 @@ L'Enseignement
 
 <!--\tsection{Équiper avec la vérité}-->
 
-![][equippingtruth.png]
+![][verite.png]
 
 La caractéristique du rôle des centres d'enseignement et de formation messianiques est de compléter la formation des disciples qui a lieu au sein des communautés pastorales et évangéliques, en :
 
 <!--\begin{summary}-->
 
-**Équipant les disciples matures de la vérité biblique, en leur permettant d'accomplir leurs appels personnels et vocationnels, d'une manière qui exprime une fidélité d'allégeance au Messie dans une gamme des contextes culturels**.
+**Équipant les disciples matures de la vérité biblique** — en leur permettant d'accomplir leurs appels personnels et vocationnels, d'une manière qui exprime une fidélité d'allégeance au Messie dans une gamme des contextes culturels.
 
 <!--\end{summary}-->
 
@@ -661,7 +627,7 @@ La caractéristique du rôle des centres d'enseignement et de formation messiani
 
 ## Équipes missionnaires apostoliques ##
 
-![][apostolicmissionaryteams.png]
+![][equipes.png]
 
 Paul, l'apôtre missionnaire du Nouveau Testament, emploie deux métaphores significatives pour illustrer les fonctions des apôtres et leurs équipes : *architecte* et *ambassadeur*.
 
@@ -693,13 +659,13 @@ A travers leur dévouement sacrificiel, leur endurance de la souffrance, leur é
 
 <!--\tsection{Mettre au point avec puissance}-->
 
-![][pioneeringpower.png]
+![][puissance.png]
 
 Le rôle caractéristique des *équipes missionnaires apostoliques* est de poser une fondation, en :
 
 <!--\begin{summary}-->
 
-**Mettre au point de façon habile, résolue et objective dans la puissance de l'Esprit : implantant et établissant aussi bien des communautés pastorales évangéliques que des centres d'enseignement et de formation dans de nouveaux contextes géographiques et culturelles **
+**Mettre au point de façon habile, résolue et objective dans la puissance de l'Esprit** — implantant et établissant aussi bien des communautés pastorales évangéliques que des centres d'enseignement et de formation dans de nouveaux contextes géographiques et culturelles.
 
 <!--\end{summary}-->
 
@@ -719,7 +685,7 @@ Des cinq dons de leadership,[^cf46] pasteur, évangéliste, enseignant et apôtr
 
 Le fait de mettre l'accent sur les trois cercles représentant chacune des structures fondamentales messianiques crée une région centrale ou les trois se recoupent. Cette région peut être considérée comme représentant le *cœur prophétique* de la communauté messianique.
 
-![][propheticmediatoryrole.png]
+![][mediation.png]
 
 L'idée d'un cœur central, interagissant avec et influençant chacune des structures du ministère produit ainsi une métaphore profonde pour le ministère prophétique. Cela prouve que le rôle du ministère prophétique est vital, influent et central, même s'il fonctionne quelque peu de manière cachée et non structurée. 
 
@@ -749,15 +715,15 @@ La médiation prophétique
 
 	Cela est basée sur la capacité du don prophétique d'*entendre ce que l'Esprit dit à la Communauté Messianique*.[^cf53] Cela implique (i) pourvoir du discernement, la direction et la perspicacité, au regard du défit contextuel et historique, l'opportunité et la responsabilité et (ii) pourvoir l'exhortation, la clarification, même la réprimande, quand les communautés messianiques sont en train d'échouer à leur vocation professionnelle.
 
-<!--\tsection{Prendre le battement du cœur de Dieu}-->
+<!--\tsection{Le battement du cœur de Dieu}-->
 
-![][pickingupgodsheartbeat.png]
+![][battement-du-coeur.png]
 
 Le rôle prophétique est essentiellement un rôle de médiation nécessitant une marche sensible, intime et fidèle avec Dieu, ce qui permet aux prophètes de :
 
 <!--\begin{summary}-->
 
-**Prendre le battement du cœur de Dieu pour les gens du monde, intercéder avec l'Esprit pour atteindre le dessein de Dieu et écouter ce que l'Esprit dit à la Communauté Messianique**
+**Prendre le battement du cœur de Dieu pour les gens du monde** — intercéder avec l'Esprit pour atteindre le dessein de Dieu et écouter ce que l'Esprit dit à la Communauté Messianique.
 
 <!--\end{summary}-->
 
@@ -782,7 +748,7 @@ Ce thème explore l'interaction structurelle et spirituelle entre la communauté
 | ---:	| :---: | --- |
 |prier|rôle de médiation prophétique|prendre le battement du cœur de Dieu|
 
-|atteindre, faire des disciples|communautés pastorales évangéliques|conduire dans l'allégeance|
+| réconciliez, faire des disciples|communautés pastorales évangéliques|conduire dans l'allégeance|
 
 |enseigner|centres d'enseignement et de formation|équiper avec la vérité|
 
@@ -794,11 +760,13 @@ L'intension n'est pas de rendre ces correspondances définitives ou exclusives. 
 
 ### Interactions structurelles ###
 
-Étant donné que ces structures messianiques apprennent à fonctionner fidèlement et a interagir de façon dynamique les unes avec les autres en accord avec le plan et le dessein stratégiques de Dieu, un mouvement missionnaire efficace de discipolat fut fondé. 
+Étant donné que ces structures messianiques apprennent à fonctionner fidèlement et a interagir de façon dynamique les unes avec les autres en accord avec le plan et le dessein stratégiques de Dieu, un mouvement missionnaire efficace de discipolat fut fondé.
 
-![][structuralinteractions.png]
+### Interactions structurelles ###
 
-La figure ci-dessous, *Interactions structurelles*, suggère les manières spécifiques et pratiques par lesquelles les différentes parties structurelles de tout le corps pourraient interagir avec les autres parties. Par exemple, les équipes missionnaires apostoliques implantent les communautés pastorales-évangéliques et établissent les centres d'enseignement *et* les communautés pastorales-évangéliques envoient les équipes missionnaires apostoliques et collaborent avec les centres d'enseignement et de formation.
+![Interactions structurelles][interactions.png]
+
+La figure, *Interactions structurelles*, suggère les manières spécifiques et pratiques par lesquelles les différentes parties structurelles de tout le corps pourraient interagir avec les autres parties. Par exemple, les équipes missionnaires apostoliques implantent les communautés pastorales-évangéliques et établissent les centres d'enseignement *et* les communautés pastorales-évangéliques envoient les équipes missionnaires apostoliques et collaborent avec les centres d'enseignement et de formation.
 
 <!--\begin{discuss}-->
 
@@ -810,23 +778,24 @@ La figure ci-dessous, *Interactions structurelles*, suggère les manières spéc
 
 <!--\ssection{Les Structures de la Communauté Messianique}-->
 
-Ceci conclut l'Étude 3, qui a examiné les structures de base de la communauté messianique, y compris leur relation avec les cinq dons fondamentaux de pasteur, d'évangéliste, d'enseignant, d'apôtre, et de prophète et les cinq stratégies fondamentales de prier, atteindre, faire des disciples, enseigner et envoyer.
+Ceci conclut l'Étude 3, qui a examiné :
+
+-	les structures de base de la communauté messianique, 
+-	y compris leur relation avec les cinq dons fondamentaux de pasteur, d'évangéliste, d'enseignant, d'apôtre, et de prophète et 
+-	les cinq stratégies fondamentales de prier, atteindre, faire des disciples, enseigner et envoyer. 
 
 En résumé, l'étude a révélé comment :
 
 <!--\begin{summary}-->
 
-**La communauté messianique a une organisation instituée par Dieu, qui seul, l'équipe et lui permet d'accomplir le mandat messianique**
+**La communauté messianique a une organisation instituée par Dieu**, qui seul, l'équipe et lui permet d'accomplir le mandat messianique
 
 <!--\end{summary}-->
 
-<!--\vspace*{\fill}-->
+<!--\vspace*{\fill}
+\begin{bonus}-->
 
-<!--\begin{bonus}-->
-
--	Comment le ministère prophétique équilibre-t-il les interactions entre les trois structures messianiques ?
-
--	Comment les trois structures de base pourraient-elles explorer la correspondance envers les dons et les aperçus prophétiques ?
+Décrire (i) comment le ministère prophétique équilibre-t-il les interactions entre les trois structures messianiques et (ii) comment explorer la correspondance envers les dons et les aperçus prophétiques ?
 
 <!--\end{bonus}-->
 
@@ -836,7 +805,8 @@ En résumé, l'étude a révélé comment :
 
 **La Communauté Messianique est destinée à être un mouvement de disciples qui se multiplie rapidement, qui s'étend constamment à travers le monde entier**
 
-<!--\end{synopsis}\begin{topics}-->
+<!--\end{synopsis}
+\begin{topics}-->
 
 1.	Les abeilles
 -	La plante de maïs 
@@ -845,7 +815,8 @@ En résumé, l'étude a révélé comment :
 
 ----
 
-<!--\end{topics}\osection{Les termes utilisés dans cette étude}-->
+<!--\end{topics}
+\osection{Les termes}-->
 
 Accroitre
 :	 référence à la croissance numérique 
@@ -853,7 +824,8 @@ Accroitre
 Expansion
 :	référence à l'élargissement géographique
 
-<!--\osection{Scripture}\bible-->
+<!--\osection{Scripture}
+\bible-->
 
 Lire ces passages à haute voix et mémoriser les passages **en gras**. *Remarquer comment chaque passage résume un moment important de l'activité missionaire, au cours duquel la communauté messianique primitive a établi un mouvement expansionniste de disciples .*
 
@@ -949,11 +921,11 @@ Les organisations d'affaires commerciales ainsi que la plupart des organisations
 
 Les récompenses liées à la croissance commerciale produisent inévitablement des environnements hautement compétitifs et exigents. Cela peut conduire à des performances extraordinaires, mais aussi à la perte de la dignité humaine.
 
-![][duplication.png] 
+![][duplication.png]
 
 La croissance logistique mesurée par **l'accroissement** en bénéfices, en personnel et en expérience managériale conduit à la *duplication* des structures (lieux et hiérarchie du management) et à **l'expansion** géographique du marché desservi.
 
-### Croissance [croissance-orgns] ###
+### Croissance [croissance-comm] ###
 
 La croissance organisationnelle se matérialise par un accroissement dans les quantités commerciales tels que le chiffre d'affaires, le bénéfice, le nombre d'employés, l'expérience managériale, la capacité de production, la part et le volume du marché, ainsi de suite. À un moment donné, la plupart des organisations atteignent la limite de leur croissance dans l'un ou l'autre de ces domaines. En vue de plus de croissance, ces organisations sont (généralement) obligées de dupliquer les lieux de vente (boutiques, bureaux, usines, etc.) dont elles sont propriétaires ou gérantes.
 
@@ -993,7 +965,7 @@ Un mouvement missionnaire
 
 Un **accroissement** en productivité parmi les mouvements missionnaires se mesure en terme de disciples, qui font preuve d'une **reproduction** fidèle de la vie de l'esprit, y compris la vision de faire des disciples parmi les peuples de toutes les nations, conduisant ainsi à une **expansion** cuturelle du rayon d'influence de l'Évangile.
 
-### Accroissement[mvmts] ###
+### Accroissement [accroissement-mvmts] ###
 
 Les mouvements missionnaires s'accroissent par le biais des disciples qui font des disciples, qui font des disciples—comme discuté dans [*Le Mandat de la Communauté Messianique*] et [*Les Structures de la Communauté Messianique*]. 
 
@@ -1003,7 +975,7 @@ Les disciples sont appelés à faire plus que *croire* simplement aux valeurs mi
 
 A l'intérieur des mouvements missionnaires, tout comme dans la nature, toutes les tentatives de reproduction ne reussissent pas. Certains individus, voire même des groupes entiers ne parviennent pas à la maturité. D'autres y parviennent mais ne se reproduisent pas. Certains commencent lentement, d'autres rapidement. Certains groupes élaborent un autre aspect identitaire, de but ou de forme différent de ceux de leurs contextes de départ.
 
-Reproduction in a missional movement is never merely a numerical eventuality. Discipleship is ultimately about a reproduction of the life of Jesus, with a community of people, by the power of his Spirit.
+Reproduction in a missional movement is never merely a numerical eventuality. Discipleship is ultimately about a reproduction of the life of Jesus, within a community of people, by the power of his Spirit.
 
 Les risques
 :	— les mouvements missionnaires sont imprévisibles ; les résultats sont difficiles à mesurer et àévaluer avec précision. Les groupes qui manquent d'attention et de fidélité aux valeurs fondamentales sont eux aussi difficiles à identifier et à reformer. 
@@ -1011,7 +983,7 @@ Les risques
 Les avantages
 :	— les membres font preuve d'une large variété de charisme, de talent et d'influence contextuelle. Comme la Bonne Nouvelle est reçue parmi le peuple, cela conduit à une transformation graduelle dans les familles, les maisons, les communautés, les sociétés, les cultures et les peuples.
 
-### Expansion [mvmts] ###
+### Expansion [accroissement-mvmts] ###
 
 Tout compte fait, il revient au Saint-Esprit de gouverner la croissance sauvage et désordonnée d'un mouvement missionnaire de disciples capables d'impacter des communautés, des régions et même des nations sur une période donnée.[^cf54] C'est le Saint-Esprit qui prend soin d'une communauté, suscitant ainsi une vision beaucoup plus grande que celle qu'un individu ou une organisation à elle seule peut avoir. C'est aussi le Saint-Esprit qui peut nous orienter sur où et comment utiliser nos énergies.[^cf55]
 
@@ -1027,71 +999,70 @@ Partout dans le monde, parmi chaque peuple, quelque soit le lieu où l'on trouve
 
 <!--\ssection{L'Expansion de la communauté messianique}-->
 
-Ceci met fin à l'étude 4, qui a exploré trois exemples de reproduction soit organique ou organisationnel, en vue d'établir les similitudes et les divergences entre ces types et l'expansion organisée des mouvements méssianiques de discipolat. 
+Ceci met fin à l'étude 4, qui a 
 
-L'étude a mis en lumière les caratéristiques en termes de croissance, de reproduction, de relocalisation, de moisson et des risques liés à l'essaim des abeilles, aux plantes de maïs, aux organisations commerciales et aux mouvements missionnaires. 
+-	exploré trois exemples de reproduction soit organique ou organisationnel, en vue d'établir les similitudes et les divergences entre ces types et l'expansion organisée des mouvements méssianiques de discipolat. 
+
+-	mis en lumière les caratéristiques en termes de croissance, de reproduction, de relocalisation, de moisson et des risques liés à l'essaim des abeilles, aux plantes de maïs, aux organisations commerciales et aux mouvements missionnaires. 
 
 En résumé, cette étude a montré que :
 
 <!--\begin{summary}-->
 
-**La communauté messianique est destinée à être un mouvement de multiplication rapide de disciples, qui s'étend constamment à travers le monde entier, afin d'apporter la bénédiction aux peuples de la terre. **
+**La communauté messianique est destinée à être un mouvement de multiplication rapide de disciples **, qui s'étend constamment à travers le monde entier, afin d'apporter la bénédiction aux peuples de la terre.
 
 <!--\end{summary}-->
 
-<!--\vspace*{\fill}-->
+<!--\vspace*{\fill}
+\begin{bonus}-->
 
-<!--\begin{bonus}-->
-
--	Which of the four types of expansion appeals to you personally?
-
--	Comparing the four types, which one provides the greatest challenge to the growth of Messianic Community in your cultural context?
+Discuss (i) which of the four types of expansion appeals most to you personally and (ii) which provides the greatest challenge to the growth of Messianic Community in your cultural context?
 
 <!--\end{bonus}-->
 
-[pray.png]: pray.png width=72px height=30px
+[priez.png]: priez.png width=95px height=39px
 
-[pray-reach.png]: pray-reach.png width=135px height=30px
+[reconciliez.png]: reconciliez.png width=178px height=39px
 
-[pray-reach-disciple.png]: pray-reach-disciple.png width=199px height=30px
+[faire.png]: faire.png width=261px height=39px
 
-[pray-reach-disciple-teach.png]: pray-reach-disciple-teach.png width=262px height=29px
+[enseigner.png]: enseigner.png width=271px height=31px
 
-[pray-reach-disciple-teach-send.png]: pray-reach-disciple-teach-send.png width=292px height=26px
+[envoyer.png]: envoyer.png width=303px height=27px
 
-[commissioncycle.png]: commissioncycle.png width=237px height=250px
+[cycle.png]: cycle.png width=151px height=140px
 
-[pastoral-evangelistic-community.png]: pastoral-evangelistic-community.png width=125px height=125px
+[communautés.png]: communautés.png width=125px height=125px
 
-[disciplingallegiance.png]: disciplingallegiance.png width=125px height=125px
+[allegeance.png]: allegeance.png width=124px height=125px
 
-[teachingtrainingcentres.png]: teachingtrainingcentres.png width=125px height=125px
+[centres.png]: centres.png width=125px height=125px
 
-[equippingtruth.png]: equippingtruth.png width=125px height=125px
+[verite.png]: verite.png width=125px height=125px
 
-[apostolicmissionaryteams.png]: apostolicmissionaryteams.png width=125px height=125px
+[equipes.png]: equipes.png width=125px height=125px
 
-[pioneeringpower.png]: pioneeringpower.png width=125px height=125px
+[puissance.png]: puissance.png width=125px height=125px
 
-[propheticmediatoryrole.png]: propheticmediatoryrole.png width=225px height=250px
+[mediation.png]: mediation.png width=245px height=240px
 
-[pickingupgodsheartbeat.png]: pickingupgodsheartbeat.png width=225px height=265px
+[battement-du-coeur.png]: battement-du-coeur.png width=249px height=241px
 
-[structuralinteractions.png]: structuralinteractions.png width=259px height=250px
+[interactions.png]: interactions.png width=251px height=240px
 
-[division.png]: division.png width=271px height=45px
+[division.png]: division.png width=271px height=59px
 
-[swarm-bw.png]: swarm-bw.png width=90px height=122px
+[swarm-bw.png]: swarm-bw.png width=110px height=150px
 
-[multiplication.png]: multiplication.png width=267px height=45px
+[multiplication.png]: multiplication.png width=271px height=59px
 
-[maize-plants.png]: maize-plants.png width=170px height=150px
+[maize-plants.png]: maize-plants.png width=198px height=175px
 
-[duplication.png]: duplication.png width=267px height=45px
+[duplication.png]: duplication.png width=271px height=59px
 
-[commerce.png]: commerce.png width=134px height=140px
+[commerce.png]: commerce.png width=152px height=160px
 
-[reproduction.png]: reproduction.png width=267px height=45px
+[reproduction.png]: reproduction.png width=271px height=59px
 
 [^cf1]: Du Latin *missio*, ce qui signifie *l'envoi*
 
