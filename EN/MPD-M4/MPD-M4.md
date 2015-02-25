@@ -1,22 +1,18 @@
-Version: 0.5.4 Post-translation
-Change: ammended in parallel with M4-FR:
-added bonus questions ch4,
-revised study summary format,
-syllabus to back page,
-removed intro, author sections
+Version: 0.5.5 Post-translation
+Change: amended images, added syllabus, cover pages
 LaTex input:	mpd-header
 Title:	Dynamics of Commissioning
-Subtitle:	Maize Plant Discipleship, Module 4
+Subtitle:	Module 4
+Module:	4
 Author:	Dr J.B. Clements
 Translation:	See translations
 Twitter:	@johnbrc, @mpdresource
 Email:	clements.jb@gmail.com
 Web:	http://maizeplantdiscipleship.info
-Copyright:	Maize Plant Discipleship by John B Clements is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/. Based on a work at http://johnbrc.github.io/MPD-Distribution/
 Keywords:	discipleship, mission, messianic, community 
 Base Header Level:	2
 LaTeX Mode:	memoir
-LaTex input:	mpd-document
+LaTex input:	mpd-document-en
 LaTex footer:	mpd-footer
 
 # Commissioning of Messianic Community #
@@ -32,8 +28,6 @@ LaTex footer:	mpd-footer
 2.	God's commissioning
 
 3.	Commissioned as disciples
-
-----
 
 <!--\end{topics}\osection{Terms}-->
 
@@ -139,6 +133,8 @@ Messianic commission
 -	What does it mean to be sent as the Messiah was sent?
 
 <!--\end{discuss}-->
+
+----
 
 ## Commissioned as disciples ##
 
@@ -267,7 +263,7 @@ How does Jesus teach his disciples to respond to this challenge? Jesus immediate
 
 > 	*Pray to the Lord of the harvest...to force and thrust out labourers into the harvest field*!
 
-This is the starting point of strategic mission: focussed prayer, interceding for workers, disciples loyal to Lord of the Harvest to be empowered by the Spirit into wholeheartedly serving God's eternal purpose.
+This is the starting point of strategic mission: focussed prayer, interceding for workers, disciples loyal to Lord of the Harvest, to be empowered by the Spirit into wholeheartedly serving God's eternal purpose.
 
 <!--\begin{discuss}[\currentsectiontitle]-->
 
@@ -278,9 +274,9 @@ This is the starting point of strategic mission: focussed prayer, interceding fo
 
 ## Strategy of reconciliation ##
 
-The second strategic step of messianic mission is reaching people, in order to encourage reconciliation with God, through the Messiah.
+The second strategic step of messianic mission is reconciliation with God, through the Messiah.
 
-![][pray-reach.png]
+![][reconcile.png]
 
 ### Reconciliation with God ###
 
@@ -315,7 +311,7 @@ Reaching others with a message of reconciliation challenges our own lifestyle an
 
 The third strategy is the formation of disciples.
 
-![][pray-reach-disciple.png]
+![][disciple.png]
 
 ### Discipleship is at the heart of messianic community ###
 
@@ -348,15 +344,15 @@ Because discipleship deals with the heart, strategically and practically it shou
 
 The fourth strategy is teaching.
 
-![][pray-reach-disciple-teach.png]
+![][teach.png]
 
 ### Solid food ###
 
 
 
-> By this time you ought to be teachers, yet you need someone to teach you the very first principles of God's word all over again. You need milk, not solid food! Anyone who has to drink milk is still a baby, lacking experience in applying the Word about covenantal faithfulness. But solid food is for the mature, for those whose faculties have been trained by continuous exercise to distinguish good from evil—*Hebrews 5:12-14 (author's paraphrase)*
+The writer of Hebrews talks about *solid food*, or *strong meat,[^cf20]* as a metaphor for the challenging teaching of God's word. He chastises his readers that they should be teaching others by this time, yet instead they still need *milk*—a metaphor for elementary teaching.[^cf21]
 
-The writer of Hebrews talks about *solid food*, or *strong meat,[^cf20]* as a metaphor for the challenging teaching of God's word. He chastises them that they should be teaching others by this time, yet instead they still need *milk*—a metaphor for elementary teaching.[^cf21]
+> By this time you ought to be teachers, yet you need someone to teach you the very first principles of God's word all over again. You need milk, not solid food! Anyone who has to drink milk is still a baby, lacking experience in applying the Word about covenantal faithfulness. But solid food is for the mature, for those whose faculties have been trained by continuous exercise to distinguish good from evil—*Hebrews 5:12-14 (author's paraphrase)*
 
 Strong meat is for spiritual, mature, committed disciples. For them, biblical teaching represents a fruitful source of insight, conviction, trust, knowledge, wisdom and understanding. It develops and deepens appreciation of messianic life, spirituality and vocational service.
 
@@ -423,7 +419,7 @@ A vital key to experiencing wisdom and revelation is the desire to do God's will
 
 The fifth strategy is sending disciples.
 
-![][pray-reach-disciple-teach-send.png]
+![][send.png]
 
 ### Culmination of strategies ###
 
@@ -474,7 +470,7 @@ This concludes Study 2, which explored five foundational, missional strategies: 
 
 <!--\begin{summary}-->
 
-**Scripture reveals a cycle of five major strategies empowering the mission of the Messianic community**, which may be summarised: Pray, Reach, Disciple, Teach, Send
+**Scripture reveals a cycle of five major strategies empowering the mission of the Messianic community**, which may be summarised: Pray, Reconcile, Disciple, Teach, Send
 
 <!--\end{summary}-->
 
@@ -535,9 +531,9 @@ Read these passages aloud; memorise the **bold** passages.
 
 ## Pastoral, evangelistic communities ##
 
-![][pastoral-evangelistic-community.png]
+Pastoral evangelistic communities are defined by their dual pastoral *and* evangelistic character.[^cf34]
 
-Pastoral evangelistic communities are defined by their dual pastoral *and* evangelistic character.[^cf34] 
+![][pastoral.png]
 
 Pastoral
 :	reflects the affirming, selfless, humble, protective, overseeing care of the Good Shepherd, Jesus.
@@ -582,17 +578,19 @@ Community celebrations express honour, gratitude and commitment towards God *and
 Clearly, pastoral and evangelistic characteristics of messianic communities overlap each other. It is true to say that the two things cannot be separated: when a community is living a faithful, devoted, celebratory lifestyle that is hospitable, open, welcoming and inviting towards outsiders, its existence represents both a practical *embodiment* and a living *proclamation* of the Good News.[^cf41]
 
 Pastors and evangelists
-:	are responsible for equipping messianic communities to express their pastoral and evangelistic character. They are principally called to be inspirers, facilitators, catalysts and equippers, so that *whole communities*, of all ages, abilities and types, are equipped to mutually support one another with hospitality and pastoral care *and* to share faith confidently with others, beyond the Messianic Community.
+:	are responsible for equipping messianic communities to express their pastoral and evangelistic character. 
+
+	They are principally called to be inspirers, facilitators, catalysts and equippers, so that *whole communities*, of all ages, abilities and types, are equipped to mutually support one another with hospitality and pastoral care *and* to share faith confidently with others, beyond the Messianic Community.
 
 <!--\tsection{Discipling into allegiance}-->
 
-![][disciplingallegiance.png]
+Pastoral, evangelistic communities are called to be a fellowship of people learning to share their lives and values in ways that practically express both the *Shepherding* and the *Lordship* of Jesus so that the whole community is working together towards a shared, primary goal of:
 
-Pastoral, evangelistic communities are called to be a fellowship of people learning to share their lives and values in ways that practically express both the *Shepherding* and the *Lordship* of Jesus, so that the whole community is working together towards a shared, primary goal of:
+![][allegiance.png]
 
 <!--\begin{summary}-->
 
-**Discipling people into faithful allegiance to God's Messiah** — facilitating and encouraging significant spiritual and practical expressions of faithfulness, in homes, workplaces and communal places.
+**Discipling people into faithful allegiance to God's Messiah** — facilitating and encouraging significant spiritual and practical expressions of faithfulness: in homes, workplaces and places where community is built and enhanced.
 
 <!--\end{summary}-->
 
@@ -606,9 +604,11 @@ Pastoral, evangelistic communities are called to be a fellowship of people learn
 
 ## Teaching and training centres ##
 
-![][teachingtrainingcentres.png]
+Teaching and training centres supplement the formation of disciples taking place within [pastoral, evangelistic communities]. 
 
-Teaching and training centres supplement the formation of disciples taking place within [pastoral, evangelistic communities]. Their function is to equip mature messianic disciples for missional, vocational service, in both *intra-cultural* and *inter-cultural* contexts, between which there are significant differences, yet which together signify the full scope of messianic mission: God's servant community, blessed to be a blessing to *all the peoples* of the world.
+![][teaching.png]
+
+Their function is to equip mature messianic disciples for missional, vocational service, in both *intra-cultural* and *inter-cultural* contexts, between which there are significant differences, yet which together signify the full scope of messianic mission: God's servant community, blessed to be a blessing to *all the peoples* of the world.
 
 ### Intra cultural contexts ###
 
@@ -648,9 +648,9 @@ Teaching
 
 <!--\tsection{Equipping with truth}-->
 
-![][equippingtruth.png]
-
 The characteristic role of messianic teaching and training centres is to supplement the formation of disciples taking place within pastoral, evangelistic communities, by:
+
+![][truth.png]
 
 <!--\begin{summary}-->
 
@@ -666,13 +666,11 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 <!--\end{discuss}-->
 
-----
-
 ## Apostolic missionary teams ##
 
-![][apostolicmissionaryteams.png]
-
 New Testament missionary apostle, Paul, employs two significant metaphors to illustrate the function of apostles and their teams: *architect* and *ambassador*.
+
+![][apostolic.png]
 
 Architects
 :	are responsible for both designing and supervising the construction of buildings, which others will inhabit and use.
@@ -708,9 +706,9 @@ Through their sacrificial dedication, endurance of suffering, embrace of humilit
 
 <!--\tsection{Pioneering with power}-->
 
-![][pioneeringpower.png]
-
 The characteristic role of *apostolic missionary teams* is to lay a messianic foundation, by:
+
+![][power.png]
 
 <!--\begin{summary}-->
 
@@ -734,7 +732,7 @@ Of the five leadership gifts,[^cf47] pastor, evangelist, teacher and apostle are
 
 Overlaying the three circles representing each of the three foundational messianic structures, creates a central region where all three overlap. This region may be identified as representing the *prophetic heart* of messianic community.
 
-![][propheticmediatoryrole.png]
+![][prophetic-mediation.png]
 
 The idea of a central heart, interacting with and influencing each of the other ministry structures thus provides a profound metaphor for the prophetic ministry. This suggests the prophetic role is vital, influential and central, even though it functions in a somewhat hidden, non-structural manner.
 
@@ -759,20 +757,16 @@ Accordingly, those gifted to walk prophetically with God are often sensitive per
 The prophetic ministry fulfils a dual mediatory role, incorporating both *priestly* and *prophetic* mediation. 
 
 Priestly mediation
-: 	involves speaking with God, as a representative of the Messianic Community.
-
-	It is based upon a purity of heart and faithfulness of life that enables practitioners to offer effective intercession on behalf of others.[^cf51] It involves (i) sharing the intercession of the Holy Spirit, through a lifestyle of intercessory prayer[^cf52] and (ii) advocating and encouraging the Messianic Community to fulfil its calling as *a house of prayer for all nations*.[^cf53] 
+: 	involves speaking with God, as a representative of the Messianic Community. It is based upon a purity of heart and faithfulness of life that enables practitioners to offer effective intercession on behalf of others.[^cf51] It involves (i) sharing the intercession of the Holy Spirit, through a lifestyle of intercessory prayer[^cf52] and (ii) advocating and encouraging the Messianic Community to fulfil its calling as *a house of prayer for all nations*.[^cf53] 
 
 Prophetic mediation
-: 	involves speaking with the Messianic Community, as a representative of God.
-
-	It is based upon the prophetic gift's capacity for *hearing what the Spirit is saying to the Messianic Community*.[^cf54] It involves (i) providing discernment, direction and insight, regarding contextual and historical challenge, opportunity and responsibility and (ii) providing exhortation, clarification, even rebuke, when messianic communities are failing in their vocational calling.
+: 	involves speaking with the Messianic Community, as a representative of God. It is based upon the prophetic gift's capacity for *hearing what the Spirit is saying to the Messianic Community*.[^cf54] It involves (i) providing discernment, direction and insight, regarding contextual and historical challenge, opportunity and responsibility and (ii) providing exhortation, clarification, even rebuke, when messianic communities are failing in their vocational calling.
 
 <!--\tsection{Picking up God's heartbeat}-->
 
-![][pickingupgodsheartbeat.png]
-
 The prophetic role is essentially a mediatory role, requiring a sensitive, intimate, faithful walk with God that enables prophets to:
+
+![][heartbeat.png]
 
 <!--\begin{summary}-->
 
@@ -809,14 +803,16 @@ This topic explores structural and spiritual interaction between pastoral-evange
 
 These correspondences are not intended to be definitive or exclusive. They simply illustrate how different parts of the body contribute significantly to the diverse functioning of the whole body, so that the Messianic Community is able to function according to God's unique plan, purpose and vocation:
 
-> You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. In him the whole structure is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God—*Ephesians 2:19b-22 ABV*
+> You are...members of the household of God, built upon the foundation of the apostles and prophets, with Christ himself as the cornerstone. 
+
+> In him the whole structure is joined together and grows into a holy temple in the Lord, in whom you also are being built spiritually into a dwelling place for God—*Ephesians 2:19ff ABV*
 
 ### Structural interactions ###
 
 
 
 
-![][structuralinteractions.png]
+![][interactions.png]
 
 This figure illustrates how the various messianic structures can interact with the other parts. For example, apostolic missionary teams planting pastoral-evangelistic communities and establishing teaching centres *and* pastoral-evangelistic communities sending apostolic missionary teams and partnering with teaching and training centres.
 
@@ -865,8 +861,6 @@ Discuss (i) how the prophetic ministry complements interactions between the thre
 -	Maize plant
 -	Commercial organisations
 -	Missional movements
-
-----
 
 <!--\end{topics}\osection{Terms}-->
 
@@ -1032,7 +1026,7 @@ An **increase** in the fruitfulness amongst missional movements is measured in t
 
 
 
-Missional movements grow through the forming of disciples who make disciples, who make disciples—as discussed in [*The Commissioning of Messianic Community*] and [*The Structures of Messianic Community*]. Disciples do more than simply *believe* in missional values: they *embody* core beliefs and values by realigning their lives, in order to affect their own contexts and futures—including making disciples ... who make disciples ... who make disciples and so on.
+Missional movements grow through the forming of disciples who make disciples, who make disciples—as discussed in [*Commissioning of Messianic Community*] and [*Structures of Messianic Community*]. Disciples do more than simply *believe* in missional values: they *embody* core beliefs and values by realigning their lives, in order to affect their own contexts and futures—including making disciples ... who make disciples ... who make disciples and so on.
 
 ### Reproduction ###
 
@@ -1062,8 +1056,6 @@ Throughout the world, within every people group, wherever willing hearts and ava
 
 <!--\end{discuss}-->
 
-----
-
 <!--\ssection{The Expansion of Messianic Community}-->
 
 This concludes Study 4, which 
@@ -1087,49 +1079,49 @@ Discuss (i) which of the four types of expansion appeals most to you personally 
 
 <!--\end{bonus}-->
 
-[pray.png]: pray.png width=72px height=30px
+[pray.png]: pray.png width=95px height=40px
 
-[pray-reach.png]: pray-reach.png width=135px height=30px
+[reconcile.png]: reconcile.png width=178px height=40px
 
-[pray-reach-disciple.png]: pray-reach-disciple.png width=199px height=30px
+[disciple.png]: disciple.png width=261px height=40px
 
-[pray-reach-disciple-teach.png]: pray-reach-disciple-teach.png width=262px height=29px
+[teach.png]: teach.png width=285px height=33px
 
-[pray-reach-disciple-teach-send.png]: pray-reach-disciple-teach-send.png width=292px height=26px
+[send.png]: send.png width=292px height=27px
 
-[commissioncycle.png]: commissioncycle.png width=210px height=225px
+[commissioncycle.png]: commissioncycle.png width=266px height=251px
 
-[pastoral-evangelistic-community.png]: pastoral-evangelistic-community.png width=125px height=125px
+[pastoral.png]: pastoral.png width=150px height=150px
 
-[disciplingallegiance.png]: disciplingallegiance.png width=125px height=125px
+[allegiance.png]: allegiance.png width=150px height=150px
 
-[teachingtrainingcentres.png]: teachingtrainingcentres.png width=125px height=125px
+[teaching.png]: teaching.png width=150px height=150px
 
-[equippingtruth.png]: equippingtruth.png width=125px height=125px
+[truth.png]: truth.png width=150px height=150px
 
-[apostolicmissionaryteams.png]: apostolicmissionaryteams.png width=125px height=125px
+[apostolic.png]: apostolic.png width=149px height=150px
 
-[pioneeringpower.png]: pioneeringpower.png width=125px height=125px
+[power.png]: power.png width=150px height=150px
 
-[propheticmediatoryrole.png]: propheticmediatoryrole.png width=225px height=250px
+[prophetic-mediation.png]: prophetic-mediation.png width=317px height=237px
 
-[pickingupgodsheartbeat.png]: pickingupgodsheartbeat.png width=200px height=233px
+[heartbeat.png]: heartbeat.png width=299px height=235px
 
-[structuralinteractions.png]: structuralinteractions.png width=207px height=200px
+[interactions.png]: interactions.png width=273px height=238px
 
-[division.png]: division.png width=271px height=45px
+[division.png]: division.png width=276px height=60px
 
 [swarm-bw.png]: swarm-bw.png width=99px height=135px
 
-[multiplication.png]: multiplication.png width=267px height=45px
+[multiplication.png]: multiplication.png width=274px height=60px
 
-[maize-plants.png]: maize-plants.png width=170px height=150px
+[maize-plants.png]: maize-plants.png width=227px height=200px
 
-[duplication.png]: duplication.png width=267px height=45px
+[duplication.png]: duplication.png width=276px height=60px
 
 [commerce.png]: commerce.png width=137px height=140px
 
-[reproduction.png]: reproduction.png width=267px height=45px
+[reproduction.png]: reproduction.png width=274px height=60px
 
 [^cf1]: From Latin *missio*, meaning *sending*
 
@@ -1227,11 +1219,11 @@ Discuss (i) which of the four types of expansion appeals most to you personally 
 
 [^cf48]: 1 Corinthians 12:27-31
 
-[^cf49]: See *Module 8: The Dynamic of Intercession*, for further discussion of this concept.
+[^cf49]: See *Module 8: Intercession*, for further discussion of this concept.
 
 [^cf50]: *Kairos* (Greek) refers to a particularly opportune, favourable, suitable or appropriate moment--e.g. see John 7:6-8, 12:23; Luke 21:13; Mark 13:4; Acts 1:6-7; 1 Timothy 2:6; *kairos* contrasts with *chronos*, which refers to fixed, measurable units of time.
 
-[^cf51]: James 5:13-20; Psalm 24:3-4; also *Module 8: The Dynamic of Intercession*.
+[^cf51]: James 5:13-20; Psalm 24:3-4; also *Module 8: Intercession*.
 
 [^cf52]: Romans 8:26-27
 
