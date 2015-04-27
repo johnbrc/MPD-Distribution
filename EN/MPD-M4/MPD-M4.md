@@ -1,17 +1,12 @@
-Version: 0.5.5 Post-translation
-Change: amended images, added syllabus, cover pages
+Version: 0.5.6 Sample print copy
+Change: bar code added
 LaTex input:	mpd-header
 Title:	Dynamics of Commissioning
-Subtitle:	Module 4
 Module:	4
-Author:	Dr J.B. Clements
-Translation:	See translations
-Twitter:	@johnbrc, @mpdresource
-Email:	clements.jb@gmail.com
-Web:	http://maizeplantdiscipleship.info
-Keywords:	discipleship, mission, messianic, community 
+Translation:	
+ISBN:	978-1-907191-03-9
+Colour:	false
 Base Header Level:	2
-LaTeX Mode:	memoir
 LaTex input:	mpd-document-en
 LaTex footer:	mpd-footer
 
@@ -455,7 +450,7 @@ Whether inter- or intra-culturally, God is the one who equips, empowers and send
 
 As each generation of disciples is prepared, taught and sent, they carry the responsibility to renew the whole process in their own context. This generational impetus is integral to the entire strategic process. It generates a cyclical process that is capable of establishing an expanding, missional movement.
 
-![][commissioncycle.png]
+![][cycle.png]
 
 <!--\begin{discuss}[\currentsectiontitle]-->
 
@@ -541,7 +536,7 @@ Pastoral
 Evangelistic
 :	reflects the Lordship of Jesus over the community itself *and* the spiritual and natural powers that influence and shape human society.
 
-This pastoral-evangelistic character is most visibly expressed through *faithfulness*, *hospitality* and *celebration*.
+This pastoral-evangelistic character is most visibly expressed through community *faithfulness*, *hospitality* and *celebration*.
 
 ### Community faithfulness ###
 
@@ -666,6 +661,8 @@ The characteristic role of messianic teaching and training centres is to supplem
 
 <!--\end{discuss}-->
 
+----
+
 ## Apostolic missionary teams ##
 
 New Testament missionary apostle, Paul, employs two significant metaphors to illustrate the function of apostles and their teams: *architect* and *ambassador*.
@@ -732,7 +729,7 @@ Of the five leadership gifts,[^cf47] pastor, evangelist, teacher and apostle are
 
 Overlaying the three circles representing each of the three foundational messianic structures, creates a central region where all three overlap. This region may be identified as representing the *prophetic heart* of messianic community.
 
-![][prophetic-mediation.png]
+![][prophetic.png]
 
 The idea of a central heart, interacting with and influencing each of the other ministry structures thus provides a profound metaphor for the prophetic ministry. This suggests the prophetic role is vital, influential and central, even though it functions in a somewhat hidden, non-structural manner.
 
@@ -812,7 +809,7 @@ These correspondences are not intended to be definitive or exclusive. They simpl
 
 
 
-![][interactions.png]
+![][interactions2.png]
 
 This figure illustrates how the various messianic structures can interact with the other parts. For example, apostolic missionary teams planting pastoral-evangelistic communities and establishing teaching centres *and* pastoral-evangelistic communities sending apostolic missionary teams and partnering with teaching and training centres.
 
@@ -820,7 +817,9 @@ As messianic structures learn to function faithfully and to interact dynamically
 
 <!--\begin{discuss}-->
 
--	Briefly discuss each of the identified interactions, between the three foundational structures. Which of these structural dynamics are most significant? Why?
+-	Briefly discuss each of the identified interactions, between the three foundational structures. 
+
+-	Which of these structural dynamics are most significant? Why?
 
 -	Which is presently *least evident* in your contexts?
 
@@ -946,7 +945,7 @@ Once through the surface, the plants leaves can begin *photosynthesising* sunlig
 
 Each maize plant produces a number of ears, each of which typically contains 600-800 seeds. Thus, a single season of growth can produce thousands of seeds from a single plant.
 
-![][maize-plants.png]
+![][maize.png]
 
 Risks
 :	— shallow roots make plants susceptible to poor soils, drought and severe winds.
@@ -988,7 +987,7 @@ Organisational growth is marked by an increase in commercial measurements such a
 
 Duplication essentially reproduces, in a new location, a *copy* of an existing, successful model. This builds upon proven characteristics of the original concept, increases production and establishes an identifiable brand. Buildings, budgets, payrolls and competition typically play a significant role in decision-making processes, usually controlled closely by a centralised, hierarchical, *command-and-control* structure of management.
 
-![][commerce.png]
+![][increase.png]
 
 Risks
 :	— duplication typically ignores or suppresses local insight and initiative and the effect of contextual differences on the establishment of new structures.
@@ -1056,6 +1055,8 @@ Throughout the world, within every people group, wherever willing hearts and ava
 
 <!--\end{discuss}-->
 
+----
+
 <!--\ssection{The Expansion of Messianic Community}-->
 
 This concludes Study 4, which 
@@ -1089,9 +1090,9 @@ Discuss (i) which of the four types of expansion appeals most to you personally 
 
 [send.png]: send.png width=292px height=27px
 
-[commissioncycle.png]: commissioncycle.png width=266px height=251px
+[cycle.png]: cycle.png width=259px height=236px
 
-[pastoral.png]: pastoral.png width=150px height=150px
+[pastoral.png]: pastoral.png width=140px height=140px
 
 [allegiance.png]: allegiance.png width=150px height=150px
 
@@ -1103,11 +1104,11 @@ Discuss (i) which of the four types of expansion appeals most to you personally 
 
 [power.png]: power.png width=150px height=150px
 
-[prophetic-mediation.png]: prophetic-mediation.png width=317px height=237px
+[prophetic.png]: prophetic.png width=239px height=250px
 
-[heartbeat.png]: heartbeat.png width=299px height=235px
+[heartbeat.png]: heartbeat.png width=268px height=276px
 
-[interactions.png]: interactions.png width=273px height=238px
+[interactions2.png]: interactions2.png width=294px height=255px
 
 [division.png]: division.png width=276px height=60px
 
@@ -1115,11 +1116,11 @@ Discuss (i) which of the four types of expansion appeals most to you personally 
 
 [multiplication.png]: multiplication.png width=274px height=60px
 
-[maize-plants.png]: maize-plants.png width=227px height=200px
+[maize.png]: maize.png width=221px height=190px
 
 [duplication.png]: duplication.png width=276px height=60px
 
-[commerce.png]: commerce.png width=137px height=140px
+[increase.png]: increase.png width=175px height=140px
 
 [reproduction.png]: reproduction.png width=274px height=60px
 
