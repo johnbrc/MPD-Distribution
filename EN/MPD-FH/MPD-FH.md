@@ -1,5 +1,5 @@
-Version: 0.5.2 --- Pre-publication draft
-Change: Amended cover, added ISBN bar code
+Version: 0.5.3 --- Pre-publication POD draft
+Change: amended dynamics module titles, incl. figure; minor textual changes
 LaTex input:	mpd-header
 Title:	Facilitators Handbook
 Module:	fh
@@ -429,17 +429,17 @@ Modules 2 to 8 explore seven messianic dynamics that represent the characteristi
 
 Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit or a plentiful harvest.
 
-![][mp-disciplines.png]
+![][mp-dynamics.png]
 
 #### Module 9 : Maturity ####
 
 -	Three stages of encounter and growth in spiritual maturity of messianic disciples and communities.
 
-#### Module 10 : Running ####
+#### Module 10 : Service ####
 
 -	Motivations, qualities and disciplines for living an enduring life of service.
 
-#### Module 11 : Completing ####
+#### Module 11 : Vocation ####
 
 -	Identifying and excelling in our personal vocation, through a deepening of our relationship with the Messiah.
 
@@ -557,13 +557,11 @@ This personal aspect of knowing the Messiah, however, is not the whole purpose o
 
 ### Sharing treasure ###
 
-Discipline and sacrifice are amongst the most significant secrets to living a truly messianic life. Sadly, they are secrets that many people never properly discover, let alone realise as life-giving principles. Yet the illustration of seeds teaches us that hoarding the treasure of our knowledge, relationship and communion with God is not the way to a rich harvest. It is only in sacrificially sharing our spiritual treasure, both within and beyond our own communities, that we discover and realise our vocation and, in due time, reap a harvest of faithfulness.[^fn10]
+Discipline and sacrifice are amongst the most significant secrets to living a truly messianic life. Sadly, they are secrets that many people never properly discover, let alone realise as life-giving principles. Yet the illustration provided by seeds demonstrates that hoarding the treasure of our knowledge, relationship and communion with God is not the way to a rich harvest. Only in sacrificially sharing our spiritual treasure, both within and beyond our own communities, do we discover and realise our vocation and, in due time, reap a harvest of faithfulness.[^fn10]
 
-Nevertheless, spiritual treasure should never be wasted or cast away carelessly. Whilst some seed inevitably falls upon unreceptive ground, a farmer never intentionally wastes seed. Similarly, spiritual treasure is too precious to be deliberately squandered on people who spurn its value.[^fn11] Investment must be made with people who recognise the worth of this treasure and who make room for its transformative power.
+Nevertheless, spiritual treasure should never be wasted or cast away carelessly. Whilst some seed inevitably falls upon unreceptive ground, a farmer never intentionally wastes seed. Likewise, spiritual treasure is too precious to be deliberately squandered on people who spurn its value.[^fn11] Investment must be made with people who recognise the worth of this treasure and who make room for its transformative power. Such people are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] 
 
-Such people are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] 
-
->	**People willing to be transformed through a personal knowledge and experience of the Messiah, who will share their treasure with other faithful people, who will share it with other faithful people ...  and so on and so forth.**
+>	**People willing to be transformed through a personal knowledge and experience of the Messiah, who will share their treasure with other faithful people, who will share it with other faithful people and so on and so on—thus participating in the development of a generational, missional movement of messianic discipleship**.
 
 ## Discipleship Movements ##
 
@@ -598,12 +596,14 @@ Accordingly, any messianic movement or community that earnestly desires spiritua
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. Such a goal requires much more than the maintenance of congregational activity. It requires more than learning to care for one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to *serve his eternal purpose*, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
 
->	**Establishing a truly transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples, who are: 
+>	**Establishing a truly transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples**. 
+
+Disciples who are:
 
 -	committed to significant personal and social renewal
 -	persistent and determined to turn vision into reality
 -	operating as interdependent co-workers—not selfishly-ambitious individuals
--	active in forming other faithful disciples.**
+-	active in forming other faithful disciples.
 
 ## Anointed Community  ##
 
@@ -750,7 +750,7 @@ An agency organising republication
 
 ## Translation and Republication ##
 
-It is hoped that Maize Plant Discipleship handbooks may eventually be translated, republished and adopted for use in many African and other Majority World contexts. The Creative Commons Licence reproduced at the end of this handbook, permits republication and adaption, such as translation or inclusion of contextualised elements.
+It is hoped that Maize Plant Discipleship handbooks may eventually be translated, republished and adopted for use in many African and other Majority World contexts. The Creative Commons Licence reproduced at the end of this handbook, permits republication and adaption, such as translation or incorporation of contextually appropriate elements.
 
 <!--\begin {pause}-->
 
@@ -828,7 +828,7 @@ The licensor cannot revoke these freedoms as long as you follow the licence term
 
 [mp-dynamics.png]: mp-dynamics.png width=265px height=374px
 
-[mp-disciplines.png]: mp-disciplines.png width=279px height=396px
+[mp-dynamics.png]: mp-dynamics.png width=311px height=438px
 
 [generational.png]: generational.png width=268px height=45px
 
