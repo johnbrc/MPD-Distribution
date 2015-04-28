@@ -596,9 +596,7 @@ Accordingly, any messianic movement or community that earnestly desires spiritua
 
 Disciples must be invited, formed and sent forth as part of a *world-facing* movement. Such a goal requires much more than the maintenance of congregational activity. It requires more than learning to care for one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to *serve his eternal purpose*, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
 
->	**Establishing a truly transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples**. 
-
-Disciples who are:
+>	**Establishing a truly transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples**:
 
 -	committed to significant personal and social renewal
 -	persistent and determined to turn vision into reality
