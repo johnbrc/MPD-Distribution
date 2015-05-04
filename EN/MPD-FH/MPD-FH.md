@@ -1,5 +1,5 @@
-Version: 0.5.3 --- Pre-publication POD draft
-Change: amended dynamics module titles, incl. figure; minor textual changes
+Version: 0.5.4 --- POD sponsors draft
+Change: ch4 movements, cover
 LaTex input:	mpd-header
 Title:	Facilitators Handbook
 Module:	fh
@@ -16,12 +16,12 @@ THIS CHAPTER PROVIDES practical insights and suggestions for facilitating Maize 
 
 ## What is Maize Plant Discipleship? ##
 
-Maize Plant Discipleship is a biblical learning resource, designed to be practical, relevant and accessible for use in African and other Majority World contexts. It has been derived and road-tested in collaboration with Africans, formulated in response to contextual doctoral research and is being published as a series of short, modular, low-cost handbooks:
+Maize Plant Discipleship is a biblical learning resource, designed to be practical, relevant and accessible for use in African and other Majority World contexts. It has been derived and road-tested in collaboration with Africans and formulated in response to contextual doctoral research conducted in Burkina Faso, for publication as a syllabus of short, modular handbooks:
 
--	suitable for formal and informal modes of study
+-	equipping facilitators to guide small learning groups
 -	incorporating reflective learning and group discussions
--	reliant simply upon facilitators co-ordinating small learning groups
--	easily replicable, in terms of both republication and training.
+-	suitable for formal and informal modes of study
+-	easily replicable, in terms of republication and training.
 
 Its goal is to facilitate biblical learning that continuously moves outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
 
@@ -33,13 +33,15 @@ Maize Plant Discipleship is intended to be an open, reflective, group learning p
 
 There are many reasons to bring together a group of people to learn together. Some people would point to Jesus' gathering of twelve disciples. For most people, groups represent a natural and lively place in which to learn. They bring together people with different experiences, gifts, capacities and perspectives. 
 
-When we share our lives, we learn together and *learning groups* mirror this reality. Together, we experience and learn quite differently to when we study alone. Reflective discussion with others, in particular, provides a highly stimulating forum for learning through exploration, listening and discovery. For further discussion about reflective learning, see [*Maize Plant Discipleship Learning Process*].
+When we share our lives, we learn together and *learning groups* mirror this reality. Together, we experience and learn quite differently to when we study alone. Reflective discussion with others, in particular, provides a highly stimulating forum for learning through exploration, listening and discovery. 
 
-### Learning, not teaching? ###
+For further discussion about reflective learning, see [*Maize Plant Discipleship Learning Process*].
 
-Yes. Maize Plant Discipleship is principally a *learning*, rather than a teaching resource. Learning depends on many factors, in addition to the presentation of topical information—most of which relate to the student, rather than the teacher, or teaching. Such factors include desire, temperament, experience, talent, time, energy, environment and so forth. Thus the decision to learn something new must always begin with the student themselves. 
+### Learning, not teaching ###
 
-Accordingly, discipleship should be recognised as a form of learning that is *called out* of students or disciples, through the guidance and direction of a facilitator, mentor, educator or teacher. People in those roles come alongside *motivated learners* to assist, encourage, facilitate and call out the learning taking place within those being discipled.
+Maize Plant Discipleship is principally a *learning*, rather than a teaching resource. Learning depends on many factors, in addition to the presentation of topical information, most of which relate to the student, rather than the teacher and teaching. Such factors include desire, temperament, experience, talent, time, energy, environment and so forth. The decision to learn something new must therefore always begin with the student themselves. 
+
+Accordingly, discipleship should be recognised as a form of learning that is *called out* of students or disciples, under the guidance and direction of a facilitator, mentor, educator or teacher. People in those roles come alongside *motivated learners* to assist, encourage, facilitate and call out the learning taking place within those being discipled.
 
 ## Facilitating Maize Plant Discipleship Learning Groups ##
 
@@ -84,7 +86,7 @@ A facilitator does not hold a position of authority over people. They simply fac
 -	need not be an established church leader;
 -	need not be an experienced mentor. 
 
-Of course, Maize Plant Discipleship can be facilitated by established leaders, mentors or disciplers, providing they are willing and comfortable to facilitate group discussions that are genuinely *reflective and exploratory*.
+Of course, Maize Plant Discipleship can be facilitated by established leaders, mentors or disciplers—providing they are willing and comfortable to facilitate group discussions that are genuinely *reflective and exploratory*.
 
 ## Practicalities ##
 
@@ -97,7 +99,7 @@ Maize Plant Discipleship is ideal for learning groups of 8-10 people. This is sm
 <!--\begin {pause}-->
 
 More than ten people?
-:	Think about helping others to facilitate additional learning groups: what problems might you face? 
+:	Think about helping others to facilitate additional learning groups. What problems might you face? 
 
 <!--\end {pause}-->
 
@@ -145,13 +147,13 @@ Invite creative people to contribute
 
 ### Other learning forums ###
 
-Studying the treasury of Scripture references contained in the footnotes and using discussion questions as a basis for written answers or even short essays enables handbooks to facilitate other forms of guided learning:
+Studying the treasury of Scripture references contained in the footnotes and using discussion questions as a basis for written answers or even short essays enables Maize Plant Discipleship handbooks to facilitate other forms of guided learning:
 
--	Theological education — students may gain highly valuable experience for their own vocational contexts by forming reflective learning groups within or alongside classroom contexts. 
+-	*Theological education* — students may gain highly valuable experience for their own vocational contexts by forming reflective learning groups within or alongside classroom contexts. 
 
--	Personal study — incorporate reflective learning by submitting to the oversight of a mentor, or sharing with a fellow student, for reflection, discussion and critical consideration.
+-	*Personal study* — incorporate reflective learning by submitting to the oversight of a mentor, or sharing with a fellow student, for reflection, discussion and critical consideration.
 
--	Congregational teaching — after hearing a study, congregants could divide into discussion groups — or learning groups could meet on a separate occasion, to discuss the study and pray together.
+-	*Congregational teaching* — after hearing a study, congregants could divide into discussion groups — or learning groups could meet on a separate occasion, to discuss the study and pray together.
 
 <!--\vspace*{\fill}
 \begin {questions}-->
@@ -168,7 +170,7 @@ THIS CHAPTER PRESCRIBES the reflective learning process intended to underlie pre
 
 ## Reflective Learning ##
 
-Maize Plant Discipleship modules are structured to provide a *reflective learning process*. Reflective group learning minimally incorporates these components:
+Maize Plant Discipleship modules are structured to provide a *reflective learning process*. Reflective learning minimally incorporates these components:
 
 -	**Hear** — about the experiences and perspectives of others.
 
@@ -178,13 +180,13 @@ Maize Plant Discipleship modules are structured to provide a *reflective learnin
 
 -	**Act** — integrate learning into vocational practices.
 
-In this way, practice is allowed to inform theory and theory to inform practice. As this learning process is repeated, it forms a *cycle*, which can be illustrated figuratively.
+In this way, practice is allowed to inform theory and theory to inform practice. As this learning process is repeated, it forms a cycle, which can be illustrated figuratively.
 
 ![][cycle.png]
 
 The *Maize Plant Discipleship Learning Process* combines this reflective learning cycle with practical, spiritual principles, drawn from Scripture:
 
-> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer —  Acts 2:42
+> They continued faithfully in the teaching of the apostles, in fellowship, in breaking bread and in prayer —  *Acts 2:42*
 
 The passage inspires some adaption of the reflective learning elements, whilst prayer and the breaking of bread provide two unique, additional elements. Thus, altogether the *Maize Plant Discipleship Learning Process* has *six* elements:
 
@@ -252,7 +254,7 @@ Discussion and debate is an opportunity to open our hearts to the perspectives a
 <!--\begin{pause}-->
 
 Vocation is more than simply our job
-:	— it incorporates all the responsibilities towards which God calls us, including families, workplaces (and practices), communities and networks.
+:	— it incorporates all the responsibilities towards which God calls us, including families, workplaces and practices, communities and networks.
 
 The "sweet talk" of proverbs
 :	may provide fresh insight and be helpful in discussing discipleship and biblical teaching with others, such as elders or non-believers.
@@ -276,8 +278,8 @@ The celebratory breaking of bread, in order to remember the sacrificial obedienc
 Consider incorporating a simple meal
 :	— perhaps once a month, into times of meeting together and prayerfully identifying it as a form of breaking bread.
 
-If a meal is not a practical possibility
-:	— consider sharing a small amount of bread together, as a symbolic act of hospitality and shared commitment to membership of the body of the Messiah.
+If a meal is not a practical option
+:	— consider sharing a small amount of bread together, as a symbolic act of hospitality and shared commitment to membership of the Messiah's body.
 
 <!--\end {pause}-->
 
@@ -336,9 +338,20 @@ Combining together the six elements of the Maize Plant Discipleship learning pro
 <!--\begin {pause}-->
 
 A learning cycle is a tool
-:	— its purpose is to facilitate, not control learning and it may not be essential to incorporate every element, each time a group meets. Allow the cycle to stretch, but not to limit. *Where appropriate, adapt it*. For example, groups might cover multiple topics in a single gathering, repeating the first three elements of the cycle, before moving on to the final three. 
+:	— its purpose is to facilitate, rather than control. It may not be appropriate to incorporate every element, each time a group meets. *Allow the cycle to stretch, but not to limit; where appropriate, adapt it*. For example, groups might cover multiple topics, repeating the first three elements of the cycle, before moving on to the final three.
 
 <!--\end {pause}-->
+
+<!--\vspace*{\fill}
+\begin {questions}-->
+
+-	How does the Maize Plant Discipleship learning process differ from secular reflective learning? Why is this significant?
+
+-	Consider each element of the Maize Plant Discipleship learning process. Which are most vital?
+
+-	In practice, which elements might most easily be left out—intentionally or otherwise? Would this matter? Why?
+
+<!--\end {questions}-->
 
 # Maize Plant Discipleship Syllabus #
 
@@ -374,7 +387,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 
 #### Module 1 : Eternal Purpose ####
 
--	Establishes a panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is the Seed that sprouts from the soil of the biblical, covenantal history of the people of Israel, in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. 
+-	A panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is the Seed that sprouts from the soil of the biblical, covenantal history of the people of Israel: in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. 
 
 	*Module 1, thus forms the foundation of the entire syllabus*.
 
@@ -383,7 +396,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 <!--\begin {pause}-->
 
 Maize produce is effectively a type of daily bread
-:	for millions of African people. Like the Messiah, the Messianic Community is called to become a kind of *life-giving bread* to the peoples of the world—see John 6 (& 20:21)
+:	for millions of African people; the Messianic Community is called, like the Messiah, to become a kind of *life-giving bread* to the peoples of the world—see John 6 and 20:21
 
 <!--\end {pause}-->
 
@@ -395,11 +408,11 @@ Modules 2 to 8 explore seven messianic dynamics that represent the characteristi
 
 ![][mp-dynamics.png]
 
-#### Module 2 : Vocation : Gentiles ####
+#### Module 2 : Nations ####
 
 -	The historical development of the Messianic Community's vocational mission to bless the peoples of the world.
 
-#### Module 3 : Vocation : Jews ####
+#### Module 3 : Jews ####
 
 -	The special, biblical responsibility of the Messianic Community towards the Jewish people.
 
@@ -427,9 +440,9 @@ Modules 2 to 8 explore seven messianic dynamics that represent the characteristi
 
 ### Sunlight and rainfall ###
 
-Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit or a plentiful harvest.
+Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit and a plentiful harvest.
 
-![][mp-dynamics.png]
+![][mp-disciplines.png]
 
 #### Module 9 : Maturity ####
 
@@ -468,13 +481,13 @@ Each syllabus module is incorporated in a handbook, containing four interrelated
 -	Scripture readings
 -	three, four or five topical sections
 -	illustrations and summaries
--	a set of topical discussion questions
+-	topical discussion questions
 -	occasional bonus questions.
 
 <!--\begin {pause}-->
 
 Illustrations
-:	— if insufficient books are available, illustrations should be reproduced using blackboards or other aids, drawing on the ground if necessary, in order to allow all group members to appreciate the relevance of the topical illustration. *If you have an artist in the group, give them this task*.
+:	— if insufficient books are available, find a way to reproduce illustrations, using blackboards or other aids, in order to ensure everyone present may appreciate the relevance of a topical illustration. *If you have an artist in the group, give them responsibility for this task*.
 
 Mother-tongue is the natural language of the heart
 :	and its use may be encouraged and employed as appropriate, particularly during group discussions and especially for Scripture reading and memorisation.
@@ -511,7 +524,7 @@ vocation
 
 -	What is the significance of the metaphor of seed to the ministry of Jesus?
 
--	How would you describe a *dynamic*?
+-	How would you describe a *dynamic* of growth?
 
 -	Consider the various ways that maize is important in your context. What could this suggest about the importance of the messianic community to a social or cultural context?
 
@@ -543,7 +556,7 @@ Together, these two Scriptures establish three key components of messianic disci
 
 ![Generational discipleship][generational.png]
 
->	**Generational discipleship is how treasure is kept safe in the kingdom of God. The significance of this principle can be further illustrated by considering the metaphor of seed and harvests reaped from seeds sown in good soil.**
+>	**Generational discipleship is how treasure is kept safe in the kingdom of God**. The reality of this principle can be further illustrated by considering the metaphor of seed and harvests reaped from seeds sown into good soil.
 
 ### Seed and harvest ###
 
@@ -553,23 +566,25 @@ In a similar way, God supplies spiritual life to us. This is what Paul refers to
 
 This personal aspect of knowing the Messiah, however, is not the whole purpose of our relationship with him. In fact, the Messianic New Covenant Community (the whole body of the Messiah's people) has been called to know God *in order to become his servant community*. This means that we are called to give ourselves, our lives, to serve his purposes. This requires sacrifice and discipline—which is what it means to be a disciple.
 
->	**This sacrificial, disciplined giving of ourselves, in service to God, is the equivalent of taking precious seed that could be consumed by ourselves and instead sowing it within the ground, in order to produce a harvest.**
+>	**The sacrificial, disciplined giving of ourselves, in service to God, is the equivalent of taking precious seed that could be consumed by ourselves and instead sowing it within the ground, in order to produce a harvest.**
 
 ### Sharing treasure ###
 
 Discipline and sacrifice are amongst the most significant secrets to living a truly messianic life. Sadly, they are secrets that many people never properly discover, let alone realise as life-giving principles. Yet the illustration provided by seeds demonstrates that hoarding the treasure of our knowledge, relationship and communion with God is not the way to a rich harvest. Only in sacrificially sharing our spiritual treasure, both within and beyond our own communities, do we discover and realise our vocation and, in due time, reap a harvest of faithfulness.[^fn10]
 
-Nevertheless, spiritual treasure should never be wasted or cast away carelessly. Whilst some seed inevitably falls upon unreceptive ground, a farmer never intentionally wastes seed. Likewise, spiritual treasure is too precious to be deliberately squandered on people who spurn its value.[^fn11] Investment must be made with people who recognise the worth of this treasure and who make room for its transformative power. Such people are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] 
+Nevertheless, spiritual treasure should never be wasted or cast away carelessly. Whilst some seed inevitably falls upon unreceptive ground, a farmer never intentionally wastes seed. Likewise, spiritual treasure is too precious to be deliberately squandered on people who spurn its value.[^fn11] Investment must be made with people who recognise the worth of this treasure and who make room for its transformative power. 
 
->	**People willing to be transformed through a personal knowledge and experience of the Messiah, who will share their treasure with other faithful people, who will share it with other faithful people and so on and so on—thus participating in the development of a generational, missional movement of messianic discipleship**.
+People who treasure the seed that is the Word of God are those whom Jesus, in the parable of the sower, refers to as *good soil*:[^fn12] 
+
+>	**Faithful disciples, transformed through a personal knowledge and experience of the Messiah, sharing their treasure with other faithful people, who share it with other faithful people and so on and so on, each person's faithfulness contributing momentum to a missional movement of messianic discipleship**.
 
 ## Discipleship Movements ##
 
 The formation of faithful disciples was at the heart of Jesus' life and work. Today the entire historical and now worldwide Messianic movement testifies to the significance of that small, core group of disciples, formed around Jesus.
 
-From its first-century origins, as an obscure, tiny, Jewish sect, the Messianic Community has grown and developed across two millennia. Today it is an international, intercultural, multi-ethnic community that exists, in some form or another, in practically every nation of the world. 
+From its first-century origins, as an obscure, tiny, Jewish sect, the Messianic Community has grown and developed across two millennia. Today it is an international, intercultural, multi-ethnic community that exists, in some form or another, in practically every nation of the world. The message it has proclaimed has impacted innumerable peoples, stories and cultures. 
 
->	**On its journey, the Messianic Community and the message it has proclaimed has impacted innumerable peoples, stories and cultures, throughout the world. Its dynamism can be traced directly to its functioning faithfully as a generational discipling movement, spreading across social, ethnic, linguistic, geographical and cultural boundaries.**
+>	**The dynamism of the Messianic Community can be traced directly to its functioning faithfully as a generational discipling movement, spreading out across social, ethnic, linguistic, geographical and cultural boundaries.**
 
 <!--\begin{pause}-->
 
@@ -586,22 +601,19 @@ The book of Acts provides a powerful illustration
 
 ### Generational momentum ###
 
-History teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, yet today are, sadly, only historical footnotes. Others continue institutionally, yet without any real sense of spiritual renewal, generational momentum or confidence in challenging cultural and social idols.
+History, however, also teaches us that momentum, once gained, does not continue inevitably. Many messianic movements began well, yet are sadly now only historical footnotes, obliterated by fatal levels of persecution. Others continue institutionally, yet without any sense of spiritual renewal, generational momentum or confidence in challenging cultural and social idols.
 
-Maintaining the momentum of generational discipleship requires a persistent focus upon personal, social and cultural transformation. The Messiah is at work, by his Spirit, amongst the corruption in society: behind its social, political, economic and religious walls and beside its filthy gutters. From there he calls his co-workers to come alongside him in his work of redemption and transformation of individuals, families, marriages, partnerships, communities, organisations, structures, workplaces and working practices.
+In such cases, the church has ceased to be a *movement*. Invariably, it has ceased making disciples, lacking the confidence to persuade either itself or others to forsake human idols and to become wholehearted devotees of the Messiah. Empty traditions have taken the place of a living, reproducing body of people. Even if it remains dogmatic about its creeds, it no longer exhibits authentic, biblical zeal for the call to serve God's purpose amongst the nations. 
 
-### Renewal of movement ###
+>**Maintaining the momentum of generational discipleship requires a persistent, critical engagement with society and culture, combined with a focus upon personal, social and cultural transformation, as people turn from idols, towards the living God.**
 
-Accordingly, any messianic movement or community that earnestly desires spiritual renewal needs to place visionary, generational discipleship at the heart of its spirituality and practical formation.
+### Establishing momentum ###
 
-Disciples must be invited, formed and sent forth as part of a *world-facing* movement. Such a goal requires much more than the maintenance of congregational activity. It requires more than learning to care for one another, within messianic communities. The goal is to be part of a movement of disciples responding to God's call to *serve his eternal purpose*, amongst a world of lost, hurting, confused, oppressed, fear-filled and idol-bound populations.
+Any messianic community seeking spiritual momentum needs to place visionary, generational discipleship at the heart of its spirituality and practical activity.
 
->	**Establishing a truly transformational movement requires a vision capable of gripping the hearts of others and forming them into faithful disciples**:
+Disciples must be invited, formed and sent forth as part of a *world-facing* movement. This requires much more than the maintenance of congregational activity. It requires more than learning to care spiritually for one another, within messianic communities. What it requires is nothing less than the practical, spiritual and visionary preparation of disciples, equipped to serve God's eternal purpose, amongst a world of confused, oppressed, pained, fear-filled, idol-bound populations.
 
--	committed to significant personal and social renewal
--	persistent and determined to turn vision into reality
--	operating as interdependent co-workers—not selfishly-ambitious individuals
--	active in forming other faithful disciples.
+>	**Establishing a transformational movement requires a vision capable of gripping people's hearts and forming them into faithful, persistent and determined disciples, committed to significant personal and social renewal, living and working interdependently and active in forming other, faithful disciples.**
 
 ## Anointed Community  ##
 
@@ -650,9 +662,11 @@ This life-giving spiritual reality represents the heart of Jesus' own life, miss
 
 *That is the heart of Maize Plant Discipleship*.
 
-
-<!--\vspace*{\fill}
-\begin {questions}-->
+<!--
+\vspace*{\fill}
+\pagebreak
+\begin {questions}
+-->
 
 -	How is discipleship valued in your context?
 
@@ -672,11 +686,11 @@ Tite Tienou, a Malian who grew up in Burkina Faso, encapsulates a significant as
 
 > Africanness and (theological) correctness should not be measured in either dissimilarity or similarity to the West. The way forward is to measure the Africanness of any theology purporting to be African by the degree to which it speaks to the needs of Africans in their total context. Quite naturally, the needs of African Christians should be taken seriously when determining these needs — *Tite Tienou, The Uphill Road: Indigenous African Christian Theologies, 1990*
 
-Maize Plant Discipleship has been authored by an outsider to Africa. Yet its development is entirely a response to African contexts: at every stage, the missional energy and cultural perspective of African people has been crucial. It is the response of African pastors, students, missionaries and young people that has called Maize Plant Discipleship into being.
+Maize Plant Discipleship is authored by an outsider to Africa, yet its development is entirely a response to African contexts. At every stage, the missional energy and cultural perspective of African people has been crucial. It is the response of African pastors, students, missionaries and young people that has called Maize Plant Discipleship into being.
 
 In particular, between 2003 and 2010, leaders from *Assemblée Evangélique de Pentecôte* and *Mouvement des Jeunes Serviteurs de Dieu* regularly organised leadership training conferences, in Léo and Ouagadougou. This collaboration facilitated the continual exposure and refinement of the teaching that now forms Maize Plant Discipleship.
 
-In this latest stage of development, *doctoral research* carried out amongst Burkinabé leaders and learners has led to Maize Plant Discipleship's formulation as a series of low-cost, modular handbooks that are practical, relevant and accessible for use in African contexts.
+In its penultimate stage of development, doctoral research carried out amongst Burkinabé leaders and learners led to Maize Plant Discipleship's formulation as a series of low-cost, modular handbooks, designed to be practical, relevant and accessible for use in African contexts.
 
 <!--\begin {pause}-->
 
@@ -703,7 +717,7 @@ Research participants identified strongly with the concept of discipleship and, 
 
 1. 	Awakening or strengthening contextual ownership of the call to serve God's eternal purpose
 - 	Promoting lifelong commitment to missional action and disciplines, including the generational formation of disciples
-- 	Envisioning personal, communal and cultural transformation.
+- 	Encouraging personal, communal and cultural transformation.
 
 ### Theology ###
 
@@ -753,7 +767,7 @@ It is hoped that Maize Plant Discipleship handbooks may eventually be translated
 <!--\begin {pause}-->
 
 Hearing from you
-:	— the publisher and author would welcome hearing from individuals or groups who have trialled Maize Plant Discipleship. 
+:	— the publisher and author would welcome hearing from individuals or groups who have experience of putting Maize Plant Discipleship into practice. 
 
 	Please tell us about your experience, together with any improvements you would like to request. We would especially enjoy hearing of stories, proverbs, metaphors that help to illustrate or culturally illuminate Maize Plant Discipleship teaching.
 
@@ -822,15 +836,15 @@ The licensor cannot revoke these freedoms as long as you follow the licence term
 
 [mp-metaphor.png]: mp-metaphor.png width=200px height=265px
 
-[mp-roots.png]: mp-roots.png width=182px height=125px
+[mp-roots.png]: mp-roots.png width=180px height=124px
 
 [mp-dynamics.png]: mp-dynamics.png width=265px height=374px
 
-[mp-dynamics.png]: mp-dynamics.png width=311px height=438px
+[mp-disciplines.png]: mp-disciplines.png width=284px height=398px
 
 [generational.png]: generational.png width=268px height=45px
 
-[^fn1]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change within a process or system (such as a plant or a body).
+[^fn1]: *Dynamic* derives from a Greek word, *dunamis*, meaning power and refers to forces stimulating change within a process or system, such as a plant or a body.
 
 [^fn2]: E.g. Exodus 30:22-25
 
