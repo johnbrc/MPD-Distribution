@@ -18,10 +18,6 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 
 - To reach towards this goal, the project focuses upon [publication of digital resources](https://github.com/johnbrc/MPD-Distribution/wiki/Digital-publication) that can be easily accessed and economically printed, distributed and translated.
 
-##	Publication
-
-<<[Files.md]
-
 #	Find Out More
 
 - [Wiki]: documenting digital distribution of resources via repository, [MPD-Distribution](https://github.com/johnbrc/MPD-Distribution).
@@ -40,8 +36,6 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 -	[Website]
 -	[GitHub]
 
-
-[Open Educational Resource]: http://creativecommons.org/education
 [wiki]: https://github.com/johnbrc/MPD-Distribution/wiki
 [Prospectus]: https://github.com/johnbrc/MPD-Distribution/wiki/pdf/Prospectus.pdf
 [Project Website]: http://maizeplantdiscipleship.wordpress.com
@@ -49,4 +43,3 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 [Vita]: https://github.com/johnbrc/MPD-Distribution/wiki/Author
 [Website]: https://jbclements.wordpress.com/vita
 [GitHub]: http://johnbrc.github.io
->>>>>>> development
