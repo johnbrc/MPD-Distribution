@@ -1,5 +1,5 @@
-Version: 0.5.4 --- POD sponsors draft
-Change: ch4 movements, cover
+Version: 0.5.6 --- Final draft
+Change: ARTaplin (final) edits
 LaTex input:	mpd-header
 Title:	Facilitators Handbook
 Module:	fh
@@ -41,7 +41,7 @@ For further discussion about reflective learning, see [*Maize Plant Discipleship
 
 Maize Plant Discipleship is principally a *learning*, rather than a teaching resource. Learning depends on many factors, in addition to the presentation of topical information, most of which relate to the student, rather than the teacher and teaching. Such factors include desire, temperament, experience, talent, time, energy, environment and so forth. The decision to learn something new must therefore always begin with the student themselves. 
 
-Accordingly, discipleship should be recognised as a form of learning that is *called out* of students or disciples, under the guidance and direction of a facilitator, mentor, educator or teacher. People in those roles come alongside *motivated learners* to assist, encourage, facilitate and call out the learning taking place within those being discipled.
+Accordingly, discipleship should be recognised as a type of learning that is *called out* of students or disciples, under the guidance and direction of a facilitator, mentor, educator or teacher. People in those roles come alongside *motivated learners* to assist, encourage, facilitate and call out the learning taking place within those being discipled.
 
 ## Facilitating Maize Plant Discipleship Learning Groups ##
 
@@ -49,7 +49,7 @@ A Maize Plant Discipleship Facilitator can help a group open up to the message o
 
 ### Facilitating openness ###
 
-Fostering an environment of learning and discovery, where debate and discussion are lively, yet relaxed and uncompetitive, is essential. An ideal environment will allow strong and diverse views to be expressed, without creating either conflict or conformity, so that all present feel comfortable to contribute their views, questions and burdens. 
+Fostering an environment of learning and discovery, where debate and discussion are lively, yet relaxed and uncompetitive, is essential. An ideal environment will allow strong and diverse views to be expressed, yet without creating either conflict or conformity, so that all present feel comfortable to contribute their views, questions and burdens. 
 
 It can be especially challenging to foster openness in cultures where authority traditionally flows downwards and conformity is highly valued. Thus, facilitators should typically contribute to discussions as regular group members, never dominating or belittling the views of others.
 
@@ -107,7 +107,7 @@ More than ten people?
 
 Although a facilitator is responsible for convening gatherings, they may delegate responsibility for hosting, presenting the teaching, or moderating group discussions. Ideally, over time, all group members will carry some responsibility, according to their gift and capability. This avoids one person carrying too much and gives everyone some experience of the responsibilities of the facilitating role.
 
-The person responsible for presenting a topical study should read through it carefully, in advance: absorbing, familiarising and reflecting upon the teaching and its lessons. If anything is unfamiliar or unclear, invite discussion about that area of the study, encouraging group members to bring forward their perspectives.
+The person responsible for presenting a topical study should read through it carefully, in advance, reflecting upon the teaching and its lessons. If anything is unfamiliar or unclear, invite discussion about that area of the study, encouraging group members to bring forward their perspectives.
 
 <!--\begin {pause}-->
 
@@ -180,7 +180,7 @@ Maize Plant Discipleship modules are structured to provide a *reflective learnin
 
 -	**Act** — integrate learning into vocational practices.
 
-In this way, practice is allowed to inform theory and theory to inform practice. As this learning process is repeated, it forms a cycle, which can be illustrated figuratively.
+In this way, practice is allowed to inform theory and theory to inform practice. As this learning process is repeated, it forms a cycle, which can be illustrated figuratively:
 
 ![][cycle.png]
 
@@ -205,7 +205,7 @@ The passage inspires some adaption of the reflective learning elements, whilst p
 
 When we gather together as disciples of the Messiah, to hear biblical teaching, we are opening ourselves not simply to human ideas or wisdom, but to spiritual words and truths, taught by the Spirit of God.
 
-> 	Now we have not received the spirit that belongs to the world, but the Holy Spirit Who is from God, given to us that we might realise and comprehend and appreciate the gifts of divine favour and blessing so freely and lavishly bestowed on us by God. And we're setting these truths forth in words not taught by human wisdom but taught by the Holy Spirit, combining and interpreting spiritual truths with spiritual language to those who possess the Holy Spirit—*1 Corinthians 2:12-13 TAB*
+> 	Now we have not received the spirit that belongs to the world, but the Holy Spirit Who is from God, given to us that we might realise and comprehend and appreciate the gifts of divine favour and blessing so freely and lavishly bestowed on us by God. And we're setting these truths forth in words not taught by human wisdom but taught by the Holy Spirit, combining and interpreting spiritual truths with spiritual language to those who possess the Holy Spirit—*1 Corinthians 2:12-13 AMP*
 
 <!--\begin {pause}-->
 
@@ -213,7 +213,7 @@ We listen in order to live more faithfully
 :	— this type of listening is called *heeding*: listening with the intention to learn and obey, or follow.
 
 We listen with our mind, but also with our heart
-:	— in order to *hear what the Spirit is saying to his people* (Revelation 2:29, 3:6,13,23; Matthew 11:15, Mark 4:9 etc)—never in order to become *puffed up* by knowledge.
+:	— in order to *hear what the Spirit is saying to his people* (Revelation 2:29, 3:6,13,22; Matthew 11:15, Mark 4:9 etc)—never in order to become *puffed up* by knowledge.
 
 <!--\end {pause}-->
 
@@ -263,7 +263,7 @@ The "sweet talk" of proverbs
 
 ----
 
-## 4. SHARE daily bread ##
+## 4. SHARE bread together ##
 
 ![][share.png]
 
@@ -385,11 +385,9 @@ Like maize plants, messianic communities need to be rooted in good ground where 
 
 Metaphorically, the roots of the maize plant represent the biblical community of Israel. The soil in which the roots grow equates to the historical, cultural and geo-political contexts of Israel's covenant vocation (such as Egypt, Canaan, Babylon and the Roman occupation).
 
-#### Module 1 : Eternal Purpose ####
+#### Eternal Purpose -- module 1 ####
 
--	A panoramic overview of Scripture, revealing God's unchanging, eternal purpose. In this perspective, the Messiah is the Seed that sprouts from the soil of the biblical, covenantal history of the people of Israel: in order to die and ultimately produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. 
-
-	*Module 1, thus forms the foundation of the entire syllabus*.
+-	Module 1 forms the foundation of the syllabus, providing a panoramic overview of Scripture that reveals God's unchanging, eternal purpose. In this perspective, the Messiah is the Seed that grows out of the soil of the biblical, covenantal history of the people of Israel. A Seed that then dies, in order to produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. 
 
 ![][mp-roots.png]
 
@@ -408,31 +406,31 @@ Modules 2 to 8 explore seven messianic dynamics that represent the characteristi
 
 ![][mp-dynamics.png]
 
-#### Module 2 : Nations ####
+#### Nations -- module 2 ####
 
 -	The historical development of the Messianic Community's vocational mission to bless the peoples of the world.
 
-#### Module 3 : Jews ####
+#### Jews -- module 3 ####
 
 -	The special, biblical responsibility of the Messianic Community towards the Jewish people.
 
-#### Module 4 : Commissioning ####
+#### Commissioning  -- module 4 ####
 
 -	Strategic and structural dynamics of messianic commissioning and community growth.
 
-#### Module 5 : Membership ####
+#### Membership -- module 5 ####
 
 -	Dynamics of commitment and spiritual maturity within the body of the Messiah.
 
-#### Module 6 : Revival ####
+#### Revival -- module 6 ####
 
 -	The dynamics of revival leading to a spiritual harvest as we walk in practical, covenantal faithfulness towards God's revelation, wisdom and direction.
 
-#### Module 7 : Intercession ####
+#### Intercession -- module 7 ####
 
 -	The priestly vocation of the Messianic Community: to be *a house of prayer for all nations*.
 
-#### Module 8 : Transformation ####
+#### Transformation -- module 8 ####
 
 -	The call to work amongst and on behalf of the nations, towards cultural transformations that signal the presence of God's kingdom.
 
@@ -444,31 +442,31 @@ Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic
 
 ![][mp-disciplines.png]
 
-#### Module 9 : Maturity ####
+#### Maturity -- module 9 ####
 
 -	Three stages of encounter and growth in spiritual maturity of messianic disciples and communities.
 
-#### Module 10 : Service ####
+#### Service -- module 10 ####
 
 -	Motivations, qualities and disciplines for living an enduring life of service.
 
-#### Module 11 : Vocation ####
+#### Vocation -- module 11 ####
 
 -	Identifying and excelling in our personal vocation, through a deepening of our relationship with the Messiah.
 
-#### Module 12 : Economics ####
+#### Economics -- module 12 ####
 
 -	A biblical perspective upon economic faithfulness, wealth and poverty—radically different to that of the world.
 
-#### Module 13 : Leadership ####
+#### Leadership -- module 13 ####
 
 -	Qualifications, motivations and characteristics of faithful messianic leadership.
 
-#### Module 14 : Faith ####
+#### Faith -- module 14 ####
 
 -	Seeing with eyes of faith enables us to endure times of testing and purification and to embrace challenge as an opportunity for experiencing God's faithfulness.
 
-#### Module 15 : Overcoming ####
+#### Overcoming -- module 15 ####
 
 -	Confronting idolatrous, cultural strongholds in the power of the Spirit and discerning strategies that make room for a transformative encounter with God's overcoming power.
 
@@ -476,10 +474,10 @@ Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic
 
 ## Module Handbooks ##
 
-Each syllabus module is incorporated in a handbook, containing four interrelated *studies*, each incorporating:
+Each handbook contains one module of the syllabus, consisting of four interrelated *studies*, each incorporating:
 
 -	Scripture readings
--	three, four or five topical sections
+-	several topical sections
 -	illustrations and summaries
 -	topical discussion questions
 -	occasional bonus questions.
@@ -498,12 +496,12 @@ Mother-tongue is the natural language of the heart
 
 Important definitions provided below explain how these significant terms are used in the the Maize Plant Discipleship Syllabus.
 
-Messiah
-:	— a mediator or saviour, acting with God's authority to deliver a people from the grip of their enemies and, or to govern over and keep them safe (experiencing *shalom*). In the biblical history of Israel, deliverance came through a variety of mediators, such as *prophets, priests, judges* and *kings*. 
+messiah
+:	— a mediator or saviour, acting with God's authority to deliver a people from the grip of their enemies or to govern over and keep them safe (experiencing *shalom*). In the biblical history of Israel, deliverance came through a variety of mediators, such as *prophets, priests, judges* and *kings*. 
 
 	The root meaning of messiah is *anointed* or *poured on*, referring to the anointing oil poured onto Israel's kings and priests. Anointing oil symbolises the pouring out, or placing of God's Spirit upon a leader, as they were invested with their authority, usually by prophets.[^fn2] Thus the idea of God's priestly, kingly and prophetic authority is inherent in the concept of *messiah*. 
 
-	The New Testament identifies Jesus as the Jewish Messiah,[^fn3] anointed by the Spirit to fulfil three mediatory roles—prophet, priest and king—on behalf of God's people.[^fn4] After his ascension to the *Right Hand of God*, Jesus becomes the *one Mediator between God and humanity*.[^fn5]
+	The New Testament identifies Jesus as the Jewish Messiah,[^fn3] spoken of by the prophets and anointed by the Spirit to fulfil three mediatory roles—prophet, priest and king—on behalf of God's people.[^fn4] After his ascension to the *Right Hand of God*, Jesus becomes the *one mediator between God and humanity*.[^fn5]
 
 messianic
 :	— relating to the Messiah; primarily used in the syllabus to refer to *Messianic Community* and *messianic communities*.
@@ -517,7 +515,7 @@ messianic communities
 vocation
 :	— a calling, life's work, mission, purpose, function; profession, occupation, career, job, employment, trade, craft, business, line of work, métier.
 
-	In the Maize Plant Discipleship syllabus, *vocation* and *vocational* refers to both personal and communal calling. Within the syllabus, the terms are used to emphasise that both an individual and a local community's sense of vocation flow from the divine calling to serve God's eternal purpose, in union with the Messiah. Vocation thus represents an umbrella term that incorporates and dignifies all forms of work and ministry. It looks beyond traditional divides of laity and clergy, male and female, by pointing towards the reality that all followers of the Messiah are called *to faithfully serve God's purposes, within homes, workplaces and communities*. 
+	In the Maize Plant Discipleship syllabus, *vocation* and *vocational* refers to both personal and communal calling, both of which flow from the prophetic and scriptural call to serve God's eternal purpose, in union with the Messiah. Vocation thus provides an umbrella term that incorporates and dignifies all forms of work and ministry. It looks beyond traditional divides of laity and clergy, male and female, by pointing towards the reality that all followers of the Messiah are called *to faithfully serve God's purposes, within homes, workplaces and communities*. 
 
 <!--\vspace*{\fill}
 \begin {questions}-->
@@ -556,7 +554,7 @@ Together, these two Scriptures establish three key components of messianic disci
 
 ![Generational discipleship][generational.png]
 
->	**Generational discipleship is how treasure is kept safe in the kingdom of God**. The reality of this principle can be further illustrated by considering the metaphor of seed and harvests reaped from seeds sown into good soil.
+>	**Generational discipleship is how treasure is kept safe in the kingdom of God**. The reality of this principle is illustrated by the metaphor of seed and the harvests reaped from seed sown into good soil.
 
 ### Seed and harvest ###
 
@@ -753,7 +751,7 @@ Research participants strongly expressed a desire for *contextually appropriate 
 <!--\begin {pause}-->
 
 A 52 page handbook
-:	printed double-sided on A4 paper, folded, stapled and trimmed to produce A5 booklets, of approximately 48 pages, with a single-colour printed cover, can be produced for the equivalent of approximately $2.
+:	printed double-sided on A4 paper, folded, stapled and trimmed to produce A5 booklets, of approximately 48 pages, with a single-colour printed cover, can be produced in African contexts for the equivalent of approximately $2.
 
 An agency organising republication
 :	on behalf of a number of other organisations could provide the most economical model, potentially allowing the agency to subsidise the cost of handbooks to the economically poorest.
@@ -776,7 +774,7 @@ Hearing from you
 <!--\vspace*{\fill}
 \begin {questions}-->
 
--	Is it important that African Christians decide upon what is missiologically appropriate to African contexts?
+-	Why is it crucial that African Christians decide upon what is missiologically appropriate to African contexts?
 
 -	Has this happened historically in your contexts? 
 
@@ -840,7 +838,7 @@ The licensor cannot revoke these freedoms as long as you follow the licence term
 
 [mp-dynamics.png]: mp-dynamics.png width=265px height=374px
 
-[mp-disciplines.png]: mp-disciplines.png width=284px height=398px
+[mp-disciplines.png]: mp-disciplines.png width=284px height=400px
 
 [generational.png]: generational.png width=268px height=45px
 
