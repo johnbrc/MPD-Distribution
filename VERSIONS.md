@@ -2,7 +2,7 @@ Published files are identified according to the following convention, combined w
 
 | Filename | Module number | [[Filetype|Digital Publication]] |
 | :-- | :-: | :-- |
-| MPD-M1.pdf | 1 | PDF | 
+| MPD-M1.pdf | 1 | PDF |
 | MPD-M4.md | 4 | MultiMarkdown |
 | MPD-M4.txt | 4 | plain text |
 
