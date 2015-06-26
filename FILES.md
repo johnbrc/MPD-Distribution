@@ -1,10 +1,10 @@
 Digital publication takes place via [Releases], which package files for download, in various formats, in order to facilitate three distinct purposes:
 
-1. [Learning](#learning)
-1. [Print](#printing) 
-1. [Translation](#translation)
+1. [Studt](#study)
+1. [Print](#print) 
+1. [Translate](#translate)
 
-### Learning
+### Study
 
 For facilitating local learning groups (and, or personal study; review; translation etc.)
 
@@ -16,7 +16,7 @@ Filetype	| Format	|  Viewer  	|
 `epub`	| [iBooks]	| iOS (iPad, iPhone)	| 
 `html`	| [HTML]	| Web browser	| 
 
-### Printing
+### Print
 
 For printing inexpensive, duplex handbooks, with full- or single-colour covers. 
 
@@ -28,7 +28,7 @@ For printing inexpensive, duplex handbooks, with full- or single-colour covers.
 
 See [contextual publication] for further information relating to printing and distribution.
 
-### Translation
+### Translate
 
 Editable, plain-text files, from which digital publications (above) using a computerised typesetting [process].
 
