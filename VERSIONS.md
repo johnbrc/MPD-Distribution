@@ -1,4 +1,4 @@
-[Releases] and enclosed module files are identified according to the following convention, combined with a [version](#versionschema) number. 
+Published files are identified according to the following convention, combined with a [version](#versionschema) number. 
 
 | Filename 	| Module number	| [Filetype] |  
 |  ------	| :----:	| ------	|  
