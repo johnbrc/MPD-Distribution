@@ -47,8 +47,6 @@ Filetype	| Format	|  Editor  	|
 
 Hence, MPD-M4-FR would be a French translation of Module 4.
 
-See [Intercultural Republication], for further information relating to translation.
-
 ## Find Out More
 
 -	Read more on the [wiki]
