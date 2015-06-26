@@ -1,35 +1,27 @@
 Published files are identified according to the following convention, combined with a [version](#versionschema) number. 
 
-| Filename 	| Module number	| [Filetype] |  
-|  ------	| :----:	| ------	|  
-| MPD-Mn.* 	| n 	| generic |
-| MPD-M1.pdf	| 1	| PDF | 
-| MPD-M4.txt	| 4	| plain text |
-| MPD-M4.md	| 4	| plain text  (MultiMarkdown)|
+| Filename | Module number | [[Filetype|Digital Publication]] |
+| :-- | :-: | :-- |
+| MPD-M1.pdf | 1 | PDF | 
+| MPD-M4.md | 4 | MultiMarkdown |
+| MPD-M4.txt | 4 | plain text |
 
 Etc.
 
-## Version schema
+## Identification
 
-Versions are identified in a `date-time-version-number` stamped on [PDFs][Filetype] and, or `metadata` at the top of editable, plain-text [files][Filetype] .
+Handbooks are identified in a date-time-version-number stamped on [[PDFs|digital-publication]] and, or in metadata at the top of [[editable, plain-text files|digital-publication#translation]]. Version numbering follows this convention:
 
-### Pre-release
+| phase 	| version number | 
+| :--	| :-:		|  
+| first draft	| 0.1.x	|
+| review 	| 0.2.x	| 
+| copy-editing 	| 0.3.x 	| 
+| translation	| 0.4.x	| 
+| post-translation	| 0.5.x	|  
+| publication	| **First Edition** etc. | 
 
-Pre-releases, identified by orange `Pre-release` tag, are not intended for widespread distribution.
-
-| draft 	| phase 	| version number |  
-|  ------	| ------	| :----:	|   
-| first  	| draft	| 0.1.x	|  
-| second	| review	| 0.2.x	| 
-| third	| copy-edit	| 0.3.x 	| 
-| fourth	| translation	| 0.4.x	| 
-| fifth	| post-translation	| 0.5.x	|  
-
->`x` » minor, iterative revisions
-
-###	Published Editions
-
-Published editions will be identified as `First Edition`, `Second Edition` etc., in readiness for [[contextual publication]]. Publication is proceeding according to a flexible [[timetable]].
+Versions 0.1.x-0.5.x are 'Pre-release' files, identified by red tags, and not intended for widespread distribution. 
 
 ## Releases
 
