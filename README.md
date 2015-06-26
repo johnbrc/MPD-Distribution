@@ -17,9 +17,7 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 
 - [Project Website] :link:
 
-###	Thank You
-
-…for your interest in and support for this project.
+###	Thank You … for your interest in and support for this project.
 
 -	[Prospectus] :arrow_down: (pdf)
 
