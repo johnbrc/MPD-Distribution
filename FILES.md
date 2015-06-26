@@ -1,6 +1,6 @@
 Digital publication takes place via [Releases], which package files for download, in various formats, in order to facilitate three distinct purposes:
 
-1. [Studt](#study)
+1. [Study](#study)
 1. [Print](#print) 
 1. [Translate](#translate)
 
