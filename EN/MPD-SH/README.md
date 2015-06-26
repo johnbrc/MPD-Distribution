@@ -1,10 +1,4 @@
-# Print Sample
-
-## Version 0.5.3
-
-Prepared for the purposes of obtaining POD (print-on-demand) handbook samples, as pre-cursor to final proofing and print-run production.
-
-### Version numbering
+## Version numbering
 
 File version numbering follows this convention:
 
