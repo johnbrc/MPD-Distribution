@@ -1,6 +1,6 @@
 Published files are identified according to the following convention, combined with a [version](#versionschema) number. 
 
-| Filename | Module number | [[Filetype|Digital Publication]] |
+| Filename | Module number |[[Filetype|Digital Publication]] |
 | :-- | :-: | :-- |
 | MPD-M1.pdf | 1 | PDF |
 | MPD-M4.md | 4 | MultiMarkdown |
