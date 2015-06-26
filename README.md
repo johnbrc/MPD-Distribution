@@ -14,12 +14,10 @@ The goal is to facilitate biblical learning that moves continuously outwards, dr
 #	Find Out More
 
 - [Wiki]: documenting digital distribution of resources via repository, [MPD-Distribution](https://github.com/johnbrc/MPD-Distribution).
-
 - [Project Website] :link:
+-	[Prospectus] :arrow_down: (pdf)
 
 ###	Thank You … for your interest in and support for this project.
-
--	[Prospectus] :arrow_down: (pdf)
 
 ####	Dr J.B. Clements (Author)
 
