@@ -1,13 +1,13 @@
-Version: 1.0 --- First Edition
+Version: 			First Edition
 Change: 
 LaTex input:	mpd-header
 Title:	Syllabus Handbook
-Module:	fh
+Module:	sh
 Translation:	
 ISBN:	978-1-907191-02-2
 Colour:	false
 Base Header Level:	2
-LaTex input:	mpd-document-fh
+LaTex input:	mpd-document-sh
 LaTex footer:	mpd-footer
 
 # The Facilitator Role #
@@ -182,7 +182,7 @@ Maize Plant Discipleship modules are structured to provide a *reflective learnin
 
 In this way, practice is allowed to inform theory and theory to inform practice. As this learning process is repeated, it forms a cycle of hearing, reflection, discussion, action... hearing, reflection, discussion, action and so on, which can be illustrated figuratively:
 
-![][reflective-learning.png]
+![][reflective-learning@2x.png]
 
 ### Adapting the learning process ###
 
@@ -199,7 +199,7 @@ The *Maize Plant Discipleship Learning Process* draws on this basic reflective l
 
 ## 1. HEAR what the Spirit is saying ##
 
-![][HEAR.png]
+![][HEAR@2x.png]
 
 When we gather together as disciples of the Messiah, to hear biblical teaching, we are opening ourselves not simply to human ideas or wisdom, but to spiritual words and truths, taught by the Spirit of God.
 
@@ -221,7 +221,7 @@ We listen with our mind, but also with our heart
 
 ## 2. RETAIN God's message inwardly ##
 
-![][RETAIN.png]
+![][RETAIN@2x.png]
 
 It is not enough to only hear God's message: we must learn to *retain* his word inwardly, where it can begin to *dwell richly within us*—Colossians 3:16
 
@@ -243,7 +243,7 @@ It's the same with God's word
 
 ## 3. OPEN hearts to others ##
 
-![][OPEN.png]
+![][OPEN@2x.png]
 
 Discussion and debate is an opportunity to open our hearts to the perspectives and experiences of those around us and those who see things differently to ourselves. 
 
@@ -267,7 +267,7 @@ The "sweet talk" of proverbs
 
 ## 4. SHARE broken bread together ##
 
-![][SHARE.png]
+![][SHARE@2x.png]
 
 The celebratory breaking of bread, in order to remember the sacrificial obedience of Jesus, is a significant symbol of the New Covenant and a profound way for discipleship groups to proclaim their shared devotion to the Messiah.
 
@@ -289,7 +289,7 @@ If a meal is not a practical option
 
 ## 5. PRAY for God's will to be done ##
 
-![][PRAY.png]
+![][PRAY@2x.png]
 
 After a period of discussion, invite the group to pray together, including intercession on behalf of neighbours, networks and communities, local and national rulers and governors. 
 
@@ -313,7 +313,7 @@ Pray for the Maize Plant Discipleship project
 
 ## 6. ACT in the light of God's message ##
 
-![][ACT.png]
+![][ACT@2x.png]
 
 The purpose of our gathering to hear God's message is not simply to hear it, but to act upon it. As the epistle of *James* explains, we deceive ourselves when we listen to God's word, yet do not do what it says:
 
@@ -337,7 +337,7 @@ As we are transformed
 
 Combining together the six elements of the Maize Plant Discipleship learning process produces the Maize Plant Discipleship learning cycle.
 
-![][mpd-learning-cycle.png]
+![][mpd-learning-cycle@2x.png]
 
 <!--\begin {pause}-->
 
@@ -377,7 +377,7 @@ Maize is grown throughout sub-Saharan Africa and provides a similar, highly reco
 
 <!--\end{summary}-->
 
-![][mpd-metaphor.png]
+![][mpd-metaphor@2x.png]
 
 Like maize plants, messianic communities need to be rooted in good ground where they can draw on life-giving spiritual nutrients, be refreshed by the living water of the Spirit and be stimulated by revelatory light. Strong roots will anchor messianic communities against the destructive winds of false teaching and sustain them amidst the withering heat of trials, temptations and vocational responsibility. Based on this metaphor, the Maize Plant Discipleship Syllabus is divided into three parts:
 
@@ -393,7 +393,7 @@ Metaphorically, the roots of the maize plant represent the biblical community of
 
 -	Module 1 forms the foundation of the syllabus, providing a panoramic overview of Scripture that reveals God's unchanging, eternal purpose. In this perspective, the Messiah is the Seed that grows out of the soil of the biblical, covenantal history of the people of Israel. A Seed that then dies, in order to produce a rich harvest of people—a Messianic Covenant Community—from amongst all the peoples of the earth. 
 
-![][mp-roots.png]
+![][mp-roots@2x.png]
 
 <!--\begin {pause}-->
 
@@ -408,7 +408,7 @@ Maize produce is effectively a type of daily bread
 
 Modules 2 to 8 explore seven messianic dynamics that represent the characteristic development, growth, structure, shape and fruit of the Messianic Community.[^fn3]
 
-![][mp-dynamics.png]
+![][mp-dynamics@2x.png]
 
 #### Nations -- module 2 ####
 
@@ -444,7 +444,7 @@ Modules 2 to 8 explore seven messianic dynamics that represent the characteristi
 
 Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic communities to receive the revelatory *light* and sustaining *living water* of God's Spirit, without which we become spiritually weak and incapable of producing good fruit and a plentiful harvest.
 
-![][mp-disciplines.png]
+![][mp-disciplines@2x.png]
 
 #### Maturity -- module 9 ####
 
@@ -556,7 +556,7 @@ Taken together, these two Scriptures establish three key components of messianic
 
 	Having received through Paul an impartation of the reality of the Messiah, Timothy is called upon by his mentor to safeguard this treasure by committing it to the stewardship and safekeeping of other faithful people. *This is generational discipleship in action*.
 
-![Generational discipleship][generational.png]
+![Generational discipleship][generational@2x.png]
 
 >	**Generational discipleship is how treasure is kept safe in the kingdom of God**. The reality of this principle is illustrated by the metaphor of seed and the harvests reaped from seed sown into good soil.
 
@@ -779,8 +779,8 @@ In order to allow Maize Plant Discipleship handbooks to be translated, adapted a
 
 <!--\begin{pause}-->
 
-Organising republication
-:	on behalf of a number of agencies, acting together, is likely to provide to be the most economic method, potentially enabling the cost of handbooks to be subsidised for those least able to pay.
+Republication
+:	organised on behalf of a number of agencies, acting together, is likely to provide to be the most economic method, potentially enabling the cost of handbooks to be subsidised for those least able to pay.
 
 Feedback
 :	— the author welcomes hearing from from facilitators and students, with comments, feedback and suggestions of all kinds and would especially value culturally appropriate stories, proverbs and metaphors that may help to illuminate future editions of the resource!
@@ -817,31 +817,31 @@ The licensor cannot revoke these freedoms as long as you follow the licence term
 
 <!--\end{summary}-->
 
-[reflective-learning.png]: reflective-learning.png width=229px height=230px
+[reflective-learning@2x.png]: reflective-learning@2x.png width=229px height=230px
 
-[HEAR.png]: HEAR.png width=108px height=108px
+[HEAR@2x.png]: HEAR@2x.png width=108px height=108px
 
-[RETAIN.png]: RETAIN.png width=108px height=108px
+[RETAIN@2x.png]: RETAIN@2x.png width=108px height=108px
 
-[OPEN.png]: OPEN.png width=108px height=108px
+[OPEN@2x.png]: OPEN@2x.png width=108px height=108px
 
-[SHARE.png]: SHARE.png width=108px height=108px
+[SHARE@2x.png]: SHARE@2x.png width=108px height=108px
 
-[PRAY.png]: PRAY.png width=108px height=108px
+[PRAY@2x.png]: PRAY@2x.png width=108px height=108px
 
-[ACT.png]: ACT.png width=108px height=108px
+[ACT@2x.png]: ACT@2x.png width=108px height=108px
 
-[mpd-learning-cycle.png]: mpd-learning-cycle.png width=256px height=284px
+[mpd-learning-cycle@2x.png]: mpd-learning-cycle@2x.png width=256px height=284px
 
-[mpd-metaphor.png]: mpd-metaphor.png width=190px height=270px
+[mpd-metaphor@2x.png]: mpd-metaphor@2x.png width=190px height=270px
 
-[mp-roots.png]: mp-roots.png width=180px height=124px
+[mp-roots@2x.png]: mp-roots@2x.png width=180px height=124px
 
-[mp-dynamics.png]: mp-dynamics.png width=255px height=373px
+[mp-dynamics@2x.png]: mp-dynamics@2x.png width=255px height=373px
 
-[mp-disciplines.png]: mp-disciplines.png width=280px height=398px
+[mp-disciplines@2x.png]: mp-disciplines@2x.png width=280px height=398px
 
-[generational.png]: generational.png width=267px height=41px
+[generational@2x.png]: generational@2x.png width=267px height=41px
 
 [^fn1]: Acts 2:42
 

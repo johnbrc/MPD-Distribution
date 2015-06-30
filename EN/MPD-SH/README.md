@@ -1,5 +1,9 @@
 # MPD-SH — Syllabus Handbook
 
+## Version 1.0
+
+First Edition
+
 ## Version numbering
 
 File version numbering follows this convention:
