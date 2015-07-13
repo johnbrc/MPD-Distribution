@@ -1,4 +1,4 @@
-Version: 			First Edition
+Version: First Edition
 Change: 
 LaTex input:	mpd-header
 Title:	Syllabus Handbook
@@ -31,7 +31,7 @@ Maize Plant Discipleship is intended to be an open, reflective, group learning p
 
 ### Why learning groups? ###
 
-There are many reasons to bring together a group of people to learn together. Some people would point to Jesus' gathering of twelve disciples. For most people, groups represent a natural and lively place in which to learn. They bring together people with different experiences, gifts, capacities and perspectives. 
+There are many reasons to bring together a group of people to learn together. Some people would point to Jesus' gathering of twelve disciples. For most people, groups represent a natural and lively place in which to learn. They bring together people with different experience, talent, capability and perspective.
 
 When we share our lives, we learn together and *learning groups* mirror this reality. Together, we experience and learn quite differently to when we study alone. Reflective discussion with others, in particular, provides a highly stimulating forum for learning through exploration, listening and discovery. 
 
@@ -113,7 +113,7 @@ The person responsible for presenting a topical study should read through it car
 
 Replication is an important facet of discipleship
 
-:	— *see [The Philosophy]* — it may not be necessary for a group member to complete the entire syllabus before branching out to facilitate another learning group; be led by the Spirit.
+:	— *see [The Philosophy] for further discussion* — it may not be necessary for a group member to complete the entire syllabus before branching out to facilitate another learning group; be led by the Spirit.
 
 <!--\end {pause}-->
 
@@ -126,7 +126,7 @@ Meeting together can take place in any appropriate location that can comfortably
 Experiment and learn what works for your group
 :	— consider using different locations, maybe even meeting outside sometimes. Arrange seating to create intimate, practical spaces for discussion, so that everyone can see and hear each other.
 
-The syllabus incorporates about 64 studies
+The syllabus incorporates ~240 topics, in 60 studies
 :	— consider the group's availability when planning a timetable: are members affected by agricultural seasons, or academic terms?
 
 <!--\end {pause}-->
@@ -448,7 +448,7 @@ Modules 9 to 15 examine seven characteristic *disciplines* that enable messianic
 
 #### Maturity -- module 9 ####
 
--	Three stages of encounter and growth in spiritual maturity of messianic disciples and communities.
+-	Spiritual growth and maturity in the vocational engagement of messianic disciples and communities.
 
 #### Service -- module 10 ####
 
@@ -751,9 +751,10 @@ Research participants strongly expressed a desire for *contextually appropriate 
 -	Devised for use amongst cohort groups
 -	Incorporating reflection, group discussion and memorisation
 -	Including numerous graphical and metaphorical illustrations
--	Published according to a missional, non-commercial philosophy
--	Licensed for vernacular adaption, translation and re-publication 
 -	Designed for economical reproduction and distribution
+-	Published according to a non-commercial, missional philosophy
+-	Licensed for vernacular adaption, translation and re-publication 
+
 
 <!--\vspace*{\fill}
 \begin {questions}-->
@@ -780,7 +781,7 @@ In order to allow Maize Plant Discipleship handbooks to be translated, adapted a
 <!--\begin{pause}-->
 
 Republication
-:	organised on behalf of a number of agencies, acting together, is likely to provide to be the most economic method, potentially enabling the cost of handbooks to be subsidised for those least able to pay.
+:	— organised on behalf of a number of agencies, acting together, is likely to provide to be the most economic method, potentially enabling the cost of handbooks to be subsidised for those least able to pay.
 
 Feedback
 :	— the author welcomes hearing from from facilitators and students, with comments, feedback and suggestions of all kinds and would especially value culturally appropriate stories, proverbs and metaphors that may help to illuminate future editions of the resource!
