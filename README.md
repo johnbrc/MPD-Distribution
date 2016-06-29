@@ -11,6 +11,6 @@ The goal of Maize Plant Discipleship is to facilitate learning that moves contin
 
 ---
 
-MPD-Distribution is a digital distribution hub, hosted on Github.com. It holds the files that constitute the published resource, Maize Plant Discipleship.
+[MPD-Distribution](https://github.com/johnbrc/MPD-Distribution) is a digital distribution hub, hosted on Github.com. It holds the files that constitute the published resource, Maize Plant Discipleship.
 
-To understand how to utilise these files, please read the wiki.
+- To understand how to utilise these files, please read the [wiki](https://github.com/johnbrc/MPD-Distribution/wiki).
