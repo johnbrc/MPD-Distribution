@@ -1,11 +1,15 @@
 #	Maize Plant Discipleship
 
-[Maize Plant Discipleship](http://maizeplantdiscipleship.wordpress.com) is a modular learning resource, consisting of approximately 60 scripturally-based studies. Designed to be practical, relevant and accessible for use in African contexts. Derived and road-tested in collaboration with African leaders and learners. Formulated in response to contextual doctoral research conducted in Burkina Faso, West Africa.
+[Maize Plant Discipleship](http://maizeplantdiscipleship.wordpress.com) is a modular, scripturally-based learning resource. Derived and road-tested in collaboration with African leaders and learners and formulated in response to doctoral research conducted in Burkina Faso, Maize Plant Discipleship is designed to be practical, relevant and accessible for use in African contexts:
 
-- A syllabus of modular studies, for use in small learning groups.
-- Incorporating reflective learning and group discussions.
-- Suitable for informal and formal modes of study.
-- Linguistically and economically accessible.
+- Resource Handbook
+- 15 modular syllabus handbooks
+- providing 60 scripturally-based studies
+- 240 topics and 800+ questions
+- using accessible language and concepts
+- tailored to small learning groups
+- incorporating reflective discussions
+- suitable for formal and informal study.
 
 The goal of Maize Plant Discipleship is to facilitate learning that moves continuously outwards, drawing whole communities into patterns of scripturally-based discipleship, in living dialogue with contextual culture.
 
