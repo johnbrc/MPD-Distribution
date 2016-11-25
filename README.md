@@ -1,4 +1,4 @@
-[MPD-Distribution](https://github.com/johnbrc/MPD-Distribution) is a digital distribution hub, hosted on Github.com. It holds the files that constitute the published resource, Maize Plant Discipleship. These files are primarily for printing and translation purposes. To understand how to utilise these files, please read the [wiki](https://github.com/johnbrc/MPD-Distribution/wiki).
+[MPD-Distribution](https://github.com/johnbrc/MPD-Distribution) is a digital distribution hub, hosted on Github.com. It holds the files that constitute the published resource, *Maize Plant Discipleship*. These files are primarily for printing and translation purposes. To understand how to utilise these files, please read the [wiki](https://github.com/johnbrc/MPD-Distribution/wiki).
 
 #	Maize Plant Discipleship
 
